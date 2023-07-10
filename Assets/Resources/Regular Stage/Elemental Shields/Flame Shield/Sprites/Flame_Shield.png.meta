@@ -1,0 +1,1063 @@
+fileFormatVersion: 2
+guid: 36f057d2deb857d4a8e17fd7e0e1dd4c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8894038273858281502
+    second: Flame_Shield_0
+  - first:
+      213: 2061479295646890621
+    second: Flame_Shield_0
+  - first:
+      213: -4954297981043436141
+    second: Flame_Shield_1
+  - first:
+      213: 8661464890192469262
+    second: Flame_Shield_2
+  - first:
+      213: 2909072223214173323
+    second: Flame_Shield_3
+  - first:
+      213: -3743612436366356806
+    second: Flame_Shield_4
+  - first:
+      213: -4172169293486194598
+    second: Flame_Shield_5
+  - first:
+      213: 2652706649996948271
+    second: Flame_Shield_6
+  - first:
+      213: 5398824807812168495
+    second: Flame_Shield_7
+  - first:
+      213: -3383817561960806370
+    second: Flame_Shield_8
+  - first:
+      213: 2527930714727699321
+    second: Flame_Shield_9
+  - first:
+      213: 460428463854816633
+    second: Flame_Shield_10
+  - first:
+      213: -5838845323646137783
+    second: Flame_Shield_11
+  - first:
+      213: -112447777969429613
+    second: Flame_Shield_12
+  - first:
+      213: -6651040021440881885
+    second: Flame_Shield_13
+  - first:
+      213: 842764435585905613
+    second: Flame_Shield_14
+  - first:
+      213: 5055122601596352191
+    second: Flame_Shield_15
+  - first:
+      213: -4492089958363976031
+    second: Flame_Shield_16
+  - first:
+      213: -1931731753038453659
+    second: Flame_Shield_17
+  - first:
+      213: 1391639328725831717
+    second: Flame_Shield_18
+  - first:
+      213: -4576369916386530959
+    second: Flame_Shield_19
+  - first:
+      213: 8596978557607823567
+    second: Flame_Shield_20
+  - first:
+      213: -2555522293006886791
+    second: Flame_Shield_21
+  - first:
+      213: -4765101496734119706
+    second: Flame_Shield_22
+  - first:
+      213: -8604179387859766844
+    second: Flame_Shield_23
+  - first:
+      213: -3889264673556023045
+    second: Flame_Shield_24
+  - first:
+      213: -5791720852684565343
+    second: Flame_Shield_25
+  - first:
+      213: 5146501103300297581
+    second: Flame_Shield_26
+  - first:
+      213: -7113262463125743120
+    second: Flame_Shield_27
+  - first:
+      213: -5987255285646126184
+    second: Flame_Shield_28
+  - first:
+      213: 2524154352654021928
+    second: Flame_Shield_29
+  - first:
+      213: -1240381301770309752
+    second: Flame_Shield_30
+  - first:
+      213: 5705947106549528479
+    second: Flame_Shield_31
+  - first:
+      213: 3025006587754318712
+    second: Flame_Shield_32
+  - first:
+      213: 7799609634129967215
+    second: Flame_Shield_33
+  - first:
+      213: 7674390960534410101
+    second: Flame_Shield_34
+  - first:
+      213: 4287417463102275287
+    second: Flame_Shield_35
+  - first:
+      213: 4599647294887648128
+    second: Flame_Shield_36
+  - first:
+      213: 6615583815129013764
+    second: Flame_Shield_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flame_Shield_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7afad84f78db9c10800000000000000
+      internalID: 8894038273858281502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39598783c3cce3bb0800000000000000
+      internalID: -4954297981043436141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d907e5d64b33870800000000000000
+      internalID: 8661464890192469262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cf2aa26c91f5820800000000000000
+      internalID: 2909072223214173323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe06a9d2540c0cc0800000000000000
+      internalID: -3743612436366356806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5086f6f12a7916c0800000000000000
+      internalID: -4172169293486194598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23726eb4ae40d420800000000000000
+      internalID: 2652706649996948271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bf53afe8a7cea40800000000000000
+      internalID: 5398824807812168495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18099a0bd34a01d0800000000000000
+      internalID: -3383817561960806370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973d42c6793051320800000000000000
+      internalID: 2527930714727699321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d8b889f35c36600800000000000000
+      internalID: 460428463854816633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a0f991d1148fea0800000000000000
+      internalID: -5838845323646137783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_12
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393a95a7751807ef0800000000000000
+      internalID: -112447777969429613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_13
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b1c17d652c2b3a0800000000000000
+      internalID: -6651040021440881885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc33e6cf9c912bb00800000000000000
+      internalID: 842764435585905613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_15
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6f2341937672640800000000000000
+      internalID: 5055122601596352191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_16
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aead94abf3e8a1c0800000000000000
+      internalID: -4492089958363976031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_17
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564ecc2943c1135e0800000000000000
+      internalID: -1931731753038453659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_18
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5209a24a898105310800000000000000
+      internalID: 1391639328725831717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_19
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1792ff4cec77d70c0800000000000000
+      internalID: -4576369916386530959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_20
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc84ddb037a9e4770800000000000000
+      internalID: 8596978557607823567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_21
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9789bb5a306f88cd0800000000000000
+      internalID: -2555522293006886791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_22
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e80b707f65feddb0800000000000000
+      internalID: -4765101496734119706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_23
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c171e20f60d79880800000000000000
+      internalID: -8604179387859766844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_24
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8b737b26e860ac0800000000000000
+      internalID: -3889264673556023045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_25
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a49381029caf9fa0800000000000000
+      internalID: -5791720852684565343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_26
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63ce527c7b0c6740800000000000000
+      internalID: 5146501103300297581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_27
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9154b3a7d984d90800000000000000
+      internalID: -7113262463125743120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8939b7f1a0ff8eca0800000000000000
+      internalID: -5987255285646126184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_29
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825f23c9209970320800000000000000
+      internalID: 2524154352654021928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_30
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fa1f127c749cee0800000000000000
+      internalID: -1240381301770309752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_31
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f977d0979a89f2f40800000000000000
+      internalID: 5705947106549528479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_32
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b0052e67bfaf920800000000000000
+      internalID: 3025006587754318712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_33
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68f70d53a7cd3c60800000000000000
+      internalID: 7799609634129967215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_34
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5735f1efae9e08a60800000000000000
+      internalID: 7674390960534410101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_35
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de740c8777ff7b30800000000000000
+      internalID: 4287417463102275287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_36
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b5ddf38da35df30800000000000000
+      internalID: 4599647294887648128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_Shield_37
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e9692dd664fcb50800000000000000
+      internalID: 6615583815129013764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Flame_Shield_15: 5055122601596352191
+      Flame_Shield_20: 8596978557607823567
+      Flame_Shield_34: 7674390960534410101
+      Flame_Shield_35: 4287417463102275287
+      Flame_Shield_9: 2527930714727699321
+      Flame_Shield_13: -6651040021440881885
+      Flame_Shield_11: -5838845323646137783
+      Flame_Shield_21: -2555522293006886791
+      Flame_Shield_29: 2524154352654021928
+      Flame_Shield_37: 6615583815129013764
+      Flame_Shield_31: 5705947106549528479
+      Flame_Shield_16: -4492089958363976031
+      Flame_Shield_27: -7113262463125743120
+      Flame_Shield_5: -4172169293486194598
+      Flame_Shield_17: -1931731753038453659
+      Flame_Shield_30: -1240381301770309752
+      Flame_Shield_18: 1391639328725831717
+      Flame_Shield_2: 8661464890192469262
+      Flame_Shield_28: -5987255285646126184
+      Flame_Shield_26: 5146501103300297581
+      Flame_Shield_1: -4954297981043436141
+      Flame_Shield_3: 2909072223214173323
+      Flame_Shield_19: -4576369916386530959
+      Flame_Shield_8: -3383817561960806370
+      Flame_Shield_33: 7799609634129967215
+      Flame_Shield_10: 460428463854816633
+      Flame_Shield_0: 8894038273858281502
+      Flame_Shield_7: 5398824807812168495
+      Flame_Shield_24: -3889264673556023045
+      Flame_Shield_12: -112447777969429613
+      Flame_Shield_25: -5791720852684565343
+      Flame_Shield_36: 4599647294887648128
+      Flame_Shield_6: 2652706649996948271
+      Flame_Shield_4: -3743612436366356806
+      Flame_Shield_14: 842764435585905613
+      Flame_Shield_22: -4765101496734119706
+      Flame_Shield_23: -8604179387859766844
+      Flame_Shield_32: 3025006587754318712
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

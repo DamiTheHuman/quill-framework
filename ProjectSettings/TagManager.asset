@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Solid Box
+  - Hit Box
+  - Skip Collision
+  - Hazard
+  - OneWay
+  - SplitAction
+  - Start Point
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Layer Default
+  - Layer 0
+  - Layer 1
+  - Layer 2
+  - One Way Layer
+  - Gimmick Solid Layer
+  - Gimmick Solid One Way Layer
+  - Gimmick Trigger Layer
+  - Gimmick Trigger Layer 2
+  - Other Collision Layer
+  - Other One Way Collision Layer
+  - Special Stage Gimmick Layer
+  - Hit Box Collision Layer
+  - Hazard Layer
+  - 
+  - Pixelated Effect Layer
+  - Background Layer
+  - Player Hit Box Layer
+  - Player Sensor Layer
+  - Player Solid Box Layer
+  - Water Layer
+  - Collectible Layer
+  - Effects Layer
+  - Editor Only Layer
+  m_SortingLayers:
+  - name: Parallax Layer
+    uniqueID: 2288123647
+    locked: 0
+  - name: Background Layer 3
+    uniqueID: 408776719
+    locked: 0
+  - name: Background Layer 2
+    uniqueID: 1750209565
+    locked: 0
+  - name: Background Layer 1
+    uniqueID: 2044867487
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player Layer
+    uniqueID: 13357351
+    locked: 0
+  - name: Enemy Layer
+    uniqueID: 2267568761
+    locked: 0
+  - name: Foreground Layer 1
+    uniqueID: 903615035
+    locked: 0
+  - name: Foreground Layer 2
+    uniqueID: 452530341
+    locked: 0
+  - name: Water Layer
+    uniqueID: 2337061471
+    locked: 0
+  - name: Foreground Layer 3
+    uniqueID: 3170265849
+    locked: 0
+  - name: HUD Layer
+    uniqueID: 3900186291
+    locked: 0

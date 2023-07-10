@@ -1,0 +1,450 @@
+fileFormatVersion: 2
+guid: 3242f156999fc444baf7235cca47a7b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4285505300899104242
+    second: Sonic_Jogging_0
+  - first:
+      213: -3730863706511685179
+    second: Sonic_Jogging_1
+  - first:
+      213: -8473942668070176083
+    second: Sonic_Jogging_2
+  - first:
+      213: 1769564546535034638
+    second: Sonic_Jogging_3
+  - first:
+      213: 1350664846378381973
+    second: Sonic_Jogging_4
+  - first:
+      213: 4756428545328204403
+    second: Sonic_Jogging_5
+  - first:
+      213: -1146428674853208677
+    second: Sonic_Jogging_6
+  - first:
+      213: -3463659760909406887
+    second: Sonic_Jogging_7
+  - first:
+      213: -2758605328850740561
+    second: Sonic_Jogging_8
+  - first:
+      213: 7296236304580423851
+    second: Sonic_Jogging_9
+  - first:
+      213: 8274578656251765360
+    second: Tails_Jogging_0
+  - first:
+      213: 6038668169197349133
+    second: Tails_Jogging_1
+  - first:
+      213: 3252343794959409273
+    second: Tails_Jogging_2
+  - first:
+      213: -6513079428695586529
+    second: Tails_Jogging_3
+  - first:
+      213: 8277791849451115036
+    second: Tails_Jogging_4
+  - first:
+      213: -3303863091546198231
+    second: Tails_Jogging_5
+  - first:
+      213: 8289976451527426266
+    second: Tails_Jogging_6
+  - first:
+      213: -7761809638411426162
+    second: Tails_Jogging_7
+  - first:
+      213: -4125307130851605197
+    second: Tails_Jogging_8
+  - first:
+      213: -7706480973070217520
+    second: Tails_Jogging_9
+  - first:
+      213: 7481980998472967131
+    second: Tails_Jogging_0
+  - first:
+      213: -3535465301366189716
+    second: Tails_Jogging_1
+  - first:
+      213: -4130304166526885531
+    second: Tails_Jogging_2
+  - first:
+      213: 2348062029060969984
+    second: Tails_Jogging_3
+  - first:
+      213: -7864318557041047790
+    second: Tails_Jogging_4
+  - first:
+      213: 3747268851199367262
+    second: Tails_Jogging_5
+  - first:
+      213: 363578316875091295
+    second: Tails_Jogging_6
+  - first:
+      213: -5184426916600749897
+    second: Tails_Jogging_7
+  - first:
+      213: 8841201674203151715
+    second: Tails_Jogging_8
+  - first:
+      213: -6927593354950820592
+    second: Tails_Jogging_9
+  - first:
+      213: -6950602951536918691
+    second: Knuckles_Jogging_0
+  - first:
+      213: 7524122986922203000
+    second: Knuckles_Jogging_1
+  - first:
+      213: -519304477153149747
+    second: Knuckles_Jogging_2
+  - first:
+      213: -6323103930914652136
+    second: Knuckles_Jogging_3
+  - first:
+      213: -7758832621929017952
+    second: Knuckles_Jogging_4
+  - first:
+      213: 4050271473547979167
+    second: Knuckles_Jogging_5
+  - first:
+      213: -6348580797673491110
+    second: Knuckles_Jogging_6
+  - first:
+      213: 1554302916103336251
+    second: Knuckles_Jogging_7
+  - first:
+      213: -3442622842490972850
+    second: Knuckles_Jogging_8
+  - first:
+      213: 4987255960370598767
+    second: Knuckles_Jogging_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Knuckles_Jogging_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f3cd2017f7a8f90800000000000000
+      internalID: -6950602951536918691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Jogging_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87759d9fdfd0b6860800000000000000
+      internalID: 7524122986922203000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Jogging_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc3405545f0bc8f0800000000000000
+      internalID: -519304477153149747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Jogging_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810c4ffd972df38a0800000000000000
+      internalID: -6323103930914652136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Jogging_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad4532a6d6135490800000000000000
+      internalID: -7758832621929017952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Jogging_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99a9b82274753830800000000000000
+      internalID: 4050271473547979167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Jogging_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a553ec6966f45e7a0800000000000000
+      internalID: -6348580797673491110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Jogging_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3171b3644ef19510800000000000000
+      internalID: 1554302916103336251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Jogging_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e451ea9b3c85930d0800000000000000
+      internalID: -3442622842490972850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Jogging_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63d6d15fda463540800000000000000
+      internalID: 4987255960370598767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Knuckles_Jogging_5: 4050271473547979167
+      Knuckles_Jogging_8: -3442622842490972850
+      Knuckles_Jogging_3: -6323103930914652136
+      Knuckles_Jogging_9: 4987255960370598767
+      Knuckles_Jogging_6: -6348580797673491110
+      Knuckles_Jogging_7: 1554302916103336251
+      Knuckles_Jogging_4: -7758832621929017952
+      Knuckles_Jogging_2: -519304477153149747
+      Knuckles_Jogging_1: 7524122986922203000
+      Knuckles_Jogging_0: -6950602951536918691
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

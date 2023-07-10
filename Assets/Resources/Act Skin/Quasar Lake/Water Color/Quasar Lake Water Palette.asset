@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 417738f4c006ac24c8b761b601a2fd1d, type: 3}
+  m_Name: Quasar Lake Water Palette
+  m_EditorClassIdentifier: 
+  colorSetControl: 1
+  subIndex: 3
+  colorSets:
+  - description: Color 0
+    values:
+    - {r: 0.5176471, g: 0.72156864, b: 0.96470594, a: 1}
+    - {r: 0.3372549, g: 0.6156863, b: 0.95294124, a: 1}
+    - {r: 0.18823531, g: 0.53333336, b: 0.94117653, a: 1}
+    - {r: 0.0627451, g: 0.454902, b: 0.9176471, a: 1}
+  - description: Color 1
+    values:
+    - {r: 0.0627451, g: 0.454902, b: 0.9176471, a: 1}
+    - {r: 0.5176471, g: 0.72156864, b: 0.96470594, a: 1}
+    - {r: 0.3372549, g: 0.6156863, b: 0.95294124, a: 1}
+    - {r: 0.18823531, g: 0.53333336, b: 0.94117653, a: 1}
+  - description: Color 2
+    values:
+    - {r: 0.18823531, g: 0.53333336, b: 0.94117653, a: 1}
+    - {r: 0.0627451, g: 0.454902, b: 0.9176471, a: 1}
+    - {r: 0.5176471, g: 0.72156864, b: 0.96470594, a: 1}
+    - {r: 0.3372549, g: 0.6156863, b: 0.95294124, a: 1}
+  - description: Color 3
+    values:
+    - {r: 0.3372549, g: 0.6156863, b: 0.95294124, a: 1}
+    - {r: 0.18823531, g: 0.53333336, b: 0.94117653, a: 1}
+    - {r: 0.0627451, g: 0.454902, b: 0.9176471, a: 1}
+    - {r: 0.5176471, g: 0.72156864, b: 0.96470594, a: 1}
+  autoGenerateColorSets: 0

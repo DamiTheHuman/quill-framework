@@ -1,0 +1,474 @@
+fileFormatVersion: 2
+guid: 7cf5c4fd6e76bc64899d2f178c99639f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6620798670148610442
+    second: Act_Clear_Text_Sonic
+  - first:
+      213: -3936957271448951962
+    second: Act_Clear_Text_Tails
+  - first:
+      213: 3068814228670001174
+    second: Act_Clear_Text_Knuckles
+  - first:
+      213: 772893161541425386
+    second: Act_Clear_Text_Mighty
+  - first:
+      213: 8334802447271010022
+    second: Act_Clear_Text_Ray
+  - first:
+      213: -2250800800171101560
+    second: Act_Clear_Text_Got
+  - first:
+      213: 923113322992245736
+    second: Act_Clear_Text_Through
+  - first:
+      213: 1566668930430315835
+    second: Act_Clear_Text_7
+  - first:
+      213: -8385143633127886107
+    second: Act_Clear_Text_8
+  - first:
+      213: 8101954341835586727
+    second: Act_Clear_Text_9
+  - first:
+      213: 1200667221004394009
+    second: Act_Clear_Text_10
+  - first:
+      213: -3775120402943116980
+    second: Act_Clear_Text_11
+  - first:
+      213: -331140795266745812
+    second: Act_Clear_Text_12
+  - first:
+      213: -8463365425244640884
+    second: Act_Clear_Text_13
+  - first:
+      213: 4635354694489680601
+    second: Act_Clear_Text_14
+  - first:
+      213: -1226911288427078398
+    second: Act_Clear_Text_15
+  - first:
+      213: -7973773585094831439
+    second: Act_Clear_Text_16
+  - first:
+      213: 8489462705715543620
+    second: Act_Clear_Text_17
+  - first:
+      213: -7421468840613122557
+    second: Act_Clear_Text_18
+  - first:
+      213: 5765648695522150327
+    second: Act_Clear_Text_19
+  - first:
+      213: -8636213750428606540
+    second: Act_Clear_Text_20
+  - first:
+      213: -9173560389988270921
+    second: Act_Clear_Text_21
+  - first:
+      213: -4233016713395973724
+    second: Act_Clear_Text_22
+  - first:
+      213: 391415692157419453
+    second: Act_Clear_Text_23
+  - first:
+      213: 2051281915857711865
+    second: Act_Clear_Text_24
+  - first:
+      213: 6605871110875588419
+    second: Act_Clear_Text_25
+  - first:
+      213: 7615412253366346102
+    second: Act_Clear_Text_26
+  - first:
+      213: 3116509966925091372
+    second: Act_Clear_Text_27
+  - first:
+      213: -8184818634050365313
+    second: Act_Clear_Text_28
+  - first:
+      213: 1659764498429076674
+    second: Act_Clear_Text_29
+  - first:
+      213: 4730827637506261310
+    second: Act_Clear_Text_30
+  - first:
+      213: 2065083997950732344
+    second: Act_Clear_Text_31
+  - first:
+      213: 1279850680208260648
+    second: Act_Clear_Text_32
+  - first:
+      213: 9010420308325950588
+    second: Act_Clear_Text_33
+  - first:
+      213: -5465995890314148569
+    second: Act_Clear_Text_34
+  - first:
+      213: -2536328451590330501
+    second: Act_Clear_Text_35
+  - first:
+      213: 5269373183632950151
+    second: Act_Clear_Text_36
+  - first:
+      213: 4141394255618714743
+    second: Act_Clear_Text_Sonic
+  - first:
+      213: 2740943657221684805
+    second: Act_Clear_Text_Tails
+  - first:
+      213: 2691566961308254824
+    second: Act_Clear_Text_Knuckles
+  - first:
+      213: 6972642805531442533
+    second: Act_Clear_Text_Mighty
+  - first:
+      213: -3554393330233097813
+    second: Act_Clear_Text_Ray
+  - first:
+      213: 6441918375176785499
+    second: Act_Clear_Text_Got
+  - first:
+      213: -782212074625372728
+    second: Act_Clear_Text_Through
+  - first:
+      213: 6926870284962453334
+    second: Act_Clear_Text_7
+  - first:
+      213: 5683682212656246152
+    second: Act_Clear_Text_8
+  - first:
+      213: -4729854172111528687
+    second: Act_Clear_Text_9
+  - first:
+      213: 5935549351944406757
+    second: Act_Clear_Text_10
+  - first:
+      213: -142786645852636332
+    second: Act_Clear_Text_11
+  - first:
+      213: 3713362152854526300
+    second: Act_Clear_Text_12
+  - first:
+      213: -987391674442641957
+    second: Act_Clear_Text_13
+  - first:
+      213: -6665472802745823289
+    second: Act_Clear_Text_14
+  - first:
+      213: 5040113553802099809
+    second: Act_Clear_Text_15
+  - first:
+      213: -3361044323060476548
+    second: Act_Clear_Text_16
+  - first:
+      213: 1839590658336670184
+    second: Act_Clear_Text_17
+  - first:
+      213: -4888294265895267888
+    second: Act_Clear_Text_18
+  - first:
+      213: 1506836426113739665
+    second: Act_Clear_Text_19
+  - first:
+      213: -5754576102301146114
+    second: Act_Clear_Text_20
+  - first:
+      213: -4963092870510712521
+    second: Act_Clear_Text_21
+  - first:
+      213: 968709822950043418
+    second: Act_Clear_Text_22
+  - first:
+      213: -6230706747571569456
+    second: Act_Clear_Text_23
+  - first:
+      213: -8969668376061085567
+    second: Act_Clear_Text_24
+  - first:
+      213: 2688510287900921804
+    second: Act_Clear_Text_25
+  - first:
+      213: 6207488083565428190
+    second: Act_Clear_Text_26
+  - first:
+      213: -6204382871981271332
+    second: Act_Clear_Text_27
+  - first:
+      213: 3923852063948248237
+    second: Act_Clear_Text_28
+  - first:
+      213: -574618022911097841
+    second: Act_Clear_Text_29
+  - first:
+      213: -9177395890621352284
+    second: Act_Clear_Text_30
+  - first:
+      213: -7316188142573204771
+    second: Act_Clear_Text_31
+  - first:
+      213: 1260647904781914460
+    second: Act_Clear_Text_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Act_Clear_Text_Sonic
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 74
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c2ff82220397930800000000000000
+      internalID: -6620798670148610442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Clear_Text_Tails
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 70
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663e463783e1d59c0800000000000000
+      internalID: -3936957271448951962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Clear_Text_Knuckles
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 119
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6103a8d184e969a20800000000000000
+      internalID: 3068814228670001174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Clear_Text_Mighty
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 91
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae851074c3ed9ba00800000000000000
+      internalID: 772893161541425386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Clear_Text_Ray
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 0
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee15a68aaa2ba370800000000000000
+      internalID: 8334802447271010022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Clear_Text_Got
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882f2a5f89c83c0e0800000000000000
+      internalID: -2250800800171101560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Clear_Text_Through
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 114
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb12682dae8fcc00800000000000000
+      internalID: 923113322992245736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Act_Clear_Text_Mighty: 772893161541425386
+      Act_Clear_Text_Tails: -3936957271448951962
+      Act_Clear_Text_Got: -2250800800171101560
+      Act_Clear_Text_Through: 923113322992245736
+      Act_Clear_Text_Ray: 8334802447271010022
+      Act_Clear_Text_Sonic: -6620798670148610442
+      Act_Clear_Text_Knuckles: 3068814228670001174
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

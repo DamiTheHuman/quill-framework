@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Gold Fish
+  m_Shader: {fileID: 4800000, guid: dd51816296336ae4585d7969df5b7dd0, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlphaTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: f65ef9670e45fe4469f3f15a1b2aa028, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - Vector1_687916C8: 0.01
+    - Vector1_B6124959: 0.01
+    - _EnableExternalAlpha: 0
+    m_Colors:
+    - Color_From_1: {r: 0.75294125, g: 0.75294125, b: 0.87843144, a: 1}
+    - Color_From_10: {r: 0, g: 0, b: 0, a: 0}
+    - Color_From_11: {r: 0, g: 0, b: 0, a: 0}
+    - Color_From_12: {r: 0, g: 0, b: 0, a: 0}
+    - Color_From_13: {r: 0, g: 0, b: 0, a: 0}
+    - Color_From_14: {r: 0, g: 0, b: 0, a: 0}
+    - Color_From_15: {r: 0, g: 0, b: 0, a: 0}
+    - Color_From_16: {r: 0, g: 0, b: 0, a: 0}
+    - Color_From_17: {r: 0, g: 0, b: 0, a: 0}
+    - Color_From_18: {r: 0, g: 0, b: 0, a: 0}
+    - Color_From_2: {r: 0.1254902, g: 0.24705884, b: 0.75294125, a: 1}
+    - Color_From_3: {r: 0.1254902, g: 0.1254902, b: 0.5019608, a: 1}
+    - Color_From_4: {r: 0, g: 0.4117647, b: 0.937255, a: 1}
+    - Color_From_5: {r: 0.3764706, g: 0.3764706, b: 0.8784314, a: 1}
+    - Color_From_6: {r: 0, g: 0, b: 0, a: 0}
+    - Color_From_7: {r: 0, g: 0, b: 0, a: 0}
+    - Color_From_8: {r: 0, g: 0, b: 0, a: 0}
+    - Color_From_9: {r: 0, g: 0, b: 0, a: 0}
+    - Color_To_1: {r: 0.8784314, g: 0.84287584, b: 0.7529412, a: 1}
+    - Color_To_10: {r: 0, g: 0, b: 0, a: 0}
+    - Color_To_11: {r: 0, g: 0, b: 0, a: 0}
+    - Color_To_12: {r: 0, g: 0, b: 0, a: 0}
+    - Color_To_13: {r: 0, g: 0, b: 0, a: 0}
+    - Color_To_14: {r: 0, g: 0, b: 0, a: 0}
+    - Color_To_15: {r: 0, g: 0, b: 0, a: 0}
+    - Color_To_16: {r: 0, g: 0, b: 0, a: 0}
+    - Color_To_17: {r: 0, g: 0, b: 0, a: 0}
+    - Color_To_18: {r: 0, g: 0, b: 0, a: 0}
+    - Color_To_2: {r: 0.7529412, g: 0.5751634, b: 0.12549017, a: 1}
+    - Color_To_3: {r: 0.5019608, g: 0.39529416, b: 0.1254902, a: 1}
+    - Color_To_4: {r: 0.9372549, g: 0.6716994, b: 0, a: 1}
+    - Color_To_5: {r: 0.8784314, g: 0.73620915, b: 0.37647063, a: 1}
+    - Color_To_6: {r: 0, g: 0, b: 0, a: 0}
+    - Color_To_7: {r: 0, g: 0, b: 0, a: 0}
+    - Color_To_8: {r: 0, g: 0, b: 0, a: 0}
+    - Color_To_9: {r: 0, g: 0, b: 0, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Flip: {r: 1, g: 1, b: 1, a: 1}
+    - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []

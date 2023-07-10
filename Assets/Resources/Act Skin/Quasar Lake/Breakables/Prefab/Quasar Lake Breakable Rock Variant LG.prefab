@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7841079887561174738
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3344413488294685440, guid: 147bb9d69c2fefe43b626bb45b79778b,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3344413488294685440, guid: 147bb9d69c2fefe43b626bb45b79778b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 680
+      objectReference: {fileID: 0}
+    - target: {fileID: 3344413488294685440, guid: 147bb9d69c2fefe43b626bb45b79778b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 176.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 3344413488294685440, guid: 147bb9d69c2fefe43b626bb45b79778b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3344413488294685440, guid: 147bb9d69c2fefe43b626bb45b79778b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3344413488294685440, guid: 147bb9d69c2fefe43b626bb45b79778b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3344413488294685440, guid: 147bb9d69c2fefe43b626bb45b79778b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3344413488294685440, guid: 147bb9d69c2fefe43b626bb45b79778b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3344413488294685440, guid: 147bb9d69c2fefe43b626bb45b79778b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3344413488294685440, guid: 147bb9d69c2fefe43b626bb45b79778b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3344413488294685440, guid: 147bb9d69c2fefe43b626bb45b79778b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3344413488294685444, guid: 147bb9d69c2fefe43b626bb45b79778b,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 48
+      objectReference: {fileID: 0}
+    - target: {fileID: 3344413488294685444, guid: 147bb9d69c2fefe43b626bb45b79778b,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 78
+      objectReference: {fileID: 0}
+    - target: {fileID: 3344413488294685444, guid: 147bb9d69c2fefe43b626bb45b79778b,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 48
+      objectReference: {fileID: 0}
+    - target: {fileID: 3344413488294685444, guid: 147bb9d69c2fefe43b626bb45b79778b,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 79
+      objectReference: {fileID: 0}
+    - target: {fileID: 3344413488294685444, guid: 147bb9d69c2fefe43b626bb45b79778b,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 48
+      objectReference: {fileID: 0}
+    - target: {fileID: 3344413488294685444, guid: 147bb9d69c2fefe43b626bb45b79778b,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 79
+      objectReference: {fileID: 0}
+    - target: {fileID: 3344413488294685445, guid: 147bb9d69c2fefe43b626bb45b79778b,
+        type: 3}
+      propertyPath: boxCollider2D
+      value: 
+      objectReference: {fileID: 4807771565827507670}
+    - target: {fileID: 3344413488294685445, guid: 147bb9d69c2fefe43b626bb45b79778b,
+        type: 3}
+      propertyPath: customShardSetPrefab
+      value: 
+      objectReference: {fileID: 2504934416248629686, guid: fa88835d8d9763b4a864a01551f35355,
+        type: 3}
+    - target: {fileID: 3344413488294685447, guid: 147bb9d69c2fefe43b626bb45b79778b,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 48
+      objectReference: {fileID: 0}
+    - target: {fileID: 3344413488294685447, guid: 147bb9d69c2fefe43b626bb45b79778b,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 79
+      objectReference: {fileID: 0}
+    - target: {fileID: 3344413488294685447, guid: 147bb9d69c2fefe43b626bb45b79778b,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1512755771, guid: 1a6477b7a34b51b49adae404acf7c0c5,
+        type: 3}
+    - target: {fileID: 3344413488294685447, guid: 147bb9d69c2fefe43b626bb45b79778b,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3344413488294687995, guid: 147bb9d69c2fefe43b626bb45b79778b,
+        type: 3}
+      propertyPath: m_Name
+      value: Quasar Lake Breakable Rock
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 147bb9d69c2fefe43b626bb45b79778b, type: 3}
+--- !u!61 &4807771565827507670 stripped
+BoxCollider2D:
+  m_CorrespondingSourceObject: {fileID: 3344413488294685444, guid: 147bb9d69c2fefe43b626bb45b79778b,
+    type: 3}
+  m_PrefabInstance: {fileID: 7841079887561174738}
+  m_PrefabAsset: {fileID: 0}

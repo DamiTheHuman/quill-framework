@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: 51c0480f867aa6743b437d54f9f24be2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3785232744376331171
+    second: Super_Sonic_Bored_0
+  - first:
+      213: 8828689508993982750
+    second: Super_Sonic_Bored_1
+  - first:
+      213: -2848825357856956519
+    second: Super_Sonic_Bored_2
+  - first:
+      213: 7224629049603484145
+    second: Super_Sonic_Bored_3
+  - first:
+      213: 7851147933479664666
+    second: Super_Sonic_Bored_4
+  - first:
+      213: 4587812016202732904
+    second: Super_Sonic_Bored_5
+  - first:
+      213: 5489946581402414869
+    second: Super_Sonic_Bored_6
+  - first:
+      213: 2132881699821264413
+    second: Super_Sonic_Bored_7
+  - first:
+      213: 5480227070333760879
+    second: Super_Sonic_Bored_8
+  - first:
+      213: 2883862309928710533
+    second: Super_Sonic_Bored_9
+  - first:
+      213: 4229126489960328085
+    second: Super_Sonic_Bored_10
+  - first:
+      213: 5258148248041239652
+    second: Super_Sonic_Bored_11
+  - first:
+      213: -8916803796247850855
+    second: Super_Sonic_Bored_12
+  - first:
+      213: -8545712350482750741
+    second: Super_Sonic_Bored_13
+  - first:
+      213: -3028337320138167117
+    second: Super_Sonic_Bored_14
+  - first:
+      213: 9070221917839806138
+    second: Super_Sonic_Bored_15
+  - first:
+      213: -682261451959544746
+    second: Super_Sonic_Bored_16
+  - first:
+      213: 2697401610478592184
+    second: Super_Sonic_Bored_17
+  - first:
+      213: 1332136209333539959
+    second: Super_Sonic_Bored_18
+  - first:
+      213: -5394814935530678939
+    second: Super_Sonic_Bored_19
+  - first:
+      213: -4546847960694428619
+    second: Super_Sonic_Bored_20
+  - first:
+      213: 6637828798214189808
+    second: Super_Sonic_Bored_21
+  - first:
+      213: -8191697436956461368
+    second: Super_Sonic_Bored_22
+  - first:
+      213: 7112669223442107489
+    second: Super_Sonic_Bored_23
+  - first:
+      213: 5494096892634363905
+    second: Super_Sonic_Bored_0
+  - first:
+      213: -7959647549509985535
+    second: Super_Sonic_Bored_1
+  - first:
+      213: 2536648808725710747
+    second: Super_Sonic_Bored_2
+  - first:
+      213: 2961487683861727693
+    second: Super_Sonic_Bored_3
+  - first:
+      213: -6231649062298423952
+    second: Super_Sonic_Bored_4
+  - first:
+      213: 4250924958605563110
+    second: Super_Sonic_Bored_5
+  - first:
+      213: 5699339261649600933
+    second: Super_Sonic_Bored_6
+  - first:
+      213: -6652744103646252855
+    second: Super_Sonic_Bored_7
+  - first:
+      213: 2255546038496895085
+    second: Super_Sonic_Bored_8
+  - first:
+      213: 797197122910192160
+    second: Super_Sonic_Bored_9
+  - first:
+      213: 7263237807922091432
+    second: Super_Sonic_Bored_10
+  - first:
+      213: 7879350115422438343
+    second: Super_Sonic_Bored_11
+  - first:
+      213: 1716936716179383958
+    second: Super_Sonic_Bored_12
+  - first:
+      213: 3822600538315455847
+    second: Super_Sonic_Bored_13
+  - first:
+      213: -6277922187196233852
+    second: Super_Sonic_Bored_14
+  - first:
+      213: 1446701801562481350
+    second: Super_Sonic_Bored_15
+  - first:
+      213: 1196353675941675376
+    second: Super_Sonic_Bored_16
+  - first:
+      213: 7029931466093390534
+    second: Super_Sonic_Bored_17
+  - first:
+      213: 1530506647428818555
+    second: Super_Sonic_Bored_18
+  - first:
+      213: -1433957544514414752
+    second: Super_Sonic_Bored_19
+  - first:
+      213: 6270102679993859731
+    second: Super_Sonic_Bored_20
+  - first:
+      213: 106525821109748033
+    second: Super_Sonic_Bored_21
+  - first:
+      213: -1908315654785310287
+    second: Super_Sonic_Bored_22
+  - first:
+      213: -6650688477246090147
+    second: Super_Sonic_Bored_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Super_Sonic_Bored_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1087c0fc304fe3c40800000000000000
+      internalID: 3785232744376331171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Bored_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b162ac9b6a98190800000000000000
+      internalID: 8828689508993982750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Bored_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97830cd6acf33320800000000000000
+      internalID: -2848825357856956519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Bored_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9c54b9b51591920800000000000000
+      internalID: 7224629049603484145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Bored_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d6eccc13cb489a0800000000000000
+      internalID: 7851147933479664666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Bored_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4d68c3ab15efa30800000000000000
+      internalID: 4587812016202732904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Bored_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1cf01bcde181f40800000000000000
+      internalID: 5489946581402414869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Bored_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c037984c74bca3a0800000000000000
+      internalID: 2132881699821264413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Bored_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60a52feb2f4d4f10800000000000000
+      internalID: 5480227070333760879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Bored_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022860f3f86301b00800000000000000
+      internalID: 2883862309928710533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Bored_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a51264dd443cc460800000000000000
+      internalID: 4229126489960328085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Bored_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c300b2fe23195d60800000000000000
+      internalID: 5258148248041239652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Bored_12
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696a2bdb8d8c3d710800000000000000
+      internalID: -8916803796247850855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Bored_13
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d7284cfea9c0530800000000000000
+      internalID: -8545712350482750741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Bored_14
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48700a8580750e8a0800000000000000
+      internalID: -3028337320138167117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Bored_15
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2ac02af97b31410800000000000000
+      internalID: 9070221917839806138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Bored_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0718c38645d4a9010800000000000000
+      internalID: -682261451959544746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Bored_17
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca66d71c655f8160800000000000000
+      internalID: 2697401610478592184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Bored_18
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b766e56dfa37d3510800000000000000
+      internalID: 1332136209333539959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Bored_19
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0671a30f53f891ce0800000000000000
+      internalID: -5394814935530678939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Bored_20
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e3242ca21e30750800000000000000
+      internalID: -4546847960694428619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Bored_21
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14147ae7ba47a7100800000000000000
+      internalID: 6637828798214189808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Bored_22
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1643dc50d4485e0800000000000000
+      internalID: -8191697436956461368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Bored_23
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5496f9111204b3a0800000000000000
+      internalID: 7112669223442107489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Super_Sonic_Bored_16: -682261451959544746
+      Super_Sonic_Bored_7: 2132881699821264413
+      Super_Sonic_Bored_15: 9070221917839806138
+      Super_Sonic_Bored_19: -5394814935530678939
+      Super_Sonic_Bored_4: 7851147933479664666
+      Super_Sonic_Bored_6: 5489946581402414869
+      Super_Sonic_Bored_2: -2848825357856956519
+      Super_Sonic_Bored_11: 5258148248041239652
+      Super_Sonic_Bored_17: 2697401610478592184
+      Super_Sonic_Bored_21: 6637828798214189808
+      Super_Sonic_Bored_20: -4546847960694428619
+      Super_Sonic_Bored_8: 5480227070333760879
+      Super_Sonic_Bored_3: 7224629049603484145
+      Super_Sonic_Bored_13: -8545712350482750741
+      Super_Sonic_Bored_9: 2883862309928710533
+      Super_Sonic_Bored_10: 4229126489960328085
+      Super_Sonic_Bored_22: -8191697436956461368
+      Super_Sonic_Bored_12: -8916803796247850855
+      Super_Sonic_Bored_18: 1332136209333539959
+      Super_Sonic_Bored_5: 4587812016202732904
+      Super_Sonic_Bored_0: 3785232744376331171
+      Super_Sonic_Bored_14: -3028337320138167117
+      Super_Sonic_Bored_23: 7112669223442107489
+      Super_Sonic_Bored_1: 8828689508993982750
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

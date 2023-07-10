@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: 55ead2f2423944c4eb5cecf476346945
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5113810551564196854
+    second: Sonic_Drop_Dash_0
+  - first:
+      213: 6373378071450192536
+    second: Sonic_Drop_Dash_1
+  - first:
+      213: 9221349470810491634
+    second: Sonic_Drop_Dash_2
+  - first:
+      213: 3678477152778517517
+    second: Sonic_Drop_Dash_3
+  - first:
+      213: 8271230105415225037
+    second: Sonic_Drop_Dash_4
+  - first:
+      213: 7189321773430334699
+    second: Sonic_Drop_Dash_5
+  - first:
+      213: 9060057089928193403
+    second: Sonic_Drop_Dash_6
+  - first:
+      213: -1632584579706880493
+    second: Sonic_Drop_Dash_7
+  - first:
+      213: -1223303142037241737
+    second: Sonic_Drop_Dash_8
+  - first:
+      213: -8699228927167814437
+    second: Sonic_Drop_Dash_9
+  - first:
+      213: -6913416762102427072
+    second: Sonic_Drop_Dash_0
+  - first:
+      213: -556824118769852850
+    second: Sonic_Drop_Dash_1
+  - first:
+      213: 1565746733275797442
+    second: Sonic_Drop_Dash_2
+  - first:
+      213: 520100607453285910
+    second: Sonic_Drop_Dash_3
+  - first:
+      213: -756518280014784793
+    second: Sonic_Drop_Dash_4
+  - first:
+      213: -6696681261058616751
+    second: Sonic_Drop_Dash_5
+  - first:
+      213: -5949329159013475831
+    second: Sonic_Drop_Dash_6
+  - first:
+      213: 1874155283919264508
+    second: Sonic_Drop_Dash_7
+  - first:
+      213: 8765279394480870370
+    second: Sonic_Drop_Dash_8
+  - first:
+      213: 5498656216430872015
+    second: Sonic_Drop_Dash_9
+  - first:
+      213: -746758858061596069
+    second: Sonic_Drop_Dash_10
+  - first:
+      213: -8402572664042093842
+    second: Sonic_Drop_Dash_11
+  - first:
+      213: 2565857940487753762
+    second: Sonic_Drop_Dash_12
+  - first:
+      213: 5497498036990697482
+    second: Sonic_Drop_Dash_13
+  - first:
+      213: -3915299606520994453
+    second: Sonic_Drop_Dash_14
+  - first:
+      213: 8454939398573551352
+    second: Sonic_Drop_Dash_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sonic_Drop_Dash_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04257ae651c9e00a0800000000000000
+      internalID: 5113810551564196854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Drop_Dash_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e5a560a63c548f0800000000000000
+      internalID: 6373378071450192536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Drop_Dash_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7d125bb56aab510800000000000000
+      internalID: 9221349470810491634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Drop_Dash_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ec7b23fb4c73700800000000000000
+      internalID: 3678477152778517517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Drop_Dash_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e611ade1ae4085f0800000000000000
+      internalID: 8271230105415225037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Drop_Dash_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1521694afdb9013a0800000000000000
+      internalID: 7189321773430334699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Drop_Dash_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ad02996acbf6da0800000000000000
+      internalID: 9060057089928193403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Drop_Dash_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfaddef0d46520a10800000000000000
+      internalID: -1632584579706880493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Drop_Dash_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e355193b2784a970800000000000000
+      internalID: -1223303142037241737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Drop_Dash_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc50b5a12b62f4c40800000000000000
+      internalID: -8699228927167814437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Drop_Dash_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5abc5c66caf2a5f0800000000000000
+      internalID: -746758858061596069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Drop_Dash_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee20d584ea0146b80800000000000000
+      internalID: -8402572664042093842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Drop_Dash_12
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22053eec332cb9320800000000000000
+      internalID: 2565857940487753762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Drop_Dash_13
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00ec3076590b4c40800000000000000
+      internalID: 5497498036990697482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Drop_Dash_14
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65e61480cf0aa9c0800000000000000
+      internalID: -3915299606520994453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Drop_Dash_15
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe6e69369af55570800000000000000
+      internalID: 8454939398573551352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sonic_Drop_Dash_7: -1632584579706880493
+      Sonic_Drop_Dash_2: 9221349470810491634
+      Sonic_Drop_Dash_12: 2565857940487753762
+      Sonic_Drop_Dash_8: -1223303142037241737
+      Sonic_Drop_Dash_15: 8454939398573551352
+      Sonic_Drop_Dash_3: 3678477152778517517
+      Sonic_Drop_Dash_14: -3915299606520994453
+      Sonic_Drop_Dash_1: 6373378071450192536
+      Sonic_Drop_Dash_11: -8402572664042093842
+      Sonic_Drop_Dash_13: 5497498036990697482
+      Sonic_Drop_Dash_6: 9060057089928193403
+      Sonic_Drop_Dash_4: 8271230105415225037
+      Sonic_Drop_Dash_10: -746758858061596069
+      Sonic_Drop_Dash_0: 5113810551564196854
+      Sonic_Drop_Dash_5: 7189321773430334699
+      Sonic_Drop_Dash_9: -8699228927167814437
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

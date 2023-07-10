@@ -1,0 +1,558 @@
+fileFormatVersion: 2
+guid: a1ee433777a3ba145ac9a84bfd0e997e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6226267965380841423
+    second: Sonic_Roll_0
+  - first:
+      213: 3545913986717917562
+    second: Sonic_Roll_1
+  - first:
+      213: -4709532323345819958
+    second: Sonic_Roll_2
+  - first:
+      213: -7101337784719604290
+    second: Sonic_Roll_3
+  - first:
+      213: 6885224030422959972
+    second: Sonic_Roll_4
+  - first:
+      213: -1184818712342611281
+    second: Sonic_Roll_5
+  - first:
+      213: -7033383371241891212
+    second: Sonic_Roll_6
+  - first:
+      213: 5731118046733529704
+    second: Sonic_Roll_7
+  - first:
+      213: -6286193988685247312
+    second: Sonic_Roll_8
+  - first:
+      213: 4574349654061135617
+    second: Sonic_Roll_9
+  - first:
+      213: -5681306172383391583
+    second: Sonic_Roll_0
+  - first:
+      213: -5520677198974955098
+    second: Sonic_Roll_1
+  - first:
+      213: 5162728344263333819
+    second: Sonic_Roll_2
+  - first:
+      213: 6294436687410208222
+    second: Sonic_Roll_3
+  - first:
+      213: 8136215789950074213
+    second: Sonic_Roll_4
+  - first:
+      213: 3409546977442651694
+    second: Sonic_Roll_5
+  - first:
+      213: 666959873104984689
+    second: Sonic_Roll_6
+  - first:
+      213: -5791895653172447829
+    second: Sonic_Roll_7
+  - first:
+      213: -6856692303797515625
+    second: Sonic_Roll_8
+  - first:
+      213: -9213162404961843595
+    second: Sonic_Roll_9
+  - first:
+      213: -7325016464170708131
+    second: Sonic_Roll_10
+  - first:
+      213: -4259486301365614768
+    second: Sonic_Roll_11
+  - first:
+      213: -8355077616047785207
+    second: Sonic_Roll_12
+  - first:
+      213: 3732022119413576519
+    second: Sonic_Roll_13
+  - first:
+      213: -1446517019564870780
+    second: Sonic_Roll_14
+  - first:
+      213: -3202918818210006437
+    second: Sonic_Roll_15
+  - first:
+      213: -5328608701532921734
+    second: Sonic_Roll_10
+  - first:
+      213: 2157039096563409234
+    second: Sonic_Roll_11
+  - first:
+      213: 4888980418147558732
+    second: Sonic_Roll_12
+  - first:
+      213: 8591133375476888081
+    second: Sonic_Roll_13
+  - first:
+      213: 7996123503004079655
+    second: Sonic_Roll_14
+  - first:
+      213: -2713809730768661038
+    second: Sonic_Roll_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sonic_Roll_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a09ad61322f721b0800000000000000
+      internalID: 6226267965380841423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Roll_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1df7b565d9263b0800000000000000
+      internalID: 3545913986717917562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Roll_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb718a76312b5a740800000000000000
+      internalID: -4709532323345819958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Roll_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd954e51d45a5750800000000000000
+      internalID: -7101337784719604290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Roll_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56df5e74725a9e070800000000000000
+      internalID: 6885224030422959972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Roll_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ed97359e4215f20800000000000000
+      internalID: -1184818712342611281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Roll_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17abcdb8874814900800000000000000
+      internalID: -7033383371241891212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Roll_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5f688179d0f9fa0800000000000000
+      internalID: 5731118046733529704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Roll_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a8ef19da228d0a0800000000000000
+      internalID: -6286193988685247312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Roll_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576044a2b95442080800000000000000
+      internalID: 4574349654061135617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Roll_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70231e3e9afc06b0800000000000000
+      internalID: -7325016464170708131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Roll_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251aa4d31a75fed10800000000000000
+      internalID: -4259486301365614768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Roll_12
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45a68199c529d340800000000000000
+      internalID: -8355077616047785207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Roll_13
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1127d478946d93770800000000000000
+      internalID: 3732022119413576519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Roll_14
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726d5b0f5ffe7fe60800000000000000
+      internalID: -1446517019564870780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Roll_15
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d51981ad6c965ad0800000000000000
+      internalID: -3202918818210006437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sonic_Roll_6: -7033383371241891212
+      Sonic_Roll_7: 5731118046733529704
+      Sonic_Roll_1: 3545913986717917562
+      Sonic_Roll_2: -4709532323345819958
+      Sonic_Roll_13: 3732022119413576519
+      Sonic_Roll_9: 4574349654061135617
+      Sonic_Roll_3: -7101337784719604290
+      Sonic_Roll_15: -3202918818210006437
+      Sonic_Roll_4: 6885224030422959972
+      Sonic_Roll_11: -4259486301365614768
+      Sonic_Roll_5: -1184818712342611281
+      Sonic_Roll_0: 6226267965380841423
+      Sonic_Roll_12: -8355077616047785207
+      Sonic_Roll_14: -1446517019564870780
+      Sonic_Roll_8: -6286193988685247312
+      Sonic_Roll_10: -7325016464170708131
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

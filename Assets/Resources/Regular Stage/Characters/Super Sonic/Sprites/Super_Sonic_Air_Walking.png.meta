@@ -1,0 +1,482 @@
+fileFormatVersion: 2
+guid: 64be395fc993d5b479c0f03f100df02b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6275614708898274184
+    second: Super_Sonic_Air_Walk_0
+  - first:
+      213: 9103694040449311726
+    second: Super_Sonic_Air_Walk_1
+  - first:
+      213: -4098963621518113009
+    second: Super_Sonic_Air_Walk_2
+  - first:
+      213: 553666265308972183
+    second: Super_Sonic_Air_Walk_3
+  - first:
+      213: -9022631402963438801
+    second: Super_Sonic_Air_Walk_4
+  - first:
+      213: -8109808215877010577
+    second: Super_Sonic_Air_Walk_5
+  - first:
+      213: -6851726705866538562
+    second: Super_Sonic_Air_Walk_6
+  - first:
+      213: 5577762787488153402
+    second: Super_Sonic_Air_Walk_7
+  - first:
+      213: -6954097232991796633
+    second: Super_Sonic_Air_Walk_8
+  - first:
+      213: -7717651810571779982
+    second: Super_Sonic_Air_Walk_9
+  - first:
+      213: 6828499312919156787
+    second: Super_Sonic_Air_Walk_10
+  - first:
+      213: 7634730351998413672
+    second: Super_Sonic_Air_Walk_11
+  - first:
+      213: 2965843961484767827
+    second: Super_Sonic_Air_Walk_0
+  - first:
+      213: -6605669973372908521
+    second: Super_Sonic_Air_Walk_1
+  - first:
+      213: 632574056612159715
+    second: Super_Sonic_Air_Walk_2
+  - first:
+      213: -6755520887531939417
+    second: Super_Sonic_Air_Walk_3
+  - first:
+      213: -2611328143913185987
+    second: Super_Sonic_Air_Walk_4
+  - first:
+      213: 6425333268120258751
+    second: Super_Sonic_Air_Walk_5
+  - first:
+      213: 1298612816419594492
+    second: Super_Sonic_Air_Walk_6
+  - first:
+      213: -4238699517044298444
+    second: Super_Sonic_Air_Walk_7
+  - first:
+      213: 1116943665054673867
+    second: Super_Sonic_Air_Walk_8
+  - first:
+      213: -3625958996140288071
+    second: Super_Sonic_Air_Walk_9
+  - first:
+      213: 2406148007025373844
+    second: Super_Sonic_Air_Walk_10
+  - first:
+      213: 6981790470932553546
+    second: Super_Sonic_Air_Walk_11
+  - first:
+      213: 4653024902571962046
+    second: Super_Sonic_Air_Walking_0
+  - first:
+      213: 3961607985802870379
+    second: Super_Sonic_Air_Walking_1
+  - first:
+      213: -5003571796501294933
+    second: Super_Sonic_Air_Walking_2
+  - first:
+      213: -5858453278504954238
+    second: Super_Sonic_Air_Walking_3
+  - first:
+      213: 877433420159051271
+    second: Super_Sonic_Air_Walking_4
+  - first:
+      213: -4370549303113987904
+    second: Super_Sonic_Air_Walking_5
+  - first:
+      213: -2405815590472687351
+    second: Super_Sonic_Air_Walking_6
+  - first:
+      213: -3165752931713945940
+    second: Super_Sonic_Air_Walking_7
+  - first:
+      213: -2829397725765273632
+    second: Super_Sonic_Air_Walking_8
+  - first:
+      213: -1564314659590478315
+    second: Super_Sonic_Air_Walking_9
+  - first:
+      213: -3508894471872577872
+    second: Super_Sonic_Air_Walking_10
+  - first:
+      213: -6385163239200516037
+    second: Super_Sonic_Air_Walking_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Super_Sonic_Air_Walking_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe29d00f7dd29040800000000000000
+      internalID: 4653024902571962046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Air_Walking_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e712d39757af630800000000000000
+      internalID: 3961607985802870379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Air_Walking_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0906d06fdbf8ab0800000000000000
+      internalID: -5003571796501294933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Air_Walking_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2865d7958c792bea0800000000000000
+      internalID: -5858453278504954238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Air_Walking_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706e2aafb054d2c00800000000000000
+      internalID: 877433420159051271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Air_Walking_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c84f82a090b853c0800000000000000
+      internalID: -4370549303113987904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Air_Walking_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90167ce8773dc9ed0800000000000000
+      internalID: -2405815590472687351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Air_Walking_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caee9824b7cf014d0800000000000000
+      internalID: -3165752931713945940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Air_Walking_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7767b52c5fbb8d0800000000000000
+      internalID: -2829397725765273632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Air_Walking_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5166c2eea107a4ae0800000000000000
+      internalID: -1564314659590478315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Air_Walking_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bef3b99117ed4fc0800000000000000
+      internalID: -3508894471872577872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Air_Walking_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38129e2dd75367a0800000000000000
+      internalID: -6385163239200516037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Super_Sonic_Air_Walking_10: -3508894471872577872
+      Super_Sonic_Air_Walking_2: -5003571796501294933
+      Super_Sonic_Air_Walking_11: -6385163239200516037
+      Super_Sonic_Air_Walking_9: -1564314659590478315
+      Super_Sonic_Air_Walking_8: -2829397725765273632
+      Super_Sonic_Air_Walking_7: -3165752931713945940
+      Super_Sonic_Air_Walking_3: -5858453278504954238
+      Super_Sonic_Air_Walking_1: 3961607985802870379
+      Super_Sonic_Air_Walking_4: 877433420159051271
+      Super_Sonic_Air_Walking_5: -4370549303113987904
+      Super_Sonic_Air_Walking_6: -2405815590472687351
+      Super_Sonic_Air_Walking_0: 4653024902571962046
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

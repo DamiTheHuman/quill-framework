@@ -1,0 +1,1056 @@
+fileFormatVersion: 2
+guid: 981ddf9c8fdb2664fbbc1ac7d3dd7945
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1912
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c02600129348a4d8f8a1d43965c1c3
+      internalID: -147759274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1912
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bbb008bdcf621438f319f5d41e2f1b
+      internalID: -657428062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1912
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45850f2d78a12c1489eef00fa2a86e35
+      internalID: -431627943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c8aa71f49c1694d84ea37661ff447a
+      internalID: -1298049129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61143e898f241a748b0bd07cd906ea43
+      internalID: 472480643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16f49f5eca8ffc49b9477c8b4aadf23
+      internalID: -239452774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0333dc066f7220c44b1afeebcd79d25b
+      internalID: -1319493906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4630f7054101fbb4992ba9106b4324b4
+      internalID: 1269731827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7093d28a2bf1f4943ade2674c4e8c01f
+      internalID: -132487246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1870
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87277af34a7e6b640a16e44a8ccfb6da
+      internalID: 1696526324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1867
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c12d8e635c7db4cae2ec564631de0c
+      internalID: -1469796642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1786
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fced282b402683744aa8518f99a25485
+      internalID: 1412455274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_12
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1786
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffb512422d6efb4f9d9587fb982c6a8
+      internalID: -2071689715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1728
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5507d6983ba3945b14e368fa88df0a
+      internalID: 1325307943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1728
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab668b14138d1274d8757a4dce174698
+      internalID: -348405874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_15
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1728
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52df318bd0efa364e932820eb9bb7d11
+      internalID: 1247405537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1697
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f0b087178a8644992ff3936cf580f0
+      internalID: -1441900221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1522
+        width: 128
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de3a2fc6376cef4bb83d27c694cef44
+      internalID: -1209397311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1411
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18048c27f65e95479adf419c1c0c16d
+      internalID: 1565570238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1332
+        width: 128
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6127334c769a21e44aed5c03aaf619ed
+      internalID: 2108527655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_20
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1327
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348b5517b438b39458672a6e1bbb9b6a
+      internalID: 2114421716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1207
+        width: 128
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc631fd57d91824c8b74f197144d4d4
+      internalID: 466372879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_22
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1096
+        width: 128
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149f2f8b28629eb4e952d5538d0707c3
+      internalID: 1060746273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_23
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 990
+        width: 98
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb7d80c76ec105468deccc24644c2e2
+      internalID: -1323801489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 848
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a1736b6023aa343ad954d9de8ac656
+      internalID: -388599945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 713
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebdf2e9091f5c34c81ca37627c3e3db
+      internalID: -1139321975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 570
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab5089866d250c4f8878a5982d15741
+      internalID: 267883862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_27
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 570
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b779dbe01c89391419db7e80106b19b4
+      internalID: 1341140490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_28
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 566
+        width: 128
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f1e2c1c2bf6964690b13bd2273c371
+      internalID: -2128603895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_29
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 411
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc7437abaa57f84599c8c8773c56054
+      internalID: 194257962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 305
+        width: 31
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2418c2f01948f264c97111789775d425
+      internalID: -1410794034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_31
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 366
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e3cf9a535517647972c6e913aa0ca2
+      internalID: 552618720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_32
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 309
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0f7271b34b6ac4492ba96880d43994
+      internalID: -1344921017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_33
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 366
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9ae9deb3d34794b85a89a6b2172879
+      internalID: 2127968486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_34
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 360
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e65e9ba6b2bf84b964a3348262bd74
+      internalID: 548663452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_35
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 360
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2f04568ef6e354094ce8adcd3cb534
+      internalID: 2103248595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_36
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 307
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c237e264a9dcea41b92bd90527b0c56
+      internalID: 1222935359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_37
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 350
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467df626322c2604db12e860203f5110
+      internalID: -1843251588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_38
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 309
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20361cceaf050694bba3e7c5c28b23e5
+      internalID: 1290372787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_39
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 350
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f98eab89e8c5645900b3f2bc328d4b
+      internalID: 2085808444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_40
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 344
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949d06b8930a9ae49a99af332a6cf1b9
+      internalID: 1975935379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_41
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 344
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2aed0a26ca51424c937eb6a200b1674
+      internalID: 616877418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_GHZ_42
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 125
+        width: 90
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286c269366e18064dadb68862966e8aa
+      internalID: 1957823231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Act_Skin_GHZ_6: -1319493906
+      Act_Skin_GHZ_17: -1209397311
+      Act_Skin_GHZ_35: 2103248595
+      Act_Skin_GHZ_5: -239452774
+      Act_Skin_GHZ_12: -2071689715
+      Act_Skin_GHZ_29: 194257962
+      Act_Skin_GHZ_1: -657428062
+      Act_Skin_GHZ_15: 1247405537
+      Act_Skin_GHZ_2: -431627943
+      Act_Skin_GHZ_11: 1412455274
+      Act_Skin_GHZ_24: -388599945
+      Act_Skin_GHZ_25: -1139321975
+      Act_Skin_GHZ_21: 466372879
+      Act_Skin_GHZ_3: -1298049129
+      Act_Skin_GHZ_36: 1222935359
+      Act_Skin_GHZ_41: 616877418
+      Act_Skin_GHZ_37: -1843251588
+      Act_Skin_GHZ_19: 2108527655
+      Act_Skin_GHZ_34: 548663452
+      Act_Skin_GHZ_30: -1410794034
+      Act_Skin_GHZ_33: 2127968486
+      Act_Skin_GHZ_9: 1696526324
+      Act_Skin_GHZ_8: -132487246
+      Act_Skin_GHZ_38: 1290372787
+      Act_Skin_GHZ_31: 552618720
+      Act_Skin_GHZ_39: 2085808444
+      Act_Skin_GHZ_13: 1325307943
+      Act_Skin_GHZ_18: 1565570238
+      Act_Skin_GHZ_4: 472480643
+      Act_Skin_GHZ_27: 1341140490
+      Act_Skin_GHZ_28: -2128603895
+      Act_Skin_GHZ_0: -147759274
+      Act_Skin_GHZ_23: -1323801489
+      Act_Skin_GHZ_14: -348405874
+      Act_Skin_GHZ_16: -1441900221
+      Act_Skin_GHZ_42: 1957823231
+      Act_Skin_GHZ_26: 267883862
+      Act_Skin_GHZ_20: 2114421716
+      Act_Skin_GHZ_10: -1469796642
+      Act_Skin_GHZ_22: 1060746273
+      Act_Skin_GHZ_40: 1975935379
+      Act_Skin_GHZ_7: 1269731827
+      Act_Skin_GHZ_32: -1344921017
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

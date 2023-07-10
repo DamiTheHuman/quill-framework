@@ -1,0 +1,576 @@
+fileFormatVersion: 2
+guid: 8895881404cfbc947b6f9587da691c72
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6226267965380841423
+    second: Sonic_Roll_0
+  - first:
+      213: 3545913986717917562
+    second: Sonic_Roll_1
+  - first:
+      213: -4709532323345819958
+    second: Sonic_Roll_2
+  - first:
+      213: -7101337784719604290
+    second: Sonic_Roll_3
+  - first:
+      213: 6885224030422959972
+    second: Sonic_Roll_4
+  - first:
+      213: -1184818712342611281
+    second: Sonic_Roll_5
+  - first:
+      213: -7033383371241891212
+    second: Sonic_Roll_6
+  - first:
+      213: 5731118046733529704
+    second: Sonic_Roll_7
+  - first:
+      213: -6286193988685247312
+    second: Sonic_Roll_8
+  - first:
+      213: 4574349654061135617
+    second: Sonic_Roll_9
+  - first:
+      213: 513114272850202920
+    second: Tails_Roll_0
+  - first:
+      213: 8675323102770367542
+    second: Tails_Roll_1
+  - first:
+      213: -9216504129782440194
+    second: Tails_Roll_2
+  - first:
+      213: 6679213353122551442
+    second: Tails_Roll_3
+  - first:
+      213: 5291722896003496684
+    second: Tails_Roll_4
+  - first:
+      213: -5137565823849875593
+    second: Tails_Roll_5
+  - first:
+      213: -7644236684542827366
+    second: Tails_Roll_0
+  - first:
+      213: -8231921173378587584
+    second: Tails_Roll_1
+  - first:
+      213: 5925861995137456741
+    second: Tails_Roll_2
+  - first:
+      213: 3699860630714386487
+    second: Tails_Roll_3
+  - first:
+      213: -2696754776786219774
+    second: Tails_Roll_4
+  - first:
+      213: -7396257444827841358
+    second: Tails_Roll_5
+  - first:
+      213: -713522850056876801
+    second: Knuckles_Roll_0
+  - first:
+      213: -4740456089817073225
+    second: Knuckles_Roll_1
+  - first:
+      213: 1219963962036617439
+    second: Knuckles_Roll_2
+  - first:
+      213: -8573877460107761773
+    second: Knuckles_Roll_3
+  - first:
+      213: -2542215108961980676
+    second: Knuckles_Roll_4
+  - first:
+      213: 5169666755238945095
+    second: Knuckles_Roll_5
+  - first:
+      213: 5893902979896705180
+    second: Knuckles_Roll_6
+  - first:
+      213: -5421121690679239814
+    second: Knuckles_Roll_7
+  - first:
+      213: -747405231360883992
+    second: Knuckles_Roll_8
+  - first:
+      213: 4748003242953986934
+    second: Knuckles_Roll_9
+  - first:
+      213: -6457837957378539204
+    second: Knuckles_Roll_10
+  - first:
+      213: 9001032242575463131
+    second: Knuckles_Roll_11
+  - first:
+      213: 1638251666886468701
+    second: Knuckles_Roll_12
+  - first:
+      213: -3914760961496558852
+    second: Knuckles_Roll_13
+  - first:
+      213: 2931581278675998707
+    second: Knuckles_Roll_14
+  - first:
+      213: 7128389977737639483
+    second: Knuckles_Roll_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Knuckles_Roll_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc4c3f8fbe0916f0800000000000000
+      internalID: -713522850056876801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Roll_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9bd156d44863eb0800000000000000
+      internalID: -4740456089817073225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Roll_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd088f382ce2ee010800000000000000
+      internalID: 1219963962036617439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Roll_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3976c8a50e7730980800000000000000
+      internalID: -8573877460107761773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Roll_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfea0bfd3dc38bcd0800000000000000
+      internalID: -2542215108961980676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Roll_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741e92916885eb740800000000000000
+      internalID: 5169666755238945095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Roll_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c900c5178895bc150800000000000000
+      internalID: 5893902979896705180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Roll_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b16ee6b8e44c4b0800000000000000
+      internalID: -5421121690679239814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Roll_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e24779e6eea0a5f0800000000000000
+      internalID: -747405231360883992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Roll_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673dca02bcb44e140800000000000000
+      internalID: 4748003242953986934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Roll_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c310b65c7962166a0800000000000000
+      internalID: -6457837957378539204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Roll_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd25c8692271aec70800000000000000
+      internalID: 9001032242575463131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Roll_12
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54a571163d3cb610800000000000000
+      internalID: 1638251666886468701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Roll_13
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf25e6595a9fba9c0800000000000000
+      internalID: -3914760961496558852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Roll_14
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f71ba904a11fa820800000000000000
+      internalID: 2931581278675998707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Roll_15
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36b18bbae02de260800000000000000
+      internalID: 7128389977737639483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Knuckles_Roll_2: 1219963962036617439
+      Knuckles_Roll_12: 1638251666886468701
+      Knuckles_Roll_10: -6457837957378539204
+      Knuckles_Roll_7: -5421121690679239814
+      Knuckles_Roll_11: 9001032242575463131
+      Knuckles_Roll_5: 5169666755238945095
+      Knuckles_Roll_13: -3914760961496558852
+      Knuckles_Roll_6: 5893902979896705180
+      Knuckles_Roll_15: 7128389977737639483
+      Knuckles_Roll_14: 2931581278675998707
+      Knuckles_Roll_1: -4740456089817073225
+      Knuckles_Roll_0: -713522850056876801
+      Knuckles_Roll_3: -8573877460107761773
+      Knuckles_Roll_9: 4748003242953986934
+      Knuckles_Roll_8: -747405231360883992
+      Knuckles_Roll_4: -2542215108961980676
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

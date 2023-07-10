@@ -1,0 +1,406 @@
+fileFormatVersion: 2
+guid: 72c0f0a5f6d00f7449559b1c5fc8906a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1229247352945483837
+    second: Sonic_Hanging_0
+  - first:
+      213: 265300522188572586
+    second: Sonic_Hanging_1
+  - first:
+      213: -5853467657514936432
+    second: Sonic_Hanging_2
+  - first:
+      213: 7371874376316755685
+    second: Sonic_Hanging_3
+  - first:
+      213: -5600724405762492159
+    second: Sonic_Hanging_4
+  - first:
+      213: -8481734366039216697
+    second: Sonic_Hanging_5
+  - first:
+      213: 4235915670300985321
+    second: Sonic_Hanging_6
+  - first:
+      213: 5261888191804650693
+    second: Sonic_Hanging_7
+  - first:
+      213: 5221247199472096884
+    second: Tails_Hanging_0
+  - first:
+      213: -1619999784069125739
+    second: Tails_Hanging_1
+  - first:
+      213: -6198151549508117627
+    second: Tails_Hanging_2
+  - first:
+      213: -3714942435296866956
+    second: Tails_Hanging_3
+  - first:
+      213: 3114297407003096569
+    second: Tails_Hanging_4
+  - first:
+      213: 1506796673399594385
+    second: Tails_Hanging_5
+  - first:
+      213: -3113849218078373886
+    second: Tails_Hanging_6
+  - first:
+      213: 3838777298273819469
+    second: Tails_Hanging_7
+  - first:
+      213: -8512683642762017978
+    second: Tails_Hanging_0
+  - first:
+      213: 330345192685012242
+    second: Tails_Hanging_1
+  - first:
+      213: 6113895376128775168
+    second: Tails_Hanging_2
+  - first:
+      213: -7180724939832654298
+    second: Tails_Hanging_3
+  - first:
+      213: -3451069244786549383
+    second: Tails_Hanging_4
+  - first:
+      213: 1326378881171659197
+    second: Tails_Hanging_5
+  - first:
+      213: 4371658358957989808
+    second: Tails_Hanging_6
+  - first:
+      213: -4913174240671542365
+    second: Tails_Hanging_7
+  - first:
+      213: 9099618681699485426
+    second: Knuckles_Hanging_0
+  - first:
+      213: -8503430689801132575
+    second: Knuckles_Hanging_1
+  - first:
+      213: -1947613236747721767
+    second: Knuckles_Hanging_2
+  - first:
+      213: -5594416974113166662
+    second: Knuckles_Hanging_3
+  - first:
+      213: 6793706640394566135
+    second: Knuckles_Hanging_4
+  - first:
+      213: 31996387499927985
+    second: Knuckles_Hanging_5
+  - first:
+      213: -2059867949103919615
+    second: Knuckles_Hanging_6
+  - first:
+      213: -6372597448766533062
+    second: Knuckles_Hanging_7
+  - first:
+      213: -5685817907149140788
+    second: Knuckles_Hanging_0
+  - first:
+      213: -6480785636727431674
+    second: Knuckles_Hanging_1
+  - first:
+      213: -8986286747943210513
+    second: Knuckles_Hanging_2
+  - first:
+      213: 8093550121655900141
+    second: Knuckles_Hanging_3
+  - first:
+      213: -4781524180076053181
+    second: Knuckles_Hanging_4
+  - first:
+      213: 3083315601347041278
+    second: Knuckles_Hanging_5
+  - first:
+      213: -9019392397208187263
+    second: Knuckles_Hanging_6
+  - first:
+      213: -4741260763749041880
+    second: Knuckles_Hanging_7
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Knuckles_Hanging_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5357143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc02dafcbae711b0800000000000000
+      internalID: 9099618681699485426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Hanging_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5357143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e5861dccf9f06a0800000000000000
+      internalID: -8503430689801132575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Hanging_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5357143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe17b0b60db4a4380800000000000000
+      internalID: -1947613236747721767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Hanging_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5357143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de79e1544f0125070800000000000000
+      internalID: -5594416974113166662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Hanging_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5357143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d30a1871d94adb0800000000000000
+      internalID: 6793706640394566135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Hanging_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5357143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7d5bc04332aca20800000000000000
+      internalID: 31996387499927985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Hanging_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5357143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e0c8ac66ea4d280800000000000000
+      internalID: -2059867949103919615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Hanging_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5357143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829bd35a478a33eb0800000000000000
+      internalID: -6372597448766533062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Knuckles_Hanging_3: -5594416974113166662
+      Knuckles_Hanging_7: -6372597448766533062
+      Knuckles_Hanging_1: -8503430689801132575
+      Knuckles_Hanging_4: 6793706640394566135
+      Knuckles_Hanging_2: -1947613236747721767
+      Knuckles_Hanging_6: -2059867949103919615
+      Knuckles_Hanging_0: 9099618681699485426
+      Knuckles_Hanging_5: 31996387499927985
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

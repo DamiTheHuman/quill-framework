@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1649970340884506949
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5595193319053268166, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268166, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268166, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268166, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268166, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268166, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268166, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268166, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268166, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268166, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268166, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268167, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: powerUpToGrant
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268167, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: powerUpGrantSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 0d5d705b20a72ca438a815c7694a7aaf, type: 3}
+    - target: {fileID: 5595193319053268186, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_Name
+      value: Monitor - Regular Shield
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319642297445, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -7533219349394024631, guid: 41cef51574530c445b3acd02112cf3d8,
+        type: 3}
+    - target: {fileID: 5595193319642297446, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 14255b863dfe9d344bef41fb0d9ae178, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9ced2d6cf07a98048be28050d6717158, type: 3}

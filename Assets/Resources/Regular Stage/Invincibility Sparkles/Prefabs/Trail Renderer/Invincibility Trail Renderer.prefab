@@ -1,0 +1,1440 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7736337678270360157
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7736337678270360158}
+  - component: {fileID: 7736337678270360159}
+  m_Layer: 0
+  m_Name: Sparkle Type 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7736337678270360158
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7736337678270360157}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7856104401134143285}
+  - {fileID: 7856104401619706902}
+  m_Father: {fileID: 7736337679676923256}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7736337678270360159
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7736337678270360157}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e9e51f28484ff84a8496cc6935dccf0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  invincibilityTrailRenderer: {fileID: 3347861277228398455}
+  sparkleType: 1
+  deltaIncrement: 8
+  offsetWidth: 2
+  personalTimer: 0
+  globalTimer: 0
+  recentObjectPositions:
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+--- !u!1 &7736337678286818339
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7736337678286818332}
+  - component: {fileID: 7736337678286818333}
+  m_Layer: 0
+  m_Name: Sparkle Type 3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7736337678286818332
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7736337678286818339}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2757313773430732849}
+  - {fileID: 2757313773708366151}
+  m_Father: {fileID: 7736337679676923256}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7736337678286818333
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7736337678286818339}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e9e51f28484ff84a8496cc6935dccf0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  invincibilityTrailRenderer: {fileID: 3347861277228398455}
+  sparkleType: 2
+  deltaIncrement: 8
+  offsetWidth: 2
+  personalTimer: 0
+  globalTimer: 0
+  recentObjectPositions:
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+--- !u!1 &7736337679158018058
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7736337679158018059}
+  - component: {fileID: 7736337679158018052}
+  m_Layer: 0
+  m_Name: Sparkle Type 4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7736337679158018059
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7736337679158018058}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1862730581631597729}
+  - {fileID: 1862730580758809030}
+  m_Father: {fileID: 7736337679676923256}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7736337679158018052
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7736337679158018058}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e9e51f28484ff84a8496cc6935dccf0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  invincibilityTrailRenderer: {fileID: 3347861277228398455}
+  sparkleType: 3
+  deltaIncrement: 8
+  offsetWidth: 2
+  personalTimer: 0
+  globalTimer: 0
+  recentObjectPositions:
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+--- !u!1 &7736337679502335783
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7736337679502335776}
+  - component: {fileID: 7736337679502335777}
+  m_Layer: 0
+  m_Name: Sparkle Type 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7736337679502335776
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7736337679502335783}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1733245925730078850}
+  - {fileID: 1733245924012541226}
+  m_Father: {fileID: 7736337679676923256}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7736337679502335777
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7736337679502335783}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e9e51f28484ff84a8496cc6935dccf0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  invincibilityTrailRenderer: {fileID: 3347861277228398455}
+  sparkleType: 0
+  deltaIncrement: 8
+  offsetWidth: 2
+  personalTimer: 0
+  globalTimer: 0
+  recentObjectPositions:
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+  - position: {x: 0, y: 0}
+    angle: 0
+--- !u!1 &7736337679676923262
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7736337679676923256}
+  - component: {fileID: 3347861277228398455}
+  m_Layer: 0
+  m_Name: Invincibility Trail Renderer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7736337679676923256
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7736337679676923262}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -2, y: -12, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7736337679502335776}
+  - {fileID: 7736337678270360158}
+  - {fileID: 7736337678286818332}
+  - {fileID: 7736337679158018059}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3347861277228398455
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7736337679676923262}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a53f8750ea868354698800b32427a5f5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 0}
+  target: {fileID: 0}
+--- !u!1001 &7736337677655356608
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7736337678270360158}
+    m_Modifications:
+    - target: {fileID: 457822852023186421, guid: f7c80a9c8bbaca64db91426c2726c854,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 457822852023186421, guid: f7c80a9c8bbaca64db91426c2726c854,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 457822852023186421, guid: f7c80a9c8bbaca64db91426c2726c854,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 457822852023186421, guid: f7c80a9c8bbaca64db91426c2726c854,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 457822852023186421, guid: f7c80a9c8bbaca64db91426c2726c854,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 457822852023186421, guid: f7c80a9c8bbaca64db91426c2726c854,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 457822852023186421, guid: f7c80a9c8bbaca64db91426c2726c854,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 457822852023186421, guid: f7c80a9c8bbaca64db91426c2726c854,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 457822852023186421, guid: f7c80a9c8bbaca64db91426c2726c854,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 457822852023186421, guid: f7c80a9c8bbaca64db91426c2726c854,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 457822852023186421, guid: f7c80a9c8bbaca64db91426c2726c854,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7027456006599452436, guid: f7c80a9c8bbaca64db91426c2726c854,
+        type: 3}
+      propertyPath: m_Name
+      value: Invincibility Sparkle 2 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8557686573030683447, guid: f7c80a9c8bbaca64db91426c2726c854,
+        type: 3}
+      propertyPath: invincibilitySparkType
+      value: 
+      objectReference: {fileID: 7736337678270360159}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f7c80a9c8bbaca64db91426c2726c854, type: 3}
+--- !u!4 &7856104401134143285 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 457822852023186421, guid: f7c80a9c8bbaca64db91426c2726c854,
+    type: 3}
+  m_PrefabInstance: {fileID: 7736337677655356608}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7736337677669598578
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7736337678286818332}
+    m_Modifications:
+    - target: {fileID: 3081312142917937570, guid: 0513e524709dba04a93866fb99bb2cbe,
+        type: 3}
+      propertyPath: m_Name
+      value: Invincibility Sparkle 3 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 4433386499256139137, guid: 0513e524709dba04a93866fb99bb2cbe,
+        type: 3}
+      propertyPath: sparkleRadius
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4433386499256139137, guid: 0513e524709dba04a93866fb99bb2cbe,
+        type: 3}
+      propertyPath: invincibilitySparkType
+      value: 
+      objectReference: {fileID: 7736337678286818333}
+    - target: {fileID: 5557174095752658243, guid: 0513e524709dba04a93866fb99bb2cbe,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5557174095752658243, guid: 0513e524709dba04a93866fb99bb2cbe,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5557174095752658243, guid: 0513e524709dba04a93866fb99bb2cbe,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5557174095752658243, guid: 0513e524709dba04a93866fb99bb2cbe,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5557174095752658243, guid: 0513e524709dba04a93866fb99bb2cbe,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5557174095752658243, guid: 0513e524709dba04a93866fb99bb2cbe,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5557174095752658243, guid: 0513e524709dba04a93866fb99bb2cbe,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5557174095752658243, guid: 0513e524709dba04a93866fb99bb2cbe,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5557174095752658243, guid: 0513e524709dba04a93866fb99bb2cbe,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5557174095752658243, guid: 0513e524709dba04a93866fb99bb2cbe,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5557174095752658243, guid: 0513e524709dba04a93866fb99bb2cbe,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0513e524709dba04a93866fb99bb2cbe, type: 3}
+--- !u!4 &2757313773430732849 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5557174095752658243, guid: 0513e524709dba04a93866fb99bb2cbe,
+    type: 3}
+  m_PrefabInstance: {fileID: 7736337677669598578}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7736337678140512227
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7736337678270360158}
+    m_Modifications:
+    - target: {fileID: 457822852023186421, guid: f7c80a9c8bbaca64db91426c2726c854,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 457822852023186421, guid: f7c80a9c8bbaca64db91426c2726c854,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 457822852023186421, guid: f7c80a9c8bbaca64db91426c2726c854,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 457822852023186421, guid: f7c80a9c8bbaca64db91426c2726c854,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 457822852023186421, guid: f7c80a9c8bbaca64db91426c2726c854,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 457822852023186421, guid: f7c80a9c8bbaca64db91426c2726c854,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 457822852023186421, guid: f7c80a9c8bbaca64db91426c2726c854,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 457822852023186421, guid: f7c80a9c8bbaca64db91426c2726c854,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 457822852023186421, guid: f7c80a9c8bbaca64db91426c2726c854,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 457822852023186421, guid: f7c80a9c8bbaca64db91426c2726c854,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 457822852023186421, guid: f7c80a9c8bbaca64db91426c2726c854,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7027456006599452436, guid: f7c80a9c8bbaca64db91426c2726c854,
+        type: 3}
+      propertyPath: m_Name
+      value: Invincibility Sparkle 2 Variant (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8557686573030683447, guid: f7c80a9c8bbaca64db91426c2726c854,
+        type: 3}
+      propertyPath: sparkleID
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8557686573030683447, guid: f7c80a9c8bbaca64db91426c2726c854,
+        type: 3}
+      propertyPath: sparkleRadius
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 8557686573030683447, guid: f7c80a9c8bbaca64db91426c2726c854,
+        type: 3}
+      propertyPath: invincibilitySparkType
+      value: 
+      objectReference: {fileID: 7736337678270360159}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f7c80a9c8bbaca64db91426c2726c854, type: 3}
+--- !u!4 &7856104401619706902 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 457822852023186421, guid: f7c80a9c8bbaca64db91426c2726c854,
+    type: 3}
+  m_PrefabInstance: {fileID: 7736337678140512227}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7736337678224616056
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7736337679502335776}
+    m_Modifications:
+    - target: {fileID: 272685691060550200, guid: 0cd24ce8405c46045acf89788f23f7a8,
+        type: 3}
+      propertyPath: sparkleID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 272685691060550200, guid: 0cd24ce8405c46045acf89788f23f7a8,
+        type: 3}
+      propertyPath: sparkleRadius
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 272685691060550200, guid: 0cd24ce8405c46045acf89788f23f7a8,
+        type: 3}
+      propertyPath: invincibilitySparkType
+      value: 
+      objectReference: {fileID: 7736337679502335777}
+    - target: {fileID: 1480926341546831387, guid: 0cd24ce8405c46045acf89788f23f7a8,
+        type: 3}
+      propertyPath: m_Name
+      value: Invincibility Sparkle 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2594723219235760040, guid: 0cd24ce8405c46045acf89788f23f7a8,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 3410479539378376074, guid: a95427039c466004690f9803ed81cfa7,
+        type: 3}
+    - target: {fileID: 2594723219235760040, guid: 0cd24ce8405c46045acf89788f23f7a8,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 25410422772549a458655deb98082eed, type: 2}
+    - target: {fileID: 8309501803507268346, guid: 0cd24ce8405c46045acf89788f23f7a8,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8309501803507268346, guid: 0cd24ce8405c46045acf89788f23f7a8,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8309501803507268346, guid: 0cd24ce8405c46045acf89788f23f7a8,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8309501803507268346, guid: 0cd24ce8405c46045acf89788f23f7a8,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8309501803507268346, guid: 0cd24ce8405c46045acf89788f23f7a8,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8309501803507268346, guid: 0cd24ce8405c46045acf89788f23f7a8,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8309501803507268346, guid: 0cd24ce8405c46045acf89788f23f7a8,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8309501803507268346, guid: 0cd24ce8405c46045acf89788f23f7a8,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8309501803507268346, guid: 0cd24ce8405c46045acf89788f23f7a8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8309501803507268346, guid: 0cd24ce8405c46045acf89788f23f7a8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8309501803507268346, guid: 0cd24ce8405c46045acf89788f23f7a8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0cd24ce8405c46045acf89788f23f7a8, type: 3}
+--- !u!4 &1733245925730078850 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8309501803507268346, guid: 0cd24ce8405c46045acf89788f23f7a8,
+    type: 3}
+  m_PrefabInstance: {fileID: 7736337678224616056}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7736337678349315076
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7736337678286818332}
+    m_Modifications:
+    - target: {fileID: 3081312142917937570, guid: 0513e524709dba04a93866fb99bb2cbe,
+        type: 3}
+      propertyPath: m_Name
+      value: Invincibility Sparkle 3 Variant (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4433386499256139137, guid: 0513e524709dba04a93866fb99bb2cbe,
+        type: 3}
+      propertyPath: sparkleID
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4433386499256139137, guid: 0513e524709dba04a93866fb99bb2cbe,
+        type: 3}
+      propertyPath: invincibilitySparkType
+      value: 
+      objectReference: {fileID: 7736337678286818333}
+    - target: {fileID: 5557174095752658243, guid: 0513e524709dba04a93866fb99bb2cbe,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5557174095752658243, guid: 0513e524709dba04a93866fb99bb2cbe,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5557174095752658243, guid: 0513e524709dba04a93866fb99bb2cbe,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5557174095752658243, guid: 0513e524709dba04a93866fb99bb2cbe,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5557174095752658243, guid: 0513e524709dba04a93866fb99bb2cbe,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5557174095752658243, guid: 0513e524709dba04a93866fb99bb2cbe,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5557174095752658243, guid: 0513e524709dba04a93866fb99bb2cbe,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5557174095752658243, guid: 0513e524709dba04a93866fb99bb2cbe,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5557174095752658243, guid: 0513e524709dba04a93866fb99bb2cbe,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5557174095752658243, guid: 0513e524709dba04a93866fb99bb2cbe,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5557174095752658243, guid: 0513e524709dba04a93866fb99bb2cbe,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0513e524709dba04a93866fb99bb2cbe, type: 3}
+--- !u!4 &2757313773708366151 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5557174095752658243, guid: 0513e524709dba04a93866fb99bb2cbe,
+    type: 3}
+  m_PrefabInstance: {fileID: 7736337678349315076}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7736337678479464971
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7736337679158018059}
+    m_Modifications:
+    - target: {fileID: 152207958161172072, guid: cf9edad4caf62bf4c9302fc1a0dc80eb,
+        type: 3}
+      propertyPath: sparkleID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 152207958161172072, guid: cf9edad4caf62bf4c9302fc1a0dc80eb,
+        type: 3}
+      propertyPath: sparkleRadius
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 152207958161172072, guid: cf9edad4caf62bf4c9302fc1a0dc80eb,
+        type: 3}
+      propertyPath: invincibilitySparkType
+      value: 
+      objectReference: {fileID: 7736337679158018052}
+    - target: {fileID: 1538340794752774731, guid: cf9edad4caf62bf4c9302fc1a0dc80eb,
+        type: 3}
+      propertyPath: m_Name
+      value: Invincibility Sparkle 4 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8252074156969256618, guid: cf9edad4caf62bf4c9302fc1a0dc80eb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8252074156969256618, guid: cf9edad4caf62bf4c9302fc1a0dc80eb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8252074156969256618, guid: cf9edad4caf62bf4c9302fc1a0dc80eb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8252074156969256618, guid: cf9edad4caf62bf4c9302fc1a0dc80eb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8252074156969256618, guid: cf9edad4caf62bf4c9302fc1a0dc80eb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8252074156969256618, guid: cf9edad4caf62bf4c9302fc1a0dc80eb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8252074156969256618, guid: cf9edad4caf62bf4c9302fc1a0dc80eb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8252074156969256618, guid: cf9edad4caf62bf4c9302fc1a0dc80eb,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8252074156969256618, guid: cf9edad4caf62bf4c9302fc1a0dc80eb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8252074156969256618, guid: cf9edad4caf62bf4c9302fc1a0dc80eb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8252074156969256618, guid: cf9edad4caf62bf4c9302fc1a0dc80eb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf9edad4caf62bf4c9302fc1a0dc80eb, type: 3}
+--- !u!4 &1862730581631597729 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8252074156969256618, guid: cf9edad4caf62bf4c9302fc1a0dc80eb,
+    type: 3}
+  m_PrefabInstance: {fileID: 7736337678479464971}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7736337678738522064
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7736337679502335776}
+    m_Modifications:
+    - target: {fileID: 272685691060550200, guid: 0cd24ce8405c46045acf89788f23f7a8,
+        type: 3}
+      propertyPath: sparkleID
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 272685691060550200, guid: 0cd24ce8405c46045acf89788f23f7a8,
+        type: 3}
+      propertyPath: invincibilitySparkType
+      value: 
+      objectReference: {fileID: 7736337679502335777}
+    - target: {fileID: 1480926341546831387, guid: 0cd24ce8405c46045acf89788f23f7a8,
+        type: 3}
+      propertyPath: m_Name
+      value: Invincibility Sparkle 1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8309501803507268346, guid: 0cd24ce8405c46045acf89788f23f7a8,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8309501803507268346, guid: 0cd24ce8405c46045acf89788f23f7a8,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8309501803507268346, guid: 0cd24ce8405c46045acf89788f23f7a8,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8309501803507268346, guid: 0cd24ce8405c46045acf89788f23f7a8,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8309501803507268346, guid: 0cd24ce8405c46045acf89788f23f7a8,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8309501803507268346, guid: 0cd24ce8405c46045acf89788f23f7a8,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8309501803507268346, guid: 0cd24ce8405c46045acf89788f23f7a8,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8309501803507268346, guid: 0cd24ce8405c46045acf89788f23f7a8,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8309501803507268346, guid: 0cd24ce8405c46045acf89788f23f7a8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8309501803507268346, guid: 0cd24ce8405c46045acf89788f23f7a8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8309501803507268346, guid: 0cd24ce8405c46045acf89788f23f7a8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0cd24ce8405c46045acf89788f23f7a8, type: 3}
+--- !u!4 &1733245924012541226 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8309501803507268346, guid: 0cd24ce8405c46045acf89788f23f7a8,
+    type: 3}
+  m_PrefabInstance: {fileID: 7736337678738522064}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7736337679217307500
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7736337679158018059}
+    m_Modifications:
+    - target: {fileID: 152207958161172072, guid: cf9edad4caf62bf4c9302fc1a0dc80eb,
+        type: 3}
+      propertyPath: sparkleID
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 152207958161172072, guid: cf9edad4caf62bf4c9302fc1a0dc80eb,
+        type: 3}
+      propertyPath: invincibilitySparkType
+      value: 
+      objectReference: {fileID: 7736337679158018052}
+    - target: {fileID: 1538340794752774731, guid: cf9edad4caf62bf4c9302fc1a0dc80eb,
+        type: 3}
+      propertyPath: m_Name
+      value: Invincibility Sparkle 4 Variant (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8252074156969256618, guid: cf9edad4caf62bf4c9302fc1a0dc80eb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8252074156969256618, guid: cf9edad4caf62bf4c9302fc1a0dc80eb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8252074156969256618, guid: cf9edad4caf62bf4c9302fc1a0dc80eb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8252074156969256618, guid: cf9edad4caf62bf4c9302fc1a0dc80eb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8252074156969256618, guid: cf9edad4caf62bf4c9302fc1a0dc80eb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8252074156969256618, guid: cf9edad4caf62bf4c9302fc1a0dc80eb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8252074156969256618, guid: cf9edad4caf62bf4c9302fc1a0dc80eb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8252074156969256618, guid: cf9edad4caf62bf4c9302fc1a0dc80eb,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8252074156969256618, guid: cf9edad4caf62bf4c9302fc1a0dc80eb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8252074156969256618, guid: cf9edad4caf62bf4c9302fc1a0dc80eb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8252074156969256618, guid: cf9edad4caf62bf4c9302fc1a0dc80eb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf9edad4caf62bf4c9302fc1a0dc80eb, type: 3}
+--- !u!4 &1862730580758809030 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8252074156969256618, guid: cf9edad4caf62bf4c9302fc1a0dc80eb,
+    type: 3}
+  m_PrefabInstance: {fileID: 7736337679217307500}
+  m_PrefabAsset: {fileID: 0}

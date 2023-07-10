@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: bfb58998de0b615429b2262119497c06
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Eggman_Body_Push_Button_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 78
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4358974, y: 0.4415585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd8b3a2a7a776f44a88f741145036ee
+      internalID: 121004550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eggman_Body_Push_Button_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 78
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4358974, y: 0.4415585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290cf3cbdeeba0a4da9e978df7eab5f9
+      internalID: -2009338111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eggman_Body_Push_Button_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 0
+        width: 78
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4358974, y: 0.4415585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5309d1a0690b74fa607807e3fb7b28
+      internalID: -1409255162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eggman_Body_Push_Button_3
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 0
+        width: 78
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4358974, y: 0.4415585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e3eb82ee1f465489aa3bd8ab34d4d0
+      internalID: 205894857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eggman_Body_Push_Button_4
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 0
+        width: 78
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4358974, y: 0.4415585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36076485bdf0b024e9d8997ccadac5e0
+      internalID: 1364363046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eggman_Body_Push_Button_5
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 0
+        width: 78
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4358974, y: 0.4415585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce9e51bac0a1f04f9bb7418db7de7cb
+      internalID: -1283863739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eggman_Body_Push_Button_6
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 0
+        width: 78
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4358974, y: 0.4415585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99669d3b1af8bf24381d09a3bf748b92
+      internalID: 1683849296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eggman_Body_Push_Button_7
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 0
+        width: 78
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4358974, y: 0.4415585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e787f2373c82f14291f13eeab7fd89f
+      internalID: -781872838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eggman_Body_Push_Button_8
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 0
+        width: 78
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4358974, y: 0.4415585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c5349f4fd74f0429a64ae5d275fa9a
+      internalID: -1338583470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eggman_Body_Push_Button_9
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 0
+        width: 78
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4358974, y: 0.4415585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0047e67a5f1ef94fa46faf2084e84cb
+      internalID: 29652269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eggman_Body_Push_Button_10
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 0
+        width: 78
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4358974, y: 0.4415585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457412efba5abe540a44a7ad58009d85
+      internalID: 1745271330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eggman_Body_Push_Button_11
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 0
+        width: 78
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4358974, y: 0.4415585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7538e7c8fa89643af05dc5bf14097f
+      internalID: 439368083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eggman_Body_Push_Button_12
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 0
+        width: 78
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4358974, y: 0.4415585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3e82ce24bb6a845b210c25f9f88f9b
+      internalID: -710244996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eggman_Body_Push_Button_13
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 0
+        width: 78
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4358974, y: 0.4415585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf67c06068cd15948b9bb339d2bd4ce7
+      internalID: -1408736492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eggman_Body_Push_Button_14
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 0
+        width: 78
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4358974, y: 0.4415585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e1d0ce8d4de824f87b07e272946cea
+      internalID: -574746958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Eggman_Body_Push_Button_6: 1683849296
+      Eggman_Body_Push_Button_2: -1409255162
+      Eggman_Body_Push_Button_4: 1364363046
+      Eggman_Body_Push_Button_7: -781872838
+      Eggman_Body_Push_Button_11: 439368083
+      Eggman_Body_Push_Button_12: -710244996
+      Eggman_Body_Push_Button_13: -1408736492
+      Eggman_Body_Push_Button_5: -1283863739
+      Eggman_Body_Push_Button_10: 1745271330
+      Eggman_Body_Push_Button_8: -1338583470
+      Eggman_Body_Push_Button_14: -574746958
+      Eggman_Body_Push_Button_3: 205894857
+      Eggman_Body_Push_Button_9: 29652269
+      Eggman_Body_Push_Button_0: 121004550
+      Eggman_Body_Push_Button_1: -2009338111
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

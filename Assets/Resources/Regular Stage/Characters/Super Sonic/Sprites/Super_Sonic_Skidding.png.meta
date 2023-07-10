@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: b00659497efbdd948bb6bbad798328ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3630240819847491306
+    second: Super_Sonic_Skid_0
+  - first:
+      213: -8043208981147781251
+    second: Super_Sonic_Skid_1
+  - first:
+      213: 4123202821317443985
+    second: Super_Sonic_Skid_2
+  - first:
+      213: -9172819837499082190
+    second: Super_Sonic_Skid_3
+  - first:
+      213: -4456172236320936590
+    second: Super_Sonic_Skid_4
+  - first:
+      213: -8995092970595531898
+    second: Super_Sonic_Skid_5
+  - first:
+      213: 454806655016060974
+    second: Super_Sonic_Skid_6
+  - first:
+      213: -8986323387202314166
+    second: Super_Sonic_Skid_7
+  - first:
+      213: -7796569267669590753
+    second: Super_Sonic_Skid_8
+  - first:
+      213: 2498662334037758277
+    second: Super_Sonic_Skid_9
+  - first:
+      213: -9047901604590711181
+    second: Super_Sonic_Skid_0
+  - first:
+      213: -810646273160641624
+    second: Super_Sonic_Skid_1
+  - first:
+      213: 2010438015818158055
+    second: Super_Sonic_Skid_2
+  - first:
+      213: -8214481328830354121
+    second: Super_Sonic_Skid_3
+  - first:
+      213: -3978370447660003853
+    second: Super_Sonic_Skid_4
+  - first:
+      213: -8462428444876415464
+    second: Super_Sonic_Skid_5
+  - first:
+      213: -1015810999734762273
+    second: Super_Sonic_Skid_6
+  - first:
+      213: 4594383401385442914
+    second: Super_Sonic_Skid_7
+  - first:
+      213: -8178723642706898208
+    second: Super_Sonic_Skid_8
+  - first:
+      213: 5015199176171995650
+    second: Super_Sonic_Skidding_0
+  - first:
+      213: -5133846390916199478
+    second: Super_Sonic_Skidding_1
+  - first:
+      213: 7291622128444774628
+    second: Super_Sonic_Skidding_2
+  - first:
+      213: 4845519874236806036
+    second: Super_Sonic_Skidding_3
+  - first:
+      213: 6206473868013148422
+    second: Super_Sonic_Skidding_4
+  - first:
+      213: -6474935956250820817
+    second: Super_Sonic_Skidding_5
+  - first:
+      213: 7288683056677488040
+    second: Super_Sonic_Skidding_6
+  - first:
+      213: -4152474434414520068
+    second: Super_Sonic_Skidding_7
+  - first:
+      213: 3211887076760638236
+    second: Super_Sonic_Skidding_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Super_Sonic_Skidding_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202409d3411999540800000000000000
+      internalID: 5015199176171995650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Skidding_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbc40268e9e0c8b0800000000000000
+      internalID: -5133846390916199478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Skidding_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8145271bb013560800000000000000
+      internalID: 7291622128444774628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Skidding_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493faf727aebe3340800000000000000
+      internalID: 4845519874236806036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Skidding_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6091ba28913d12650800000000000000
+      internalID: 6206473868013148422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Skidding_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ff340bd086426a0800000000000000
+      internalID: -6474935956250820817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Skidding_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a58ba97f9a962560800000000000000
+      internalID: 7288683056677488040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Skidding_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8d4dda0827f56c0800000000000000
+      internalID: -4152474434414520068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Skidding_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c135cfc674ae29c20800000000000000
+      internalID: 3211887076760638236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Super_Sonic_Skidding_6: 7288683056677488040
+      Super_Sonic_Skidding_3: 4845519874236806036
+      Super_Sonic_Skidding_5: -6474935956250820817
+      Super_Sonic_Skidding_4: 6206473868013148422
+      Super_Sonic_Skidding_8: 3211887076760638236
+      Super_Sonic_Skidding_1: -5133846390916199478
+      Super_Sonic_Skidding_0: 5015199176171995650
+      Super_Sonic_Skidding_7: -4152474434414520068
+      Super_Sonic_Skidding_2: 7291622128444774628
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

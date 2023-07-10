@@ -1,0 +1,450 @@
+fileFormatVersion: 2
+guid: eba5343a45d477e44bd57346ceeff210
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8749386001721233014
+    second: Super_Sonic_Push_0
+  - first:
+      213: -2957524695336347520
+    second: Super_Sonic_Push_1
+  - first:
+      213: -8421072337257752439
+    second: Super_Sonic_Push_2
+  - first:
+      213: -2112302472168548345
+    second: Super_Sonic_Push_3
+  - first:
+      213: -5275961236429796876
+    second: Super_Sonic_Push_4
+  - first:
+      213: -4825991167507908647
+    second: Super_Sonic_Push_5
+  - first:
+      213: -1422196955538169568
+    second: Super_Sonic_Push_6
+  - first:
+      213: -3270818242715425326
+    second: Super_Sonic_Push_7
+  - first:
+      213: -5560963495549502471
+    second: Super_Sonic_Push_8
+  - first:
+      213: -5282149269886842583
+    second: Super_Sonic_Push_9
+  - first:
+      213: 1025111186292787219
+    second: Super_Sonic_Push_0
+  - first:
+      213: 1765742449232855191
+    second: Super_Sonic_Push_1
+  - first:
+      213: -6965614759776278886
+    second: Super_Sonic_Push_2
+  - first:
+      213: -6376548985492876146
+    second: Super_Sonic_Push_3
+  - first:
+      213: -5314812843373399775
+    second: Super_Sonic_Push_4
+  - first:
+      213: -8245461753860517861
+    second: Super_Sonic_Push_5
+  - first:
+      213: 6228171538833082631
+    second: Super_Sonic_Push_6
+  - first:
+      213: 8522187533801732984
+    second: Super_Sonic_Push_7
+  - first:
+      213: -3353038468003743776
+    second: Super_Sonic_Push_8
+  - first:
+      213: 135493450562878745
+    second: Super_Sonic_Push_9
+  - first:
+      213: -5536134718613280272
+    second: Super_Sonic_Pushing_0
+  - first:
+      213: 4330860702122780999
+    second: Super_Sonic_Pushing_1
+  - first:
+      213: 1543675533890237295
+    second: Super_Sonic_Pushing_2
+  - first:
+      213: -1496770215236796137
+    second: Super_Sonic_Pushing_3
+  - first:
+      213: 6819774048589267854
+    second: Super_Sonic_Pushing_4
+  - first:
+      213: 3729188650103238318
+    second: Super_Sonic_Pushing_5
+  - first:
+      213: -4820416022273484538
+    second: Super_Sonic_Pushing_6
+  - first:
+      213: -6667540707897760072
+    second: Super_Sonic_Pushing_7
+  - first:
+      213: -6876050212754491737
+    second: Super_Sonic_Pushing_8
+  - first:
+      213: 7549362539063497334
+    second: Super_Sonic_Pushing_9
+  - first:
+      213: -8476173567506663106
+    second: Super_Sonic_Pushing_0
+  - first:
+      213: -3955264053187330401
+    second: Super_Sonic_Pushing_1
+  - first:
+      213: 2468303484555654079
+    second: Super_Sonic_Pushing_2
+  - first:
+      213: 5143168559968556340
+    second: Super_Sonic_Pushing_3
+  - first:
+      213: -6645311202227304923
+    second: Super_Sonic_Pushing_4
+  - first:
+      213: -1836330345690428517
+    second: Super_Sonic_Pushing_5
+  - first:
+      213: -8556699444029415356
+    second: Super_Sonic_Pushing_6
+  - first:
+      213: -8458907864781662048
+    second: Super_Sonic_Pushing_7
+  - first:
+      213: -855415282331334985
+    second: Super_Sonic_Pushing_8
+  - first:
+      213: 4315000084452369945
+    second: Super_Sonic_Pushing_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Super_Sonic_Pushing_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39b53e8c059e5a80800000000000000
+      internalID: -5536134718613280272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Pushing_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9eb5ecac441c19c0800000000000000
+      internalID: 4330860702122780999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Pushing_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb37cca01fc214220800000000000000
+      internalID: 1543675533890237295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Pushing_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43512ec3e84306740800000000000000
+      internalID: -1496770215236796137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Pushing_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52641518bac17c3a0800000000000000
+      internalID: 6819774048589267854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Pushing_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b0ad6a74b0486e0800000000000000
+      internalID: 3729188650103238318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Pushing_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44028d4e03f704980800000000000000
+      internalID: -4820416022273484538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Pushing_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a85eeb3d1ceb9a80800000000000000
+      internalID: -6667540707897760072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Pushing_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b643393554f024f0800000000000000
+      internalID: -6876050212754491737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Pushing_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916609707b5f1eb30800000000000000
+      internalID: 7549362539063497334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Super_Sonic_Pushing_0: -5536134718613280272
+      Super_Sonic_Pushing_9: 7549362539063497334
+      Super_Sonic_Pushing_4: 6819774048589267854
+      Super_Sonic_Pushing_2: 1543675533890237295
+      Super_Sonic_Pushing_6: -4820416022273484538
+      Super_Sonic_Pushing_3: -1496770215236796137
+      Super_Sonic_Pushing_8: -6876050212754491737
+      Super_Sonic_Pushing_5: 3729188650103238318
+      Super_Sonic_Pushing_7: -6667540707897760072
+      Super_Sonic_Pushing_1: 4330860702122780999
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

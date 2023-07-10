@@ -1,0 +1,453 @@
+fileFormatVersion: 2
+guid: bcd864b6dd1d3754f8cea05d0408be04
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4476904370394771575
+    second: Tails_Fan_0
+  - first:
+      213: -4365356556129714802
+    second: Tails_Fan_1
+  - first:
+      213: -5772659656511528674
+    second: Tails_Fan_2
+  - first:
+      213: 3387522602348100323
+    second: Tails_Fan_3
+  - first:
+      213: 6158136028782298274
+    second: Tails_Fan_4
+  - first:
+      213: -7698271836458606764
+    second: Tails_Fan_5
+  - first:
+      213: 8009338492537145070
+    second: Tails_Fan_6
+  - first:
+      213: -8563823260844354520
+    second: Tails_Fan_7
+  - first:
+      213: 33787492350324583
+    second: Tails_Fan_8
+  - first:
+      213: -3597490428885626318
+    second: Tails_Fan_9
+  - first:
+      213: -4005136784308258154
+    second: Tails_Fan_10
+  - first:
+      213: 4579329151562288475
+    second: Tails_Fan_0
+  - first:
+      213: -5727128472708324866
+    second: Tails_Fan_1
+  - first:
+      213: -837255743652653519
+    second: Tails_Fan_2
+  - first:
+      213: 3491673737672956946
+    second: Tails_Fan_3
+  - first:
+      213: -251810996872203457
+    second: Tails_Fan_4
+  - first:
+      213: -8710085446768739874
+    second: Tails_Fan_5
+  - first:
+      213: 6021219151016599327
+    second: Tails_Fan_6
+  - first:
+      213: 1992704193456174219
+    second: Tails_Fan_7
+  - first:
+      213: -6101443466453132676
+    second: Tails_Fan_8
+  - first:
+      213: 974973174870855764
+    second: Tails_Fan_9
+  - first:
+      213: 5040131047653681287
+    second: Knuckles_Fan_0
+  - first:
+      213: 2478789436420518903
+    second: Knuckles_Fan_1
+  - first:
+      213: 8185845912506764338
+    second: Knuckles_Fan_2
+  - first:
+      213: -8668785825867794948
+    second: Knuckles_Fan_3
+  - first:
+      213: 7671940298898626306
+    second: Knuckles_Fan_4
+  - first:
+      213: -3475610228562232574
+    second: Knuckles_Fan_5
+  - first:
+      213: 9177096246356650276
+    second: Knuckles_Fan_6
+  - first:
+      213: 3442286052129332901
+    second: Knuckles_Fan_7
+  - first:
+      213: 1312484051145478921
+    second: Knuckles_Fan_8
+  - first:
+      213: 1394510394290697407
+    second: Knuckles_Fan_9
+  - first:
+      213: 6136473518646852169
+    second: Knuckles_Fan_0
+  - first:
+      213: -5190672707327478156
+    second: Knuckles_Fan_1
+  - first:
+      213: -6435547035710117415
+    second: Knuckles_Fan_2
+  - first:
+      213: -3274070625128639159
+    second: Knuckles_Fan_3
+  - first:
+      213: -5356257328485856190
+    second: Knuckles_Fan_4
+  - first:
+      213: 110957896057019058
+    second: Knuckles_Fan_5
+  - first:
+      213: 4870331930162529147
+    second: Knuckles_Fan_6
+  - first:
+      213: -1540423400518710206
+    second: Knuckles_Fan_7
+  - first:
+      213: 7027776830105553226
+    second: Knuckles_Fan_8
+  - first:
+      213: -6825813430061993073
+    second: Knuckles_Fan_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Knuckles_Fan_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a798c1722292550800000000000000
+      internalID: 5040131047653681287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Fan_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4763e6e8ca607f7b0800000000000000
+      internalID: 2478789436420518903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Fan_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d92e29611850b6a0800000000000000
+      internalID: 8185845912506764338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Fan_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9459aabfc1a2092d0800000000000000
+      internalID: -8668785825867794948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Fan_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c8402a650caa5b0800000000000000
+      internalID: 7671940298898626306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Fan_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bad08b5e933a8100800000000000000
+      internalID: -3475610228562232574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Fan_6
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73849b1615e69340800000000000000
+      internalID: 9177096246356650276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Fan_7
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c026824115f9ae0800000000000000
+      internalID: 3442286052129332901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Fan_8
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49892fcacda78160800000000000000
+      internalID: 1312484051145478921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Fan_9
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 0
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83701e99d6d541a0800000000000000
+      internalID: 1394510394290697407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Knuckles_Fan_4: 7671940298898626306
+      Knuckles_Fan_3: -8668785825867794948
+      Knuckles_Fan_7: 3442286052129332901
+      Knuckles_Fan_8: 1312484051145478921
+      Knuckles_Fan_1: 2478789436420518903
+      Knuckles_Fan_0: 5040131047653681287
+      Knuckles_Fan_2: 8185845912506764338
+      Knuckles_Fan_5: -3475610228562232574
+      Knuckles_Fan_9: 1394510394290697407
+      Knuckles_Fan_6: 9177096246356650276
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

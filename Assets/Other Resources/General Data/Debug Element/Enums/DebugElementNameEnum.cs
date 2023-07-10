@@ -1,0 +1,20 @@
+public enum DebugElementNames
+{
+    Character,
+    GSP,
+    XSP,
+    YSP,
+    GRND,
+    SpriteAngle,
+    GroundAngle,
+    Input,
+    Action,
+    SubAction,
+    Gimmick,
+    Health,
+    Animation,
+    Super,
+    Shield,
+    SpeedShoes,
+    Oxygen
+}

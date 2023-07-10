@@ -1,0 +1,908 @@
+fileFormatVersion: 2
+guid: 3fa47d4a1894a3c479fc2257af0771dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3697579421851531111
+    second: Sonic_Corkscrew_Spin_0
+  - first:
+      213: 1064338118972144071
+    second: Sonic_Corkscrew_Spin_1
+  - first:
+      213: 2479858373898419423
+    second: Sonic_Corkscrew_Spin_2
+  - first:
+      213: -6286777468394632225
+    second: Sonic_Corkscrew_Spin_3
+  - first:
+      213: -2400388657632123230
+    second: Sonic_Corkscrew_Spin_4
+  - first:
+      213: 8517146424886949944
+    second: Sonic_Corkscrew_Spin_5
+  - first:
+      213: 6764745750958842148
+    second: Sonic_Corkscrew_Spin_6
+  - first:
+      213: -2308966972450854542
+    second: Sonic_Corkscrew_Spin_7
+  - first:
+      213: 5132724765153958943
+    second: Sonic_Corkscrew_Spin_8
+  - first:
+      213: -7230416283347409096
+    second: Sonic_Corkscrew_Spin_9
+  - first:
+      213: -788115158573929189
+    second: Sonic_Corkscrew_Spin_10
+  - first:
+      213: -449791918708620923
+    second: Sonic_Corkscrew_Spin_11
+  - first:
+      213: 8536350278649107242
+    second: Sonic_Corkscrew_Spin_12
+  - first:
+      213: 2541705534004178886
+    second: Sonic_Corkscrew_Spin_13
+  - first:
+      213: 3878321719124131518
+    second: Sonic_Corkscrew_Spin_14
+  - first:
+      213: -5352101280175671594
+    second: Sonic_Corkscrew_Spin_15
+  - first:
+      213: -5370073439483042229
+    second: Sonic_Corkscrew_Spin_16
+  - first:
+      213: -5593731025640719904
+    second: Sonic_Corkscrew_Spin_17
+  - first:
+      213: 2956856351932412367
+    second: Sonic_Corkscrew_Spin_18
+  - first:
+      213: -144373525573852864
+    second: Sonic_Corkscrew_Spin_19
+  - first:
+      213: 7584120220214577920
+    second: Sonic_Corkscrew_Spin_20
+  - first:
+      213: -5988572520936434234
+    second: Sonic_Corkscrew_Spin_21
+  - first:
+      213: 6496436189567585513
+    second: Sonic_Corkscrew_Spin_22
+  - first:
+      213: 3175235115267432073
+    second: Sonic_Corkscrew_Spin_23
+  - first:
+      213: -457048335741269724
+    second: Sonic_Corkscrew_Spin_0
+  - first:
+      213: -7506052028199084865
+    second: Sonic_Corkscrew_Spin_1
+  - first:
+      213: -3132659747283239025
+    second: Sonic_Corkscrew_Spin_2
+  - first:
+      213: 7937703419152664578
+    second: Sonic_Corkscrew_Spin_3
+  - first:
+      213: 4845092255655200142
+    second: Sonic_Corkscrew_Spin_4
+  - first:
+      213: -1436602930625487678
+    second: Sonic_Corkscrew_Spin_5
+  - first:
+      213: 8074927257897935645
+    second: Sonic_Corkscrew_Spin_6
+  - first:
+      213: -2274361712159487351
+    second: Sonic_Corkscrew_Spin_7
+  - first:
+      213: -1919662168233707777
+    second: Sonic_Corkscrew_Spin_8
+  - first:
+      213: 6434982995530543629
+    second: Sonic_Corkscrew_Spin_9
+  - first:
+      213: -3334590433189564805
+    second: Sonic_Corkscrew_Spin_10
+  - first:
+      213: -7026444294466251070
+    second: Sonic_Corkscrew_Spin_11
+  - first:
+      213: -3936293177069864330
+    second: Sonic_Corkscrew_Spin_12
+  - first:
+      213: 5744429699491229937
+    second: Sonic_Corkscrew_Spin_13
+  - first:
+      213: 1445958329069653912
+    second: Sonic_Corkscrew_Spin_14
+  - first:
+      213: -3129069306896303455
+    second: Sonic_Corkscrew_Spin_15
+  - first:
+      213: 6370149395093301005
+    second: Sonic_Corkscrew_Spin_16
+  - first:
+      213: 4325704919865686740
+    second: Sonic_Corkscrew_Spin_17
+  - first:
+      213: 7843962582381932267
+    second: Sonic_Corkscrew_Spin_18
+  - first:
+      213: 2906584277034076958
+    second: Sonic_Corkscrew_Spin_19
+  - first:
+      213: -7745016634751871188
+    second: Sonic_Corkscrew_Spin_20
+  - first:
+      213: 7239497337651861238
+    second: Sonic_Corkscrew_Spin_21
+  - first:
+      213: 3500799335159088654
+    second: Sonic_Corkscrew_Spin_22
+  - first:
+      213: 2149099935134308499
+    second: Sonic_Corkscrew_Spin_23
+  - first:
+      213: 4424316914144175294
+    second: Sonic_Corkscrew_Spin_24
+  - first:
+      213: -7922443870407770135
+    second: Sonic_Corkscrew_Spin_25
+  - first:
+      213: 636573120425541073
+    second: Sonic_Corkscrew_Spin_26
+  - first:
+      213: -979568736138629526
+    second: Sonic_Corkscrew_Spin_27
+  - first:
+      213: -6885387511156779102
+    second: Sonic_Corkscrew_Spin_28
+  - first:
+      213: -641915220668577613
+    second: Sonic_Corkscrew_Spin_29
+  - first:
+      213: 5155195924373449926
+    second: Sonic_Corkscrew_Spin_30
+  - first:
+      213: 3485917836728768281
+    second: Sonic_Corkscrew_Spin_31
+  - first:
+      213: -2806716598063477947
+    second: Sonic_Corkscrew_Spin_32
+  - first:
+      213: -225609072386074122
+    second: Sonic_Corkscrew_Spin_33
+  - first:
+      213: 5757588501634458229
+    second: Sonic_Corkscrew_Spin_34
+  - first:
+      213: 1246988263345787214
+    second: Sonic_Corkscrew_Spin_35
+  - first:
+      213: -3716944101687665767
+    second: Sonic_Corkscrew_Spin_36
+  - first:
+      213: -6480252101118460911
+    second: Sonic_Corkscrew_Spin_37
+  - first:
+      213: -6009971617825468926
+    second: Sonic_Corkscrew_Spin_38
+  - first:
+      213: 3394358765704618386
+    second: Sonic_Corkscrew_Spin_39
+  - first:
+      213: -745687496067471782
+    second: Sonic_Corkscrew_Spin_40
+  - first:
+      213: 2972327105553406213
+    second: Sonic_Corkscrew_Spin_41
+  - first:
+      213: -4840718676791363096
+    second: Tails_Corkscrew_Spin_0
+  - first:
+      213: 7333558696165321089
+    second: Tails_Corkscrew_Spin_1
+  - first:
+      213: -9193222881038260909
+    second: Tails_Corkscrew_Spin_2
+  - first:
+      213: -5919660603758260107
+    second: Tails_Corkscrew_Spin_3
+  - first:
+      213: -3589457287609923407
+    second: Tails_Corkscrew_Spin_4
+  - first:
+      213: -5100112118953415764
+    second: Tails_Corkscrew_Spin_5
+  - first:
+      213: -2694873073185172806
+    second: Tails_Corkscrew_Spin_6
+  - first:
+      213: 342064859012625335
+    second: Tails_Corkscrew_Spin_7
+  - first:
+      213: -7788720433686435483
+    second: Tails_Corkscrew_Spin_8
+  - first:
+      213: -7294151467197505180
+    second: Tails_Corkscrew_Spin_9
+  - first:
+      213: 4686272242005876062
+    second: Tails_Corkscrew_Spin_10
+  - first:
+      213: 2876957529139681050
+    second: Tails_Corkscrew_Spin_11
+  - first:
+      213: -6829631400739776264
+    second: Tails_Corkscrew_Spin_12
+  - first:
+      213: 235408947405594641
+    second: Tails_Corkscrew_Spin_13
+  - first:
+      213: 5310207041367271226
+    second: Tails_Corkscrew_Spin_14
+  - first:
+      213: 5560688601604000026
+    second: Tails_Corkscrew_Spin_15
+  - first:
+      213: 4900704436450322450
+    second: Tails_Corkscrew_Spin_16
+  - first:
+      213: 252125809713275097
+    second: Tails_Corkscrew_Spin_17
+  - first:
+      213: -8388707066713322740
+    second: Tails_Corkscrew_Spin_18
+  - first:
+      213: 249362129290047248
+    second: Tails_Corkscrew_Spin_19
+  - first:
+      213: 7779265753005049082
+    second: Tails_Corkscrew_Spin_20
+  - first:
+      213: 9147553064359822616
+    second: Tails_Corkscrew_Spin_21
+  - first:
+      213: -6895426558690784811
+    second: Tails_Corkscrew_Spin_22
+  - first:
+      213: 2307235881676306545
+    second: Tails_Corkscrew_Spin_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tails_Corkscrew_Spin_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9704cb20052dcb0800000000000000
+      internalID: -4840718676791363096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Corkscrew_Spin_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 8
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189296087c806c560800000000000000
+      internalID: 7333558696165321089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Corkscrew_Spin_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 8
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355a8ba5f7c1b6080800000000000000
+      internalID: -9193222881038260909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Corkscrew_Spin_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 8
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5705d1a6b0429dda0800000000000000
+      internalID: -5919660603758260107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Corkscrew_Spin_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 8
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8c29b5d9faf2ec0800000000000000
+      internalID: -3589457287609923407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Corkscrew_Spin_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 8
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabed13ac03c839b0800000000000000
+      internalID: -5100112118953415764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Corkscrew_Spin_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 8
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2580ec733e99ad0800000000000000
+      internalID: -2694873073185172806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Corkscrew_Spin_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 8
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3779b4d224fb400800000000000000
+      internalID: 342064859012625335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Corkscrew_Spin_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 8
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5692b4f2808e8e390800000000000000
+      internalID: -7788720433686435483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Corkscrew_Spin_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 8
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4616ccbf2e7f5ca90800000000000000
+      internalID: -7294151467197505180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Corkscrew_Spin_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 8
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d988176cbf80140800000000000000
+      internalID: 4686272242005876062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Corkscrew_Spin_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 8
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17914641a10de720800000000000000
+      internalID: 2876957529139681050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Corkscrew_Spin_12
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 6
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f85d0c0d664831a0800000000000000
+      internalID: -6829631400739776264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Corkscrew_Spin_13
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 6
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1102f0fb037544300800000000000000
+      internalID: 235408947405594641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Corkscrew_Spin_14
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 7
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3769706b25a1b940800000000000000
+      internalID: 5310207041367271226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Corkscrew_Spin_15
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 8
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a198b2542d88b2d40800000000000000
+      internalID: 5560688601604000026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Corkscrew_Spin_16
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 8
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2186dcb48bcc20440800000000000000
+      internalID: 4900704436450322450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Corkscrew_Spin_17
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 8
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0eaae861bbf7300800000000000000
+      internalID: 252125809713275097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Corkscrew_Spin_18
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 8
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b4ebb3e53559b80800000000000000
+      internalID: -8388707066713322740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Corkscrew_Spin_19
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 8
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fa4c01989e57300800000000000000
+      internalID: 249362129290047248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Corkscrew_Spin_20
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 8
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af44a3d6cf085fb60800000000000000
+      internalID: 7779265753005049082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Corkscrew_Spin_21
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 8
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8150435db03a2fe70800000000000000
+      internalID: 9147553064359822616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Corkscrew_Spin_22
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 8
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9017214168e40a0800000000000000
+      internalID: -6895426558690784811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Corkscrew_Spin_23
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 8
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178f9546fc2f40020800000000000000
+      internalID: 2307235881676306545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tails_Corkscrew_Spin_5: -5100112118953415764
+      Tails_Corkscrew_Spin_7: 342064859012625335
+      Tails_Corkscrew_Spin_16: 4900704436450322450
+      Tails_Corkscrew_Spin_6: -2694873073185172806
+      Tails_Corkscrew_Spin_15: 5560688601604000026
+      Tails_Corkscrew_Spin_20: 7779265753005049082
+      Tails_Corkscrew_Spin_9: -7294151467197505180
+      Tails_Corkscrew_Spin_2: -9193222881038260909
+      Tails_Corkscrew_Spin_22: -6895426558690784811
+      Tails_Corkscrew_Spin_0: -4840718676791363096
+      Tails_Corkscrew_Spin_17: 252125809713275097
+      Tails_Corkscrew_Spin_18: -8388707066713322740
+      Tails_Corkscrew_Spin_13: 235408947405594641
+      Tails_Corkscrew_Spin_11: 2876957529139681050
+      Tails_Corkscrew_Spin_3: -5919660603758260107
+      Tails_Corkscrew_Spin_19: 249362129290047248
+      Tails_Corkscrew_Spin_10: 4686272242005876062
+      Tails_Corkscrew_Spin_21: 9147553064359822616
+      Tails_Corkscrew_Spin_4: -3589457287609923407
+      Tails_Corkscrew_Spin_8: -7788720433686435483
+      Tails_Corkscrew_Spin_12: -6829631400739776264
+      Tails_Corkscrew_Spin_23: 2307235881676306545
+      Tails_Corkscrew_Spin_14: 5310207041367271226
+      Tails_Corkscrew_Spin_1: 7333558696165321089
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

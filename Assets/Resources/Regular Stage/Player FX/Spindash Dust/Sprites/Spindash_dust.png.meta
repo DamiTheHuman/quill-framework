@@ -1,0 +1,460 @@
+fileFormatVersion: 2
+guid: c3d72314467908f478d036d211ed66d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -833898991003755631
+    second: Spindash_dust_0
+  - first:
+      213: -8729159683403825910
+    second: Spindash_dust_1
+  - first:
+      213: -8088320901701936976
+    second: Spindash_dust_2
+  - first:
+      213: 4548310231459956309
+    second: Spindash_dust_3
+  - first:
+      213: -6203443224028763285
+    second: Spindash_dust_4
+  - first:
+      213: 7802530421756480426
+    second: Spindash_dust_5
+  - first:
+      213: -2033758962263163079
+    second: Spindash_dust_6
+  - first:
+      213: 5494105667383399423
+    second: Spindash_dust_7
+  - first:
+      213: -2656522222510313425
+    second: Spindash_dust_8
+  - first:
+      213: 107173259581977959
+    second: Spindash_dust_9
+  - first:
+      213: -2589323126923906349
+    second: Spindash_dust_10
+  - first:
+      213: 6942100298648055428
+    second: Spindash_dust_11
+  - first:
+      213: 3997807492263060022
+    second: Spindash_dust_12
+  - first:
+      213: 6117843337867934429
+    second: Spindash_dust_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spindash_dust_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65217394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b1aae29456d64f0800000000000000
+      internalID: -833898991003755631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spindash_dust_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 32
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65217394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dbd0b548bcbd680800000000000000
+      internalID: -8729159683403825910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spindash_dust_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 32
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65217394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b850b06ef280cf80800000000000000
+      internalID: -8088320901701936976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spindash_dust_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 32
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65217394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556027abe08de1f30800000000000000
+      internalID: 4548310231459956309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spindash_dust_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 32
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65217394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b26774141f8e9a0800000000000000
+      internalID: -6203443224028763285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spindash_dust_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 32
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65217394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab49f93418284c60800000000000000
+      internalID: 7802530421756480426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spindash_dust_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 32
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65217394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f7987cff2a6c3e0800000000000000
+      internalID: -2033758962263163079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spindash_dust_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 32
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65217394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff319d6defbfe3c40800000000000000
+      internalID: 5494105667383399423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spindash_dust_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 32
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65217394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20775d0d13222bd0800000000000000
+      internalID: -2656522222510313425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spindash_dust_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 0
+        width: 32
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65217394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765fdc20381cc7100800000000000000
+      internalID: 107173259581977959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spindash_dust_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 32
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65217394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d23ffab550e01cd0800000000000000
+      internalID: -2589323126923906349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spindash_dust_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 0
+        width: 32
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65217394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48eec08d07b475060800000000000000
+      internalID: 6942100298648055428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spindash_dust_12
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 32
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65217394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6322cb0abb01b7730800000000000000
+      internalID: 3997807492263060022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spindash_dust_13
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 32
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65217394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddabb112a12f6e450800000000000000
+      internalID: 6117843337867934429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Spindash_dust_0: -833898991003755631
+      Spindash_dust_10: -2589323126923906349
+      Spindash_dust_6: -2033758962263163079
+      Spindash_dust_4: -6203443224028763285
+      Spindash_dust_3: 4548310231459956309
+      Spindash_dust_13: 6117843337867934429
+      Spindash_dust_5: 7802530421756480426
+      Spindash_dust_7: 5494105667383399423
+      Spindash_dust_8: -2656522222510313425
+      Spindash_dust_11: 6942100298648055428
+      Spindash_dust_12: 3997807492263060022
+      Spindash_dust_1: -8729159683403825910
+      Spindash_dust_2: -8088320901701936976
+      Spindash_dust_9: 107173259581977959
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

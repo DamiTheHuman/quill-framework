@@ -1,0 +1,1260 @@
+fileFormatVersion: 2
+guid: c13e2b45f0d735649af0a3f9e4b65a0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 408315352423185405
+    second: Electric_Shield_0
+  - first:
+      213: -2618766001409191380
+    second: Electric_Shield_1
+  - first:
+      213: -4606277336937648240
+    second: Electric_Shield_2
+  - first:
+      213: -7196358540902403513
+    second: Electric_Shield_3
+  - first:
+      213: -3469017236126992007
+    second: Electric_Shield_4
+  - first:
+      213: 388499945160629861
+    second: Electric_Shield_5
+  - first:
+      213: 780873053303332964
+    second: Electric_Shield_6
+  - first:
+      213: -7987358030079727770
+    second: Electric_Shield_7
+  - first:
+      213: -6967486726540613920
+    second: Electric_Shield_8
+  - first:
+      213: 3086076322515712020
+    second: Electric_Shield_9
+  - first:
+      213: -6395226234207089965
+    second: Electric_Shield_10
+  - first:
+      213: 7510608128513048151
+    second: Electric_Shield_11
+  - first:
+      213: -8368390835650857778
+    second: Electric_Shield_12
+  - first:
+      213: 1451664763335966040
+    second: Electric_Shield_13
+  - first:
+      213: 1209123697212703272
+    second: Electric_Shield_14
+  - first:
+      213: -8466908822320244477
+    second: Electric_Shield_15
+  - first:
+      213: 2496802173066225991
+    second: Electric_Shield_16
+  - first:
+      213: 7377125221148775090
+    second: Electric_Shield_17
+  - first:
+      213: 894967455134664807
+    second: Electric_Shield_18
+  - first:
+      213: 717855875397581998
+    second: Electric_Shield_19
+  - first:
+      213: 730261755402736086
+    second: Electric_Shield_20
+  - first:
+      213: 3442308162508310392
+    second: Electric_Shield_21
+  - first:
+      213: -514198306950348977
+    second: Electric_Shield_22
+  - first:
+      213: 7363040180367952197
+    second: Electric_Shield_23
+  - first:
+      213: -1151822707380879681
+    second: Electric_Shield_24
+  - first:
+      213: 4779050783896628212
+    second: Electric_Shield_25
+  - first:
+      213: 5685058247033098300
+    second: Electric_Shield_26
+  - first:
+      213: -1326063186285813193
+    second: Electric_Shield_27
+  - first:
+      213: 7736543850120627886
+    second: Electric_Shield_28
+  - first:
+      213: -6782858513735548291
+    second: Electric_Shield_29
+  - first:
+      213: 5389565901974014131
+    second: Electric_Shield_30
+  - first:
+      213: -162357873002687348
+    second: Electric_Shield_31
+  - first:
+      213: 4985151698102679278
+    second: Electric_Shield_32
+  - first:
+      213: -1761432013849845084
+    second: Electric_Shield_33
+  - first:
+      213: -2526233114784060139
+    second: Electric_Shield_34
+  - first:
+      213: -3255254762658809424
+    second: Electric_Shield_35
+  - first:
+      213: 1270986394893574418
+    second: Electric_Shield_36
+  - first:
+      213: 6945071902696312937
+    second: Electric_Shield_37
+  - first:
+      213: 5203283289548961501
+    second: Electric_Shield_38
+  - first:
+      213: -4662101344481485913
+    second: Electric_Shield_39
+  - first:
+      213: -7666811668050203652
+    second: Electric_Shield_40
+  - first:
+      213: -7035192867973276110
+    second: Electric_Shield_41
+  - first:
+      213: 2683945668590794543
+    second: Electric_Shield_42
+  - first:
+      213: 5508391802533090126
+    second: Electric_Shield_43
+  - first:
+      213: 637735026963701652
+    second: Electric_Shield_44
+  - first:
+      213: 6350108693881592147
+    second: Electric_Shield_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Electric_Shield_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbb58156a0aaa500800000000000000
+      internalID: 408315352423185405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 146
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c229220523648abd0800000000000000
+      internalID: -2618766001409191380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 146
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f26eaca273310c0800000000000000
+      internalID: -4606277336937648240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 146
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742f925f806612c90800000000000000
+      internalID: -7196358540902403513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 146
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97971f014339bdfc0800000000000000
+      internalID: -3469017236126992007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 146
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ede8a44aa346500800000000000000
+      internalID: 388499945160629861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 146
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460e1dc97e736da00800000000000000
+      internalID: 780873053303332964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 146
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667eb33c034372190800000000000000
+      internalID: -7987358030079727770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 146
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e62c4fccb38e4f90800000000000000
+      internalID: -6967486726540613920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 146
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418fa498012f3da20800000000000000
+      internalID: 3086076322515712020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 146
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dac3d39f979f37a0800000000000000
+      internalID: -6395226234207089965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 146
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e7e2bcc4a0b3860800000000000000
+      internalID: 7510608128513048151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec475636fd08ddb80800000000000000
+      internalID: -8368390835650857778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d77973969552410800000000000000
+      internalID: 1451664763335966040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822cedda89ba7c010800000000000000
+      internalID: 1209123697212703272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_15
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3091bf3294f7f7a80800000000000000
+      internalID: -8466908822320244477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_16
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7492908095c66a220800000000000000
+      internalID: 2496802173066225991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_17
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2d52e8d40d06660800000000000000
+      internalID: 7377125221148775090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_18
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76846d0a8209b6c00800000000000000
+      internalID: 894967455134664807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_19
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacfff48d1656f900800000000000000
+      internalID: 717855875397581998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_20
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d155db8239622a00800000000000000
+      internalID: 730261755402736086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_21
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8774cb1290985cf20800000000000000
+      internalID: 3442308162508310392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_22
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ffd1a3d533dd8f0800000000000000
+      internalID: -514198306950348977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54982c17806ce2660800000000000000
+      internalID: 7363040180367952197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_24
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 49
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe755aa957e300f0800000000000000
+      internalID: -1151822707380879681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_25
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 49
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbe5b11e59925240800000000000000
+      internalID: 4779050783896628212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_26
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 49
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3010ddda5265ee40800000000000000
+      internalID: 5685058247033098300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_27
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 49
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73226bfce80e89de0800000000000000
+      internalID: -1326063186285813193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_28
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 49
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea64ca744a9bd5b60800000000000000
+      internalID: 7736543850120627886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_29
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 49
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d720f0f6e127ed1a0800000000000000
+      internalID: -6782858513735548291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_30
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 49
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b808b8f1a59bca40800000000000000
+      internalID: 5389565901974014131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_31
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 49
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84df2def503fbdf0800000000000000
+      internalID: -162357873002687348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_32
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 49
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee678d49e01de2540800000000000000
+      internalID: 4985151698102679278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_33
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 49
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2aa767ae22e87e0800000000000000
+      internalID: -1761432013849845084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_34
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 49
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51da77ddd5401fcd0800000000000000
+      internalID: -2526233114784060139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9b25a5a0303d2d0800000000000000
+      internalID: -3255254762658809424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_36
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2116cf5646373a110800000000000000
+      internalID: 1270986394893574418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_37
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96092c3591ad16060800000000000000
+      internalID: 6945071902696312937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6ba4b6596c53840800000000000000
+      internalID: 5203283289548961501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_39
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab5f4f2783ec4fb0800000000000000
+      internalID: -4662101344481485913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_40
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb2c0e88630a9590800000000000000
+      internalID: -7666811668050203652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_41
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e57125c59fd5e90800000000000000
+      internalID: -7035192867973276110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_42
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f277dcc8d5a4f3520800000000000000
+      internalID: 2683945668590794543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_43
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4398a1e82db17c40800000000000000
+      internalID: 5508391802533090126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_44
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fdefec0a0b9d800800000000000000
+      internalID: 637735026963701652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shield_45
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3599ee7763e102850800000000000000
+      internalID: 6350108693881592147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Electric_Shield_4: -3469017236126992007
+      Electric_Shield_43: 5508391802533090126
+      Electric_Shield_39: -4662101344481485913
+      Electric_Shield_15: -8466908822320244477
+      Electric_Shield_34: -2526233114784060139
+      Electric_Shield_18: 894967455134664807
+      Electric_Shield_17: 7377125221148775090
+      Electric_Shield_21: 3442308162508310392
+      Electric_Shield_38: 5203283289548961501
+      Electric_Shield_2: -4606277336937648240
+      Electric_Shield_26: 5685058247033098300
+      Electric_Shield_37: 6945071902696312937
+      Electric_Shield_10: -6395226234207089965
+      Electric_Shield_25: 4779050783896628212
+      Electric_Shield_41: -7035192867973276110
+      Electric_Shield_35: -3255254762658809424
+      Electric_Shield_12: -8368390835650857778
+      Electric_Shield_45: 6350108693881592147
+      Electric_Shield_16: 2496802173066225991
+      Electric_Shield_13: 1451664763335966040
+      Electric_Shield_11: 7510608128513048151
+      Electric_Shield_33: -1761432013849845084
+      Electric_Shield_6: 780873053303332964
+      Electric_Shield_32: 4985151698102679278
+      Electric_Shield_23: 7363040180367952197
+      Electric_Shield_7: -7987358030079727770
+      Electric_Shield_22: -514198306950348977
+      Electric_Shield_19: 717855875397581998
+      Electric_Shield_24: -1151822707380879681
+      Electric_Shield_28: 7736543850120627886
+      Electric_Shield_42: 2683945668590794543
+      Electric_Shield_3: -7196358540902403513
+      Electric_Shield_0: 408315352423185405
+      Electric_Shield_14: 1209123697212703272
+      Electric_Shield_9: 3086076322515712020
+      Electric_Shield_5: 388499945160629861
+      Electric_Shield_30: 5389565901974014131
+      Electric_Shield_44: 637735026963701652
+      Electric_Shield_36: 1270986394893574418
+      Electric_Shield_20: 730261755402736086
+      Electric_Shield_40: -7666811668050203652
+      Electric_Shield_31: -162357873002687348
+      Electric_Shield_27: -1326063186285813193
+      Electric_Shield_29: -6782858513735548291
+      Electric_Shield_1: -2618766001409191380
+      Electric_Shield_8: -6967486726540613920
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

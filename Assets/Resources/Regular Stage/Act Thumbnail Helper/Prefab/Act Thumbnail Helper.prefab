@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4638210193201339600
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4638210193201339606}
+  - component: {fileID: 4638210193201339607}
+  m_Layer: 0
+  m_Name: Act Thumbnail Helper
+  m_TagString: MainCamera
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4638210193201339606
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4638210193201339600}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4638210193201339607
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4638210193201339600}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34c8c540648fceb4fb24a16885087a11, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  captureCameraImage: 0
+  camera: {fileID: 0}
+  thumbnailRenderLayerMask:
+    serializedVersion: 2
+    m_Bits: 2143289111
+  mergedThumbnailRenderTexture: {fileID: 8600000, guid: 8ae4c61465fe29a47b5651c11a751cb2,
+    type: 2}
+  leftThumbnailRenderTexture: {fileID: 8600000, guid: caeef71051ff63243a724ff80689b09b,
+    type: 2}
+  rightThumbnailRenderTexture: {fileID: 8600000, guid: a96e8739fe5055e41a6c1cbcf424f59e,
+    type: 2}
+  cameraScreenShotDelay: 3
+  rightSideOffset: 396
+  saveDirectory: Assets/Resources/Regular Stage/Act Thumbnail Helper/Render Texture
+  fileName: Act Helper Thumbnail

@@ -1,0 +1,194 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8932426888905525777
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 397238145561871337, guid: 17ec2dc9f1357074da77d05fb77721af,
+        type: 3}
+      propertyPath: projectileData.gravity
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 397238145561871338, guid: 17ec2dc9f1357074da77d05fb77721af,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -1888609605, guid: 1a6477b7a34b51b49adae404acf7c0c5,
+        type: 3}
+    - target: {fileID: 397238145561871338, guid: 17ec2dc9f1357074da77d05fb77721af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2334489513905991288, guid: 17ec2dc9f1357074da77d05fb77721af,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -293686157, guid: 1a6477b7a34b51b49adae404acf7c0c5,
+        type: 3}
+    - target: {fileID: 2334489513905991288, guid: 17ec2dc9f1357074da77d05fb77721af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2334489513905991291, guid: 17ec2dc9f1357074da77d05fb77721af,
+        type: 3}
+      propertyPath: projectileData.gravity
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4997634018817530631, guid: 17ec2dc9f1357074da77d05fb77721af,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -1632753005, guid: 1a6477b7a34b51b49adae404acf7c0c5,
+        type: 3}
+    - target: {fileID: 4997634018817530631, guid: 17ec2dc9f1357074da77d05fb77721af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5627391614885664968, guid: 17ec2dc9f1357074da77d05fb77721af,
+        type: 3}
+      propertyPath: projectileData.gravity
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5627391614885664971, guid: 17ec2dc9f1357074da77d05fb77721af,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1960423230, guid: 1a6477b7a34b51b49adae404acf7c0c5,
+        type: 3}
+    - target: {fileID: 5627391614885664971, guid: 17ec2dc9f1357074da77d05fb77721af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6428055560590648230, guid: 17ec2dc9f1357074da77d05fb77721af,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6428055560590648230, guid: 17ec2dc9f1357074da77d05fb77721af,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 616
+      objectReference: {fileID: 0}
+    - target: {fileID: 6428055560590648230, guid: 17ec2dc9f1357074da77d05fb77721af,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 172
+      objectReference: {fileID: 0}
+    - target: {fileID: 6428055560590648230, guid: 17ec2dc9f1357074da77d05fb77721af,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6428055560590648230, guid: 17ec2dc9f1357074da77d05fb77721af,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6428055560590648230, guid: 17ec2dc9f1357074da77d05fb77721af,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6428055560590648230, guid: 17ec2dc9f1357074da77d05fb77721af,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6428055560590648230, guid: 17ec2dc9f1357074da77d05fb77721af,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6428055560590648230, guid: 17ec2dc9f1357074da77d05fb77721af,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6428055560590648230, guid: 17ec2dc9f1357074da77d05fb77721af,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6428055560590648230, guid: 17ec2dc9f1357074da77d05fb77721af,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6428055560590648231, guid: 17ec2dc9f1357074da77d05fb77721af,
+        type: 3}
+      propertyPath: m_Name
+      value: Quasar Lake Wall Shards Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 6428055561026707941, guid: 17ec2dc9f1357074da77d05fb77721af,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1888595407, guid: 1a6477b7a34b51b49adae404acf7c0c5,
+        type: 3}
+    - target: {fileID: 6428055561026707941, guid: 17ec2dc9f1357074da77d05fb77721af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6428055561026707942, guid: 17ec2dc9f1357074da77d05fb77721af,
+        type: 3}
+      propertyPath: projectileData.gravity
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6727406266090488168, guid: 17ec2dc9f1357074da77d05fb77721af,
+        type: 3}
+      propertyPath: projectileData.gravity
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6727406266090488171, guid: 17ec2dc9f1357074da77d05fb77721af,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1566909019, guid: 1a6477b7a34b51b49adae404acf7c0c5,
+        type: 3}
+    - target: {fileID: 6727406266090488171, guid: 17ec2dc9f1357074da77d05fb77721af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8197635481279346452, guid: 17ec2dc9f1357074da77d05fb77721af,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -507786572, guid: 1a6477b7a34b51b49adae404acf7c0c5,
+        type: 3}
+    - target: {fileID: 8197635481279346452, guid: 17ec2dc9f1357074da77d05fb77721af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8197635481279346455, guid: 17ec2dc9f1357074da77d05fb77721af,
+        type: 3}
+      propertyPath: projectileData.gravity
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8531074063941305336, guid: 17ec2dc9f1357074da77d05fb77721af,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -1853187240, guid: 1a6477b7a34b51b49adae404acf7c0c5,
+        type: 3}
+    - target: {fileID: 8531074063941305336, guid: 17ec2dc9f1357074da77d05fb77721af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8531074063941305339, guid: 17ec2dc9f1357074da77d05fb77721af,
+        type: 3}
+      propertyPath: projectileData.gravity
+      value: 0.6
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 17ec2dc9f1357074da77d05fb77721af, type: 3}

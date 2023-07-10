@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63c06669c87db754c8dd6ca787188946, type: 3}
+  m_Name: Tails Character Build
+  m_EditorClassIdentifier: 
+  characterHeight: 40
+  characterWidth: 20
+  playerPixelPivotPoint: 15
+  lowCeilingYRange: 24
+  characterStrength: 0
+  bodyWidthRadius: 8
+  bodyHeightRadius: 20
+  rollingCharacterHeight: 30
+  rollingCharacterWidth: 16
+  rollingBodyWidthRadius: 6
+  rollingBodyHeightRadius: 15
+  pushRadius: 10
+  pushRadiusOffsetOnFlatGround: -8
+  pushRadiusOffsetOnSlopes: 0

@@ -1,0 +1,446 @@
+fileFormatVersion: 2
+guid: d897642a72c3e544b92d96041fffcc2f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 195012670865115631
+    second: Special_Stage_Knuckles_Roll_0
+  - first:
+      213: 5149983978486112611
+    second: Special_Stage_Knuckles_Roll_1
+  - first:
+      213: -6996752297526035429
+    second: Special_Stage_Knuckles_Roll_2
+  - first:
+      213: 7906640053176633456
+    second: Special_Stage_Knuckles_Roll_3
+  - first:
+      213: -9207875290937784778
+    second: Special_Stage_Knuckles_Roll_4
+  - first:
+      213: -8739250543146567698
+    second: Special_Stage_Knuckles_Roll_5
+  - first:
+      213: -5235457040429232229
+    second: Special_Stage_Knuckles_Roll_6
+  - first:
+      213: 8431120111376995248
+    second: Special_Stage_Knuckles_Roll_7
+  - first:
+      213: 7103776289209670758
+    second: Special_Stage_Knuckles_Roll_8
+  - first:
+      213: -1689011352077772240
+    second: Special_Stage_Knuckles_Roll_9
+  - first:
+      213: 6713848273462918520
+    second: Special_Stage_Knuckles_Roll_10
+  - first:
+      213: -6309411957562072846
+    second: Special_Stage_Knuckles_Roll_11
+  - first:
+      213: 1654284651996873539
+    second: Special_Stage_Knuckles_Roll_0
+  - first:
+      213: -1177077684730984641
+    second: Special_Stage_Knuckles_Roll_1
+  - first:
+      213: 4181210649527894590
+    second: Special_Stage_Knuckles_Roll_2
+  - first:
+      213: -4907169980033226531
+    second: Special_Stage_Knuckles_Roll_3
+  - first:
+      213: 1511105361076069857
+    second: Special_Stage_Knuckles_Roll_4
+  - first:
+      213: 4007960299627571540
+    second: Special_Stage_Knuckles_Roll_5
+  - first:
+      213: 7813960812245063826
+    second: Special_Stage_Knuckles_Roll_6
+  - first:
+      213: -421263704160978713
+    second: Special_Stage_Knuckles_Roll_7
+  - first:
+      213: -3355606459755920288
+    second: Special_Stage_Knuckles_Roll_8
+  - first:
+      213: -7714123771885712601
+    second: Special_Stage_Knuckles_Roll_9
+  - first:
+      213: -5316043767195928424
+    second: Special_Stage_Knuckles_Roll_10
+  - first:
+      213: -6279248288752358409
+    second: Special_Stage_Knuckles_Roll_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Special_Stage_Knuckles_Roll_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34387af402335f610800000000000000
+      internalID: 195012670865115631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Knuckles_Roll_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f370298051e2aafe0800000000000000
+      internalID: 5149983978486112611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Knuckles_Roll_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32c038cee4a60a30800000000000000
+      internalID: -6996752297526035429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Knuckles_Roll_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8a8a707ea36ebb0800000000000000
+      internalID: 7906640053176633456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Knuckles_Roll_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5a029d15688f410800000000000000
+      internalID: -9207875290937784778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Knuckles_Roll_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4596b2d48a22f9730800000000000000
+      internalID: -8739250543146567698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Knuckles_Roll_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29890b665f3c07c60800000000000000
+      internalID: -5235457040429232229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Knuckles_Roll_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e838bc94ee572af0800000000000000
+      internalID: 8431120111376995248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Knuckles_Roll_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0640e3024bd7e61d0800000000000000
+      internalID: 7103776289209670758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Knuckles_Roll_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b0b57fc4de1f490800000000000000
+      internalID: -1689011352077772240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Knuckles_Roll_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8987bddfb5e9936b0800000000000000
+      internalID: 6713848273462918520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Knuckles_Roll_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbaf6443f0abd8a0800000000000000
+      internalID: -6309411957562072846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Special_Stage_Knuckles_Roll_1: 5149983978486112611
+      Special_Stage_Knuckles_Roll_9: -1689011352077772240
+      Special_Stage_Knuckles_Roll_4: -9207875290937784778
+      Special_Stage_Knuckles_Roll_3: 7906640053176633456
+      Special_Stage_Knuckles_Roll_2: -6996752297526035429
+      Special_Stage_Knuckles_Roll_5: -8739250543146567698
+      Special_Stage_Knuckles_Roll_0: 195012670865115631
+      Special_Stage_Knuckles_Roll_6: -5235457040429232229
+      Special_Stage_Knuckles_Roll_11: -6309411957562072846
+      Special_Stage_Knuckles_Roll_8: 7103776289209670758
+      Special_Stage_Knuckles_Roll_10: 6713848273462918520
+      Special_Stage_Knuckles_Roll_7: 8431120111376995248
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

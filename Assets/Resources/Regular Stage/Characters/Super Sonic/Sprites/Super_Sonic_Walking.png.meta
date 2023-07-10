@@ -1,0 +1,482 @@
+fileFormatVersion: 2
+guid: 06152b6a6d0283d43bd7b4501832a3d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3541873191423534204
+    second: Super_Sonic_Walk_0
+  - first:
+      213: -6211738855984075171
+    second: Super_Sonic_Walk_1
+  - first:
+      213: 3608492701687371847
+    second: Super_Sonic_Walk_2
+  - first:
+      213: 5607326351562202492
+    second: Super_Sonic_Walk_3
+  - first:
+      213: 2530851415335278050
+    second: Super_Sonic_Walk_4
+  - first:
+      213: 7181197243163636971
+    second: Super_Sonic_Walk_5
+  - first:
+      213: 5522809290763111035
+    second: Super_Sonic_Walk_6
+  - first:
+      213: -7913379500286372247
+    second: Super_Sonic_Walk_7
+  - first:
+      213: -7280254283133939174
+    second: Super_Sonic_Walk_8
+  - first:
+      213: -1799973866186061453
+    second: Super_Sonic_Walk_9
+  - first:
+      213: -7220437343622327294
+    second: Super_Sonic_Walk_10
+  - first:
+      213: 6083313324909059551
+    second: Super_Sonic_Walk_11
+  - first:
+      213: -4239702879953819450
+    second: Super_Sonic_Walk_0
+  - first:
+      213: 173773000413671641
+    second: Super_Sonic_Walk_1
+  - first:
+      213: 3893333388251146357
+    second: Super_Sonic_Walk_2
+  - first:
+      213: -4529858195837401114
+    second: Super_Sonic_Walk_3
+  - first:
+      213: 8861405831956693201
+    second: Super_Sonic_Walk_4
+  - first:
+      213: -8953978196373691394
+    second: Super_Sonic_Walk_5
+  - first:
+      213: -3882665761500086841
+    second: Super_Sonic_Walk_6
+  - first:
+      213: 64702230966838431
+    second: Super_Sonic_Walk_7
+  - first:
+      213: -6326256349296348333
+    second: Super_Sonic_Walk_8
+  - first:
+      213: 3610196271249719930
+    second: Super_Sonic_Walk_9
+  - first:
+      213: 5601032124297973467
+    second: Super_Sonic_Walk_10
+  - first:
+      213: 7173457062650684682
+    second: Super_Sonic_Walk_11
+  - first:
+      213: 8167287929089542301
+    second: Super_Sonic_Walking_0
+  - first:
+      213: -8802543741656877528
+    second: Super_Sonic_Walking_1
+  - first:
+      213: 9070860680882907003
+    second: Super_Sonic_Walking_2
+  - first:
+      213: -3303799195266826800
+    second: Super_Sonic_Walking_3
+  - first:
+      213: -1744596079905453233
+    second: Super_Sonic_Walking_4
+  - first:
+      213: -2379711137065615171
+    second: Super_Sonic_Walking_5
+  - first:
+      213: 771649261241662352
+    second: Super_Sonic_Walking_6
+  - first:
+      213: -4450895263512598429
+    second: Super_Sonic_Walking_7
+  - first:
+      213: -1768269468702481016
+    second: Super_Sonic_Walking_8
+  - first:
+      213: 969440902435432427
+    second: Super_Sonic_Walking_9
+  - first:
+      213: -6481311382971402558
+    second: Super_Sonic_Walking_10
+  - first:
+      213: 3504112761175590882
+    second: Super_Sonic_Walking_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Super_Sonic_Walking_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98c7bf6919085170800000000000000
+      internalID: 8167287929089542301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Walking_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82634b6da1517d580800000000000000
+      internalID: -8802543741656877528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Walking_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b776513dabb22ed70800000000000000
+      internalID: 9070860680882907003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Walking_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd36ecd22c8622d0800000000000000
+      internalID: -3303799195266826800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Walking_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b42bccb13f9c7e0800000000000000
+      internalID: -1744596079905453233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Walking_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0c92f345199fed0800000000000000
+      internalID: -2379711137065615171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Walking_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b708b2ae275ba00800000000000000
+      internalID: 771649261241662352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Walking_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368ecd5f65e3b32c0800000000000000
+      internalID: -4450895263512598429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Walking_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885e1d27948d577e0800000000000000
+      internalID: -1768269468702481016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Walking_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7e56c4d55247d00800000000000000
+      internalID: 969440902435432427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Walking_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c63b4bf2a1cd06a0800000000000000
+      internalID: -6481311382971402558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Walking_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7c8ce9dfb11a030800000000000000
+      internalID: 3504112761175590882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Super_Sonic_Walking_11: 3504112761175590882
+      Super_Sonic_Walking_10: -6481311382971402558
+      Super_Sonic_Walking_8: -1768269468702481016
+      Super_Sonic_Walking_3: -3303799195266826800
+      Super_Sonic_Walking_5: -2379711137065615171
+      Super_Sonic_Walking_1: -8802543741656877528
+      Super_Sonic_Walking_4: -1744596079905453233
+      Super_Sonic_Walking_0: 8167287929089542301
+      Super_Sonic_Walking_2: 9070860680882907003
+      Super_Sonic_Walking_9: 969440902435432427
+      Super_Sonic_Walking_7: -4450895263512598429
+      Super_Sonic_Walking_6: 771649261241662352
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

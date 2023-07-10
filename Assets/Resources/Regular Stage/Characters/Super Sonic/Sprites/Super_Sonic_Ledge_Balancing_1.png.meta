@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: 4dd857b2d4c59ac4987ad0eec5990d1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4282643680420315014
+    second: Super_Sonic_Ledge_Balancing_1_0
+  - first:
+      213: -139458718990811231
+    second: Super_Sonic_Ledge_Balancing_1_1
+  - first:
+      213: 2999271317714104280
+    second: Super_Sonic_Ledge_Balancing_1_2
+  - first:
+      213: -5504309130725624661
+    second: Super_Sonic_Ledge_Balancing_1_3
+  - first:
+      213: -5934531953100791483
+    second: Super_Sonic_Ledge_Balancing_1_4
+  - first:
+      213: 4090890577366800608
+    second: Super_Sonic_Ledge_Balancing_1_5
+  - first:
+      213: -2197712873075533979
+    second: Super_Sonic_Ledge_Balancing_1_6
+  - first:
+      213: 6815836400547188391
+    second: Super_Sonic_Ledge_Balancing_1_7
+  - first:
+      213: 3308927097587114436
+    second: Super_Sonic_Ledge_Balancing_1_0
+  - first:
+      213: 4940834398541288459
+    second: Super_Sonic_Ledge_Balancing_1_1
+  - first:
+      213: 6179832032966710891
+    second: Super_Sonic_Ledge_Balancing_1_2
+  - first:
+      213: 8864615187308900957
+    second: Super_Sonic_Ledge_Balancing_1_3
+  - first:
+      213: -8327853662578766666
+    second: Super_Sonic_Ledge_Balancing_1_4
+  - first:
+      213: 6194661679198122561
+    second: Super_Sonic_Ledge_Balancing_1_5
+  - first:
+      213: -108707838499944784
+    second: Super_Sonic_Ledge_Balancing_1_6
+  - first:
+      213: -7836691411295227718
+    second: Super_Sonic_Ledge_Balancing_1_7
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Super_Sonic_Ledge_Balancing_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2678571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1285fe9ababed20800000000000000
+      internalID: -4282643680420315014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Ledge_Balancing_1_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2678571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04951335be519440800000000000000
+      internalID: -139458718990811231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Ledge_Balancing_1_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2678571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b669f88ed7c23c550800000000000000
+      internalID: 2999271317714104280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Ledge_Balancing_1_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2678571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52741ecb80750b70800000000000000
+      internalID: -5504309130725624661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Ledge_Balancing_1_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2678571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc8e8c77358d6c80800000000000000
+      internalID: -5934531953100791483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Ledge_Balancing_1_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2678571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142345cf9fbd7f550800000000000000
+      internalID: 4090890577366800608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Ledge_Balancing_1_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2678571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b609edfbcacd7ef0800000000000000
+      internalID: -2197712873075533979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Ledge_Balancing_1_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2678571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0b4679eaa7e3390800000000000000
+      internalID: 6815836400547188391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Super_Sonic_Ledge_Balancing_1_0: -4282643680420315014
+      Super_Sonic_Ledge_Balancing_1_2: 2999271317714104280
+      Super_Sonic_Ledge_Balancing_1_7: 6815836400547188391
+      Super_Sonic_Ledge_Balancing_1_4: -5934531953100791483
+      Super_Sonic_Ledge_Balancing_1_3: -5504309130725624661
+      Super_Sonic_Ledge_Balancing_1_5: 4090890577366800608
+      Super_Sonic_Ledge_Balancing_1_1: -139458718990811231
+      Super_Sonic_Ledge_Balancing_1_6: -2197712873075533979
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

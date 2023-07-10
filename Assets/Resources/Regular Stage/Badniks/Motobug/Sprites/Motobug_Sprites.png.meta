@@ -1,0 +1,747 @@
+fileFormatVersion: 2
+guid: 1e5ee18899133dc45a8ae4356de2466e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4057685377450304218
+    second: Motobug_Sprites_0
+  - first:
+      213: -4071903575261623578
+    second: Motobug_Sprites_1
+  - first:
+      213: -5295974958050474793
+    second: Motobug_Sprites_2
+  - first:
+      213: 1273237386455739536
+    second: Motobug_Sprites_3
+  - first:
+      213: 5961936149209690395
+    second: Motobug_Sprites_4
+  - first:
+      213: 2288639633757311902
+    second: Motobug_Sprites_5
+  - first:
+      213: 3656924660560970017
+    second: Motobug_Sprites_6
+  - first:
+      213: 3704439950308853589
+    second: Motobug_Sprites_7
+  - first:
+      213: 2162352113086175965
+    second: Motobug_Sprites_8
+  - first:
+      213: 316756621162440086
+    second: Motobug_Sprites_9
+  - first:
+      213: -8267492216041157167
+    second: Motobug_Sprites_10
+  - first:
+      213: -2377232407953793909
+    second: Motobug_Sprites_11
+  - first:
+      213: -6854743851917866854
+    second: Motobug_Sprites_12
+  - first:
+      213: -466175557937312358
+    second: Motobug_Sprites_13
+  - first:
+      213: -8522508360044890101
+    second: Motobug_Sprites_14
+  - first:
+      213: 4377697822213151870
+    second: Motobug_Sprites_15
+  - first:
+      213: 5639053118097895461
+    second: Motobug_Sprites_16
+  - first:
+      213: -3751673499668557825
+    second: Motobug_Sprites_17
+  - first:
+      213: 2090431447586323216
+    second: Motobug_Sprites_18
+  - first:
+      213: -7675916924004456557
+    second: Motobug_Sprites_19
+  - first:
+      213: -3669037874052356782
+    second: Motobug_Sprites_20
+  - first:
+      213: -1387985903212532764
+    second: Motobug_Sprites_21
+  - first:
+      213: -5757516082972643762
+    second: Motobug_Sprites_22
+  - first:
+      213: -5080129800071796388
+    second: Motobug_Sprites_23
+  - first:
+      213: 2336534614302985481
+    second: Motobug_Sprites_24
+  - first:
+      213: -933348471729553146
+    second: Motobug_Sprites_25
+  - first:
+      213: 933098009910184064
+    second: Motobug_Sprites_0
+  - first:
+      213: 6601343822627613995
+    second: Motobug_Sprites_1
+  - first:
+      213: 1335067801589877649
+    second: Motobug_Sprites_2
+  - first:
+      213: 1067855584388287550
+    second: Motobug_Sprites_3
+  - first:
+      213: -1808063067450485012
+    second: Motobug_Sprites_4
+  - first:
+      213: -7079805168704653964
+    second: Motobug_Sprites_6
+  - first:
+      213: -3232771325089319829
+    second: Motobug_Sprites_7
+  - first:
+      213: -8431589597974713065
+    second: Motobug_Sprites_8
+  - first:
+      213: 3216489019538268921
+    second: Motobug_Sprites_9
+  - first:
+      213: 1186314294105919826
+    second: Motobug_Sprites_10
+  - first:
+      213: -6099658888606395565
+    second: Motobug_Sprites_12
+  - first:
+      213: 7510739299729223220
+    second: Motobug_Sprites_13
+  - first:
+      213: 8102454936889516089
+    second: Motobug_Sprites_14
+  - first:
+      213: 4269339928801848574
+    second: Motobug_Sprites_15
+  - first:
+      213: 2516395452509961155
+    second: Motobug_Sprites_16
+  - first:
+      213: 1976107608601667941
+    second: Motobug_Sprites_17
+  - first:
+      213: -3516479737489710495
+    second: Motobug_Sprites_18
+  - first:
+      213: 7145858709966965335
+    second: Motobug_Sprites_20
+  - first:
+      213: -399575228555429907
+    second: Motobug_Sprites_21
+  - first:
+      213: -1261075951283132970
+    second: Motobug_Sprites_22
+  - first:
+      213: -1826766002728345243
+    second: Motobug_Sprites_5
+  - first:
+      213: 3986085616965018599
+    second: Motobug_Sprites_11
+  - first:
+      213: -4323671813087454173
+    second: Motobug_Sprites_19
+  - first:
+      213: 2903536213959842359
+    second: Motobug_Sprites_23
+  - first:
+      213: -4809288218515118913
+    second: Motobug_Sprites_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Motobug_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 128
+        width: 39
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088025d32b703fc00800000000000000
+      internalID: -4057685377450304218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motobug_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 128
+        width: 39
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d20f33b3fac9b50800000000000000
+      internalID: -4071903575261623578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motobug_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 127
+        width: 39
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b83d0971d178210800000000000000
+      internalID: -5295974958050474793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motobug_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 127
+        width: 39
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c81ea0ff8c1de00800000000000000
+      internalID: 1273237386455739536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motobug_Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 127
+        width: 41
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce65c1d383878e6e0800000000000000
+      internalID: 5961936149209690395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motobug_Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 98
+        width: 40
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4757260a5ba7fbd90800000000000000
+      internalID: 3656924660560970017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motobug_Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 97
+        width: 39
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b647bf79b93e223d0800000000000000
+      internalID: 3704439950308853589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motobug_Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 98
+        width: 38
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71da6d0eee9fcfa80800000000000000
+      internalID: 2162352113086175965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motobug_Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 98
+        width: 36
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2e589b8b343ac20800000000000000
+      internalID: 316756621162440086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motobug_Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 68
+        width: 35
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251d62ca092a67010800000000000000
+      internalID: -8267492216041157167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motobug_Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 68
+        width: 38
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353df85ee88a95ba0800000000000000
+      internalID: -6854743851917866854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motobug_Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 39
+        width: 39
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e2de879918b3860800000000000000
+      internalID: -466175557937312358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motobug_Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 39
+        width: 39
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930e8e126d3b17070800000000000000
+      internalID: -8522508360044890101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motobug_Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 20
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a46b6e2a03b2360800000000000000
+      internalID: -3669037874052356782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motobug_Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 17
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de778e8527c647af0800000000000000
+      internalID: -1387985903212532764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motobug_Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d52bf09a12cf7ee0800000000000000
+      internalID: -5757516082972643762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motobug_Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 98
+        width: 40
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561ed97cff506a6e0800000000000000
+      internalID: 2288639633757311902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motobug_Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 68
+        width: 36
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e36e7bdfbb615730800000000000000
+      internalID: -2377232407953793909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motobug_Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 24
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c9d8fc46b3ff3c0800000000000000
+      internalID: -7675916924004456557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motobug_Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 3
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a1f819dce6b4820800000000000000
+      internalID: -5080129800071796388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motobug_Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 7
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb46fe098d9f14db0800000000000000
+      internalID: 2336534614302985481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motobug_Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 7
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60108e292841c03f0800000000000000
+      internalID: -933348471729553146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Motobug_Sprites_9: 316756621162440086
+      Motobug_Sprites_3: 1273237386455739536
+      Motobug_Sprites_0: -4057685377450304218
+      Motobug_Sprites_20: -3669037874052356782
+      Motobug_Sprites_24: 2336534614302985481
+      Motobug_Sprites_21: -1387985903212532764
+      Motobug_Sprites_1: -4071903575261623578
+      Motobug_Sprites_23: -5080129800071796388
+      Motobug_Sprites_8: 2162352113086175965
+      Motobug_Sprites_11: -2377232407953793909
+      Motobug_Sprites_22: -5757516082972643762
+      Motobug_Sprites_10: -8267492216041157167
+      Motobug_Sprites_7: 3704439950308853589
+      Motobug_Sprites_14: -8522508360044890101
+      Motobug_Sprites_2: -5295974958050474793
+      Motobug_Sprites_13: -466175557937312358
+      Motobug_Sprites_4: 5961936149209690395
+      Motobug_Sprites_6: 3656924660560970017
+      Motobug_Sprites_25: -933348471729553146
+      Motobug_Sprites_19: -7675916924004456557
+      Motobug_Sprites_12: -6854743851917866854
+      Motobug_Sprites_5: 2288639633757311902
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

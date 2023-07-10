@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &5451377612687750081
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2462326634526529348}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b110aa51766f38f49b5e4a6a8880df69, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animatorKey: Character
+  animator: {fileID: 2462326634526529369}
+--- !u!1001 &8038344426722239295
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5595193319053268166, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268166, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268166, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268166, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268166, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268166, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268166, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268166, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268166, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268166, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268166, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268167, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: powerUpToGrant
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268186, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_Name
+      value: Monitor - Life Icon
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319642297445, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1515225352110935880, guid: 41cef51574530c445b3acd02112cf3d8,
+        type: 3}
+    - target: {fileID: 5595193319642297446, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 04e8bcb9c9061084d8686efb0f7667af, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9ced2d6cf07a98048be28050d6717158, type: 3}
+--- !u!1 &2462326634526529348 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5595193319642297467, guid: 9ced2d6cf07a98048be28050d6717158,
+    type: 3}
+  m_PrefabInstance: {fileID: 8038344426722239295}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &2462326634526529369 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 5595193319642297446, guid: 9ced2d6cf07a98048be28050d6717158,
+    type: 3}
+  m_PrefabInstance: {fileID: 8038344426722239295}
+  m_PrefabAsset: {fileID: 0}

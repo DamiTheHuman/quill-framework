@@ -1,0 +1,874 @@
+fileFormatVersion: 2
+guid: 1abbdc021a0a27343af102b402cf4879
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -561789092743752526
+    second: Bubble_Shield_Idle_0
+  - first:
+      213: 9149453366571771272
+    second: Bubble_Shield_Idle_1
+  - first:
+      213: -3048426597232803828
+    second: Bubble_Shield_Idle_2
+  - first:
+      213: -2370263421186780828
+    second: Bubble_Shield_Idle_3
+  - first:
+      213: -8390197801638840736
+    second: Bubble_Shield_Idle_4
+  - first:
+      213: 5018551043246266227
+    second: Bubble_Shield_Idle_5
+  - first:
+      213: 763694915435981693
+    second: Bubble_Shield_Idle_6
+  - first:
+      213: 2921224652866141439
+    second: Bubble_Shield_Idle_7
+  - first:
+      213: 8130645844590826793
+    second: Bubble_Shield_Idle_8
+  - first:
+      213: 1138927365319628906
+    second: Bubble_Shield_Idle_9
+  - first:
+      213: 3656269567828617331
+    second: Bubble_Shield_Idle_10
+  - first:
+      213: -1905462326215632848
+    second: Bubble_Shield_Idle_11
+  - first:
+      213: 8040037036536492441
+    second: Bubble_Shield_Idle_12
+  - first:
+      213: -5747407599670927995
+    second: Bubble_Shield_Idle_0
+  - first:
+      213: -8593170609590130078
+    second: Bubble_Shield_Idle_1
+  - first:
+      213: -528168271271952783
+    second: Bubble_Shield_Idle_2
+  - first:
+      213: 1219835063998731609
+    second: Bubble_Shield_Idle_3
+  - first:
+      213: 3941127956615122980
+    second: Bubble_Shield_Idle_4
+  - first:
+      213: -8315485263313820562
+    second: Bubble_Shield_Idle_5
+  - first:
+      213: -2515780349866778481
+    second: Bubble_Shield_Idle_6
+  - first:
+      213: 1949639399254004658
+    second: Bubble_Shield_Idle_7
+  - first:
+      213: -21064440849008473
+    second: Bubble_Shield_Idle_8
+  - first:
+      213: 1983176163721396818
+    second: Bubble_Shield_Idle_9
+  - first:
+      213: -148526324805007140
+    second: Bubble_Shield_Idle_10
+  - first:
+      213: -8922608901273427978
+    second: Bubble_Shield_Idle_11
+  - first:
+      213: 8855813937400657960
+    second: Bubble_Shield_Idle_12
+  - first:
+      213: -3886173811706825047
+    second: Bubble_Shield_Idle_13
+  - first:
+      213: 216715201935105235
+    second: Bubble_Shield_Idle_14
+  - first:
+      213: -3498650983125273635
+    second: Bubble_Shield_Idle_15
+  - first:
+      213: -8997076513143620954
+    second: Bubble_Shield_Idle_16
+  - first:
+      213: 4515066510465488288
+    second: Bubble_Shield_Idle_17
+  - first:
+      213: -6806616515642388358
+    second: Bubble_Shield_Idle_18
+  - first:
+      213: 3136656867998799910
+    second: Bubble_Shield_Idle_19
+  - first:
+      213: -5824649853385760649
+    second: Bubble_Shield_Idle_20
+  - first:
+      213: 7986944342891420364
+    second: Bubble_Shield_Idle_21
+  - first:
+      213: -7433873998226741959
+    second: Bubble_Shield_Idle_22
+  - first:
+      213: 5119764784607182346
+    second: Bubble_Shield_Idle_23
+  - first:
+      213: 17874982661534178
+    second: Bubble_Shield_Idle_24
+  - first:
+      213: -4898895206375089459
+    second: Bubble_Shield_Idle_25
+  - first:
+      213: 5026548495691171290
+    second: Bubble_Shield_Idle_26
+  - first:
+      213: -7742828019573322168
+    second: Bubble_Shield_Idle_27
+  - first:
+      213: 9003884637326330826
+    second: Bubble_Shield_Idle_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bubble_Shield_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ddb3a3d3b1d30b0800000000000000
+      internalID: -561789092743752526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Shield_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 51
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26aad01fbdceeb880800000000000000
+      internalID: 9149453366571771272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Shield_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 51
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ef33171c19ba8f0800000000000000
+      internalID: -3048426597232803828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Shield_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 51
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955d53a1789bde010800000000000000
+      internalID: -2370263421186780828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Shield_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 51
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420d76cdef2b1b630800000000000000
+      internalID: -8390197801638840736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Shield_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 51
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e642f29d536799c80800000000000000
+      internalID: 5018551043246266227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Shield_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 51
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f806849d917261dd0800000000000000
+      internalID: 763694915435981693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Shield_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 51
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b314a834b28e0b10800000000000000
+      internalID: 2921224652866141439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Shield_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 51
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a87dcda00a25bff0800000000000000
+      internalID: 8130645844590826793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Shield_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 51
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252c2ada638a58b10800000000000000
+      internalID: 1138927365319628906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Shield_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 51
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd80432381450fdf0800000000000000
+      internalID: 3656269567828617331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Shield_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 51
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffdbd17a768c2480800000000000000
+      internalID: -1905462326215632848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Shield_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 51
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82838bf1bdb26ea70800000000000000
+      internalID: 8040037036536492441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Shield_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6f9c11289811ac0800000000000000
+      internalID: -3886173811706825047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Shield_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcd4c4f35de10300800000000000000
+      internalID: 216715201935105235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Shield_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd33fbda77b427fc0800000000000000
+      internalID: -3498650983125273635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Shield_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa70117496f32380800000000000000
+      internalID: -8997076513143620954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Shield_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5de85c11db8ae30800000000000000
+      internalID: 4515066510465488288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Shield_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7014de875a0a81a0800000000000000
+      internalID: -6806616515642388358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Shield_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6289b5f7dc4a78b20800000000000000
+      internalID: 3136656867998799910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Shield_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77029e391dfaa2fa0800000000000000
+      internalID: -5824649853385760649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Shield_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccadbde209357de60800000000000000
+      internalID: 7986944342891420364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Shield_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935aea62cf295d890800000000000000
+      internalID: -7433873998226741959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Shield_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0eb01822fe0d0740800000000000000
+      internalID: 5119764784607182346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Shield_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e138e7b3318f3000800000000000000
+      internalID: 17874982661534178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Shield_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca1628e3c0a30cb0800000000000000
+      internalID: -4898895206375089459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Shield_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad542fb9933e1c540800000000000000
+      internalID: 5026548495691171290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Shield_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e046080f2fb8490800000000000000
+      internalID: -7742828019573322168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Shield_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 0
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbce6e7f5934fc70800000000000000
+      internalID: 9003884637326330826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bubble_Shield_Idle_10: 3656269567828617331
+      Bubble_Shield_Idle_8: 8130645844590826793
+      Bubble_Shield_Idle_16: -8997076513143620954
+      Bubble_Shield_Idle_18: -6806616515642388358
+      Bubble_Shield_Idle_6: 763694915435981693
+      Bubble_Shield_Idle_17: 4515066510465488288
+      Bubble_Shield_Idle_0: -561789092743752526
+      Bubble_Shield_Idle_28: 9003884637326330826
+      Bubble_Shield_Idle_22: -7433873998226741959
+      Bubble_Shield_Idle_5: 5018551043246266227
+      Bubble_Shield_Idle_12: 8040037036536492441
+      Bubble_Shield_Idle_15: -3498650983125273635
+      Bubble_Shield_Idle_19: 3136656867998799910
+      Bubble_Shield_Idle_9: 1138927365319628906
+      Bubble_Shield_Idle_20: -5824649853385760649
+      Bubble_Shield_Idle_13: -3886173811706825047
+      Bubble_Shield_Idle_23: 5119764784607182346
+      Bubble_Shield_Idle_21: 7986944342891420364
+      Bubble_Shield_Idle_24: 17874982661534178
+      Bubble_Shield_Idle_3: -2370263421186780828
+      Bubble_Shield_Idle_7: 2921224652866141439
+      Bubble_Shield_Idle_1: 9149453366571771272
+      Bubble_Shield_Idle_26: 5026548495691171290
+      Bubble_Shield_Idle_14: 216715201935105235
+      Bubble_Shield_Idle_11: -1905462326215632848
+      Bubble_Shield_Idle_25: -4898895206375089459
+      Bubble_Shield_Idle_27: -7742828019573322168
+      Bubble_Shield_Idle_2: -3048426597232803828
+      Bubble_Shield_Idle_4: -8390197801638840736
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

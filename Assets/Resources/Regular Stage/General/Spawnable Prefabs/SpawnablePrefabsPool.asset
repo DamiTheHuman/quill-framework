@@ -1,0 +1,200 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30e0d4cd744bd9a40a6391d656e5dced, type: 3}
+  m_Name: SpawnablePrefabsPool
+  m_EditorClassIdentifier: 
+  pool:
+  - name: Ring Sparkle
+    tag: 0
+    prefab: {fileID: 7412892717407728752, guid: 9785cbee618e60e428255fffc696a536,
+      type: 3}
+    size: 50
+  - name: Ring Sparkle Trail
+    tag: 1
+    prefab: {fileID: 4770233625020127862, guid: c3f3b546320ea6d478973ba3dab53d0c,
+      type: 3}
+    size: 50
+  - name: Badnik Explosion
+    tag: 2
+    prefab: {fileID: 4670226580254017932, guid: add3edf64f3fc7745b8a01ae1d700bf6,
+      type: 3}
+    size: 50
+  - name: Spilled Ring
+    tag: 3
+    prefab: {fileID: 2154737289652011559, guid: 4df8cba7f67f3454792cca2e07e74d6d,
+      type: 3}
+    size: 50
+  - name: Water Splash
+    tag: 4
+    prefab: {fileID: 1580250197375859684, guid: 67185d5ab0bf7524e9c50b0b9dd8a8fa,
+      type: 3}
+    size: 50
+  - name: Monitor Explosion
+    tag: 5
+    prefab: {fileID: 2381895039109496711, guid: d24fc40d3702fd1418f27e4502162bf6,
+      type: 3}
+    size: 50
+  - name: Broken Monitor
+    tag: 6
+    prefab: {fileID: 6315904523575209200, guid: 5294aeeecf5560f4b920b1060088d464,
+      type: 3}
+    size: 50
+  - name: Regular Shield
+    tag: 7
+    prefab: {fileID: 1237808226803975516, guid: dc31fa797514ca348b8d783a604a4065,
+      type: 3}
+    size: 1
+  - name: Flame Shield
+    tag: 8
+    prefab: {fileID: 919747493735115035, guid: d486b20084fa5bd438c0da6a9dadaca7, type: 3}
+    size: 1
+  - name: Electric Shield
+    tag: 9
+    prefab: {fileID: 2939166419871059182, guid: aad6276eefdd1c745ac8bff986a3affe,
+      type: 3}
+    size: 1
+  - name: Bubble Shield
+    tag: 10
+    prefab: {fileID: 7479028708554272526, guid: 0214bf78c1c4ced4a8b98d9afc1e5607,
+      type: 3}
+    size: 1
+  - name: Electric Shield Spark
+    tag: 11
+    prefab: {fileID: 8104308973130823802, guid: 057d91ceb6f1964478de9d6dc4576aba,
+      type: 3}
+    size: 1
+  - name: Broken Monitor Shard Set
+    tag: 12
+    prefab: {fileID: 9222471601516921267, guid: f474eadf257c40b46a2a12aa73c0404b,
+      type: 3}
+    size: 50
+  - name: Invincibility Trail
+    tag: 13
+    prefab: {fileID: 7736337679676923262, guid: d059daa32ceaed6499184fa9661df21f,
+      type: 3}
+    size: 2
+  - name: Drop Dash Dust
+    tag: 14
+    prefab: {fileID: 5613397013762820459, guid: cacc5ec4c40563f44b057649e5154bff,
+      type: 3}
+    size: 4
+  - name: Score Icon
+    tag: 15
+    prefab: {fileID: 8078488642525825899, guid: ad60b955dc453fa4f8d93e987c06a9f7,
+      type: 3}
+    size: 20
+  - name: Animal 1
+    tag: 16
+    prefab: {fileID: 2987657693995418174, guid: 3373255ea8e1f99488c8cd54e7549dd0,
+      type: 3}
+    size: 20
+  - name: Animal 2
+    tag: 17
+    prefab: {fileID: 182699539569149072, guid: 3c414b1db18b9d243acac0d0904ca9d1, type: 3}
+    size: 20
+  - name: Animal 3
+    tag: 18
+    prefab: {fileID: 8242256549056104612, guid: e3b36e9d197beea48985567c98672bab,
+      type: 3}
+    size: 20
+  - name: Bullet
+    tag: 19
+    prefab: {fileID: 1735299967247301599, guid: 78298b40ba8407f458f29f2395bf9f13,
+      type: 3}
+    size: 50
+  - name: Small Bubble
+    tag: 22
+    prefab: {fileID: 8878169377354663018, guid: abc010463549ede4e8ff4b0937e85a01,
+      type: 3}
+    size: 50
+  - name: Medium Bubble
+    tag: 21
+    prefab: {fileID: 2091646703606807304, guid: eb07bc3d393079741a96c74ea0849e6c,
+      type: 3}
+    size: 50
+  - name: Large Bubble
+    tag: 20
+    prefab: {fileID: 819161210988653287, guid: 75d9f88d927b74542b70009529a4563e, type: 3}
+    size: 50
+  - name: Bubble Burst
+    tag: 23
+    prefab: {fileID: 2272044272706739172, guid: 8af74720b9f049f44a32b8819c98c495,
+      type: 3}
+    size: 50
+  - name: Bubble Number
+    tag: 24
+    prefab: {fileID: 59126939160950, guid: c740bcbf798befc4da9a129a11e514af, type: 3}
+    size: 2
+  - name: Motobug Exhaust
+    tag: 25
+    prefab: {fileID: 2491708463518407306, guid: d55cdccabef092e4cad272ddc783ce4a,
+      type: 3}
+    size: 25
+  - name: Breakable Shard Set
+    tag: 26
+    prefab: {fileID: 6428055560590648231, guid: 17ec2dc9f1357074da77d05fb77721af,
+      type: 3}
+    size: 25
+  - name: Boss Explosion
+    tag: 27
+    prefab: {fileID: 4114098334681072799, guid: 246b296f064532b4ab280832ca434c3e,
+      type: 3}
+    size: 50
+  - name: Breakable Pipe Cap Shard Set
+    tag: 28
+    prefab: {fileID: 6428055560590648231, guid: a1a1a1c08ed99d649b00294f707787aa,
+      type: 3}
+    size: 5
+  - name: Beam Of Light
+    tag: 29
+    prefab: {fileID: 8903055154765694261, guid: 72e87a8f56238e54481e2eb1f8877e4e,
+      type: 3}
+    size: 5
+  - name: Super Spark Small
+    tag: 30
+    prefab: {fileID: 781680405765513411, guid: 786cd5c1cf0d8b44da9e8d4e07ac9140, type: 3}
+    size: 25
+  - name: Super Spark Large
+    tag: 31
+    prefab: {fileID: 1165103291475792425, guid: 37f0a04a2dfcb874592d4deb2359e354,
+      type: 3}
+    size: 25
+  - name: Tails Tails
+    tag: 32
+    prefab: {fileID: 3016860761096804147, guid: cdc34dab028b81940b60f1b99b69125f,
+      type: 3}
+    size: 5
+  - name: Special Stage Tails Tails
+    tag: 33
+    prefab: {fileID: 5254255299588168450, guid: 60357ffaa500fa34286f2d664082598b,
+      type: 3}
+    size: 5
+  - name: Big Ring Flash
+    tag: 34
+    prefab: {fileID: 3785550723804535221, guid: f8c8a841358e0eb4898b5383209853a0,
+      type: 3}
+    size: 20
+  - name: Knuckles Glove Hitbox
+    tag: 35
+    prefab: {fileID: 8222447646632861538, guid: d3f09872246233747b254c86872749c2,
+      type: 3}
+    size: 5
+  - name: Dust Puff
+    tag: 36
+    prefab: {fileID: 7710162124498302441, guid: 2e71c28f56a61fa48b195a0392046224,
+      type: 3}
+    size: 30
+  - name: Target Lock
+    tag: 37
+    prefab: {fileID: 2531294181480888023, guid: 7697bc2ad0825d14c87831b80cf32a17,
+      type: 3}
+    size: 5

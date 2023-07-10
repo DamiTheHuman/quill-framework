@@ -1,0 +1,813 @@
+fileFormatVersion: 2
+guid: f91600f3dba95ed49930fe4bcb2f5afc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6739172456097992409
+    second: Sonic_Transform_0
+  - first:
+      213: 3969665672708505586
+    second: Sonic_Transform_0
+  - first:
+      213: -3241434710141320181
+    second: Sonic_Transform_1
+  - first:
+      213: -1911953612090235168
+    second: Sonic_Transform_2
+  - first:
+      213: 694789868701360593
+    second: Sonic_Transform_3
+  - first:
+      213: 782719032055950878
+    second: Sonic_Transform_4
+  - first:
+      213: 2805210855933891577
+    second: Sonic_Transform_5
+  - first:
+      213: 1301658301238061520
+    second: Sonic_Transform_6
+  - first:
+      213: 1851079416799079104
+    second: Sonic_Transform_7
+  - first:
+      213: -5777414592095399021
+    second: Sonic_Transform_8
+  - first:
+      213: -5722087359078249050
+    second: Sonic_Transform_9
+  - first:
+      213: -665256830993183409
+    second: Sonic_Transform_10
+  - first:
+      213: -4614458897077495834
+    second: Sonic_Transform_11
+  - first:
+      213: -6700758264017551810
+    second: Sonic_Transform_12
+  - first:
+      213: -4176642707500821679
+    second: Sonic_Transform_13
+  - first:
+      213: 4734593497211324616
+    second: Sonic_Transform_14
+  - first:
+      213: 1131866020716681861
+    second: Sonic_Transform_15
+  - first:
+      213: -1719597074155872370
+    second: Sonic_Transform_16
+  - first:
+      213: 6470370743177291604
+    second: Sonic_Transform_17
+  - first:
+      213: -6064165615739975234
+    second: Sonic_Transform_18
+  - first:
+      213: -3514974356934451103
+    second: Tails_Transform_0
+  - first:
+      213: -4176069115077602532
+    second: Tails_Transform_1
+  - first:
+      213: 5622694777437330371
+    second: Tails_Transform_2
+  - first:
+      213: -5633266635551761934
+    second: Tails_Transform_3
+  - first:
+      213: -5578850225403819974
+    second: Tails_Transform_4
+  - first:
+      213: 5071384444618382071
+    second: Tails_Transform_5
+  - first:
+      213: 4359746410109592444
+    second: Tails_Transform_6
+  - first:
+      213: 4079447343861302873
+    second: Tails_Transform_7
+  - first:
+      213: -4717552902577815321
+    second: Tails_Transform_8
+  - first:
+      213: 7255192064776401614
+    second: Tails_Transform_9
+  - first:
+      213: 8088470414404259184
+    second: Tails_Transform_10
+  - first:
+      213: -7217000834457802186
+    second: Tails_Transform_11
+  - first:
+      213: -9041007708468598791
+    second: Tails_Transform_12
+  - first:
+      213: -8973126465947538365
+    second: Tails_Transform_13
+  - first:
+      213: -6528972455833149659
+    second: Tails_Transform_14
+  - first:
+      213: 1144184906075468883
+    second: Tails_Transform_15
+  - first:
+      213: 6410126907484040754
+    second: Tails_Transform_16
+  - first:
+      213: -7970436178973613575
+    second: Tails_Transform_17
+  - first:
+      213: 2675615412206748638
+    second: Tails_Transform_0
+  - first:
+      213: 1963120607853067569
+    second: Tails_Transform_1
+  - first:
+      213: -3816179654772528233
+    second: Tails_Transform_2
+  - first:
+      213: 6158525323069348984
+    second: Tails_Transform_3
+  - first:
+      213: 7880007662549853134
+    second: Tails_Transform_4
+  - first:
+      213: -8506568694698486847
+    second: Tails_Transform_5
+  - first:
+      213: -4374605510775047408
+    second: Tails_Transform_6
+  - first:
+      213: 1440121396267294165
+    second: Tails_Transform_7
+  - first:
+      213: 8185426647918784023
+    second: Tails_Transform_8
+  - first:
+      213: -6652628271659472172
+    second: Tails_Transform_9
+  - first:
+      213: -100406847979039025
+    second: Tails_Transform_10
+  - first:
+      213: -8109219562099472289
+    second: Tails_Transform_11
+  - first:
+      213: 44046880881085957
+    second: Tails_Transform_12
+  - first:
+      213: -8111029820236402124
+    second: Tails_Transform_13
+  - first:
+      213: -2551062040024867079
+    second: Tails_Transform_14
+  - first:
+      213: 5998935230766963112
+    second: Tails_Transform_15
+  - first:
+      213: -8662908891473402764
+    second: Tails_Transform_16
+  - first:
+      213: -4941009541683534266
+    second: Tails_Transform_17
+  - first:
+      213: 3111268010067528204
+    second: Tails_Transform_18
+  - first:
+      213: -8801725827021401580
+    second: Knuckles_Transform_0
+  - first:
+      213: 694360121570891833
+    second: Knuckles_Transform_1
+  - first:
+      213: -1410188549870007526
+    second: Knuckles_Transform_2
+  - first:
+      213: -7265664181527819476
+    second: Knuckles_Transform_3
+  - first:
+      213: 4490965274795342122
+    second: Knuckles_Transform_4
+  - first:
+      213: 7721903765744215235
+    second: Knuckles_Transform_5
+  - first:
+      213: 7960590231960592275
+    second: Knuckles_Transform_6
+  - first:
+      213: 963118812359894430
+    second: Knuckles_Transform_7
+  - first:
+      213: -7377063435990944236
+    second: Knuckles_Transform_8
+  - first:
+      213: -3435135392061210245
+    second: Knuckles_Transform_9
+  - first:
+      213: -8364498964874464999
+    second: Knuckles_Transform_10
+  - first:
+      213: 1976601926597628429
+    second: Knuckles_Transform_11
+  - first:
+      213: -6318427748703486136
+    second: Knuckles_Transform_12
+  - first:
+      213: -206921951944931722
+    second: Knuckles_Transform_13
+  - first:
+      213: 6317855550011449155
+    second: Knuckles_Transform_14
+  - first:
+      213: 7106480032021746471
+    second: Knuckles_Transform_15
+  - first:
+      213: 8501274176212666040
+    second: Knuckles_Transform_16
+  - first:
+      213: 7540081663086959391
+    second: Knuckles_Transform_17
+  - first:
+      213: -6830481313069078464
+    second: Knuckles_Transform_18
+  - first:
+      213: 5479879010576599290
+    second: Knuckles_Transform_0
+  - first:
+      213: -3362672131936646575
+    second: Knuckles_Transform_1
+  - first:
+      213: -488146275019766399
+    second: Knuckles_Transform_2
+  - first:
+      213: 2954051981814380623
+    second: Knuckles_Transform_3
+  - first:
+      213: -7963147714891913079
+    second: Knuckles_Transform_4
+  - first:
+      213: -2377926897817548020
+    second: Knuckles_Transform_5
+  - first:
+      213: -3822757242373713224
+    second: Knuckles_Transform_6
+  - first:
+      213: 7858445765297791806
+    second: Knuckles_Transform_7
+  - first:
+      213: 2953262342738827529
+    second: Knuckles_Transform_8
+  - first:
+      213: -4894121647242382392
+    second: Knuckles_Transform_9
+  - first:
+      213: -8471315129276531253
+    second: Knuckles_Transform_10
+  - first:
+      213: -369815005354374298
+    second: Knuckles_Transform_11
+  - first:
+      213: 6276847469832689565
+    second: Knuckles_Transform_12
+  - first:
+      213: 2662748403600842318
+    second: Knuckles_Transform_13
+  - first:
+      213: 2561931045209064057
+    second: Knuckles_Transform_14
+  - first:
+      213: -4600195091253354371
+    second: Knuckles_Transform_15
+  - first:
+      213: 6113458239683370319
+    second: Knuckles_Transform_16
+  - first:
+      213: 1534879563546340040
+    second: Knuckles_Transform_17
+  - first:
+      213: -7483318851060006805
+    second: Knuckles_Transform_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Knuckles_Transform_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8898d2de07c0c40800000000000000
+      internalID: -8801725827021401580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Transform_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a8fcf13836551d0800000000000000
+      internalID: 694360121570891833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Transform_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18544079c81c939f0800000000000000
+      internalID: -1410188549870007526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Transform_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48b51050a6eef820800000000000000
+      internalID: -7265664181527819476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Transform_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98867e708573d7190800000000000000
+      internalID: 4490965274795342122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Transform_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b0db1d518effed0800000000000000
+      internalID: 7721903765744215235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Transform_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b253c9ba86d2fac0800000000000000
+      internalID: 7960590231960592275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Transform_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e336f37a9cece0d60800000000000000
+      internalID: 963118812359894430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Transform_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9095c7324781cf820800000000000000
+      internalID: -7377063435990944236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Transform_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c37190ca46941cb0800000000000000
+      internalID: -3435135392061210245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Transform_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd741bd5c7df6a80800000000000000
+      internalID: -8364498964874464999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Transform_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b4e3546372edaf0800000000000000
+      internalID: 1976601926597628429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Transform_12
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97dfa48487db1750800000000000000
+      internalID: -6318427748703486136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Transform_13
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4eddd2b09bf3f420800000000000000
+      internalID: -206921951944931722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Transform_14
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9724bb046becd8320800000000000000
+      internalID: 6317855550011449155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Transform_15
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d702958ffe2d820c0800000000000000
+      internalID: 7106480032021746471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Transform_16
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d1385e0ed57d450800000000000000
+      internalID: 8501274176212666040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Transform_17
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8caaf26b4dcfc4510800000000000000
+      internalID: 7540081663086959391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Transform_18
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60859d3729e52890800000000000000
+      internalID: -6830481313069078464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Knuckles_Transform_2: -1410188549870007526
+      Knuckles_Transform_1: 694360121570891833
+      Knuckles_Transform_4: 4490965274795342122
+      Knuckles_Transform_13: -206921951944931722
+      Knuckles_Transform_7: 963118812359894430
+      Knuckles_Transform_17: 7540081663086959391
+      Knuckles_Transform_18: -6830481313069078464
+      Knuckles_Transform_15: 7106480032021746471
+      Knuckles_Transform_16: 8501274176212666040
+      Knuckles_Transform_14: 6317855550011449155
+      Knuckles_Transform_9: -3435135392061210245
+      Knuckles_Transform_12: -6318427748703486136
+      Knuckles_Transform_6: 7960590231960592275
+      Knuckles_Transform_8: -7377063435990944236
+      Knuckles_Transform_3: -7265664181527819476
+      Knuckles_Transform_0: -8801725827021401580
+      Knuckles_Transform_5: 7721903765744215235
+      Knuckles_Transform_10: -8364498964874464999
+      Knuckles_Transform_11: 1976601926597628429
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

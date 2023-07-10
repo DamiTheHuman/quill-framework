@@ -1,0 +1,737 @@
+fileFormatVersion: 2
+guid: 232038985bfc1ab4ebcc5e590219e05e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1352904856972547100
+    second: Special_Stage_Act_Clear_Text_Special
+  - first:
+      213: -5050532523521574972
+    second: Special_Stage_Act_Clear_Text_Special
+  - first:
+      213: 6693851067868201082
+    second: Special_Stage_Act_Clear_Text_Stage
+  - first:
+      213: 6750817754014433200
+    second: Special_Stage_Act_Clear_Text_Super
+  - first:
+      213: -8127489598805299047
+    second: Special_Stage_Act_Clear_Text_Chaos
+  - first:
+      213: 2494528352799301245
+    second: Special_Stage_Act_Clear_Text_Now
+  - first:
+      213: -4314503366624081079
+    second: Special_Stage_Act_Clear_Text_Sonic
+  - first:
+      213: 5317420836340492542
+    second: Special_Stage_Act_Clear_Text_Knuckles
+  - first:
+      213: -1798645373514327921
+    second: Special_Stage_Act_Clear_Text_Mighty
+  - first:
+      213: 7972124945288808815
+    second: Special_Stage_Act_Clear_Text_Ray
+  - first:
+      213: -9201028066639698265
+    second: Special_Stage_Act_Clear_Text_Tails
+  - first:
+      213: -8115199216443694851
+    second: Special_Stage_Act_Clear_Text_Got
+  - first:
+      213: -1376137420968360128
+    second: Special_Stage_Act_Clear_Text_All
+  - first:
+      213: 7611797236583523567
+    second: Special_Stage_Act_Clear_Text_Emeralds
+  - first:
+      213: 1882827534725771668
+    second: Special_Stage_Act_Clear_Text_Can
+  - first:
+      213: -4366125268405460516
+    second: Special_Stage_Act_Clear_Text_Hyper
+  - first:
+      213: -1224670976037500741
+    second: Special_Stage_Act_Clear_Text_BE
+  - first:
+      213: -3135800237873549404
+    second: Special_Stage_Act_Clear_Text_A
+  - first:
+      213: 783948431947321465
+    second: Special_Stage_Act_Clear_Text_17
+  - first:
+      213: -5933429762080579087
+    second: Special_Stage_Act_Clear_Text_18
+  - first:
+      213: -2616005099688919824
+    second: Special_Stage_Act_Clear_Text_19
+  - first:
+      213: 8819078265460506133
+    second: Special_Stage_Act_Clear_Text_20
+  - first:
+      213: -407789568189191539
+    second: Special_Stage_Act_Clear_Text_21
+  - first:
+      213: -5742493411522639091
+    second: Special_Stage_Act_Clear_Text_22
+  - first:
+      213: -5222452105639001056
+    second: Special_Stage_Act_Clear_Text_23
+  - first:
+      213: 5169151471026462917
+    second: Special_Stage_Act_Clear_Text_24
+  - first:
+      213: 1973770816558830048
+    second: Special_Stage_Act_Clear_Text_25
+  - first:
+      213: 2311901141216201697
+    second: Special_Stage_Act_Clear_Text_26
+  - first:
+      213: -2803150693455086311
+    second: Special_Stage_Act_Clear_Text_27
+  - first:
+      213: 4868516521159134219
+    second: Special_Stage_Act_Clear_Text_28
+  - first:
+      213: 7258025282664359852
+    second: Special_Stage_Act_Clear_Text_29
+  - first:
+      213: 6883294722899770047
+    second: Special_Stage_Act_Clear_Text_30
+  - first:
+      213: 3849989213597700012
+    second: Special_Stage_Act_Clear_Text_31
+  - first:
+      213: -2781273011256913009
+    second: Special_Stage_Act_Clear_Text_32
+  - first:
+      213: -5629436030338941118
+    second: Special_Stage_Act_Clear_Text_33
+  - first:
+      213: -4444871230425262589
+    second: Special_Stage_Act_Clear_Text_34
+  - first:
+      213: 6005820339616015414
+    second: Special_Stage_Act_Clear_Text_35
+  - first:
+      213: -8947376476387615045
+    second: Special_Stage_Act_Clear_Text_36
+  - first:
+      213: 2113600182833404251
+    second: Special_Stage_Act_Clear_Text_37
+  - first:
+      213: 6534974671419765659
+    second: Special_Stage_Act_Clear_Text_38
+  - first:
+      213: -8686688423618990445
+    second: Special_Stage_Act_Clear_Text_39
+  - first:
+      213: -5641356136506524898
+    second: Special_Stage_Act_Clear_Text_40
+  - first:
+      213: -5040735977015513047
+    second: Special_Stage_Act_Clear_Text_41
+  - first:
+      213: 4413237108617616220
+    second: Special_Stage_Act_Clear_Text_42
+  - first:
+      213: 4809871872376667754
+    second: Special_Stage_Act_Clear_Text_43
+  - first:
+      213: -6615629644000147667
+    second: Special_Stage_Act_Clear_Text_44
+  - first:
+      213: 1573335060030124050
+    second: Special_Stage_Act_Clear_Text_45
+  - first:
+      213: 8030051057152473245
+    second: Special_Stage_Act_Clear_Text_46
+  - first:
+      213: -5588864777080618909
+    second: Special_Stage_Act_Clear_Text_47
+  - first:
+      213: 5560395360284014114
+    second: Special_Stage_Act_Clear_Text_48
+  - first:
+      213: -7883674073762042093
+    second: Special_Stage_Act_Clear_Text_49
+  - first:
+      213: 2740033885122176054
+    second: Special_Stage_Act_Clear_Text_50
+  - first:
+      213: -8467093300327086872
+    second: Special_Stage_Act_Clear_Text_51
+  - first:
+      213: 1160925284895635423
+    second: Special_Stage_Act_Clear_Text_52
+  - first:
+      213: 8179625236455965197
+    second: Special_Stage_Act_Clear_Text_53
+  - first:
+      213: -2567769907061943340
+    second: Special_Stage_Act_Clear_Text_54
+  - first:
+      213: -6824056818413543557
+    second: Special_Stage_Act_Clear_Text_55
+  - first:
+      213: 3242125787347939749
+    second: Special_Stage_Act_Clear_Text_56
+  - first:
+      213: 737531150977745766
+    second: Special_Stage_Act_Clear_Text_57
+  - first:
+      213: -5091098538686610455
+    second: Special_Stage_Act_Clear_Text_58
+  - first:
+      213: -3397725737035038693
+    second: Special_Stage_Act_Clear_Text_59
+  - first:
+      213: 7774016715540027184
+    second: Special_Stage_Act_Clear_Text_60
+  - first:
+      213: 208897910123508607
+    second: Special_Stage_Act_Clear_Text_61
+  - first:
+      213: 3499278407580305475
+    second: Special_Stage_Act_Clear_Text_62
+  - first:
+      213: 3099179818546288432
+    second: Special_Stage_Act_Clear_Text_63
+  - first:
+      213: 4837130259382268467
+    second: Special_Stage_Act_Clear_Text_64
+  - first:
+      213: 4880129990230213798
+    second: Special_Stage_Act_Clear_Text_65
+  - first:
+      213: -660411599659240525
+    second: Special_Stage_Act_Clear_Text_66
+  - first:
+      213: 9174149734781290483
+    second: Special_Stage_Act_Clear_Text_67
+  - first:
+      213: -4525876314112205538
+    second: Special_Stage_Act_Clear_Text_68
+  - first:
+      213: 2554734017101576018
+    second: Special_Stage_Act_Clear_Text_69
+  - first:
+      213: -961589724762597286
+    second: Special_Stage_Act_Clear_Text_70
+  - first:
+      213: -2521572533467722305
+    second: Special_Stage_Act_Clear_Text_71
+  - first:
+      213: -2656553397154983709
+    second: Special_Stage_Act_Clear_Text_72
+  - first:
+      213: 5673131945702573040
+    second: Special_Stage_Act_Clear_Text_73
+  - first:
+      213: -1285023801082965848
+    second: Special_Stage_Act_Clear_Text_74
+  - first:
+      213: 4070010841487583565
+    second: Special_Stage_Act_Clear_Text_75
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Special_Stage_Act_Clear_Text_Special
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 95
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14dfb6accb76c210800000000000000
+      internalID: 1352904856972547100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Act_Clear_Text_Stage
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 95
+        width: 74
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7047a7a41655ec50800000000000000
+      internalID: 6693851067868201082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Act_Clear_Text_Super
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 95
+        width: 74
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf3e6bdaf8bfad50800000000000000
+      internalID: 6750817754014433200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Act_Clear_Text_Chaos
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 77
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990378b654b553f80800000000000000
+      internalID: -8127489598805299047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Act_Clear_Text_Now
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e1ebef1585e9220800000000000000
+      internalID: 2494528352799301245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Act_Clear_Text_Sonic
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 69
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b052a1c0ecf14c0800000000000000
+      internalID: -4314503366624081079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Act_Clear_Text_Knuckles
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 118
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8e557e3164bc940800000000000000
+      internalID: 5317420836340492542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Act_Clear_Text_Mighty
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8857caff8de907e0800000000000000
+      internalID: -1798645373514327921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Act_Clear_Text_Ray
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6948fc466da2ae60800000000000000
+      internalID: 7972124945288808815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Act_Clear_Text_Tails
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 38
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6aa87f8b16f4080800000000000000
+      internalID: -9201028066639698265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Act_Clear_Text_Got
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 38
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0685e0f45016f80800000000000000
+      internalID: -8115199216443694851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Act_Clear_Text_All
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 38
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0470f058e4af6ece0800000000000000
+      internalID: -1376137420968360128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Act_Clear_Text_Emeralds
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 76
+        width: 106
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe46cd4f14982a960800000000000000
+      internalID: 7611797236583523567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Act_Clear_Text_Can
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 57
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49177accaa5212a10800000000000000
+      internalID: 1882827534725771668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Act_Clear_Text_Hyper
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 57
+        width: 74
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1e5db73386863c0800000000000000
+      internalID: -4366125268405460516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Act_Clear_Text_BE
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 57
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8cd826c38110fe0800000000000000
+      internalID: -1224670976037500741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Act_Clear_Text_A
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 76
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af26fe3c466b74d0800000000000000
+      internalID: -3135800237873549404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Act_Clear_Text_17
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 76
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970d17002f421ea00800000000000000
+      internalID: 783948431947321465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Special_Stage_Act_Clear_Text_Got: -8115199216443694851
+      Special_Stage_Act_Clear_Text_A: -3135800237873549404
+      Special_Stage_Act_Clear_Text_Tails: -9201028066639698265
+      Special_Stage_Act_Clear_Text_Super: 6750817754014433200
+      Special_Stage_Act_Clear_Text_Now: 2494528352799301245
+      Special_Stage_Act_Clear_Text_All: -1376137420968360128
+      Special_Stage_Act_Clear_Text_Knuckles: 5317420836340492542
+      Special_Stage_Act_Clear_Text_BE: -1224670976037500741
+      Special_Stage_Act_Clear_Text_Special: 1352904856972547100
+      Special_Stage_Act_Clear_Text_Stage: 6693851067868201082
+      Special_Stage_Act_Clear_Text_Sonic: -4314503366624081079
+      Special_Stage_Act_Clear_Text_Can: 1882827534725771668
+      Special_Stage_Act_Clear_Text_Mighty: -1798645373514327921
+      Special_Stage_Act_Clear_Text_Hyper: -4366125268405460516
+      Special_Stage_Act_Clear_Text_Ray: 7972124945288808815
+      Special_Stage_Act_Clear_Text_Emeralds: 7611797236583523567
+      Special_Stage_Act_Clear_Text_Chaos: -8127489598805299047
+      Special_Stage_Act_Clear_Text_17: 783948431947321465
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

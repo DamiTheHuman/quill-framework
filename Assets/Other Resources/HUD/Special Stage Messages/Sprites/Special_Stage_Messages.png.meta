@@ -1,0 +1,474 @@
+fileFormatVersion: 2
+guid: ef14bd9adc2f82042b19cf64dd0bfa2f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8607686432642815297
+    second: Special_Stage_Messages_Catch
+  - first:
+      213: 5394123725682247510
+    second: Special_Stage_Messages_The
+  - first:
+      213: 966023581541089126
+    second: Special_Stage_Messages_UFO
+  - first:
+      213: 8356420415229576849
+    second: Special_Stage_Messages_UFO
+  - first:
+      213: -1729821470459523445
+    second: Special_Stage_Messages_0
+  - first:
+      213: -8207197512627318789
+    second: Special_Stage_Messages_Catch
+  - first:
+      213: -3551400914413383924
+    second: Special_Stage_Messages_The
+  - first:
+      213: 4129194576167183958
+    second: Special_Stage_Messages_4
+  - first:
+      213: -5201470225423456259
+    second: Special_Stage_Messages_5
+  - first:
+      213: -5103840668096672094
+    second: Special_Stage_Messages_6
+  - first:
+      213: 7880280321851400947
+    second: Special_Stage_Messages_To
+  - first:
+      213: -1172938247988314768
+    second: Special_Stage_Messages_Escape
+  - first:
+      213: 8027241589420586138
+    second: Special_Stage_Messages_9
+  - first:
+      213: -6967469296049584828
+    second: Special_Stage_Messages_10
+  - first:
+      213: -1056438309672429129
+    second: Special_Stage_Messages_Course
+  - first:
+      213: 8681762188478343904
+    second: Special_Stage_Messages_Out
+  - first:
+      213: -1393577415732188627
+    second: Special_Stage_Messages_13
+  - first:
+      213: 198167528374792808
+    second: Special_Stage_Messages_14
+  - first:
+      213: 8572547968549025872
+    second: Special_Stage_Messages_Time
+  - first:
+      213: -8136405483949000520
+    second: Special_Stage_Messages_Over
+  - first:
+      213: -7254522731978379306
+    second: Special_Stage_Messages_17
+  - first:
+      213: 6923006972991450299
+    second: Special_Stage_Messages_18
+  - first:
+      213: -4663966860859878309
+    second: Special_Stage_Messages_Collect
+  - first:
+      213: 7677392813134546780
+    second: Special_Stage_Messages_The_2
+  - first:
+      213: 8625491634646945146
+    second: Special_Stage_Messages_Emerald
+  - first:
+      213: -5223119994890315913
+    second: Special_Stage_Messages_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Special_Stage_Messages_Catch
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 56
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff016a885d2a1e80800000000000000
+      internalID: 8607686432642815297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Messages_The
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 51
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f84693fa3e6bec0800000000000000
+      internalID: 5394123725682247510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Messages_UFO
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 51
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196c49be718f7f370800000000000000
+      internalID: 966023581541089126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Messages_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aec7e324f38b29b0800000000000000
+      internalID: -5103840668096672094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Messages_To
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2247283316c5d60800000000000000
+      internalID: 7880280321851400947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Messages_Escape
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 34
+        width: 68
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dff21c0e2e8bfe0800000000000000
+      internalID: -1172938247988314768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Messages_Course
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b95cd064f6c651f0800000000000000
+      internalID: -1056438309672429129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Messages_Out
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 17
+        width: 50
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea6ba466b0db7870800000000000000
+      internalID: 8681762188478343904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Messages_Time
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 17
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0587c5545fec7f670800000000000000
+      internalID: 8572547968549025872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Messages_Over
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 17
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8fda4225ea51f80800000000000000
+      internalID: -8136405483949000520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Messages_Collect
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 71
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54d04ec9d2464fb0800000000000000
+      internalID: -4663966860859878309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Messages_The_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57850446149b8a60800000000000000
+      internalID: 7677392813134546780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Messages_Emerald
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 76
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d0c3021f6e3b770800000000000000
+      internalID: 8625491634646945146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Special_Stage_Messages_Course: -1056438309672429129
+      Special_Stage_Messages_Catch: 8607686432642815297
+      Special_Stage_Messages_The: 5394123725682247510
+      Special_Stage_Messages_Over: -8136405483949000520
+      Special_Stage_Messages_Out: 8681762188478343904
+      Special_Stage_Messages_Escape: -1172938247988314768
+      Special_Stage_Messages_Time: 8572547968549025872
+      Special_Stage_Messages_The_2: 7677392813134546780
+      Special_Stage_Messages_Emerald: 8625491634646945146
+      Special_Stage_Messages_To: 7880280321851400947
+      Special_Stage_Messages_Collect: -4663966860859878309
+      Special_Stage_Messages_6: -5103840668096672094
+      Special_Stage_Messages_UFO: 966023581541089126
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

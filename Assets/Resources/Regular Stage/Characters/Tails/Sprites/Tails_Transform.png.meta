@@ -1,0 +1,677 @@
+fileFormatVersion: 2
+guid: 252e8a8899157a547b99fac59ad84e1f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6739172456097992409
+    second: Sonic_Transform_0
+  - first:
+      213: 3969665672708505586
+    second: Sonic_Transform_0
+  - first:
+      213: -3241434710141320181
+    second: Sonic_Transform_1
+  - first:
+      213: -1911953612090235168
+    second: Sonic_Transform_2
+  - first:
+      213: 694789868701360593
+    second: Sonic_Transform_3
+  - first:
+      213: 782719032055950878
+    second: Sonic_Transform_4
+  - first:
+      213: 2805210855933891577
+    second: Sonic_Transform_5
+  - first:
+      213: 1301658301238061520
+    second: Sonic_Transform_6
+  - first:
+      213: 1851079416799079104
+    second: Sonic_Transform_7
+  - first:
+      213: -5777414592095399021
+    second: Sonic_Transform_8
+  - first:
+      213: -5722087359078249050
+    second: Sonic_Transform_9
+  - first:
+      213: -665256830993183409
+    second: Sonic_Transform_10
+  - first:
+      213: -4614458897077495834
+    second: Sonic_Transform_11
+  - first:
+      213: -6700758264017551810
+    second: Sonic_Transform_12
+  - first:
+      213: -4176642707500821679
+    second: Sonic_Transform_13
+  - first:
+      213: 4734593497211324616
+    second: Sonic_Transform_14
+  - first:
+      213: 1131866020716681861
+    second: Sonic_Transform_15
+  - first:
+      213: -1719597074155872370
+    second: Sonic_Transform_16
+  - first:
+      213: 6470370743177291604
+    second: Sonic_Transform_17
+  - first:
+      213: -6064165615739975234
+    second: Sonic_Transform_18
+  - first:
+      213: -3514974356934451103
+    second: Tails_Transform_0
+  - first:
+      213: -4176069115077602532
+    second: Tails_Transform_1
+  - first:
+      213: 5622694777437330371
+    second: Tails_Transform_2
+  - first:
+      213: -5633266635551761934
+    second: Tails_Transform_3
+  - first:
+      213: -5578850225403819974
+    second: Tails_Transform_4
+  - first:
+      213: 5071384444618382071
+    second: Tails_Transform_5
+  - first:
+      213: 4359746410109592444
+    second: Tails_Transform_6
+  - first:
+      213: 4079447343861302873
+    second: Tails_Transform_7
+  - first:
+      213: -4717552902577815321
+    second: Tails_Transform_8
+  - first:
+      213: 7255192064776401614
+    second: Tails_Transform_9
+  - first:
+      213: 8088470414404259184
+    second: Tails_Transform_10
+  - first:
+      213: -7217000834457802186
+    second: Tails_Transform_11
+  - first:
+      213: -9041007708468598791
+    second: Tails_Transform_12
+  - first:
+      213: -8973126465947538365
+    second: Tails_Transform_13
+  - first:
+      213: -6528972455833149659
+    second: Tails_Transform_14
+  - first:
+      213: 1144184906075468883
+    second: Tails_Transform_15
+  - first:
+      213: 6410126907484040754
+    second: Tails_Transform_16
+  - first:
+      213: -7970436178973613575
+    second: Tails_Transform_17
+  - first:
+      213: 2675615412206748638
+    second: Tails_Transform_0
+  - first:
+      213: 1963120607853067569
+    second: Tails_Transform_1
+  - first:
+      213: -3816179654772528233
+    second: Tails_Transform_2
+  - first:
+      213: 6158525323069348984
+    second: Tails_Transform_3
+  - first:
+      213: 7880007662549853134
+    second: Tails_Transform_4
+  - first:
+      213: -8506568694698486847
+    second: Tails_Transform_5
+  - first:
+      213: -4374605510775047408
+    second: Tails_Transform_6
+  - first:
+      213: 1440121396267294165
+    second: Tails_Transform_7
+  - first:
+      213: 8185426647918784023
+    second: Tails_Transform_8
+  - first:
+      213: -6652628271659472172
+    second: Tails_Transform_9
+  - first:
+      213: -100406847979039025
+    second: Tails_Transform_10
+  - first:
+      213: -8109219562099472289
+    second: Tails_Transform_11
+  - first:
+      213: 44046880881085957
+    second: Tails_Transform_12
+  - first:
+      213: -8111029820236402124
+    second: Tails_Transform_13
+  - first:
+      213: -2551062040024867079
+    second: Tails_Transform_14
+  - first:
+      213: 5998935230766963112
+    second: Tails_Transform_15
+  - first:
+      213: -8662908891473402764
+    second: Tails_Transform_16
+  - first:
+      213: -4941009541683534266
+    second: Tails_Transform_17
+  - first:
+      213: 3111268010067528204
+    second: Tails_Transform_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tails_Transform_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3c4289a02b12520800000000000000
+      internalID: -3514974356934451103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Transform_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13db452bac76e3b10800000000000000
+      internalID: -4176069115077602532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Transform_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79be53ea2d43a0bc0800000000000000
+      internalID: 5622694777437330371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Transform_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cdbcde62a777550800000000000000
+      internalID: -5633266635551761934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Transform_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3e3a118396b5d60800000000000000
+      internalID: -5578850225403819974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Transform_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3d90787d892f980800000000000000
+      internalID: 5071384444618382071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Transform_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b79c137774a43c0800000000000000
+      internalID: 4359746410109592444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Transform_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd93f1a7c65cf310800000000000000
+      internalID: 4079447343861302873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Transform_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e27340b2a789170800000000000000
+      internalID: -4717552902577815321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Transform_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da240585dd1da3a0800000000000000
+      internalID: 7255192064776401614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Transform_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc65135f0884b9ef0800000000000000
+      internalID: 8088470414404259184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Transform_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f588963d5c3467f80800000000000000
+      internalID: -7217000834457802186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Transform_12
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e8160a76c7c9000800000000000000
+      internalID: -9041007708468598791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Transform_13
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43275324a55df6f80800000000000000
+      internalID: -8973126465947538365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Transform_14
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe9558379ec89cd0800000000000000
+      internalID: -6528972455833149659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Transform_15
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9d0740fcf704350800000000000000
+      internalID: 1144184906075468883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Transform_16
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474a722e24a27c780800000000000000
+      internalID: 6410126907484040754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Transform_17
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646232c10020e6bb0800000000000000
+      internalID: -7970436178973613575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tails_Transform_3: -5633266635551761934
+      Tails_Transform_11: -7217000834457802186
+      Tails_Transform_6: 4359746410109592444
+      Tails_Transform_7: 4079447343861302873
+      Tails_Transform_8: -4717552902577815321
+      Tails_Transform_12: -9041007708468598791
+      Tails_Transform_1: -4176069115077602532
+      Tails_Transform_17: -7970436178973613575
+      Tails_Transform_15: 1144184906075468883
+      Tails_Transform_4: -5578850225403819974
+      Tails_Transform_9: 7255192064776401614
+      Tails_Transform_2: 5622694777437330371
+      Tails_Transform_0: -3514974356934451103
+      Tails_Transform_13: -8973126465947538365
+      Tails_Transform_10: 8088470414404259184
+      Tails_Transform_16: 6410126907484040754
+      Tails_Transform_14: -6528972455833149659
+      Tails_Transform_5: 5071384444618382071
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

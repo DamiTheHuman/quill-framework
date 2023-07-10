@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Special Stage Knuckles Animator Override
+  m_Controller: {fileID: 9100000, guid: 9e3106c4612f7e64989c7d22fb144720, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 90814a039f9abf3428b6280bdab46cb0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 492d1e3dd2e3ea740a03fff21059152f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d84eedae7c1da39479ebb809a3ff8ae1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a27417feb3ab5a24f9fcd5439c51590d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8f7b5eed4b2ac0b43bd81c70f530195b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c8a0bc4ff937fe143a642d416a7baaed, type: 2}

@@ -1,0 +1,2085 @@
+fileFormatVersion: 2
+guid: a95427039c466004690f9803ed81cfa7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8504098388994833900
+    second: Invincibility_Sparkles_0
+  - first:
+      213: -630229454274840043
+    second: Invincibility_Sparkles_1
+  - first:
+      213: 2001247847992415123
+    second: Invincibility_Sparkles_2
+  - first:
+      213: 8407261100975534141
+    second: Invincibility_Sparkles_3
+  - first:
+      213: -73647736422542741
+    second: Invincibility_Sparkles_4
+  - first:
+      213: -7888436917084921615
+    second: Invincibility_Sparkles_5
+  - first:
+      213: -6213415739016234513
+    second: Invincibility_Sparkles_6
+  - first:
+      213: 3410479539378376074
+    second: Invincibility_Sparkles_7
+  - first:
+      213: -1211163270771543177
+    second: Invincibility_Sparkles_8
+  - first:
+      213: -1800666062792367658
+    second: Invincibility_Sparkles_9
+  - first:
+      213: 7188119331177069348
+    second: Invincibility_Sparkles_10
+  - first:
+      213: -1588427782668422524
+    second: Invincibility_Sparkles_11
+  - first:
+      213: 5829650540615251453
+    second: Invincibility_Sparkles_12
+  - first:
+      213: -2899638439589054882
+    second: Invincibility_Sparkles_13
+  - first:
+      213: -4064179912559133441
+    second: Invincibility_Sparkles_14
+  - first:
+      213: 5758838796296433689
+    second: Invincibility_Sparkles_15
+  - first:
+      213: -7595777329640727312
+    second: Invincibility_Sparkles_16
+  - first:
+      213: 7178350049229365795
+    second: Invincibility_Sparkles_17
+  - first:
+      213: 6444724615391766229
+    second: Invincibility_Sparkles_18
+  - first:
+      213: -8527024773680945717
+    second: Invincibility_Sparkles_19
+  - first:
+      213: 2140447520333954543
+    second: Invincibility_Sparkles_20
+  - first:
+      213: 176348197443298671
+    second: Invincibility_Sparkles_21
+  - first:
+      213: 5531821183583311560
+    second: Invincibility_Sparkles_22
+  - first:
+      213: 8286031438318752453
+    second: Invincibility_Sparkles_23
+  - first:
+      213: 6337914295863140509
+    second: Invincibility_Sparkles_24
+  - first:
+      213: -4969008478799436946
+    second: Invincibility_Sparkles_25
+  - first:
+      213: 2970787709812078490
+    second: Invincibility_Sparkles_26
+  - first:
+      213: -4382875306334365608
+    second: Invincibility_Sparkles_27
+  - first:
+      213: 8489731750341647575
+    second: Invincibility_Sparkles_28
+  - first:
+      213: 7121810358370261446
+    second: Invincibility_Sparkles_29
+  - first:
+      213: -8463609835689698674
+    second: Invincibility_Sparkles_30
+  - first:
+      213: 4706188146461472344
+    second: Invincibility_Sparkles_31
+  - first:
+      213: -5814623768828621172
+    second: Invincibility_Sparkles_32
+  - first:
+      213: 8382787744794084489
+    second: Invincibility_Sparkles_33
+  - first:
+      213: 6608377936474983565
+    second: Invincibility_Sparkles_34
+  - first:
+      213: 67095744654605086
+    second: Invincibility_Sparkles_35
+  - first:
+      213: -6243091381647637253
+    second: Invincibility_Sparkles_36
+  - first:
+      213: -8382976752493292498
+    second: Invincibility_Sparkles_37
+  - first:
+      213: -8510687680971618559
+    second: Invincibility_Sparkles_38
+  - first:
+      213: -3465795006330121063
+    second: Invincibility_Sparkles_39
+  - first:
+      213: 2589664286422391427
+    second: Invincibility_Sparkles_40
+  - first:
+      213: -2224661391672867390
+    second: Invincibility_Sparkles_41
+  - first:
+      213: 4745248087994218238
+    second: Invincibility_Sparkles_42
+  - first:
+      213: 6173293488659506255
+    second: Invincibility_Sparkles_43
+  - first:
+      213: -7638186780977871949
+    second: Invincibility_Sparkles_44
+  - first:
+      213: 5572489605982671618
+    second: Invincibility_Sparkles_45
+  - first:
+      213: 5620492683482539755
+    second: Invincibility_Sparkles_46
+  - first:
+      213: -4107622788547025736
+    second: Invincibility_Sparkles_47
+  - first:
+      213: 2691075864876306958
+    second: Invincibility_Sparkles_48
+  - first:
+      213: -5543673317892967794
+    second: Invincibility_Sparkles_49
+  - first:
+      213: -197929063579814554
+    second: Invincibility_Sparkles_50
+  - first:
+      213: -3062134908239631024
+    second: Invincibility_Sparkles_51
+  - first:
+      213: -220105774822764965
+    second: Invincibility_Sparkles_52
+  - first:
+      213: -6996391816559802028
+    second: Invincibility_Sparkles_53
+  - first:
+      213: -5575563611624426624
+    second: Invincibility_Sparkles_54
+  - first:
+      213: 3526016652727950676
+    second: Invincibility_Sparkles_55
+  - first:
+      213: 4925534093411302047
+    second: Invincibility_Sparkles_56
+  - first:
+      213: 6412963892454234691
+    second: Invincibility_Sparkles_57
+  - first:
+      213: 6687980852318011316
+    second: Invincibility_Sparkles_58
+  - first:
+      213: 5488344614005425334
+    second: Invincibility_Sparkles_59
+  - first:
+      213: 988555278188285775
+    second: Invincibility_Sparkles_60
+  - first:
+      213: -692735279797691847
+    second: Invincibility_Sparkles_61
+  - first:
+      213: 2271873421443060311
+    second: Invincibility_Sparkles_62
+  - first:
+      213: -8490167198201064255
+    second: Invincibility_Sparkles_63
+  - first:
+      213: -6923160835555039175
+    second: Invincibility_Sparkles_64
+  - first:
+      213: -4032083680269406426
+    second: Invincibility_Sparkles_65
+  - first:
+      213: -807589529034593070
+    second: Invincibility_Sparkles_66
+  - first:
+      213: 6885188869129346678
+    second: Invincibility_Sparkles_67
+  - first:
+      213: -488758015291205946
+    second: Invincibility_Sparkles_68
+  - first:
+      213: 6507664941132657670
+    second: Invincibility_Sparkles_69
+  - first:
+      213: 641478893891609834
+    second: Invincibility_Sparkles_70
+  - first:
+      213: 5506653925035184430
+    second: Invincibility_Sparkles_71
+  - first:
+      213: 8519761294216552441
+    second: Invincibility_Sparkles_72
+  - first:
+      213: 4511226141533403564
+    second: Invincibility_Sparkles_73
+  - first:
+      213: 7270291904306209668
+    second: Invincibility_Sparkles_74
+  - first:
+      213: 6291465501628071183
+    second: Invincibility_Sparkles_75
+  - first:
+      213: -6120633042399229422
+    second: Invincibility_Sparkles_76
+  - first:
+      213: -4073507170482292141
+    second: Invincibility_Sparkles_77
+  - first:
+      213: 9076115883542947161
+    second: Invincibility_Sparkles_78
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412cdf4629f5bf980800000000000000
+      internalID: -8504098388994833900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ab5f286a9f047f0800000000000000
+      internalID: -630229454274840043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3935a1f805cd5cb10800000000000000
+      internalID: 2001247847992415123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d303b918d679ca470800000000000000
+      internalID: 8407261100975534141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62d50026c95afef0800000000000000
+      internalID: -73647736422542741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0631c2b64a68290800000000000000
+      internalID: -7888436917084921615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9bd123e4385c9a0800000000000000
+      internalID: -6213415739016234513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dc2625215745f20800000000000000
+      internalID: 3410479539378376074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77379a81c65113fe0800000000000000
+      internalID: -1211163270771543177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1e82891cfb207e0800000000000000
+      internalID: -1800666062792367658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b7de9827451c360800000000000000
+      internalID: 7188119331177069348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482ffa6f855c4f9e0800000000000000
+      internalID: -1588427782668422524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df53906a74417e050800000000000000
+      internalID: 5829650540615251453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56f93fb33a62c7d0800000000000000
+      internalID: -2899638439589054882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc72a807e12997c0800000000000000
+      internalID: -4064179912559133441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910bcf3af518bef40800000000000000
+      internalID: 5758838796296433689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc9cc943c0669690800000000000000
+      internalID: -7595777329640727312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32269b5565f9e9360800000000000000
+      internalID: 7178350049229365795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d664af54e2407950800000000000000
+      internalID: 6444724615391766229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5aacd752ce9a980800000000000000
+      internalID: -8527024773680945717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedfedddda564bd10800000000000000
+      internalID: 2140447520333954543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65636150c3827200800000000000000
+      internalID: 176348197443298671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6d670ce0af4cc40800000000000000
+      internalID: 5531821183583311560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c255be11b5edf270800000000000000
+      internalID: 8286031438318752453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_24
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90eacde87bc4f750800000000000000
+      internalID: 6337914295863140509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63614f8d198a0bb0800000000000000
+      internalID: -4969008478799436946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97f172aeab5a3920800000000000000
+      internalID: 2970787709812078490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_27
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858db1f5126ec23c0800000000000000
+      internalID: -4382875306334365608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_28
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 64
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc1871eb0691d570800000000000000
+      internalID: 8489731750341647575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_29
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c95b58b9c0c5d260800000000000000
+      internalID: 7121810358370261446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_30
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 64
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a963252b73b8a80800000000000000
+      internalID: -8463609835689698674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8567dfb4f2dbf4140800000000000000
+      internalID: 4706188146461472344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e4d6c4d7e4e4fa0800000000000000
+      internalID: -5814623768828621172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98403fb3a05a55470800000000000000
+      internalID: 8382787744794084489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cce1578bca5bb50800000000000000
+      internalID: 6608377936474983565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bf31a693f5ee000800000000000000
+      internalID: 67095744654605086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4079837751c59a0800000000000000
+      internalID: -6243091381647637253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24974bfe0fa9ab80800000000000000
+      internalID: -8382976752493292498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_38
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107c46d45a6f3e980800000000000000
+      internalID: -8510687680971618559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_39
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994de57edc507efc0800000000000000
+      internalID: -3465795006330121063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_40
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ad8b7a2f550f320800000000000000
+      internalID: 2589664286422391427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c500d3404a6021e0800000000000000
+      internalID: -2224661391672867390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_42
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef63fff9ef18ad140800000000000000
+      internalID: 4745248087994218238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4428cd68b1fba550800000000000000
+      internalID: 6173293488659506255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_44
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3cabf6795bff590800000000000000
+      internalID: -7638186780977871949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_45
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2035727b5c5755d40800000000000000
+      internalID: 5572489605982671618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6a8a52150000e40800000000000000
+      internalID: 5620492683482539755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_47
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 32
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4ea5146dacef6c0800000000000000
+      internalID: -4107622788547025736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_48
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 32
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02549dbd3f985520800000000000000
+      internalID: 2691075864876306958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_49
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 32
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82bd203d7ae013b0800000000000000
+      internalID: -5543673317892967794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_50
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 32
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665799ab090d04df0800000000000000
+      internalID: -197929063579814554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_51
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 32
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05dad0c568c1185d0800000000000000
+      internalID: -3062134908239631024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_52
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 32
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e4da6c6f602fcf0800000000000000
+      internalID: -220105774822764965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_53
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 32
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459c08816b2d7ee90800000000000000
+      internalID: -6996391816559802028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_54
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 32
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08338829f6e9f92b0800000000000000
+      internalID: -5575563611624426624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d16f9c67deee030800000000000000
+      internalID: 3526016652727950676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a3bde49230b5440800000000000000
+      internalID: 4925534093411302047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a142fceac6ff850800000000000000
+      internalID: 6412963892454234691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_58
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf7707962b70dc50800000000000000
+      internalID: 6687980852318011316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_59
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4c8b219548a2c40800000000000000
+      internalID: 5488344614005425334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_60
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f0045b9cd08bd00800000000000000
+      internalID: 988555278188285775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a174ceee8e266f0800000000000000
+      internalID: -692735279797691847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_62
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752d3c307d0578f10800000000000000
+      internalID: 2271873421443060311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_63
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c45d838aeddc2a80800000000000000
+      internalID: -8490167198201064255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_64
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93868d986edfbef90800000000000000
+      internalID: -6923160835555039175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f64e471492b08c0800000000000000
+      internalID: -4032083680269406426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_66
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc61952a9ddac4f0800000000000000
+      internalID: -807589529034593070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_67
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e9de31cca1d8f50800000000000000
+      internalID: 6885188869129346678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_68
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c65175bc259739f0800000000000000
+      internalID: -488758015291205946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_69
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604b97de8cedf4a50800000000000000
+      internalID: 6507664941132657670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_70
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4e151c7adf6e800800000000000000
+      internalID: 641478893891609834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_71
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e219bbeb1909b6c40800000000000000
+      internalID: 5506653925035184430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_72
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff56e8e1c54c3670800000000000000
+      internalID: 8519761294216552441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_73
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9fd8336481b9e30800000000000000
+      internalID: 4511226141533403564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_74
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483e191a7f345e460800000000000000
+      internalID: 7270291904306209668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_75
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d7a254a86cf4750800000000000000
+      internalID: 6291465501628071183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_76
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a864b2da42f0ba0800000000000000
+      internalID: -6120633042399229422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_77
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a75619fcef777c0800000000000000
+      internalID: -4073507170482292141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invincibility_Sparkles_78
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955abda0f47d4fd70800000000000000
+      internalID: 9076115883542947161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Invincibility_Sparkles_76: -6120633042399229422
+      Invincibility_Sparkles_77: -4073507170482292141
+      Invincibility_Sparkles_68: -488758015291205946
+      Invincibility_Sparkles_6: -6213415739016234513
+      Invincibility_Sparkles_30: -8463609835689698674
+      Invincibility_Sparkles_53: -6996391816559802028
+      Invincibility_Sparkles_75: 6291465501628071183
+      Invincibility_Sparkles_49: -5543673317892967794
+      Invincibility_Sparkles_28: 8489731750341647575
+      Invincibility_Sparkles_70: 641478893891609834
+      Invincibility_Sparkles_54: -5575563611624426624
+      Invincibility_Sparkles_47: -4107622788547025736
+      Invincibility_Sparkles_67: 6885188869129346678
+      Invincibility_Sparkles_24: 6337914295863140509
+      Invincibility_Sparkles_27: -4382875306334365608
+      Invincibility_Sparkles_3: 8407261100975534141
+      Invincibility_Sparkles_78: 9076115883542947161
+      Invincibility_Sparkles_8: -1211163270771543177
+      Invincibility_Sparkles_25: -4969008478799436946
+      Invincibility_Sparkles_45: 5572489605982671618
+      Invincibility_Sparkles_63: -8490167198201064255
+      Invincibility_Sparkles_39: -3465795006330121063
+      Invincibility_Sparkles_48: 2691075864876306958
+      Invincibility_Sparkles_1: -630229454274840043
+      Invincibility_Sparkles_36: -6243091381647637253
+      Invincibility_Sparkles_11: -1588427782668422524
+      Invincibility_Sparkles_59: 5488344614005425334
+      Invincibility_Sparkles_52: -220105774822764965
+      Invincibility_Sparkles_20: 2140447520333954543
+      Invincibility_Sparkles_21: 176348197443298671
+      Invincibility_Sparkles_29: 7121810358370261446
+      Invincibility_Sparkles_51: -3062134908239631024
+      Invincibility_Sparkles_37: -8382976752493292498
+      Invincibility_Sparkles_9: -1800666062792367658
+      Invincibility_Sparkles_10: 7188119331177069348
+      Invincibility_Sparkles_7: 3410479539378376074
+      Invincibility_Sparkles_5: -7888436917084921615
+      Invincibility_Sparkles_12: 5829650540615251453
+      Invincibility_Sparkles_43: 6173293488659506255
+      Invincibility_Sparkles_33: 8382787744794084489
+      Invincibility_Sparkles_73: 4511226141533403564
+      Invincibility_Sparkles_56: 4925534093411302047
+      Invincibility_Sparkles_19: -8527024773680945717
+      Invincibility_Sparkles_55: 3526016652727950676
+      Invincibility_Sparkles_66: -807589529034593070
+      Invincibility_Sparkles_42: 4745248087994218238
+      Invincibility_Sparkles_61: -692735279797691847
+      Invincibility_Sparkles_46: 5620492683482539755
+      Invincibility_Sparkles_50: -197929063579814554
+      Invincibility_Sparkles_34: 6608377936474983565
+      Invincibility_Sparkles_2: 2001247847992415123
+      Invincibility_Sparkles_26: 2970787709812078490
+      Invincibility_Sparkles_4: -73647736422542741
+      Invincibility_Sparkles_60: 988555278188285775
+      Invincibility_Sparkles_62: 2271873421443060311
+      Invincibility_Sparkles_14: -4064179912559133441
+      Invincibility_Sparkles_41: -2224661391672867390
+      Invincibility_Sparkles_40: 2589664286422391427
+      Invincibility_Sparkles_23: 8286031438318752453
+      Invincibility_Sparkles_58: 6687980852318011316
+      Invincibility_Sparkles_71: 5506653925035184430
+      Invincibility_Sparkles_16: -7595777329640727312
+      Invincibility_Sparkles_0: -8504098388994833900
+      Invincibility_Sparkles_13: -2899638439589054882
+      Invincibility_Sparkles_35: 67095744654605086
+      Invincibility_Sparkles_65: -4032083680269406426
+      Invincibility_Sparkles_69: 6507664941132657670
+      Invincibility_Sparkles_72: 8519761294216552441
+      Invincibility_Sparkles_22: 5531821183583311560
+      Invincibility_Sparkles_44: -7638186780977871949
+      Invincibility_Sparkles_38: -8510687680971618559
+      Invincibility_Sparkles_15: 5758838796296433689
+      Invincibility_Sparkles_74: 7270291904306209668
+      Invincibility_Sparkles_31: 4706188146461472344
+      Invincibility_Sparkles_64: -6923160835555039175
+      Invincibility_Sparkles_17: 7178350049229365795
+      Invincibility_Sparkles_57: 6412963892454234691
+      Invincibility_Sparkles_18: 6444724615391766229
+      Invincibility_Sparkles_32: -5814623768828621172
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

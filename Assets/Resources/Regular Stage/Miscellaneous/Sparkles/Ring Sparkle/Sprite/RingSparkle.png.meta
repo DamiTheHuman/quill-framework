@@ -1,0 +1,589 @@
+fileFormatVersion: 2
+guid: 3343eb79ea3fcc54f826a6e134f0c104
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -508177892836835415
+    second: Big_RingSparkle_0
+  - first:
+      213: 8956666954719446831
+    second: Big_RingSparkle_1
+  - first:
+      213: -7380749300591269084
+    second: Big_RingSparkle_2
+  - first:
+      213: 4795587950941525081
+    second: Big_RingSparkle_3
+  - first:
+      213: -4385201750001382832
+    second: Big_RingSparkle_4
+  - first:
+      213: 3314838711410014038
+    second: Big_RingSparkle_5
+  - first:
+      213: -4898044566849216263
+    second: Big_RingSparkle_6
+  - first:
+      213: 7764825332411244493
+    second: Big_RingSparkle_7
+  - first:
+      213: 3268352014316934128
+    second: Big_RingSparkle_8
+  - first:
+      213: -1668631045522339208
+    second: Big_RingSparkle_9
+  - first:
+      213: 5501843485590294899
+    second: Big_RingSparkle_10
+  - first:
+      213: 602673904545554695
+    second: Big_RingSparkle_11
+  - first:
+      213: -7191857559370182474
+    second: Big_RingSparkle_12
+  - first:
+      213: -7235678870231579080
+    second: Big_RingSparkle_0
+  - first:
+      213: 1465056798715220580
+    second: Big_RingSparkle_1
+  - first:
+      213: -4419745644275820147
+    second: Big_RingSparkle_2
+  - first:
+      213: -2532145273697548324
+    second: Big_RingSparkle_3
+  - first:
+      213: -1382451422214492808
+    second: Big_RingSparkle_4
+  - first:
+      213: 3549369417173504243
+    second: Big_RingSparkle_5
+  - first:
+      213: -2768044182747256674
+    second: Big_RingSparkle_6
+  - first:
+      213: 536226280721530272
+    second: Big_RingSparkle_7
+  - first:
+      213: -1145310258249201205
+    second: Big_RingSparkle_8
+  - first:
+      213: -1257984323456993031
+    second: Big_RingSparkle_9
+  - first:
+      213: -1635238041294139246
+    second: Big_RingSparkle_10
+  - first:
+      213: 1531646665442943212
+    second: Big_RingSparkle_11
+  - first:
+      213: 5695760930377206122
+    second: Big_RingSparkle_12
+  - first:
+      213: 5850240226214493655
+    second: Big_RingSparkle_13
+  - first:
+      213: -7117954306917178452
+    second: Big_RingSparkle_14
+  - first:
+      213: -4066150840204277070
+    second: RingSparkle_0
+  - first:
+      213: -807672026191277220
+    second: RingSparkle_1
+  - first:
+      213: -402174511012912518
+    second: RingSparkle_2
+  - first:
+      213: 8542461593407551204
+    second: RingSparkle_3
+  - first:
+      213: 5712507513733816684
+    second: RingSparkle_4
+  - first:
+      213: 6555568584677034293
+    second: RingSparkle_5
+  - first:
+      213: 924855809260058425
+    second: RingSparkle_6
+  - first:
+      213: 75134037540268733
+    second: RingSparkle_7
+  - first:
+      213: 5158361066568750624
+    second: RingSparkle_8
+  - first:
+      213: -1099112061416596766
+    second: RingSparkle_9
+  - first:
+      213: -3927023860358386169
+    second: RingSparkle_10
+  - first:
+      213: 444543562384948898
+    second: RingSparkle_11
+  - first:
+      213: -356892529623657503
+    second: RingSparkle_12
+  - first:
+      213: -644067398912457680
+    second: RingSparkle_0
+  - first:
+      213: -193882086178758575
+    second: RingSparkle_1
+  - first:
+      213: -2380557383045503151
+    second: RingSparkle_2
+  - first:
+      213: 103553704648117995
+    second: RingSparkle_3
+  - first:
+      213: 3581853574568886150
+    second: RingSparkle_4
+  - first:
+      213: 2303076571397793025
+    second: RingSparkle_5
+  - first:
+      213: -1600684371067927369
+    second: RingSparkle_6
+  - first:
+      213: -5540426054760870426
+    second: RingSparkle_7
+  - first:
+      213: 990768967383492650
+    second: RingSparkle_8
+  - first:
+      213: -3304865912034449558
+    second: RingSparkle_9
+  - first:
+      213: -8991012269612554615
+    second: RingSparkle_10
+  - first:
+      213: -703787880648793726
+    second: RingSparkle_11
+  - first:
+      213: -7854077223204757379
+    second: RingSparkle_12
+  - first:
+      213: 6452631277274759705
+    second: RingSparkle_13
+  - first:
+      213: 8099229647280145259
+    second: RingSparkle_14
+  - first:
+      213: -210235425299858311
+    second: RingSparkle_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RingSparkle_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034c964fc10df07f0800000000000000
+      internalID: -4066150840204277070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingSparkle_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 6
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150e00515413f4df0800000000000000
+      internalID: -807672026191277220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingSparkle_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157a3204caf86fed0800000000000000
+      internalID: -402174511012912518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingSparkle_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee0ab4bb85ef6100800000000000000
+      internalID: 8542461593407551204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingSparkle_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 4
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f34ad39dc45b130800000000000000
+      internalID: 5712507513733816684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingSparkle_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 3
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105a0b080fb26ff10800000000000000
+      internalID: 6555568584677034293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingSparkle_6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 3
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b40af89b0a39c9e0800000000000000
+      internalID: 924855809260058425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingSparkle_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edc8ad8bd37c13b0800000000000000
+      internalID: 75134037540268733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingSparkle_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28af53602befbd00800000000000000
+      internalID: 5158361066568750624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingSparkle_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67a3e286f1c222d0800000000000000
+      internalID: -1099112061416596766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingSparkle_10
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986a09a2af1893380800000000000000
+      internalID: -3927023860358386169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingSparkle_11
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 3
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28124b0c6a4ab36f0800000000000000
+      internalID: 444543562384948898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingSparkle_12
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70e460d066b00390800000000000000
+      internalID: -356892529623657503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingSparkle_13
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 6
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912898c85f95c8950800000000000000
+      internalID: 6452631277274759705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RingSparkle_13: 6452631277274759705
+      RingSparkle_3: 8542461593407551204
+      RingSparkle_5: 6555568584677034293
+      RingSparkle_1: -807672026191277220
+      RingSparkle_0: -4066150840204277070
+      RingSparkle_9: -1099112061416596766
+      RingSparkle_6: 924855809260058425
+      RingSparkle_2: -402174511012912518
+      RingSparkle_8: 5158361066568750624
+      RingSparkle_11: 444543562384948898
+      RingSparkle_12: -356892529623657503
+      RingSparkle_4: 5712507513733816684
+      RingSparkle_10: -3927023860358386169
+      RingSparkle_7: 75134037540268733
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

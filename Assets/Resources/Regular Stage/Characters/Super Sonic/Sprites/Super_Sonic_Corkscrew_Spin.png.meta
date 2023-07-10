@@ -1,0 +1,908 @@
+fileFormatVersion: 2
+guid: 36160da0fb9d5b04fa1818fde7376f32
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3697579421851531111
+    second: Super_Sonic_Corkscrew_Spin_0
+  - first:
+      213: 1064338118972144071
+    second: Super_Sonic_Corkscrew_Spin_1
+  - first:
+      213: 2479858373898419423
+    second: Super_Sonic_Corkscrew_Spin_2
+  - first:
+      213: -6286777468394632225
+    second: Super_Sonic_Corkscrew_Spin_3
+  - first:
+      213: -2400388657632123230
+    second: Super_Sonic_Corkscrew_Spin_4
+  - first:
+      213: 8517146424886949944
+    second: Super_Sonic_Corkscrew_Spin_5
+  - first:
+      213: 6764745750958842148
+    second: Super_Sonic_Corkscrew_Spin_6
+  - first:
+      213: -2308966972450854542
+    second: Super_Sonic_Corkscrew_Spin_7
+  - first:
+      213: 5132724765153958943
+    second: Super_Sonic_Corkscrew_Spin_8
+  - first:
+      213: -7230416283347409096
+    second: Super_Sonic_Corkscrew_Spin_9
+  - first:
+      213: -788115158573929189
+    second: Super_Sonic_Corkscrew_Spin_10
+  - first:
+      213: -449791918708620923
+    second: Super_Sonic_Corkscrew_Spin_11
+  - first:
+      213: 8536350278649107242
+    second: Super_Sonic_Corkscrew_Spin_12
+  - first:
+      213: 2541705534004178886
+    second: Super_Sonic_Corkscrew_Spin_13
+  - first:
+      213: 3878321719124131518
+    second: Super_Sonic_Corkscrew_Spin_14
+  - first:
+      213: -5352101280175671594
+    second: Super_Sonic_Corkscrew_Spin_15
+  - first:
+      213: -5370073439483042229
+    second: Super_Sonic_Corkscrew_Spin_16
+  - first:
+      213: -5593731025640719904
+    second: Super_Sonic_Corkscrew_Spin_17
+  - first:
+      213: 2956856351932412367
+    second: Super_Sonic_Corkscrew_Spin_18
+  - first:
+      213: -144373525573852864
+    second: Super_Sonic_Corkscrew_Spin_19
+  - first:
+      213: 7584120220214577920
+    second: Super_Sonic_Corkscrew_Spin_20
+  - first:
+      213: -5988572520936434234
+    second: Super_Sonic_Corkscrew_Spin_21
+  - first:
+      213: 6496436189567585513
+    second: Super_Sonic_Corkscrew_Spin_22
+  - first:
+      213: 3175235115267432073
+    second: Super_Sonic_Corkscrew_Spin_23
+  - first:
+      213: -457048335741269724
+    second: Super_Sonic_Corkscrew_Spin_0
+  - first:
+      213: -7506052028199084865
+    second: Super_Sonic_Corkscrew_Spin_1
+  - first:
+      213: -3132659747283239025
+    second: Super_Sonic_Corkscrew_Spin_2
+  - first:
+      213: 7937703419152664578
+    second: Super_Sonic_Corkscrew_Spin_3
+  - first:
+      213: 4845092255655200142
+    second: Super_Sonic_Corkscrew_Spin_4
+  - first:
+      213: -1436602930625487678
+    second: Super_Sonic_Corkscrew_Spin_5
+  - first:
+      213: 8074927257897935645
+    second: Super_Sonic_Corkscrew_Spin_6
+  - first:
+      213: -2274361712159487351
+    second: Super_Sonic_Corkscrew_Spin_7
+  - first:
+      213: -1919662168233707777
+    second: Super_Sonic_Corkscrew_Spin_8
+  - first:
+      213: 6434982995530543629
+    second: Super_Sonic_Corkscrew_Spin_9
+  - first:
+      213: -3334590433189564805
+    second: Super_Sonic_Corkscrew_Spin_10
+  - first:
+      213: -7026444294466251070
+    second: Super_Sonic_Corkscrew_Spin_11
+  - first:
+      213: -3936293177069864330
+    second: Super_Sonic_Corkscrew_Spin_12
+  - first:
+      213: 5744429699491229937
+    second: Super_Sonic_Corkscrew_Spin_13
+  - first:
+      213: 1445958329069653912
+    second: Super_Sonic_Corkscrew_Spin_14
+  - first:
+      213: -3129069306896303455
+    second: Super_Sonic_Corkscrew_Spin_15
+  - first:
+      213: 6370149395093301005
+    second: Super_Sonic_Corkscrew_Spin_16
+  - first:
+      213: 4325704919865686740
+    second: Super_Sonic_Corkscrew_Spin_17
+  - first:
+      213: 7843962582381932267
+    second: Super_Sonic_Corkscrew_Spin_18
+  - first:
+      213: 2906584277034076958
+    second: Super_Sonic_Corkscrew_Spin_19
+  - first:
+      213: -7745016634751871188
+    second: Super_Sonic_Corkscrew_Spin_20
+  - first:
+      213: 7239497337651861238
+    second: Super_Sonic_Corkscrew_Spin_21
+  - first:
+      213: 3500799335159088654
+    second: Super_Sonic_Corkscrew_Spin_22
+  - first:
+      213: 2149099935134308499
+    second: Super_Sonic_Corkscrew_Spin_23
+  - first:
+      213: 4424316914144175294
+    second: Super_Sonic_Corkscrew_Spin_24
+  - first:
+      213: -7922443870407770135
+    second: Super_Sonic_Corkscrew_Spin_25
+  - first:
+      213: 636573120425541073
+    second: Super_Sonic_Corkscrew_Spin_26
+  - first:
+      213: -979568736138629526
+    second: Super_Sonic_Corkscrew_Spin_27
+  - first:
+      213: -6885387511156779102
+    second: Super_Sonic_Corkscrew_Spin_28
+  - first:
+      213: -641915220668577613
+    second: Super_Sonic_Corkscrew_Spin_29
+  - first:
+      213: 5155195924373449926
+    second: Super_Sonic_Corkscrew_Spin_30
+  - first:
+      213: 3485917836728768281
+    second: Super_Sonic_Corkscrew_Spin_31
+  - first:
+      213: -2806716598063477947
+    second: Super_Sonic_Corkscrew_Spin_32
+  - first:
+      213: -225609072386074122
+    second: Super_Sonic_Corkscrew_Spin_33
+  - first:
+      213: 5757588501634458229
+    second: Super_Sonic_Corkscrew_Spin_34
+  - first:
+      213: 1246988263345787214
+    second: Super_Sonic_Corkscrew_Spin_35
+  - first:
+      213: -3716944101687665767
+    second: Super_Sonic_Corkscrew_Spin_36
+  - first:
+      213: -6480252101118460911
+    second: Super_Sonic_Corkscrew_Spin_37
+  - first:
+      213: -6009971617825468926
+    second: Super_Sonic_Corkscrew_Spin_38
+  - first:
+      213: 3394358765704618386
+    second: Super_Sonic_Corkscrew_Spin_39
+  - first:
+      213: -745687496067471782
+    second: Super_Sonic_Corkscrew_Spin_40
+  - first:
+      213: 2972327105553406213
+    second: Super_Sonic_Corkscrew_Spin_41
+  - first:
+      213: 889596458018546463
+    second: Super_Sonic_Corkscrew_0
+  - first:
+      213: 6217791755217358750
+    second: Super_Sonic_Corkscrew_1
+  - first:
+      213: 2212969752714099634
+    second: Super_Sonic_Corkscrew_2
+  - first:
+      213: 5796870666806535875
+    second: Super_Sonic_Corkscrew_3
+  - first:
+      213: 3596285645940123808
+    second: Super_Sonic_Corkscrew_4
+  - first:
+      213: -8010489331603053079
+    second: Super_Sonic_Corkscrew_5
+  - first:
+      213: -2939744332355305303
+    second: Super_Sonic_Corkscrew_6
+  - first:
+      213: -3041844457497359496
+    second: Super_Sonic_Corkscrew_7
+  - first:
+      213: 7356032226008222561
+    second: Super_Sonic_Corkscrew_8
+  - first:
+      213: 1634824752571304967
+    second: Super_Sonic_Corkscrew_9
+  - first:
+      213: 4004142437669807718
+    second: Super_Sonic_Corkscrew_10
+  - first:
+      213: 189915967228249561
+    second: Super_Sonic_Corkscrew_11
+  - first:
+      213: -2069056997668354328
+    second: Super_Sonic_Corkscrew_12
+  - first:
+      213: -515707202555128881
+    second: Super_Sonic_Corkscrew_13
+  - first:
+      213: 350384388269933220
+    second: Super_Sonic_Corkscrew_14
+  - first:
+      213: 1395807042164299455
+    second: Super_Sonic_Corkscrew_15
+  - first:
+      213: 4728141108183423655
+    second: Super_Sonic_Corkscrew_16
+  - first:
+      213: 8393100579659435647
+    second: Super_Sonic_Corkscrew_17
+  - first:
+      213: -1070870916127808767
+    second: Super_Sonic_Corkscrew_18
+  - first:
+      213: 5607540042239358118
+    second: Super_Sonic_Corkscrew_19
+  - first:
+      213: 6936989261119540928
+    second: Super_Sonic_Corkscrew_20
+  - first:
+      213: 2908073847568111853
+    second: Super_Sonic_Corkscrew_21
+  - first:
+      213: -2485960596638978203
+    second: Super_Sonic_Corkscrew_22
+  - first:
+      213: -6266598961249505468
+    second: Super_Sonic_Corkscrew_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Super_Sonic_Corkscrew_Spin_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7673140c4e0705330800000000000000
+      internalID: 3697579421851531111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Corkscrew_Spin_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9fd3e41e945ce00800000000000000
+      internalID: 1064338118972144071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Corkscrew_Spin_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc3e7d5d0a3a6220800000000000000
+      internalID: 2479858373898419423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Corkscrew_Spin_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb88668331e0c8a0800000000000000
+      internalID: -6286777468394632225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Corkscrew_Spin_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6e5f2db3b10bed0800000000000000
+      internalID: -2400388657632123230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Corkscrew_Spin_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838ff533c8bf23670800000000000000
+      internalID: 8517146424886949944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Corkscrew_Spin_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4212cb95b6431ed50800000000000000
+      internalID: 6764745750958842148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Corkscrew_Spin_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27925f0a5c6e4ffd0800000000000000
+      internalID: -2308966972450854542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Corkscrew_Spin_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c1ad4caf91b3740800000000000000
+      internalID: 5132724765153958943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Corkscrew_Spin_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837a0ecd2b668ab90800000000000000
+      internalID: -7230416283347409096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Corkscrew_Spin_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1da91b507d0015f0800000000000000
+      internalID: -788115158573929189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Corkscrew_Spin_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581088e02a402c9f0800000000000000
+      internalID: -449791918708620923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Corkscrew_Spin_12
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23df25d955377670800000000000000
+      internalID: 8536350278649107242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Corkscrew_Spin_13
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfa6f577b3f54320800000000000000
+      internalID: 2541705534004178886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Corkscrew_Spin_14
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe73192e0192d530800000000000000
+      internalID: 3878321719124131518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Corkscrew_Spin_15
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d637390e3489b5b0800000000000000
+      internalID: -5352101280175671594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Corkscrew_Spin_16
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b466add98aaa975b0800000000000000
+      internalID: -5370073439483042229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Corkscrew_Spin_17
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e97a9fd4431f52b0800000000000000
+      internalID: -5593731025640719904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Corkscrew_Spin_18
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1f9cc9f2dd80920800000000000000
+      internalID: 2956856351932412367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Corkscrew_Spin_19
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041233d1b051ffdf0800000000000000
+      internalID: -144373525573852864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Corkscrew_Spin_20
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b4fbb6825304960800000000000000
+      internalID: 7584120220214577920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Corkscrew_Spin_21
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c51be1650154eca0800000000000000
+      internalID: -5988572520936434234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Corkscrew_Spin_22
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec0b297b4af72a50800000000000000
+      internalID: 6496436189567585513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Corkscrew_Spin_23
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e9cd3a383b01c20800000000000000
+      internalID: 3175235115267432073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Super_Sonic_Corkscrew_Spin_22: 6496436189567585513
+      Super_Sonic_Corkscrew_Spin_18: 2956856351932412367
+      Super_Sonic_Corkscrew_Spin_17: -5593731025640719904
+      Super_Sonic_Corkscrew_Spin_6: 6764745750958842148
+      Super_Sonic_Corkscrew_Spin_9: -7230416283347409096
+      Super_Sonic_Corkscrew_Spin_11: -449791918708620923
+      Super_Sonic_Corkscrew_Spin_0: 3697579421851531111
+      Super_Sonic_Corkscrew_Spin_13: 2541705534004178886
+      Super_Sonic_Corkscrew_Spin_15: -5352101280175671594
+      Super_Sonic_Corkscrew_Spin_16: -5370073439483042229
+      Super_Sonic_Corkscrew_Spin_20: 7584120220214577920
+      Super_Sonic_Corkscrew_Spin_21: -5988572520936434234
+      Super_Sonic_Corkscrew_Spin_1: 1064338118972144071
+      Super_Sonic_Corkscrew_Spin_14: 3878321719124131518
+      Super_Sonic_Corkscrew_Spin_12: 8536350278649107242
+      Super_Sonic_Corkscrew_Spin_3: -6286777468394632225
+      Super_Sonic_Corkscrew_Spin_19: -144373525573852864
+      Super_Sonic_Corkscrew_Spin_10: -788115158573929189
+      Super_Sonic_Corkscrew_Spin_23: 3175235115267432073
+      Super_Sonic_Corkscrew_Spin_4: -2400388657632123230
+      Super_Sonic_Corkscrew_Spin_2: 2479858373898419423
+      Super_Sonic_Corkscrew_Spin_8: 5132724765153958943
+      Super_Sonic_Corkscrew_Spin_7: -2308966972450854542
+      Super_Sonic_Corkscrew_Spin_5: 8517146424886949944
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

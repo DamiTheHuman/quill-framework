@@ -1,0 +1,642 @@
+fileFormatVersion: 2
+guid: 8a28297a9c949b44380b87891025dd42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6739172456097992409
+    second: Sonic_Transform_0
+  - first:
+      213: 3969665672708505586
+    second: Sonic_Transform_0
+  - first:
+      213: -3241434710141320181
+    second: Sonic_Transform_1
+  - first:
+      213: -1911953612090235168
+    second: Sonic_Transform_2
+  - first:
+      213: 694789868701360593
+    second: Sonic_Transform_3
+  - first:
+      213: 782719032055950878
+    second: Sonic_Transform_4
+  - first:
+      213: 2805210855933891577
+    second: Sonic_Transform_5
+  - first:
+      213: 1301658301238061520
+    second: Sonic_Transform_6
+  - first:
+      213: 1851079416799079104
+    second: Sonic_Transform_7
+  - first:
+      213: -5777414592095399021
+    second: Sonic_Transform_8
+  - first:
+      213: -5722087359078249050
+    second: Sonic_Transform_9
+  - first:
+      213: -665256830993183409
+    second: Sonic_Transform_10
+  - first:
+      213: -4614458897077495834
+    second: Sonic_Transform_11
+  - first:
+      213: -6700758264017551810
+    second: Sonic_Transform_12
+  - first:
+      213: -4176642707500821679
+    second: Sonic_Transform_13
+  - first:
+      213: 4734593497211324616
+    second: Sonic_Transform_14
+  - first:
+      213: 1131866020716681861
+    second: Sonic_Transform_15
+  - first:
+      213: -1719597074155872370
+    second: Sonic_Transform_16
+  - first:
+      213: 6470370743177291604
+    second: Sonic_Transform_17
+  - first:
+      213: -6064165615739975234
+    second: Sonic_Transform_18
+  - first:
+      213: 761559958321022152
+    second: Sonic_Transform_1
+  - first:
+      213: -6527166830181059727
+    second: Sonic_Transform_2
+  - first:
+      213: -9077470061227234939
+    second: Sonic_Transform_3
+  - first:
+      213: 3198224939490704059
+    second: Sonic_Transform_4
+  - first:
+      213: 7104535467509715682
+    second: Sonic_Transform_5
+  - first:
+      213: -5001054586615057515
+    second: Sonic_Transform_6
+  - first:
+      213: 5072625304317608269
+    second: Sonic_Transform_7
+  - first:
+      213: -3020050615896054617
+    second: Sonic_Transform_8
+  - first:
+      213: 1286885061612280488
+    second: Sonic_Transform_9
+  - first:
+      213: -6925460797258284624
+    second: Sonic_Transform_10
+  - first:
+      213: -519930639209485186
+    second: Sonic_Transform_11
+  - first:
+      213: 1784486105529775223
+    second: Sonic_Transform_12
+  - first:
+      213: 2151208515103958834
+    second: Sonic_Transform_13
+  - first:
+      213: 4787162130510324578
+    second: Sonic_Transform_14
+  - first:
+      213: -1566814183428223111
+    second: Sonic_Transform_15
+  - first:
+      213: 5796684471125012671
+    second: Sonic_Transform_16
+  - first:
+      213: -7615115522663257981
+    second: Sonic_Transform_17
+  - first:
+      213: -2322937595613609605
+    second: Sonic_Transform_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sonic_Transform_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.453125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff3adaa5e5171730800000000000000
+      internalID: 6739172456097992409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Transform_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.453125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4c2e64fba919a00800000000000000
+      internalID: -3241434710141320181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Transform_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.453125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1737851b958da65a0800000000000000
+      internalID: -1911953612090235168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Transform_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.453125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589ae45e219560280800000000000000
+      internalID: 694789868701360593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Transform_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.453125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba732633a0626c20800000000000000
+      internalID: 782719032055950878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Transform_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.453125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e29413cd51689260800000000000000
+      internalID: 2805210855933891577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Transform_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.453125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593b876a95fa89ab0800000000000000
+      internalID: 1301658301238061520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Transform_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.453125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41428e96d5956640800000000000000
+      internalID: 1851079416799079104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Transform_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.453125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4e0db37ff9616d0800000000000000
+      internalID: -5777414592095399021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Transform_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.453125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa1824352febd110800000000000000
+      internalID: -5722087359078249050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Transform_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.453125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1c689f812d3ef90800000000000000
+      internalID: -665256830993183409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Transform_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.453125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ca31e96d5d8c8f0800000000000000
+      internalID: -4614458897077495834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Transform_12
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.453125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774f8ba88a4c3c810800000000000000
+      internalID: -6700758264017551810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Transform_13
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.453125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23721943fb0aadd10800000000000000
+      internalID: -4176642707500821679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Transform_14
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.453125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263254f189a6f6240800000000000000
+      internalID: 4734593497211324616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Transform_15
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.453125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f87bf2dce814ae0800000000000000
+      internalID: 1131866020716681861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Transform_16
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.453125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0fd6870d5f17050800000000000000
+      internalID: -1719597074155872370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Transform_17
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.453125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388e71c57cca15690800000000000000
+      internalID: 6470370743177291604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Transform_18
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.453125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b710d02709443cfd0800000000000000
+      internalID: -6064165615739975234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sonic_Transform_10: -665256830993183409
+      Sonic_Transform_12: -6700758264017551810
+      Sonic_Transform_6: 1301658301238061520
+      Sonic_Transform_9: -5722087359078249050
+      Sonic_Transform_13: -4176642707500821679
+      Sonic_Transform_4: 782719032055950878
+      Sonic_Transform_11: -4614458897077495834
+      Sonic_Transform_16: -1719597074155872370
+      Sonic_Transform_7: 1851079416799079104
+      Sonic_Transform_14: 4734593497211324616
+      Sonic_Transform_8: -5777414592095399021
+      Sonic_Transform_17: 6470370743177291604
+      Sonic_Transform_2: -1911953612090235168
+      Sonic_Transform_18: -6064165615739975234
+      Sonic_Transform_1: -3241434710141320181
+      Sonic_Transform_15: 1131866020716681861
+      Sonic_Transform_5: 2805210855933891577
+      Sonic_Transform_0: 6739172456097992409
+      Sonic_Transform_3: 694789868701360593
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

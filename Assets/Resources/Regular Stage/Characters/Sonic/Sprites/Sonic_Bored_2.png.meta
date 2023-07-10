@@ -1,0 +1,708 @@
+fileFormatVersion: 2
+guid: d7b3c8392f2d7134fbb5910978d7dd4e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8279721389014186936
+    second: Sonic_Bored_2_0
+  - first:
+      213: 229496059930315162
+    second: Sonic_Bored_2_1
+  - first:
+      213: -8516093400886222894
+    second: Sonic_Bored_2_2
+  - first:
+      213: -951073362609917275
+    second: Sonic_Bored_2_3
+  - first:
+      213: -3761178912665561533
+    second: Sonic_Bored_2_4
+  - first:
+      213: 7513022851973706172
+    second: Sonic_Bored_2_5
+  - first:
+      213: 1240306505556856757
+    second: Sonic_Bored_2_6
+  - first:
+      213: 6883305231819433977
+    second: Sonic_Bored_2_7
+  - first:
+      213: -7135583117792598532
+    second: Sonic_Bored_2_8
+  - first:
+      213: -5528599267049324222
+    second: Sonic_Bored_2_9
+  - first:
+      213: -6051585834948248160
+    second: Sonic_Bored_2_10
+  - first:
+      213: 1340051601915385265
+    second: Sonic_Bored_2_11
+  - first:
+      213: -717531639237959463
+    second: Sonic_Bored_2_12
+  - first:
+      213: 3888614444258537778
+    second: Sonic_Bored_2_13
+  - first:
+      213: -2724080883394198173
+    second: Sonic_Bored_2_14
+  - first:
+      213: 1981292685691475520
+    second: Final_Sonic_Bored_2_15
+  - first:
+      213: 760934901628790892
+    second: Final_Sonic_Bored_2_16
+  - first:
+      213: 1991741786078194421
+    second: Final_Sonic_Bored_2_17
+  - first:
+      213: 4722117482289176184
+    second: Final_Sonic_Bored_2_18
+  - first:
+      213: 6278752694571779035
+    second: Sonic_Bored_2_0
+  - first:
+      213: -8051224817249328163
+    second: Sonic_Bored_2_1
+  - first:
+      213: -305911063044256122
+    second: Sonic_Bored_2_2
+  - first:
+      213: -5611143229603673913
+    second: Sonic_Bored_2_3
+  - first:
+      213: 2243256285374907472
+    second: Sonic_Bored_2_4
+  - first:
+      213: -2843267368550529026
+    second: Sonic_Bored_2_5
+  - first:
+      213: -4760112162854303608
+    second: Sonic_Bored_2_6
+  - first:
+      213: 4138626757295702979
+    second: Sonic_Bored_2_7
+  - first:
+      213: 1101069932404519629
+    second: Sonic_Bored_2_8
+  - first:
+      213: 7071632707035760336
+    second: Sonic_Bored_2_9
+  - first:
+      213: 1636784194550572404
+    second: Sonic_Bored_2_10
+  - first:
+      213: 8659880735942501189
+    second: Sonic_Bored_2_11
+  - first:
+      213: 8438410702298376370
+    second: Sonic_Bored_2_12
+  - first:
+      213: -920924786247444606
+    second: Sonic_Bored_2_13
+  - first:
+      213: 2810155701935378981
+    second: Sonic_Bored_2_14
+  - first:
+      213: 8994735662439060587
+    second: Final_Sonic_Bored_2_15
+  - first:
+      213: 6090748748430126531
+    second: Final_Sonic_Bored_2_16
+  - first:
+      213: 6687333822040361356
+    second: Final_Sonic_Bored_2_17
+  - first:
+      213: -7505312328744297232
+    second: Final_Sonic_Bored_2_18
+  - first:
+      213: 2048544016767296072
+    second: Final_Sonic_Bored_2_19
+  - first:
+      213: 8606676177741585333
+    second: Final_Sonic_Bored_2_20
+  - first:
+      213: -7144267119636525469
+    second: Final_Sonic_Bored_2_21
+  - first:
+      213: 3512820702790660543
+    second: Final_Sonic_Bored_2_22
+  - first:
+      213: -2718564801313115337
+    second: Final_Sonic_Bored_2_23
+  - first:
+      213: 5350351830757047661
+    second: Final_Sonic_Bored_2_24
+  - first:
+      213: -6295721967535883983
+    second: Final_Sonic_Bored_2_25
+  - first:
+      213: 6908299641314292813
+    second: Final_Sonic_Bored_2_26
+  - first:
+      213: -6091107883594473411
+    second: Final_Sonic_Bored_2_27
+  - first:
+      213: 5485490105554881234
+    second: Final_Sonic_Bored_2_19
+  - first:
+      213: -6631251893412620516
+    second: Final_Sonic_Bored_2_20
+  - first:
+      213: -1769864892861163127
+    second: Final_Sonic_Bored_2_21
+  - first:
+      213: -8574245124106052605
+    second: Final_Sonic_Bored_2_22
+  - first:
+      213: 6239961863086891777
+    second: Final_Sonic_Bored_2_23
+  - first:
+      213: 8725625973508152745
+    second: Final_Sonic_Bored_2_24
+  - first:
+      213: 1409855259501509195
+    second: Final_Sonic_Bored_2_25
+  - first:
+      213: -8356982504938047451
+    second: Final_Sonic_Bored_2_26
+  - first:
+      213: -8153649231952599332
+    second: Final_Sonic_Bored_2_27
+  - first:
+      213: 8786710520068407193
+    second: Sonic_Bored_2_15
+  - first:
+      213: -7935348606312415901
+    second: Sonic_Bored_2_16
+  - first:
+      213: 5945130129198480953
+    second: Sonic_Bored_2_17
+  - first:
+      213: 8244548090635292097
+    second: Sonic_Bored_2_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sonic_Bored_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd34a783f4c922750800000000000000
+      internalID: -8279721389014186936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Bored_2_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd36b099fad444090800000000000000
+      internalID: 229496059930315162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Bored_2_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e826a428f21cbf0800000000000000
+      internalID: -8516093400886222894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Bored_2_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c882a736f63122b0800000000000000
+      internalID: -951073362609917275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Bored_2_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0540fedc4b5a12f10800000000000000
+      internalID: -3761178912665561533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Bored_2_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef70610846faa88d0800000000000000
+      internalID: 7513022851973706172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Bored_2_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8888d02453fa0fdb0800000000000000
+      internalID: 1240306505556856757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Bored_2_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3898ebb1b5f6930800000000000000
+      internalID: 6883305231819433977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Bored_2_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2b5d11549c74f00800000000000000
+      internalID: -7135583117792598532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Bored_2_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d686ecda7c732260800000000000000
+      internalID: -5528599267049324222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Bored_2_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475292a8d8607b610800000000000000
+      internalID: -6051585834948248160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Bored_2_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543e917b5a31e2870800000000000000
+      internalID: 1340051601915385265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Bored_2_12
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8695b33d14b1570800000000000000
+      internalID: -717531639237959463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Bored_2_13
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2875ed249c73833f0800000000000000
+      internalID: 3888614444258537778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Bored_2_14
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5229569d8bdaff620800000000000000
+      internalID: -2724080883394198173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Bored_2_15
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f7ddcf9aaa0f970800000000000000
+      internalID: 8786710520068407193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Bored_2_16
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d7bdf5c7affd190800000000000000
+      internalID: -7935348606312415901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Bored_2_17
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ef8569a58518250800000000000000
+      internalID: 5945130129198480953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Bored_2_18
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd01f39ec48a6270800000000000000
+      internalID: 8244548090635292097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sonic_Bored_2_2: -8516093400886222894
+      Sonic_Bored_2_15: 8786710520068407193
+      Sonic_Bored_2_7: 6883305231819433977
+      Sonic_Bored_2_6: 1240306505556856757
+      Sonic_Bored_2_9: -5528599267049324222
+      Sonic_Bored_2_8: -7135583117792598532
+      Sonic_Bored_2_12: -717531639237959463
+      Sonic_Bored_2_18: 8244548090635292097
+      Sonic_Bored_2_0: -8279721389014186936
+      Sonic_Bored_2_11: 1340051601915385265
+      Sonic_Bored_2_17: 5945130129198480953
+      Sonic_Bored_2_3: -951073362609917275
+      Sonic_Bored_2_4: -3761178912665561533
+      Sonic_Bored_2_14: -2724080883394198173
+      Sonic_Bored_2_16: -7935348606312415901
+      Sonic_Bored_2_1: 229496059930315162
+      Sonic_Bored_2_13: 3888614444258537778
+      Sonic_Bored_2_5: 7513022851973706172
+      Sonic_Bored_2_10: -6051585834948248160
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

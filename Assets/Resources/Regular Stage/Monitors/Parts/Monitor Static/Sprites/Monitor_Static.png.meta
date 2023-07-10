@@ -1,0 +1,722 @@
+fileFormatVersion: 2
+guid: d058002feac975448bb75a5863fdbc18
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5253209755455231403
+    second: Monitor_Static_0
+  - first:
+      213: -2446100940969099402
+    second: Monitor_Static_1
+  - first:
+      213: 4684589690712039859
+    second: Monitor_Static_2
+  - first:
+      213: -6335240981330314048
+    second: Monitor_Static_3
+  - first:
+      213: -2219692315952470992
+    second: Monitor_Static_4
+  - first:
+      213: -7297863493894084925
+    second: Monitor_Static_5
+  - first:
+      213: 3035226286547596332
+    second: Monitor_Static_6
+  - first:
+      213: 5524054793043185782
+    second: Monitor_Static_7
+  - first:
+      213: -8899945857282447206
+    second: Monitor_Static_0
+  - first:
+      213: -1469308620730524655
+    second: Monitor_Static_1
+  - first:
+      213: -4644419150070383042
+    second: Monitor_Static_2
+  - first:
+      213: 3813245010798136119
+    second: Monitor_Static_3
+  - first:
+      213: 7171840928128898900
+    second: Monitor_Static_4
+  - first:
+      213: 1478481340495644608
+    second: Monitor_Static_5
+  - first:
+      213: -673197307331485516
+    second: Monitor_Static_6
+  - first:
+      213: 8133615817164915247
+    second: Monitor_Static_7
+  - first:
+      213: 3982430279251629328
+    second: Monitor_Static_8
+  - first:
+      213: -4488698060550715345
+    second: Monitor_Static_9
+  - first:
+      213: -1774430814647777702
+    second: Monitor_Static_10
+  - first:
+      213: 4857601500323567943
+    second: Monitor_Static_11
+  - first:
+      213: -558130230372662811
+    second: Monitor_Static_12
+  - first:
+      213: -5328371421045690462
+    second: Monitor_Static_13
+  - first:
+      213: 1265560744787127202
+    second: Monitor_Static_14
+  - first:
+      213: -7446953337453939404
+    second: Monitor_Static_15
+  - first:
+      213: -4502795250869199449
+    second: Monitor_Static_16
+  - first:
+      213: 7728248532139846752
+    second: Monitor_Static_17
+  - first:
+      213: 2022312770742393431
+    second: Monitor_Static_18
+  - first:
+      213: -5159264795431868235
+    second: Monitor_Static_19
+  - first:
+      213: 7362889668409198876
+    second: Monitor_Static_20
+  - first:
+      213: 4974345972366850551
+    second: Monitor_Static_21
+  - first:
+      213: 7975613801346005193
+    second: Monitor_Static_22
+  - first:
+      213: 6892218626675916758
+    second: Monitor_Static_23
+  - first:
+      213: -4404775253432323409
+    second: Monitor_Static_24
+  - first:
+      213: -1070306803897005177
+    second: Monitor_Static_25
+  - first:
+      213: -6064960800270283694
+    second: Monitor_Static_26
+  - first:
+      213: 7647725457359508004
+    second: Monitor_Static_8
+  - first:
+      213: 5198850179249864277
+    second: Monitor_Static_9
+  - first:
+      213: 2784431215540682941
+    second: Monitor_Static_10
+  - first:
+      213: 7056839553940322104
+    second: Monitor_Static_11
+  - first:
+      213: -947042081402589082
+    second: Monitor_Static_12
+  - first:
+      213: -376199767946798297
+    second: Monitor_Static_13
+  - first:
+      213: -692584493152719802
+    second: Monitor_Static_14
+  - first:
+      213: 1054110588454648475
+    second: Monitor_Static_15
+  - first:
+      213: -2303041548639188579
+    second: Monitor_Static_16
+  - first:
+      213: -740114075652732834
+    second: Monitor_Static_17
+  - first:
+      213: 3274009551578880257
+    second: Monitor_Static_18
+  - first:
+      213: 8662011830901514048
+    second: Monitor_Static_19
+  - first:
+      213: 8419335626225387087
+    second: Monitor_Static_20
+  - first:
+      213: -174763165583864596
+    second: Monitor_Static_21
+  - first:
+      213: 2786130748807879269
+    second: Monitor_Static_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monitor_Static_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a986870956a0d7480800000000000000
+      internalID: -5253209755455231403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Static_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c10fb1897fb9be0800000000000000
+      internalID: -2446100940969099402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Static_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e7804e365bb8fb0800000000000000
+      internalID: 4684589690712039859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Static_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b4726422e5be430800000000000000
+      internalID: -6335240981330314048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Static_4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4571bba735f778360800000000000000
+      internalID: -2219692315952470992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Static_5
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7494322fe948410800000000000000
+      internalID: -7297863493894084925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Static_6
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0e1c0ad9258a6f0800000000000000
+      internalID: 3035226286547596332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Static_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f220d91fd7860e070800000000000000
+      internalID: 5524054793043185782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Static_8
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42210a9b8cd222a60800000000000000
+      internalID: 3982430279251629328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Static_9
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ef9ae71b6062840800000000000000
+      internalID: -4488698060550715345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Static_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0cfcf107944a620800000000000000
+      internalID: -1774430814647777702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Static_11
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837f9818f2eeee160800000000000000
+      internalID: 4857601500323567943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Static_12
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660f6ae9e3e6bd2f0800000000000000
+      internalID: -558130230372662811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Static_13
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b52f2ed4877caf0800000000000000
+      internalID: -5328371421045690462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Static_14
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c20bca2127366f0800000000000000
+      internalID: 1265560744787127202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Static_15
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a31dacef3f0ae00800000000000000
+      internalID: -7446953337453939404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Static_16
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99456ed9e3f900e0800000000000000
+      internalID: -4502795250869199449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Static_17
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58c3736b269ab5f0800000000000000
+      internalID: 7728248532139846752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Static_18
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1095819375e9f6d20800000000000000
+      internalID: 2022312770742393431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Static_19
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f9d1dedd5a53870800000000000000
+      internalID: -5159264795431868235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Static_20
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4684fdf42d77d470800000000000000
+      internalID: 7362889668409198876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monitor_Static_16: -4502795250869199449
+      Monitor_Static_0: -5253209755455231403
+      Monitor_Static_3: -6335240981330314048
+      Monitor_Static_5: -7297863493894084925
+      Monitor_Static_2: 4684589690712039859
+      Monitor_Static_15: -7446953337453939404
+      Monitor_Static_11: 4857601500323567943
+      Monitor_Static_18: 2022312770742393431
+      Monitor_Static_4: -2219692315952470992
+      Monitor_Static_7: 5524054793043185782
+      Monitor_Static_17: 7728248532139846752
+      Monitor_Static_13: -5328371421045690462
+      Monitor_Static_12: -558130230372662811
+      Monitor_Static_6: 3035226286547596332
+      Monitor_Static_10: -1774430814647777702
+      Monitor_Static_19: -5159264795431868235
+      Monitor_Static_8: 3982430279251629328
+      Monitor_Static_20: 7362889668409198876
+      Monitor_Static_9: -4488698060550715345
+      Monitor_Static_1: -2446100940969099402
+      Monitor_Static_14: 1265560744787127202
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

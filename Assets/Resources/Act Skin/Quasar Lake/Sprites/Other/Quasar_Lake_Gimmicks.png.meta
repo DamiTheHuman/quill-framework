@@ -1,0 +1,709 @@
+fileFormatVersion: 2
+guid: 1a6477b7a34b51b49adae404acf7c0c5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Quasar_Lake_Gimmicks_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c37f7f8c64384146ab2a228d61bb074
+      internalID: -1139185266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Gimmicks_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 104
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a406d21bddb204b85f48bd492541a0
+      internalID: -709385725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Gimmicks_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be45cfd11b2a6204f93d4e26f772dd86
+      internalID: 1272777466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Gimmicks_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fa2d7e4e9ec4248bd65a970634fb3c
+      internalID: -234385834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Gimmicks_9
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1322728a47166542b7a75304b692c91
+      internalID: -963118635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Gimmicks_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 103
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf578205a3a6054599c5768095f45f1
+      internalID: 1715007632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Gimmicks_11
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be9abd5254157b4ea410f616212df0c
+      internalID: -839140980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Gimmicks_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 66
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771e6c08e9a1dda42bd251ecf9506bbc
+      internalID: 2108463576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Gimmicks_13
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93217f6f7fee6494296047c4a992c803
+      internalID: 772083970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Gimmicks_14
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 25
+        width: 48
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf50c8d24940fa43ae7357972bd9d45
+      internalID: 1512755771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Gimmicks_15
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 69
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701aefb02fe0b1943843d49b58d3e856
+      internalID: -867119205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Gimmicks_16
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 25
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a0c16faa5d9dd46893c0b4ac247ac5
+      internalID: 253224666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Gimmicks_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c4f2b73c214bd49b752426ffa54e60
+      internalID: -1445303347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Gimmicks_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 15
+        width: 96
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac03e9f6f10d3c0468e767902d484edd
+      internalID: 2070016993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Gimmicks_19
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c033a66e390b15469c847e75fcd1636
+      internalID: 2063545839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Gimmicks_20
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 25
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311a06734de8701499836dac1954a1de
+      internalID: 1283750999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Gimmicks_21
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3280aaba194d664f9ed22296efb1a89
+      internalID: 1186455053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Gimmicks_22
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 36
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170fd08d863442b4aa013402e8c38cc6
+      internalID: -478048975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Gimmicks_23
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113433ab07e4d154ba10a1c29051200b
+      internalID: 1003248115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Gimmicks_24
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 0
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a03d7b4edbebe45ac4fb8be997ae7c
+      internalID: 1888595407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Gimmicks_25
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8415f4688cb23e6409e632dbbe83e7f0
+      internalID: 1566909019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Gimmicks_26
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfb150b0fcfcd84386aa984cecbe99e
+      internalID: 1960423230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Gimmicks_27
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a97ddd56e7ea214582914450d02def8
+      internalID: -1853187240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Gimmicks_28
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 0
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b23bfd2baec4ab4d9f38965450f27a7
+      internalID: -1888609605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Gimmicks_29
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a15b15fd9c7df47be302df1c104f65
+      internalID: -293686157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Gimmicks_30
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f9589fb63cb434ba6cd1478559956f
+      internalID: -507786572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Gimmicks_31
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 0
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6488d52c511fd4bb27c839f2594717
+      internalID: -1632753005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Quasar_Lake_Gimmicks_23: 1003248115
+      Quasar_Lake_Gimmicks_29: -293686157
+      Quasar_Lake_Gimmicks_19: 2063545839
+      Quasar_Lake_Gimmicks_10: 1715007632
+      Quasar_Lake_Gimmicks_9: -963118635
+      Quasar_Lake_Gimmicks_8: -234385834
+      Quasar_Lake_Gimmicks_21: 1186455053
+      Quasar_Lake_Gimmicks_30: -507786572
+      Quasar_Lake_Gimmicks_24: 1888595407
+      Quasar_Lake_Gimmicks_20: 1283750999
+      Quasar_Lake_Gimmicks_0: -1139185266
+      Quasar_Lake_Gimmicks_18: 2070016993
+      Quasar_Lake_Gimmicks_6: 1272777466
+      Quasar_Lake_Gimmicks_1: -709385725
+      Quasar_Lake_Gimmicks_11: -839140980
+      Quasar_Lake_Gimmicks_16: 253224666
+      Quasar_Lake_Gimmicks_13: 772083970
+      Quasar_Lake_Gimmicks_25: 1566909019
+      Quasar_Lake_Gimmicks_14: 1512755771
+      Quasar_Lake_Gimmicks_26: 1960423230
+      Quasar_Lake_Gimmicks_15: -867119205
+      Quasar_Lake_Gimmicks_3: -1185649647
+      Quasar_Lake_Gimmicks_27: -1853187240
+      Quasar_Lake_Gimmicks_5: 1155659887
+      Quasar_Lake_Gimmicks_17: -1445303347
+      Quasar_Lake_Gimmicks_28: -1888609605
+      Quasar_Lake_Gimmicks_4: 313471882
+      Quasar_Lake_Gimmicks_12: 2108463576
+      Quasar_Lake_Gimmicks_2: 766516138
+      Quasar_Lake_Gimmicks_7: 589420011
+      Quasar_Lake_Gimmicks_22: -478048975
+      Quasar_Lake_Gimmicks_31: -1632753005
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

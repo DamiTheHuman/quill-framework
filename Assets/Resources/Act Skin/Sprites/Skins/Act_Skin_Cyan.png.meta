@@ -1,0 +1,682 @@
+fileFormatVersion: 2
+guid: e2410408f1f7fe145af50d4c8f9698ca
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Act_Skin_Cyan_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1516
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addf52adaac90e945a2a94c055c2c46c
+      internalID: -933501428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_Cyan_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1516
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb74e72012cfd844bac5c5b1ac03108
+      internalID: -2095271908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_Cyan_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1516
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc999c2e62041cb42861209f5c5a0d09
+      internalID: -857320248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_Cyan_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1516
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580c9f7b1fe8311479ce3171fb261983
+      internalID: 247204100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_Cyan_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1516
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a922936086d82b4a8324ce5233d6190
+      internalID: -1990494064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_Cyan_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1516
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83499d689ce82748bdf161ebf630c0d
+      internalID: -646498969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_Cyan_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1516
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af74a8e1c05af6c428dc9213007c24b9
+      internalID: -1523402540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_Cyan_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1516
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e93a7e760369c48ae858634c1f5280
+      internalID: -559565850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_Cyan_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1516
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86106d097aaff546a2421406bc41839
+      internalID: 1624765518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_Cyan_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1469
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00eb0f31ae057a4986b1c31cf47ece2
+      internalID: 1469844550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_Cyan_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1390
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c3a7fce117b0f40a82360478d00e52
+      internalID: -1248416587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_Cyan_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1390
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd4e5076453f9b4fa247342daf3f511
+      internalID: -5363445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_Cyan_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1332
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8dadde9b633ca4cba529d7e2d20abf
+      internalID: -1310449685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_Cyan_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c738a8e7ab17c2d47868288ea979e943
+      internalID: 2052811967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_Cyan_14
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7342814bb0d4634393de76260c74d3e
+      internalID: -1103426370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_Cyan_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1301
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f491fee42b6b1e4c94e3babdb328f8d
+      internalID: -31803841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_Cyan_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1220
+        width: 128
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac78d83f326f674a84205dd5c81ac1e
+      internalID: -1911005533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_Cyan_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1125
+        width: 128
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397e66d1cf411bf48970cdab08dc1f72
+      internalID: -1117215829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_Cyan_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1030
+        width: 128
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc33fa8832f2e20409b3fb15af9e8a1b
+      internalID: 1495418192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_Cyan_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 892
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036bb8d4470447a4bbc6bdd83a888169
+      internalID: 1444134752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_Cyan_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d836c0a634cfd49b362b42ee54a8cb
+      internalID: 846685834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_Cyan_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 615
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bfc07d5181f49409f3ec4ac324f734
+      internalID: 346082224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_Cyan_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 472
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca84ac780da4ae4da9981d0e979e666
+      internalID: -289423535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_Cyan_23
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 313
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c88465e7d584941b963c1f53cf49fa
+      internalID: 2086255528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_Cyan_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 210
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d965b8961ec86554eafbc4dc4736970b
+      internalID: -863149462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Act_Skin_Cyan_25
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 27
+        width: 90
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde2217490c2c6b47b890deaf52c4825
+      internalID: 1286219137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Act_Skin_Cyan_4: -1990494064
+      Act_Skin_Cyan_8: 1624765518
+      Act_Skin_Cyan_22: -289423535
+      Act_Skin_Cyan_0: -933501428
+      Act_Skin_Cyan_3: 247204100
+      Act_Skin_Cyan_11: -5363445
+      Act_Skin_Cyan_15: -31803841
+      Act_Skin_Cyan_21: 346082224
+      Act_Skin_Cyan_12: -1310449685
+      Act_Skin_Cyan_6: -1523402540
+      Act_Skin_Cyan_9: 1469844550
+      Act_Skin_Cyan_18: 1495418192
+      Act_Skin_Cyan_5: -646498969
+      Act_Skin_Cyan_17: -1117215829
+      Act_Skin_Cyan_10: -1248416587
+      Act_Skin_Cyan_19: 1444134752
+      Act_Skin_Cyan_24: -863149462
+      Act_Skin_Cyan_23: 2086255528
+      Act_Skin_Cyan_20: 846685834
+      Act_Skin_Cyan_2: -857320248
+      Act_Skin_Cyan_1: -2095271908
+      Act_Skin_Cyan_25: 1286219137
+      Act_Skin_Cyan_13: 2052811967
+      Act_Skin_Cyan_14: -1103426370
+      Act_Skin_Cyan_7: -559565850
+      Act_Skin_Cyan_16: -1911005533
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

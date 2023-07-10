@@ -1,0 +1,393 @@
+fileFormatVersion: 2
+guid: 4b6a12e5a68ad2f4fb15d7c04368b9ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5421623479507128036
+    second: Tails_Swim_0
+  - first:
+      213: 264446451126560787
+    second: Tails_Swim_1
+  - first:
+      213: 617564679571728639
+    second: Tails_Swim_2
+  - first:
+      213: 3150153225210089581
+    second: Tails_Swim_3
+  - first:
+      213: -9135413901312976470
+    second: Tails_Swim_4
+  - first:
+      213: 807781641308428982
+    second: Tails_Swim_5
+  - first:
+      213: 2807746001365663972
+    second: Tails_Swim_6
+  - first:
+      213: 2485092724779503753
+    second: Tails_Swim_7
+  - first:
+      213: -728285445150378595
+    second: Tails_Swim_8
+  - first:
+      213: -2796906309279154660
+    second: Tails_Swim_9
+  - first:
+      213: 5438461093629593935
+    second: Tails_Swim_10
+  - first:
+      213: 4462607547659842885
+    second: Tails_Swim_0
+  - first:
+      213: 8087599272979501687
+    second: Tails_Swim_1
+  - first:
+      213: -4879110283208306616
+    second: Tails_Swim_2
+  - first:
+      213: -3987888271563172460
+    second: Tails_Swim_3
+  - first:
+      213: 8770957462699111771
+    second: Tails_Swim_4
+  - first:
+      213: 135488500496258638
+    second: Tails_Swim_5
+  - first:
+      213: 3093882611720406242
+    second: Tails_Swim_6
+  - first:
+      213: -3787616998067285974
+    second: Tails_Swim_7
+  - first:
+      213: -5988699296911350601
+    second: Tails_Swim_8
+  - first:
+      213: -7735032749126477847
+    second: Tails_Swim_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tails_Swim_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5625, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545fd32bbed5eed30800000000000000
+      internalID: -5421623479507128036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Swim_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77296a750bcec3070800000000000000
+      internalID: 264446451126560787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Swim_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5208333, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840d96d4c0be94cb0800000000000000
+      internalID: 617564679571728639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Swim_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495d789eebc28a8c0800000000000000
+      internalID: 3150153225210089581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Swim_4
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5208333, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55fd308753b8b970800000000000000
+      internalID: -9135413901312976470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Swim_5
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46da37c21a51e100800000000000000
+      internalID: 807781641308428982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Swim_6
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.47916666, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e44a50e7ddafea20800000000000000
+      internalID: 2807746001365663972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Swim_7
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.47916666, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20d7fc686eaf6bc0800000000000000
+      internalID: 2485092724779503753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Swim_8
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.47916666, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4a7fc08bdd3eca0800000000000000
+      internalID: -728285445150378595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Swim_9
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e79d4652b4a7a490800000000000000
+      internalID: -2796906309279154660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tails_Swim_1: 264446451126560787
+      Tails_Swim_0: -5421623479507128036
+      Tails_Swim_9: -2796906309279154660
+      Tails_Swim_2: 617564679571728639
+      Tails_Swim_6: 2807746001365663972
+      Tails_Swim_5: 807781641308428982
+      Tails_Swim_4: -9135413901312976470
+      Tails_Swim_7: 2485092724779503753
+      Tails_Swim_8: -728285445150378595
+      Tails_Swim_3: 3150153225210089581
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

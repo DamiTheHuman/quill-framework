@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: ca32138c220a3774b9487f0e85dc42e9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sonic_Plane_Ride_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 34
+        height: 37
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.2972973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea8a27a5b483d1498cd22073da1226e
+      internalID: 375312849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Plane_Ride_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 34
+        height: 37
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.2972973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23152cc0b3cbeb498cd52cd84bb807f
+      internalID: -1066038418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Plane_Ride_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 34
+        height: 37
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.2972973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c47042e7ee44714fae8e7eb2e2a3a3e
+      internalID: 1988363467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Plane_Ride_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 34
+        height: 37
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.2972973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd204d96735eb149b422c6e8426d2be
+      internalID: 748989780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Plane_Ride_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 34
+        height: 37
+      alignment: 9
+      pivot: {x: 0.38235295, y: 0.2972973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def1662c0436bca48bf43b983635e636
+      internalID: -1070772150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Plane_Ride_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 34
+        height: 37
+      alignment: 9
+      pivot: {x: 0.38235295, y: 0.2972973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae6dddc6912b644f91902439c5a7d7a
+      internalID: 584212918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Plane_Ride_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 34
+        height: 37
+      alignment: 9
+      pivot: {x: 0.38235295, y: 0.2972973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a258fb5209a6b6418d3115c06728738
+      internalID: 1054262068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Plane_Ride_7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 34
+        height: 37
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.2972973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1922674817b33274c81f190058c7f049
+      internalID: -897276683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Plane_Ride_8
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 34
+        height: 37
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.2972973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb9401c5a9f1364da0693d6b1683bc9
+      internalID: 237198948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Plane_Ride_9
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 34
+        height: 37
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.2972973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654f0e43435b6e4438da74af6a561b51
+      internalID: 268750923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sonic_Plane_Ride_5: 584212918
+      Sonic_Plane_Ride_3: 748989780
+      Sonic_Plane_Ride_7: -897276683
+      Sonic_Plane_Ride_6: 1054262068
+      Sonic_Plane_Ride_2: 1988363467
+      Sonic_Plane_Ride_8: 237198948
+      Sonic_Plane_Ride_9: 268750923
+      Sonic_Plane_Ride_4: -1070772150
+      Sonic_Plane_Ride_1: -1066038418
+      Sonic_Plane_Ride_0: 375312849
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

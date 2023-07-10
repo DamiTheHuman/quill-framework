@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: ca89b6ee7920ea343bf14a43568436a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4926581222634018268
+    second: Kinetic_Bullet_Blast_0
+  - first:
+      213: 7971209288010127338
+    second: Kinetic_Bullet_Blast_1
+  - first:
+      213: -1180427726038030395
+    second: Kinetic_Bullet_Blast_2
+  - first:
+      213: -3091551309466586591
+    second: Kinetic_Bullet_Blast_3
+  - first:
+      213: -5811677848540428538
+    second: Kinetic_Bullet_Blast_4
+  - first:
+      213: 9079924453997102713
+    second: Kinetic_Bullet_Blast_5
+  - first:
+      213: -7629121587557956417
+    second: Kinetic_Bullet_Blast_0
+  - first:
+      213: -5823215389059608605
+    second: Kinetic_Bullet_Blast_1
+  - first:
+      213: -197889213627668975
+    second: Kinetic_Bullet_Blast_2
+  - first:
+      213: 4957936988371403644
+    second: Kinetic_Bullet_Blast_3
+  - first:
+      213: 6151370491289301199
+    second: Kinetic_Bullet_Blast_4
+  - first:
+      213: -6228669875097421740
+    second: Kinetic_Bullet_Blast_5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kinetic_Bullet_Blast_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb40851465aef1690800000000000000
+      internalID: -4926581222634018268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_Bullet_Blast_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 6
+        width: 12
+        height: 12
+      alignment: 9
+      pivot: {x: 0, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef8384d478cf2fa0800000000000000
+      internalID: 7971209288010127338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_Bullet_Blast_2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2
+        width: 21
+        height: 16
+      alignment: 9
+      pivot: {x: 0.04761905, y: 0.9375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11667d40fc4f04df0800000000000000
+      internalID: -1180427726038030395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_Bullet_Blast_3
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 22
+        height: 18
+      alignment: 9
+      pivot: {x: 0.045454547, y: 0.8888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73c5a23c612ec440800000000000000
+      internalID: -3091551309466586591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_Bullet_Blast_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1
+        width: 17
+        height: 17
+      alignment: 9
+      pivot: {x: 0.05882353, y: 0.9411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc07e17dede0e5550800000000000000
+      internalID: -5811677848540428538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_Bullet_Blast_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 3
+        width: 14
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45834afdfb15f89a0800000000000000
+      internalID: 9079924453997102713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Kinetic_Bullet_Blast_3: -3091551309466586591
+      Kinetic_Bullet_Blast_4: -5811677848540428538
+      Kinetic_Bullet_Blast_0: -4926581222634018268
+      Kinetic_Bullet_Blast_1: 7971209288010127338
+      Kinetic_Bullet_Blast_5: 9079924453997102713
+      Kinetic_Bullet_Blast_2: -1180427726038030395
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

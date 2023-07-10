@@ -1,0 +1,488 @@
+fileFormatVersion: 2
+guid: 74a4e600b28f4ab4eb627e280bc10add
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5643637272946503052
+    second: Sonic_Walking_0
+  - first:
+      213: 7757939672206983897
+    second: Sonic_Walking_1
+  - first:
+      213: 1683477666292545651
+    second: Sonic_Walking_2
+  - first:
+      213: -4998307114921404979
+    second: Sonic_Walking_3
+  - first:
+      213: -6834479564222461047
+    second: Sonic_Walking_4
+  - first:
+      213: -8247531301311427794
+    second: Sonic_Walking_5
+  - first:
+      213: -5183096049578163755
+    second: Sonic_Walking_6
+  - first:
+      213: -6634138390890746188
+    second: Sonic_Walking_7
+  - first:
+      213: -3803959095891461980
+    second: Sonic_Walking_8
+  - first:
+      213: 3310228513602892354
+    second: Sonic_Walking_9
+  - first:
+      213: -6762511192086894041
+    second: Sonic_Walking_10
+  - first:
+      213: 44876425622252784
+    second: Sonic_Walking_11
+  - first:
+      213: -1381712435141439528
+    second: Tails_Walking_0
+  - first:
+      213: -1410187266951256210
+    second: Tails_Walking_1
+  - first:
+      213: 1975446645978610708
+    second: Tails_Walking_2
+  - first:
+      213: -2222800200414728218
+    second: Tails_Walking_3
+  - first:
+      213: -8182822276924517900
+    second: Tails_Walking_4
+  - first:
+      213: 284802770696985713
+    second: Tails_Walking_5
+  - first:
+      213: 4298152742481739307
+    second: Tails_Walking_6
+  - first:
+      213: -9005245447931650196
+    second: Tails_Walking_7
+  - first:
+      213: 5084199448296299310
+    second: Tails_Walking_8
+  - first:
+      213: -9016865335369299183
+    second: Tails_Walking_9
+  - first:
+      213: -7855103981926065903
+    second: Tails_Walking_10
+  - first:
+      213: -6507315946955034443
+    second: Tails_Walking_11
+  - first:
+      213: 2240874493612502311
+    second: Tails_Walking_0
+  - first:
+      213: -4726281484969836497
+    second: Tails_Walking_1
+  - first:
+      213: 983532963116375428
+    second: Tails_Walking_2
+  - first:
+      213: -2364149119506643490
+    second: Tails_Walking_3
+  - first:
+      213: 3692022649882659146
+    second: Tails_Walking_4
+  - first:
+      213: -3578567099370109596
+    second: Tails_Walking_5
+  - first:
+      213: 7127450430980491820
+    second: Tails_Walking_6
+  - first:
+      213: -7740200507408067594
+    second: Tails_Walking_7
+  - first:
+      213: 2243579879082909870
+    second: Tails_Walking_8
+  - first:
+      213: -978162463434783122
+    second: Tails_Walking_9
+  - first:
+      213: -3835772067405325249
+    second: Tails_Walking_10
+  - first:
+      213: -237876255032831787
+    second: Tails_Walking_11
+  - first:
+      213: 5170260190703984579
+    second: Tails_Walking_12
+  - first:
+      213: -8971288614992632053
+    second: Tails_Walking_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tails_Walking_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72da102ba7f291f10800000000000000
+      internalID: -1381712435141439528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Walking_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f200ed3c700e86eb0800000000000000
+      internalID: -1410187266951256210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Walking_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d507bd40636ad00800000000000000
+      internalID: 1975446645978610708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Walking_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed501cfc6ead03fd0800000000000000
+      internalID: -2222800200414728218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Walking_4
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49c3f4f903bc3330800000000000000
+      internalID: -8182822276924517900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Walking_5
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4650525ee20665ec0800000000000000
+      internalID: 284802770696985713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Walking_6
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a0cc4776ac9e260800000000000000
+      internalID: 4298152742481739307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Walking_7
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3d4a9d5a8459490800000000000000
+      internalID: -9005245447931650196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Walking_8
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea063f5530cc22f10800000000000000
+      internalID: 5084199448296299310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Walking_9
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66495a0c6edc62f0800000000000000
+      internalID: -9016865335369299183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Walking_10
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c90f2a0a994cac0800000000000000
+      internalID: -7855103981926065903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Walking_11
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0944e6ec4e2bcf0800000000000000
+      internalID: -6507315946955034443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tails_Walking_4: -8182822276924517900
+      Tails_Walking_8: 5084199448296299310
+      Tails_Walking_5: 284802770696985713
+      Tails_Walking_0: -1381712435141439528
+      Tails_Walking_9: -9016865335369299183
+      Tails_Walking_3: -2222800200414728218
+      Tails_Walking_1: -1410187266951256210
+      Tails_Walking_2: 1975446645978610708
+      Tails_Walking_6: 4298152742481739307
+      Tails_Walking_10: -7855103981926065903
+      Tails_Walking_7: -9005245447931650196
+      Tails_Walking_11: -6507315946955034443
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Super_Act_Clear_Character_Animator
+  m_Controller: {fileID: 9100000, guid: f5a89c26b757df6488a26631f95306a6, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 6b5ddfdce08c0974db1dadcfa4273ee5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2b51178b8a8b8c2408fd016994e0f837, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 19178c8ad32bb9249a7c1f5eec9c15b9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 14793d2eb67646d4fbb80d91766b6887, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7f870bfbe81c1ba44966ca3eb50b8d8e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6d40d082f195ba84c810770f443490d0, type: 2}

@@ -1,0 +1,310 @@
+fileFormatVersion: 2
+guid: d0fcabeefac48d24f87897ce447396aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9022791218657884306
+    second: RedSpring_Diagonal_0
+  - first:
+      213: -1208792845377810443
+    second: RedSpring_Diagonal_1
+  - first:
+      213: -2758664427190978309
+    second: RedSpring_Diagonal_2
+  - first:
+      213: 756993331926018377
+    second: RedSpring_Diagonal_3
+  - first:
+      213: 8045152604827149549
+    second: RedSpring_Diagonal_4
+  - first:
+      213: 4851249120203434359
+    second: RedSpring_Diagonal_5
+  - first:
+      213: 7870119063431431848
+    second: RedSpring_Diagonal_6
+  - first:
+      213: 5384893220588723900
+    second: RedSpring_Diagonal_7
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedSpring_Diagonal_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.53333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e670261013b98c280800000000000000
+      internalID: -9022791218657884306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSpring_Diagonal_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 29
+        height: 29
+      alignment: 9
+      pivot: {x: 0.55172414, y: 0.55172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffc834cf41893fe0800000000000000
+      internalID: -1208792845377810443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSpring_Diagonal_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf876cac15147b9d0800000000000000
+      internalID: -2758664427190978309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSpring_Diagonal_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.43243244, y: 0.43243244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9492ac6bc61618a00800000000000000
+      internalID: 756993331926018377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSpring_Diagonal_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.4, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4e7864baf16af60800000000000000
+      internalID: 8045152604827149549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSpring_Diagonal_5
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.4, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779e6ae2f59135340800000000000000
+      internalID: 4851249120203434359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSpring_Diagonal_6
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 0
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5925926, y: 0.5925926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a64cdb2797483d60800000000000000
+      internalID: 7870119063431431848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSpring_Diagonal_7
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 31
+        height: 31
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe999e8adbfaba40800000000000000
+      internalID: 5384893220588723900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RedSpring_Diagonal_6: 7870119063431431848
+      RedSpring_Diagonal_1: -1208792845377810443
+      RedSpring_Diagonal_0: -9022791218657884306
+      RedSpring_Diagonal_7: 5384893220588723900
+      RedSpring_Diagonal_2: -2758664427190978309
+      RedSpring_Diagonal_5: 4851249120203434359
+      RedSpring_Diagonal_3: 756993331926018377
+      RedSpring_Diagonal_4: 8045152604827149549
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

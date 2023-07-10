@@ -1,0 +1,586 @@
+fileFormatVersion: 2
+guid: 05602f79cbbdebf41b64d38811e8150c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5430620907834173169
+    second: Sonic_Victory_0
+  - first:
+      213: 1471758798692859282
+    second: Sonic_Victory_1
+  - first:
+      213: 7400874989381546069
+    second: Sonic_Victory_2
+  - first:
+      213: -3465588394427545794
+    second: Sonic_Victory_3
+  - first:
+      213: 9049688567842667225
+    second: Sonic_Victory_4
+  - first:
+      213: -7369182739620178104
+    second: Sonic_Victory_5
+  - first:
+      213: 7577167842570334199
+    second: Sonic_Victory_6
+  - first:
+      213: 1559418359158305924
+    second: Sonic_Victory_7
+  - first:
+      213: -3983431812097775862
+    second: Sonic_Victory_8
+  - first:
+      213: -8011845731850208986
+    second: Sonic_Victory_9
+  - first:
+      213: -7166756290781551098
+    second: Sonic_Victory_10
+  - first:
+      213: 8283734880260817655
+    second: Sonic_Victory_11
+  - first:
+      213: 2696019676209863634
+    second: Sonic_Victory_12
+  - first:
+      213: -5761648041585983449
+    second: Sonic_Victory_13
+  - first:
+      213: 2444542624195007308
+    second: Sonic_Victory_14
+  - first:
+      213: 5824557973272486981
+    second: Sonic_Victory_15
+  - first:
+      213: -8854582424395351435
+    second: Sonic_Victory_16
+  - first:
+      213: -6893466650680415779
+    second: Sonic_Victory_0
+  - first:
+      213: 657256236141349758
+    second: Sonic_Victory_1
+  - first:
+      213: -6869021359595611966
+    second: Sonic_Victory_2
+  - first:
+      213: 817124867052356572
+    second: Sonic_Victory_3
+  - first:
+      213: -812899490955515953
+    second: Sonic_Victory_4
+  - first:
+      213: 2968433901967091673
+    second: Sonic_Victory_5
+  - first:
+      213: 4097031768300117516
+    second: Sonic_Victory_6
+  - first:
+      213: -3215059152028489872
+    second: Sonic_Victory_7
+  - first:
+      213: -6951022676112395873
+    second: Sonic_Victory_8
+  - first:
+      213: 7207909620788341214
+    second: Sonic_Victory_9
+  - first:
+      213: 8102983054384136976
+    second: Sonic_Victory_10
+  - first:
+      213: 8963771792670228299
+    second: Sonic_Victory_11
+  - first:
+      213: 6993377382985419418
+    second: Sonic_Victory_12
+  - first:
+      213: 3330621472544440686
+    second: Sonic_Victory_13
+  - first:
+      213: -1932060909364372021
+    second: Sonic_Victory_14
+  - first:
+      213: -1626886381438966114
+    second: Sonic_Victory_15
+  - first:
+      213: -1118338640076282368
+    second: Sonic_Victory_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sonic_Victory_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.359375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd92137ba9c7550a0800000000000000
+      internalID: -5430620907834173169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Victory_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.359375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b8d91801b0f1900800000000000000
+      internalID: 1471758798692859282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Victory_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.359375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c89bb297755ca0a0800000000000000
+      internalID: 7400874989381546069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Victory_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.359375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd34bcdbcb2075b00800000000000000
+      internalID: -3465588394427545794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Victory_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.359375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7208b483008b4f0800000000000000
+      internalID: 9049688567842667225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Victory_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.359375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7a9f908eef13920800000000000000
+      internalID: -7369182739620178104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Victory_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.359375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ed40fafa49bd830800000000000000
+      internalID: 7577167842570334199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Victory_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.359375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077297f3cb0d163d0800000000000000
+      internalID: 1559418359158305924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Victory_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.359375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91b2a444b1098f90800000000000000
+      internalID: -3983431812097775862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Victory_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.359375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9a5386c93a70460800000000000000
+      internalID: -8011845731850208986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Victory_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.359375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01383911824937070800000000000000
+      internalID: -7166756290781551098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Victory_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.359375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f76cd04f6b56c70800000000000000
+      internalID: 8283734880260817655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Victory_12
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.359375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ac8156da77d0160800000000000000
+      internalID: 2696019676209863634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Victory_13
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.359375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61cc48359eb83e20800000000000000
+      internalID: -5761648041585983449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Victory_14
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.359375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd1be4e6d0ff25e0800000000000000
+      internalID: 2444542624195007308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Victory_15
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 0
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.359375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96e868a4732c69e0800000000000000
+      internalID: 5824557973272486981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic_Victory_16
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.359375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a7f77d2343e1580800000000000000
+      internalID: -8854582424395351435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sonic_Victory_4: 9049688567842667225
+      Sonic_Victory_11: 8283734880260817655
+      Sonic_Victory_2: 7400874989381546069
+      Sonic_Victory_0: -5430620907834173169
+      Sonic_Victory_3: -3465588394427545794
+      Sonic_Victory_6: 7577167842570334199
+      Sonic_Victory_12: 2696019676209863634
+      Sonic_Victory_8: -3983431812097775862
+      Sonic_Victory_9: -8011845731850208986
+      Sonic_Victory_7: 1559418359158305924
+      Sonic_Victory_5: -7369182739620178104
+      Sonic_Victory_1: 1471758798692859282
+      Sonic_Victory_10: -7166756290781551098
+      Sonic_Victory_13: -5761648041585983449
+      Sonic_Victory_14: 2444542624195007308
+      Sonic_Victory_16: -8854582424395351435
+      Sonic_Victory_15: 5824557973272486981
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

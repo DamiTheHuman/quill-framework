@@ -1,0 +1,515 @@
+fileFormatVersion: 2
+guid: 36a257716b6f12e42887e60fcb5cb297
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1621310933665404
+    second: Sonic_Air_Walking_0
+  - first:
+      213: -258217919873048018
+    second: Sonic_Air_Walking_1
+  - first:
+      213: -3633503842728120696
+    second: Sonic_Air_Walking_2
+  - first:
+      213: 9008397636613120296
+    second: Sonic_Air_Walking_3
+  - first:
+      213: -2630709204330581431
+    second: Sonic_Air_Walking_4
+  - first:
+      213: 2924420472091051792
+    second: Sonic_Air_Walking_5
+  - first:
+      213: -7907717737944995030
+    second: Sonic_Air_Walking_6
+  - first:
+      213: -2212407557982056398
+    second: Sonic_Air_Walking_7
+  - first:
+      213: 5965927066525894333
+    second: Sonic_Air_Walking_8
+  - first:
+      213: 6298982812211211243
+    second: Sonic_Air_Walking_9
+  - first:
+      213: 8079558215424237067
+    second: Sonic_Air_Walking_10
+  - first:
+      213: 5590064056730367697
+    second: Tails_Air_Walking_0
+  - first:
+      213: 2339242957411085688
+    second: Tails_Air_Walking_1
+  - first:
+      213: -2849884977513369238
+    second: Tails_Air_Walking_2
+  - first:
+      213: -1861602803862937795
+    second: Tails_Air_Walking_3
+  - first:
+      213: -3540887331968508789
+    second: Tails_Air_Walking_4
+  - first:
+      213: -5611140847227423488
+    second: Tails_Air_Walking_5
+  - first:
+      213: 4759545470025210331
+    second: Tails_Air_Walking_6
+  - first:
+      213: -4712433802171556890
+    second: Tails_Air_Walking_7
+  - first:
+      213: -4422412282564469323
+    second: Tails_Air_Walking_8
+  - first:
+      213: 9071453411320016265
+    second: Tails_Air_Walking_9
+  - first:
+      213: -7632941127846983091
+    second: Tails_Air_Walking_10
+  - first:
+      213: 6522048931916468504
+    second: Tails_Air_Walking_11
+  - first:
+      213: -5441157210882401711
+    second: Tails_Air_Walking_0
+  - first:
+      213: -5940557151123257007
+    second: Tails_Air_Walking_1
+  - first:
+      213: 2611446537264087328
+    second: Tails_Air_Walking_2
+  - first:
+      213: -4692591015060315847
+    second: Tails_Air_Walking_3
+  - first:
+      213: 6492232899568680662
+    second: Tails_Air_Walking_4
+  - first:
+      213: 3122938968945729824
+    second: Tails_Air_Walking_5
+  - first:
+      213: 9010784902435904909
+    second: Tails_Air_Walking_6
+  - first:
+      213: 185274413144829793
+    second: Tails_Air_Walking_7
+  - first:
+      213: -8819632393290652097
+    second: Tails_Air_Walking_8
+  - first:
+      213: -3298004743359348545
+    second: Tails_Air_Walking_9
+  - first:
+      213: -1800884174942329426
+    second: Tails_Air_Walking_10
+  - first:
+      213: 566157323861854568
+    second: Tails_Air_Walking_11
+  - first:
+      213: 4486176821253317231
+    second: Knuckles_Air_Walking_0
+  - first:
+      213: -2768013192822766020
+    second: Knuckles_Air_Walking_1
+  - first:
+      213: -8610600786494468189
+    second: Knuckles_Air_Walking_2
+  - first:
+      213: -5884313200288748853
+    second: Knuckles_Air_Walking_3
+  - first:
+      213: 1392135954130969012
+    second: Knuckles_Air_Walking_4
+  - first:
+      213: -6687851154416732721
+    second: Knuckles_Air_Walking_5
+  - first:
+      213: 4602597609877893335
+    second: Knuckles_Air_Walking_6
+  - first:
+      213: -9187951661526895115
+    second: Knuckles_Air_Walking_7
+  - first:
+      213: -6928866070563359684
+    second: Knuckles_Air_Walking_8
+  - first:
+      213: 5614380265327674719
+    second: Knuckles_Air_Walking_9
+  - first:
+      213: -7045568550707419590
+    second: Knuckles_Air_Walking_10
+  - first:
+      213: 7708933389086439596
+    second: Knuckles_Air_Walking_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Knuckles_Air_Walking_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f622566dc0a124e30800000000000000
+      internalID: 4486176821253317231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Air_Walking_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36443caaaa0699d0800000000000000
+      internalID: -2768013192822766020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Air_Walking_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af4c42a430018880800000000000000
+      internalID: -8610600786494468189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Air_Walking_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcaa5ad1258b65ea0800000000000000
+      internalID: -5884313200288748853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Air_Walking_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1a601464cd15310800000000000000
+      internalID: 1392135954130969012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Air_Walking_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5fd4e0fcaff23a0800000000000000
+      internalID: -6687851154416732721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Air_Walking_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d075dcf326bfdf30800000000000000
+      internalID: 4602597609877893335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Air_Walking_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5ba39c4a6dd7080800000000000000
+      internalID: -9187951661526895115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Air_Walking_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3470dff409b7df90800000000000000
+      internalID: -6928866070563359684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Air_Walking_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55c1d4ea194aed40800000000000000
+      internalID: 5614380265327674719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Air_Walking_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36ab6e6bbc193e90800000000000000
+      internalID: -7045568550707419590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Air_Walking_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca835add212abfa60800000000000000
+      internalID: 7708933389086439596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Knuckles_Air_Walking_4: 1392135954130969012
+      Knuckles_Air_Walking_5: -6687851154416732721
+      Knuckles_Air_Walking_1: -2768013192822766020
+      Knuckles_Air_Walking_3: -5884313200288748853
+      Knuckles_Air_Walking_2: -8610600786494468189
+      Knuckles_Air_Walking_8: -6928866070563359684
+      Knuckles_Air_Walking_6: 4602597609877893335
+      Knuckles_Air_Walking_7: -9187951661526895115
+      Knuckles_Air_Walking_0: 4486176821253317231
+      Knuckles_Air_Walking_10: -7045568550707419590
+      Knuckles_Air_Walking_9: 5614380265327674719
+      Knuckles_Air_Walking_11: 7708933389086439596
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

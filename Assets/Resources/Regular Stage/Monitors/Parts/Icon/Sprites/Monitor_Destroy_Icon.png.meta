@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: 716b02e06485c6c40ab6660ac53a0309
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8570880334950899013
+    second: Monitor_Destroy_Icon_0
+  - first:
+      213: 8879252073133654665
+    second: Monitor_Destroy_Icon_1
+  - first:
+      213: -6579822024672277715
+    second: Monitor_Destroy_Icon_2
+  - first:
+      213: 3773346741848837364
+    second: Monitor_Destroy_Icon_3
+  - first:
+      213: -6039510207121718264
+    second: Monitor_Destroy_Icon_4
+  - first:
+      213: 2449167600391477696
+    second: Monitor_Destroy_Icon_5
+  - first:
+      213: 2742399893143484526
+    second: Monitor_Destroy_Icon_6
+  - first:
+      213: 2766645851889873370
+    second: Monitor_Destroy_Icon_7
+  - first:
+      213: -6503319815448617902
+    second: Monitor_Destroy_Icon_8
+  - first:
+      213: 3119102419475718054
+    second: Monitor_Destroy_Icon_0
+  - first:
+      213: 8124241221298600093
+    second: Monitor_Destroy_Icon_1
+  - first:
+      213: 3282016889453361911
+    second: Monitor_Destroy_Icon_2
+  - first:
+      213: 8254409139055591882
+    second: Monitor_Destroy_Icon_3
+  - first:
+      213: 366589211514868522
+    second: Monitor_Destroy_Icon_4
+  - first:
+      213: 2375127335875317595
+    second: Monitor_Destroy_Icon_5
+  - first:
+      213: 1866799025208096801
+    second: Monitor_Destroy_Icon_6
+  - first:
+      213: 5735423219978275316
+    second: Monitor_Destroy_Icon_7
+  - first:
+      213: -5178783629270942664
+    second: Monitor_Destroy_Icon_8
+  - first:
+      213: 6126691420885582378
+    second: Monitor_Destroy_Icon_9
+  - first:
+      213: 4622555529635327100
+    second: Monitor_Destroy_Icon_10
+  - first:
+      213: -4112876074007991628
+    second: Monitor_Destroy_Icon_11
+  - first:
+      213: 2779660235653639752
+    second: Monitor_Destroy_Icon_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monitor_Destroy_Icon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af59e2ff17494b20800000000000000
+      internalID: 8570880334950899013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Destroy_Icon_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98b611c85a1fb070800000000000000
+      internalID: 8879252073133654665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Destroy_Icon_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa33bad8f01c8d20800000000000000
+      internalID: -6579822024672277715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Destroy_Icon_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac18524d06d8d8270800000000000000
+      internalID: 3773346741848837364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Destroy_Icon_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2395d212f2661500800000000000000
+      internalID: -6039510207121718264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Destroy_Icon_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f0b2f5ab526f020800000000000000
+      internalID: 2449167600391477696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Destroy_Icon_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128f29c92d338e910800000000000000
+      internalID: 2742399893143484526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Destroy_Icon_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9055fe701589f40800000000000000
+      internalID: 2766645851889873370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Destroy_Icon_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c72b04ab34128b0800000000000000
+      internalID: -6503319815448617902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Destroy_Icon_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22815ef261660550800000000000000
+      internalID: 6126691420885582378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Destroy_Icon_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c6e6a43cd962040800000000000000
+      internalID: 4622555529635327100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Destroy_Icon_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4baec8b60012ce6c0800000000000000
+      internalID: -4112876074007991628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Destroy_Icon_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ee96ec146539620800000000000000
+      internalID: 2779660235653639752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monitor_Destroy_Icon_1: 8879252073133654665
+      Monitor_Destroy_Icon_11: -4112876074007991628
+      Monitor_Destroy_Icon_6: 2742399893143484526
+      Monitor_Destroy_Icon_7: 2766645851889873370
+      Monitor_Destroy_Icon_8: -6503319815448617902
+      Monitor_Destroy_Icon_5: 2449167600391477696
+      Monitor_Destroy_Icon_0: 8570880334950899013
+      Monitor_Destroy_Icon_2: -6579822024672277715
+      Monitor_Destroy_Icon_4: -6039510207121718264
+      Monitor_Destroy_Icon_10: 4622555529635327100
+      Monitor_Destroy_Icon_9: 6126691420885582378
+      Monitor_Destroy_Icon_3: 3773346741848837364
+      Monitor_Destroy_Icon_12: 2779660235653639752
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

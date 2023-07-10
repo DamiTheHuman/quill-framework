@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: bd14fab74d29a5e46b50ac4a4cd7ea40
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1154719879571186025
+    second: Sonic_Spindash_0
+  - first:
+      213: -4690965451464747537
+    second: Sonic_Spindash_1
+  - first:
+      213: 9127218715094908790
+    second: Sonic_Spindash_2
+  - first:
+      213: 407482503333047389
+    second: Sonic_Spindash_3
+  - first:
+      213: 1123776010737681290
+    second: Sonic_Spindash_4
+  - first:
+      213: -595516754207559298
+    second: Sonic_Spindash_5
+  - first:
+      213: 5938794193052366894
+    second: Sonic_Spindash_6
+  - first:
+      213: -5432116605043142273
+    second: Sonic_Spindash_7
+  - first:
+      213: 3514662461381468171
+    second: Sonic_Spindash_8
+  - first:
+      213: -4002971921384168331
+    second: Sonic_Spindash_0
+  - first:
+      213: -7994722040580234877
+    second: Sonic_Spindash_1
+  - first:
+      213: -3633460736968741087
+    second: Sonic_Spindash_2
+  - first:
+      213: -7271897866270977319
+    second: Sonic_Spindash_3
+  - first:
+      213: 1271212737420868315
+    second: Sonic_Spindash_4
+  - first:
+      213: 2968405579779506334
+    second: Sonic_Spindash_5
+  - first:
+      213: 2131673730192035825
+    second: Sonic_Spindash_6
+  - first:
+      213: -2327785547695626952
+    second: Sonic_Spindash_7
+  - first:
+      213: 3907452639013465273
+    second: Sonic_Spindash_8
+  - first:
+      213: -8417705242255264731
+    second: Tails_Spindash_0
+  - first:
+      213: -3059773760610037109
+    second: Tails_Spindash_1
+  - first:
+      213: -1534838042336669377
+    second: Tails_Spindash_2
+  - first:
+      213: 4268959055875154989
+    second: Tails_Spindash_3
+  - first:
+      213: -2960633140645687481
+    second: Tails_Spindash_4
+  - first:
+      213: 3436147990906177715
+    second: Tails_Spindash_5
+  - first:
+      213: -3925912074390458736
+    second: Tails_Spindash_6
+  - first:
+      213: 3630180493663981332
+    second: Tails_Spindash_7
+  - first:
+      213: -2985002643249965101
+    second: Tails_Spindash_8
+  - first:
+      213: 597764306473617495
+    second: Tails_Spindash_9
+  - first:
+      213: 8585454420064232766
+    second: Tails_Spindash_10
+  - first:
+      213: 1119856572422620550
+    second: Tails_Spindash_11
+  - first:
+      213: -4045816400091837608
+    second: Tails_Spindash_12
+  - first:
+      213: -2582189179869978153
+    second: Tails_Spindash_13
+  - first:
+      213: -6360664311374006591
+    second: Tails_Spindash_14
+  - first:
+      213: 2958106330381851485
+    second: Tails_Spindash_15
+  - first:
+      213: -4894752446310638612
+    second: Tails_Spindash_0
+  - first:
+      213: 1761782235858126589
+    second: Tails_Spindash_1
+  - first:
+      213: -4173560260057913676
+    second: Tails_Spindash_2
+  - first:
+      213: -515181276500347806
+    second: Tails_Spindash_3
+  - first:
+      213: 2798377731315819829
+    second: Tails_Spindash_4
+  - first:
+      213: -5164866459355094605
+    second: Tails_Spindash_5
+  - first:
+      213: -5511160992995750974
+    second: Tails_Spindash_6
+  - first:
+      213: -5770056432238305180
+    second: Tails_Spindash_7
+  - first:
+      213: 1267659894746959463
+    second: Tails_Spindash_8
+  - first:
+      213: -8159737868942193584
+    second: Tails_Spindash_9
+  - first:
+      213: -3201583504654392969
+    second: Tails_Spindash_10
+  - first:
+      213: 4411628171101484307
+    second: Tails_Spindash_11
+  - first:
+      213: -2459503940449093770
+    second: Tails_Spindash_12
+  - first:
+      213: -1015861270080332379
+    second: Tails_Spindash_13
+  - first:
+      213: -8355732811443570021
+    second: Tails_Spindash_14
+  - first:
+      213: 4463082483807873769
+    second: Tails_Spindash_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tails_Spindash_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb1e266598521cb0800000000000000
+      internalID: -8417705242255264731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spindash_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6cae3fb9b137810800000000000000
+      internalID: -3059773760610037109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spindash_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6af825e098416c0800000000000000
+      internalID: -1534838042336669377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spindash_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264b34bcb55b9d8f0800000000000000
+      internalID: 4268959055875154989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spindash_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535617e58b5d5d620800000000000000
+      internalID: -2960633140645687481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spindash_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b16fc1e155b258b0800000000000000
+      internalID: 3436147990906177715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spindash_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbcf78b64c6483b0800000000000000
+      internalID: -3925912074390458736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spindash_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4606a76fe34acefa0800000000000000
+      internalID: 3630180493663981332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spindash_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ec66a35f1a79110800000000000000
+      internalID: -2985002643249965101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spindash_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cc56de3a9c2ce80800000000000000
+      internalID: 597764306473617495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spindash_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7712356e3c0b193d0800000000000000
+      internalID: 8585454420064232766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spindash_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3153c93a270493d30800000000000000
+      internalID: 1119856572422620550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spindash_12
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677bbd972361eddd0800000000000000
+      internalID: -4045816400091837608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spindash_13
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5add8cf9e8fe6e1f0800000000000000
+      internalID: -2582189179869978153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spindash_14
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a74df47497a0c80800000000000000
+      internalID: -6360664311374006591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spindash_15
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eae2a26fdd00fd30800000000000000
+      internalID: 2958106330381851485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tails_Spindash_5: 3436147990906177715
+      Tails_Spindash_12: -4045816400091837608
+      Tails_Spindash_2: -1534838042336669377
+      Tails_Spindash_0: -8417705242255264731
+      Tails_Spindash_14: -6360664311374006591
+      Tails_Spindash_11: 1119856572422620550
+      Tails_Spindash_15: 2958106330381851485
+      Tails_Spindash_8: -2985002643249965101
+      Tails_Spindash_9: 597764306473617495
+      Tails_Spindash_7: 3630180493663981332
+      Tails_Spindash_4: -2960633140645687481
+      Tails_Spindash_13: -2582189179869978153
+      Tails_Spindash_3: 4268959055875154989
+      Tails_Spindash_10: 8585454420064232766
+      Tails_Spindash_6: -3925912074390458736
+      Tails_Spindash_1: -3059773760610037109
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

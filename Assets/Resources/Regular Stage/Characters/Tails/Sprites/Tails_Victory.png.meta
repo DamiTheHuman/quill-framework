@@ -1,0 +1,759 @@
+fileFormatVersion: 2
+guid: f1ebc311fa478c0448ece43f7c28437e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5430620907834173169
+    second: Sonic_Victory_0
+  - first:
+      213: 1471758798692859282
+    second: Sonic_Victory_1
+  - first:
+      213: 7400874989381546069
+    second: Sonic_Victory_2
+  - first:
+      213: -3465588394427545794
+    second: Sonic_Victory_3
+  - first:
+      213: 9049688567842667225
+    second: Sonic_Victory_4
+  - first:
+      213: -7369182739620178104
+    second: Sonic_Victory_5
+  - first:
+      213: 7577167842570334199
+    second: Sonic_Victory_6
+  - first:
+      213: 1559418359158305924
+    second: Sonic_Victory_7
+  - first:
+      213: -3983431812097775862
+    second: Sonic_Victory_8
+  - first:
+      213: -8011845731850208986
+    second: Sonic_Victory_9
+  - first:
+      213: -7166756290781551098
+    second: Sonic_Victory_10
+  - first:
+      213: 8283734880260817655
+    second: Sonic_Victory_11
+  - first:
+      213: 2696019676209863634
+    second: Sonic_Victory_12
+  - first:
+      213: -5761648041585983449
+    second: Sonic_Victory_13
+  - first:
+      213: 2444542624195007308
+    second: Sonic_Victory_14
+  - first:
+      213: 5824557973272486981
+    second: Sonic_Victory_15
+  - first:
+      213: -8854582424395351435
+    second: Sonic_Victory_16
+  - first:
+      213: -6893466650680415779
+    second: Sonic_Victory_0
+  - first:
+      213: 657256236141349758
+    second: Sonic_Victory_1
+  - first:
+      213: -6869021359595611966
+    second: Sonic_Victory_2
+  - first:
+      213: 817124867052356572
+    second: Sonic_Victory_3
+  - first:
+      213: -812899490955515953
+    second: Sonic_Victory_4
+  - first:
+      213: 2968433901967091673
+    second: Sonic_Victory_5
+  - first:
+      213: 4097031768300117516
+    second: Sonic_Victory_6
+  - first:
+      213: -3215059152028489872
+    second: Sonic_Victory_7
+  - first:
+      213: -6951022676112395873
+    second: Sonic_Victory_8
+  - first:
+      213: 7207909620788341214
+    second: Sonic_Victory_9
+  - first:
+      213: 8102983054384136976
+    second: Sonic_Victory_10
+  - first:
+      213: 8963771792670228299
+    second: Sonic_Victory_11
+  - first:
+      213: 6993377382985419418
+    second: Sonic_Victory_12
+  - first:
+      213: 3330621472544440686
+    second: Sonic_Victory_13
+  - first:
+      213: -1932060909364372021
+    second: Sonic_Victory_14
+  - first:
+      213: -1626886381438966114
+    second: Sonic_Victory_15
+  - first:
+      213: -1118338640076282368
+    second: Sonic_Victory_16
+  - first:
+      213: -8906025180031208219
+    second: Tails_Victory_0
+  - first:
+      213: -4113897556166384317
+    second: Tails_Victory_1
+  - first:
+      213: -8932374299824060455
+    second: Tails_Victory_2
+  - first:
+      213: -3192353809701329166
+    second: Tails_Victory_3
+  - first:
+      213: -3662978362783120874
+    second: Tails_Victory_4
+  - first:
+      213: -7071628453747779218
+    second: Tails_Victory_5
+  - first:
+      213: 6401309856830789048
+    second: Tails_Victory_6
+  - first:
+      213: -3175089046823783402
+    second: Tails_Victory_7
+  - first:
+      213: -1215142262800619833
+    second: Tails_Victory_8
+  - first:
+      213: 7967283545466067702
+    second: Tails_Victory_9
+  - first:
+      213: -1221952122638901500
+    second: Tails_Victory_10
+  - first:
+      213: -8369301730374048265
+    second: Tails_Victory_11
+  - first:
+      213: -297990856451586173
+    second: Tails_Victory_12
+  - first:
+      213: 3416729772353517035
+    second: Tails_Victory_13
+  - first:
+      213: 7219915773540619346
+    second: Tails_Victory_14
+  - first:
+      213: -3099651085269069563
+    second: Tails_Victory_15
+  - first:
+      213: -8347383575590174873
+    second: Tails_Victory_16
+  - first:
+      213: -8069029750291998219
+    second: Tails_Victory_17
+  - first:
+      213: 4380535127832789426
+    second: Tails_Victory_18
+  - first:
+      213: -3068289981305936317
+    second: Tails_Victory_19
+  - first:
+      213: 7614312204205793359
+    second: Tails_Victory_20
+  - first:
+      213: -7875014095814706958
+    second: Tails_Victory_21
+  - first:
+      213: -6094748778008488595
+    second: Tails_Victory_22
+  - first:
+      213: 3358516693369745267
+    second: Tails_Victory_23
+  - first:
+      213: -5241933089469809916
+    second: Tails_Victory_0
+  - first:
+      213: 5709428785864993571
+    second: Tails_Victory_1
+  - first:
+      213: 2348176187524336456
+    second: Tails_Victory_2
+  - first:
+      213: 389759963421606189
+    second: Tails_Victory_3
+  - first:
+      213: -4342408794710941112
+    second: Tails_Victory_4
+  - first:
+      213: -4747610257898819368
+    second: Tails_Victory_5
+  - first:
+      213: -63949000874975770
+    second: Tails_Victory_6
+  - first:
+      213: 6585116315376628766
+    second: Tails_Victory_7
+  - first:
+      213: 21092196929142483
+    second: Tails_Victory_8
+  - first:
+      213: 2339648535577701386
+    second: Tails_Victory_9
+  - first:
+      213: 6949316567385801436
+    second: Tails_Victory_10
+  - first:
+      213: 361328668817418636
+    second: Tails_Victory_11
+  - first:
+      213: 7679747897551929577
+    second: Tails_Victory_12
+  - first:
+      213: 1441069516624155063
+    second: Tails_Victory_13
+  - first:
+      213: 3771400968955363385
+    second: Tails_Victory_14
+  - first:
+      213: -3954433929245514046
+    second: Tails_Victory_15
+  - first:
+      213: 9128538466717496391
+    second: Tails_Victory_16
+  - first:
+      213: -5421591411332039817
+    second: Tails_Victory_17
+  - first:
+      213: -3871092959362143500
+    second: Tails_Victory_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tails_Victory_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b39c9c0a9e047b0800000000000000
+      internalID: -8906025180031208219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Victory_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b6fdb1b37fb3f40800000000000000
+      internalID: -4113897556166384317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Victory_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b4b672dc5669020800000000000000
+      internalID: -8932374299824060455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Victory_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d210a672f94b86500800000000000000
+      internalID: -3192353809701329166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Victory_4
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842e8b1553aacb3c0800000000000000
+      internalID: -3662978362783120874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Victory_5
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0b0f5df991d1eb0800000000000000
+      internalID: -7071628453747779218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Victory_6
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed1b17f8becc1ff0800000000000000
+      internalID: 6401309856830789048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Victory_7
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1437ae3668036b50800000000000000
+      internalID: -3175089046823783402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Victory_8
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de7e79cd3fea4000800000000000000
+      internalID: -1215142262800619833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Victory_9
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c2f5672f9187020800000000000000
+      internalID: 7967283545466067702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Victory_10
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd284c6599ee07060800000000000000
+      internalID: -1221952122638901500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Victory_11
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89e6088282b30500800000000000000
+      internalID: -8369301730374048265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Victory_12
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0c2261602f39a60800000000000000
+      internalID: -297990856451586173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Victory_13
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1d60b1715bff310800000000000000
+      internalID: 3416729772353517035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Victory_14
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93006241335b65430800000000000000
+      internalID: 7219915773540619346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Victory_15
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6a197fa470f19c0800000000000000
+      internalID: -3099651085269069563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Victory_16
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7447f23de551fae70800000000000000
+      internalID: -8347383575590174873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Victory_17
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bbe321653a2c4b0800000000000000
+      internalID: -8069029750291998219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Victory_18
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa24b0a67d174ac0800000000000000
+      internalID: 4380535127832789426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tails_Victory_11: -8369301730374048265
+      Tails_Victory_14: 7219915773540619346
+      Tails_Victory_1: -4113897556166384317
+      Tails_Victory_17: -8069029750291998219
+      Tails_Victory_0: -8906025180031208219
+      Tails_Victory_2: -8932374299824060455
+      Tails_Victory_10: -1221952122638901500
+      Tails_Victory_6: 6401309856830789048
+      Tails_Victory_12: -297990856451586173
+      Tails_Victory_4: -3662978362783120874
+      Tails_Victory_15: -3099651085269069563
+      Tails_Victory_3: -3192353809701329166
+      Tails_Victory_5: -7071628453747779218
+      Tails_Victory_9: 7967283545466067702
+      Tails_Victory_7: -3175089046823783402
+      Tails_Victory_16: -8347383575590174873
+      Tails_Victory_18: 4380535127832789426
+      Tails_Victory_13: 3416729772353517035
+      Tails_Victory_8: -1215142262800619833
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

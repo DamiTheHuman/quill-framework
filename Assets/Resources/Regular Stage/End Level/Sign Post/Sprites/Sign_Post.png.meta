@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: b8bd52671137bc64a888179329edd875
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6315575573838221765
+    second: Sign_Post_0
+  - first:
+      213: 2731619954242542424
+    second: Sign_Post_Face_Sonic_0
+  - first:
+      213: 3769788805023476159
+    second: Sign_Post_Face_Sonic_1
+  - first:
+      213: -571487791221097456
+    second: Sign_Post_Face_Sonic_2
+  - first:
+      213: -6423752438746095278
+    second: Sign_Post_Face_Sonic_3
+  - first:
+      213: -3401778910926151559
+    second: Sign_Post_Face_Sonic_4
+  - first:
+      213: 4996315724446338275
+    second: Sign_Post_Face_Eggman_0
+  - first:
+      213: -5534323184289581570
+    second: Sign_Post_7
+  - first:
+      213: -4795408779595465240
+    second: Sign_Post_Face_Tails_0
+  - first:
+      213: 4752027279157599713
+    second: Sign_Post_Face_Tails_1
+  - first:
+      213: 8507325345958827475
+    second: Sign_Post_Face_Tails_2
+  - first:
+      213: 7633969743798885230
+    second: Sign_Post_Face_Tails_3
+  - first:
+      213: 7468354749405329272
+    second: Sign_Post_Face_Tails_4
+  - first:
+      213: -7652817366419804288
+    second: Sign_Post_Face_Knuckles_0
+  - first:
+      213: -8013126934424971574
+    second: Sign_Post_Face_Knuckles_1
+  - first:
+      213: 3808604303722347248
+    second: Sign_Post_Face_Knuckles_2
+  - first:
+      213: -8948597582272929890
+    second: Sign_Post_Face_Knuckles_3
+  - first:
+      213: -2011753401477714088
+    second: Sign_Post_Face_Knuckles_4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sign_Post_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 48
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1d2c6e58e65a750800000000000000
+      internalID: 6315575573838221765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign_Post_Face_Sonic_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 62
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bdef920e9a8e520800000000000000
+      internalID: 2731619954242542424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign_Post_Face_Sonic_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 62
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb92ba9e1faf05430800000000000000
+      internalID: 3769788805023476159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign_Post_Face_Sonic_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 62
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c3bcab1eaa118f0800000000000000
+      internalID: -571487791221097456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign_Post_Face_Sonic_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 62
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2516d73013f3ad6a0800000000000000
+      internalID: -6423752438746095278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign_Post_Face_Sonic_4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 62
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970e4d99a147ac0d0800000000000000
+      internalID: -3401778910926151559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign_Post_Face_Eggman_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec82550eaa765540800000000000000
+      internalID: 4996315724446338275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign_Post_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5f530d2622233b0800000000000000
+      internalID: -5534323184289581570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign_Post_Face_Tails_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 32
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed3c634f19437db0800000000000000
+      internalID: -4795408779595465240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign_Post_Face_Tails_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 32
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed972112a792f140800000000000000
+      internalID: 4752027279157599713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign_Post_Face_Tails_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 32
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d59d821457101670800000000000000
+      internalID: 8507325345958827475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign_Post_Face_Tails_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 32
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b5635190f41f960800000000000000
+      internalID: 7633969743798885230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign_Post_Face_Tails_4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 32
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877f7e6531de4a760800000000000000
+      internalID: 7468354749405329272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign_Post_Face_Knuckles_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f6b9fc62bbbc590800000000000000
+      internalID: -7652817366419804288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign_Post_Face_Knuckles_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac61c7d2287abc090800000000000000
+      internalID: -8013126934424971574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign_Post_Face_Knuckles_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0faf4657f61ead430800000000000000
+      internalID: 3808604303722347248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign_Post_Face_Knuckles_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fd3be19e130d380800000000000000
+      internalID: -8948597582272929890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign_Post_Face_Knuckles_4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fac39a0f0d414e0800000000000000
+      internalID: -2011753401477714088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sign_Post_Face_Sonic_0: 2731619954242542424
+      Sign_Post_Face_Sonic_2: -571487791221097456
+      Sign_Post_7: -5534323184289581570
+      Sign_Post_Face_Sonic_3: -6423752438746095278
+      Sign_Post_Face_Tails_4: 7468354749405329272
+      Sign_Post_Face_Tails_3: 7633969743798885230
+      Sign_Post_Face_Tails_1: 4752027279157599713
+      Sign_Post_Face_Knuckles_3: -8948597582272929890
+      Sign_Post_0: 6315575573838221765
+      Sign_Post_Face_Knuckles_4: -2011753401477714088
+      Sign_Post_Face_Knuckles_2: 3808604303722347248
+      Sign_Post_Face_Eggman_0: 4996315724446338275
+      Sign_Post_Face_Knuckles_0: -7652817366419804288
+      Sign_Post_Face_Sonic_1: 3769788805023476159
+      Sign_Post_Face_Tails_0: -4795408779595465240
+      Sign_Post_Face_Tails_2: 8507325345958827475
+      Sign_Post_Face_Sonic_4: -3401778910926151559
+      Sign_Post_Face_Knuckles_1: -8013126934424971574
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

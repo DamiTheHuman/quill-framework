@@ -1,0 +1,482 @@
+fileFormatVersion: 2
+guid: c2867afe7056f6646bdcd75986b7f3b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7832745702092293145
+    second: Special_Stage_Sonic_Jump_0
+  - first:
+      213: 6301802690203879922
+    second: Special_Stage_Sonic_Jump_1
+  - first:
+      213: -1909180313230716272
+    second: Special_Stage_Sonic_Jump_2
+  - first:
+      213: -5798373580680102491
+    second: Special_Stage_Sonic_Jump_3
+  - first:
+      213: 8073489713636539334
+    second: Special_Stage_Sonic_Jump_4
+  - first:
+      213: -4871824209384788818
+    second: Special_Stage_Sonic_Jump_5
+  - first:
+      213: 1917328153360102099
+    second: Special_Stage_Sonic_Jump_6
+  - first:
+      213: -3617085898499029926
+    second: Special_Stage_Sonic_Jump_7
+  - first:
+      213: -1426346863771185883
+    second: Special_Stage_Sonic_Jump_8
+  - first:
+      213: -2837149040842273061
+    second: Special_Stage_Sonic_Jump_9
+  - first:
+      213: 6818162188505246868
+    second: Special_Stage_Sonic_Jump_10
+  - first:
+      213: 3768508581410300126
+    second: Special_Stage_Sonic_Jump_11
+  - first:
+      213: 1783269743635013155
+    second: Special_Stage_Sonic_Jump_0
+  - first:
+      213: 9098292801597962493
+    second: Special_Stage_Sonic_Jump_1
+  - first:
+      213: 4170041161854668644
+    second: Special_Stage_Sonic_Jump_2
+  - first:
+      213: 2699709232172793441
+    second: Special_Stage_Sonic_Jump_3
+  - first:
+      213: -3109845277470089595
+    second: Special_Stage_Sonic_Jump_4
+  - first:
+      213: -2376307999338931777
+    second: Special_Stage_Sonic_Jump_5
+  - first:
+      213: -3782709475988698670
+    second: Special_Stage_Sonic_Jump_6
+  - first:
+      213: 2117050995407577965
+    second: Special_Stage_Sonic_Jump_7
+  - first:
+      213: -7778865700834384468
+    second: Special_Stage_Sonic_Jump_8
+  - first:
+      213: -3148751441689317464
+    second: Special_Stage_Sonic_Jump_9
+  - first:
+      213: -1424516497849347959
+    second: Special_Stage_Sonic_Jump_10
+  - first:
+      213: 3140913958849078981
+    second: Special_Stage_Sonic_Jump_11
+  - first:
+      213: 156122004285158952
+    second: Special_Stage_Sonic_Roll_0
+  - first:
+      213: 1430190653072044273
+    second: Special_Stage_Sonic_Roll_1
+  - first:
+      213: -2682115501977781349
+    second: Special_Stage_Sonic_Roll_2
+  - first:
+      213: 8720868552443084659
+    second: Special_Stage_Sonic_Roll_3
+  - first:
+      213: 8803109415404089518
+    second: Special_Stage_Sonic_Roll_4
+  - first:
+      213: 2775540570328477942
+    second: Special_Stage_Sonic_Roll_5
+  - first:
+      213: 1054896559923837052
+    second: Special_Stage_Sonic_Roll_6
+  - first:
+      213: -1835726400793335845
+    second: Special_Stage_Sonic_Roll_7
+  - first:
+      213: 6570129251286077006
+    second: Special_Stage_Sonic_Roll_8
+  - first:
+      213: 981862416736988523
+    second: Special_Stage_Sonic_Roll_9
+  - first:
+      213: -3478498397303188670
+    second: Special_Stage_Sonic_Roll_10
+  - first:
+      213: -1798172215334577212
+    second: Special_Stage_Sonic_Roll_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Special_Stage_Sonic_Roll_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826f90fb228aa2200800000000000000
+      internalID: 156122004285158952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Sonic_Roll_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0717d42de09d310800000000000000
+      internalID: 1430190653072044273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Sonic_Roll_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bbb02592637cad0800000000000000
+      internalID: -2682115501977781349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Sonic_Roll_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fbe394ebfb60970800000000000000
+      internalID: 8720868552443084659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Sonic_Roll_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0be085f5dea2a70800000000000000
+      internalID: 8803109415404089518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Sonic_Roll_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f03d1a7173b48620800000000000000
+      internalID: 2775540570328477942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Sonic_Roll_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78ba0905deb3ae00800000000000000
+      internalID: 1054896559923837052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Sonic_Roll_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd728e780903686e0800000000000000
+      internalID: -1835726400793335845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Sonic_Roll_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e4f477eb9cd2b50800000000000000
+      internalID: 6570129251286077006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Sonic_Roll_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d2ae77aa640ad00800000000000000
+      internalID: 981862416736988523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Sonic_Roll_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2435af43324e9bfc0800000000000000
+      internalID: -3478498397303188670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Sonic_Roll_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb5104b5eb9b07e0800000000000000
+      internalID: -1798172215334577212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Special_Stage_Sonic_Roll_3: 8720868552443084659
+      Special_Stage_Sonic_Roll_6: 1054896559923837052
+      Special_Stage_Sonic_Roll_2: -2682115501977781349
+      Special_Stage_Sonic_Roll_4: 8803109415404089518
+      Special_Stage_Sonic_Roll_9: 981862416736988523
+      Special_Stage_Sonic_Roll_0: 156122004285158952
+      Special_Stage_Sonic_Roll_7: -1835726400793335845
+      Special_Stage_Sonic_Roll_11: -1798172215334577212
+      Special_Stage_Sonic_Roll_5: 2775540570328477942
+      Special_Stage_Sonic_Roll_1: 1430190653072044273
+      Special_Stage_Sonic_Roll_8: 6570129251286077006
+      Special_Stage_Sonic_Roll_10: -3478498397303188670
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

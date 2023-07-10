@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 528d9bc7d650f8f4d9a9fc262a7c3ab6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9117369016079586641
+    second: Monitor_Base_0
+  - first:
+      213: 7943652006895169026
+    second: Monitor_Base_1
+  - first:
+      213: -6240958410088374847
+    second: Monitor_Base_2
+  - first:
+      213: -4525966607012512628
+    second: Monitor_Base_3
+  - first:
+      213: 7730827123612434107
+    second: Monitor_Base_4
+  - first:
+      213: 6971461815487503592
+    second: Monitor_Base_5
+  - first:
+      213: 4356073151584863076
+    second: Monitor_Base_6
+  - first:
+      213: -9134990817104283337
+    second: Monitor_Base_7
+  - first:
+      213: 8287889512807016888
+    second: Monitor_Base_8
+  - first:
+      213: 8440666673710763941
+    second: Monitor_Base_9
+  - first:
+      213: 292663806425227037
+    second: Monitor_Base_10
+  - first:
+      213: 852832909089649311
+    second: Monitor_Base_11
+  - first:
+      213: -7870949045092189434
+    second: Monitor_Base_12
+  - first:
+      213: 663510761014581254
+    second: Monitor_Base_13
+  - first:
+      213: 7373972629389396729
+    second: Monitor_Broken_0
+  - first:
+      213: 764903067302778801
+    second: Monitor_Broken_1
+  - first:
+      213: -8060582535233851897
+    second: Monitor_Broken_2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monitor_Broken_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 31
+        height: 16
+      alignment: 9
+      pivot: {x: 0.48387095, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa4536990d955660800000000000000
+      internalID: 7373972629389396729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Broken_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 31
+        height: 16
+      alignment: 9
+      pivot: {x: 0.48387095, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7503e794b7d9a00800000000000000
+      internalID: 764903067302778801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Broken_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 31
+        height: 16
+      alignment: 9
+      pivot: {x: 0.48387095, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e2ba814ee032090800000000000000
+      internalID: -8060582535233851897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monitor_Broken_0: 7373972629389396729
+      Monitor_Broken_1: 764903067302778801
+      Monitor_Broken_2: -8060582535233851897
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

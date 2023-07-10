@@ -1,0 +1,78 @@
+{
+  "credits": [
+    {
+      "title": "Project Lead",
+      "value": ["DamiTheHuman"]
+    },
+    {
+      "title": "Prefab Swatch And Editor",
+      "value": ["DamiTheHuman", "Alxendervrs"]
+    },
+    {
+      "title": "Special Thanks & Inspiration",
+      "value": [
+        "Giometric", 
+        "Triangly", 
+        "Nihil (NullSpace)", 
+        "Lake Fepard"
+      ]
+    },
+    {
+      "title": "Sounds",
+      "value": ["Sega Sound Team", "Yasuhisa Watanabe"]
+    },
+    {
+      "title": "Additional Programming",
+      "value": [
+        "Giometric",
+        "DW",
+        "Damizean",
+        "Nihil (NullSpace)",
+        "Azu",
+        "Lark SS",
+        "Team Orbinaut"
+      ]
+    },
+    {
+      "title": "Sprites",
+      "value": [
+        "DamiTheHuman",
+        "Random Talking Brush",
+        "SonicDash57",
+        "DBurraki",
+        "AkumaTH",
+        "Darkness3313",
+        "Cyclone",
+        "AshuraMoon",
+        "Homingmissile333"
+      ]
+    },
+    {
+      "title": "Beta Testers",
+      "value": [
+        "Foxeh", 
+        "Strix", 
+        "Shadow MasterX5",
+        "Frenzy-Kun",
+        "MetalMadness2006"
+      ]
+    },
+    {
+      "title": "Copyright",
+      "value": [
+        "Sega",
+        "Christian Whitehead",
+        "Headcannon",
+        "PagodaWestGames",
+        "Hyperkinetic",
+        "Paul Veer",
+        "Kieran Gates",
+        "Lucas 'Midio' Carvalho"
+      ]
+    },
+    {
+      "title": "Thank You For Your Support!",
+      "value": []
+    }
+  ]
+}

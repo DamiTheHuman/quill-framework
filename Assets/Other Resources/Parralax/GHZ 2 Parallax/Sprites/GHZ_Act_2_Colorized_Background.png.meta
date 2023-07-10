@@ -1,0 +1,310 @@
+fileFormatVersion: 2
+guid: f5d90b3fb114f4240821590d70c1d9ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3193099327892904141
+    second: GHZ_Act_2_Colorized_Background_0
+  - first:
+      213: 5741920828211691831
+    second: GHZ_Act_2_Colorized_Background_Mountains
+  - first:
+      213: 3273293361846973642
+    second: GHZ_Act_2_Colorized_Background_Mountains_1
+  - first:
+      213: 5178211853603925968
+    second: GHZ_Act_2_Colorized_Background_Water
+  - first:
+      213: -2781826436029759282
+    second: GHZ_Act_2_Colorized_Background_Forest
+  - first:
+      213: -814115059916124646
+    second: GHZ_Act_2_Background_5
+  - first:
+      213: 4837368041650175741
+    second: GHZ_Act_2_Background_6
+  - first:
+      213: -6342118802071625920
+    second: GHZ_Act_2_Background_7
+  - first:
+      213: 7334677550325285792
+    second: GHZ_Act_2_Background_8
+  - first:
+      213: 3090042562831980826
+    second: GHZ_Act_2_Background_9
+  - first:
+      213: -4340463224987367574
+    second: GHZ_Act_2_Background_10
+  - first:
+      213: -1399700111508011817
+    second: GHZ_Act_2_Background_11
+  - first:
+      213: -2956804933713497265
+    second: GHZ_Act_2_Colorized_Background_0
+  - first:
+      213: -5754181523222023273
+    second: GHZ_Act_2_Colorized_Background_Mountains
+  - first:
+      213: -3434392421226580310
+    second: GHZ_Act_2_Colorized_Background_Mountains_1
+  - first:
+      213: -8533702508779844410
+    second: GHZ_Act_2_Colorized_Background_Water
+  - first:
+      213: -6487852393152317266
+    second: GHZ_Act_2_Colorized_Background_Forest
+  - first:
+      213: -9147653505082554555
+    second: GHZ_Act_2_Background_5
+  - first:
+      213: -7854796204644968165
+    second: GHZ_Act_2_Background_6
+  - first:
+      213: 1159479922080381283
+    second: GHZ_Act_2_Background_7
+  - first:
+      213: -5796919786776345619
+    second: GHZ_Act_2_Background_8
+  - first:
+      213: 394918010947974663
+    second: GHZ_Act_2_Background_9
+  - first:
+      213: 6591782814972297376
+    second: GHZ_Act_2_Background_10
+  - first:
+      213: -5768235847671368850
+    second: GHZ_Act_2_Background_11
+  - first:
+      213: 5026734255609182692
+    second: GHZ_Act_2_Background_12
+  - first:
+      213: -3151874453403637160
+    second: GHZ_Act_2_Background_13
+  - first:
+      213: 7209839283142689320
+    second: GHZ_Act_2_Background_14
+  - first:
+      213: -887475834225068307
+    second: GHZ_Act_2_Background_12
+  - first:
+      213: -1649259178033651210
+    second: GHZ_Act_2_Background_13
+  - first:
+      213: 7887568087981774198
+    second: GHZ_Act_2_Background_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GHZ_Act_2_Colorized_Background_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 699
+        width: 1021
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4372ef149157f6d0800000000000000
+      internalID: 3193099327892904141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GHZ_Act_2_Colorized_Background_Mountains
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 1088
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7933c3f346a0520b0800000000000000
+      internalID: 5741920828211691831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GHZ_Act_2_Colorized_Background_Mountains_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 1023
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6fe710a469650d0800000000000000
+      internalID: 3273293361846973642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GHZ_Act_2_Colorized_Background_Water
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 1021
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc415128c2329980800000000000000
+      internalID: 5178211853603925968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GHZ_Act_2_Colorized_Background_Forest
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 1021
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0c7ad5897f469d0800000000000000
+      internalID: -2781826436029759282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GHZ_Act_2_Colorized_Background_Water: 5178211853603925968
+      GHZ_Act_2_Colorized_Background_Mountains: 5741920828211691831
+      GHZ_Act_2_Colorized_Background_Forest: -2781826436029759282
+      GHZ_Act_2_Colorized_Background_Mountains_1: 3273293361846973642
+      GHZ_Act_2_Colorized_Background_0: 3193099327892904141
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,604 @@
+fileFormatVersion: 2
+guid: 3e45276b1f824a844891fd68c2014ec1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3907357811443907164
+    second: Title_Card_0
+  - first:
+      213: -5775945515800019713
+    second: Title_Card_1
+  - first:
+      213: 8803107344619286964
+    second: Title_Card_2
+  - first:
+      213: 1730861112858226910
+    second: Title_Card_3
+  - first:
+      213: 7118563851410084589
+    second: Title_Card_4
+  - first:
+      213: 8394064032700787478
+    second: Title_Card_5
+  - first:
+      213: 901107061722781400
+    second: Title_Card_6
+  - first:
+      213: 3419960541470001811
+    second: Title_Card_7
+  - first:
+      213: 690607662447585339
+    second: Title_Card_8
+  - first:
+      213: -7689009523867218096
+    second: Title_Card_9
+  - first:
+      213: 7604252061328882139
+    second: Title_Card_10
+  - first:
+      213: -3857435578586758337
+    second: Title_Card_11
+  - first:
+      213: 6162287097124894556
+    second: Title_Card_12
+  - first:
+      213: 5699740761760905108
+    second: Title_Card_13
+  - first:
+      213: -6620105350603674470
+    second: Title_Card_0
+  - first:
+      213: -5291079018637358926
+    second: Title_Card_1
+  - first:
+      213: -5162087371563760937
+    second: Title_Card_2
+  - first:
+      213: -8793111691381840941
+    second: Title_Card_3
+  - first:
+      213: -2746890947461322563
+    second: Title_Card_4
+  - first:
+      213: 8627000333949961552
+    second: Title_Card_5
+  - first:
+      213: -9168063581945712644
+    second: Title_Card_6
+  - first:
+      213: 7882231438253865913
+    second: Title_Card_7
+  - first:
+      213: -4686334249913809250
+    second: Title_Card_10
+  - first:
+      213: 6918572428344785225
+    second: Title_Card_11
+  - first:
+      213: 4887070033001481981
+    second: Title_Card_12
+  - first:
+      213: -4796778247796266031
+    second: Title_Card_13
+  - first:
+      213: 7805141926672531397
+    second: Title_Card_14
+  - first:
+      213: 8720226456746804349
+    second: Title_Card_15
+  - first:
+      213: 463824059655826349
+    second: Title_Card_8
+  - first:
+      213: -1313239730862390294
+    second: Title_Card_9
+  - first:
+      213: 1677256592322739037
+    second: Title_Card_14
+  - first:
+      213: 4781144117071554796
+    second: Title_Card_15
+  - first:
+      213: 4728171012061391764
+    second: Title_Card_16
+  - first:
+      213: -3463974349356533807
+    second: Title_Card_17
+  - first:
+      213: 4997904877455566470
+    second: Title_Card_18
+  - first:
+      213: 4219399686995568433
+    second: Title_Card_19
+  - first:
+      213: -4050010674310237834
+    second: Title_Card_16
+  - first:
+      213: -2823750762124143716
+    second: Title_Card_17
+  - first:
+      213: 5718374762834585155
+    second: Title_Card_18
+  - first:
+      213: -8396083738003283936
+    second: Title_Card_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Title_Card_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 480
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cea992249a024a0800000000000000
+      internalID: 3907357811443907164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Card_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 480
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b809977aaf4296b0800000000000000
+      internalID: -5775945515800019713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Card_2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 488
+        width: 19
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2896ea2e49c58b0800000000000000
+      internalID: 8803107344619286964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Card_3
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 489
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3e9dc218798f580800000000000000
+      internalID: 1730861112858226910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Card_4
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 292
+        width: 512
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8e4d7ac3511e9d0800000000000000
+      internalID: 7118563851410084589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Card_5
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 292
+        width: 512
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055834e881349b770800000000000000
+      internalID: 8394064032700787478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Card_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 392
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff2ee72fbe74c080800000000000000
+      internalID: 901107061722781400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Card_7
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 458
+        width: 130
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbb9823bbf436d60800000000000000
+      internalID: 3419960541470001811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Card_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 437
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6828d5d4c52d340800000000000000
+      internalID: 6162287097124894556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Card_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 433
+        width: 70
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db68c9199b6e6db0800000000000000
+      internalID: 5699740761760905108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Card_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 366
+        width: 326
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b3496fbffc64710800000000000000
+      internalID: 7805141926672531397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Card_15
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 336
+        width: 156
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8affd2e390a5240800000000000000
+      internalID: 8720226456746804349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Card_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 433
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9497d48a7f4b30060800000000000000
+      internalID: -3857435578586758337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Card_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2
+        width: 275
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671b235efb87bc7c0800000000000000
+      internalID: 4728171012061391764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Card_17
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 2
+        width: 297
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c931a5984a500d8d0800000000000000
+      internalID: -3463974349356533807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Card_18
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 2
+        width: 368
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6866ee981002c5540800000000000000
+      internalID: 4997904877455566470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Card_19
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 2
+        width: 232
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137e3c4f8a15e8a30800000000000000
+      internalID: 4219399686995568433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Title_Card_0: 3907357811443907164
+      Title_Card_15: 8720226456746804349
+      Title_Card_17: -3463974349356533807
+      Title_Card_4: 7118563851410084589
+      Title_Card_12: 6162287097124894556
+      Title_Card_16: 4728171012061391764
+      Title_Card_18: 4997904877455566470
+      Title_Card_1: -5775945515800019713
+      Title_Card_14: 7805141926672531397
+      Title_Card_13: 5699740761760905108
+      Title_Card_11: -3857435578586758337
+      Title_Card_2: 8803107344619286964
+      Title_Card_7: 3419960541470001811
+      Title_Card_5: 8394064032700787478
+      Title_Card_19: 4219399686995568433
+      Title_Card_3: 1730861112858226910
+      Title_Card_6: 901107061722781400
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1201 @@
+fileFormatVersion: 2
+guid: 863a41e954436a54598c5b537542f27b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3508938963326353459
+    second: Tails_Bored_0
+  - first:
+      213: 5590654220923047083
+    second: Tails_Bored_1
+  - first:
+      213: 893194617315759305
+    second: Tails_Bored_2
+  - first:
+      213: -5503867979693305071
+    second: Tails_Bored_3
+  - first:
+      213: -3118254017140099963
+    second: Tails_Bored_4
+  - first:
+      213: -83526038454836479
+    second: Tails_Bored_5
+  - first:
+      213: -3248638528976524531
+    second: Tails_Bored_6
+  - first:
+      213: -1477743966218727665
+    second: Tails_Bored_7
+  - first:
+      213: -5281885304912954256
+    second: Tails_Bored_8
+  - first:
+      213: -3187863898085564938
+    second: Tails_Bored_9
+  - first:
+      213: -8710609966030063248
+    second: Tails_Bored_10
+  - first:
+      213: 2583719475941545587
+    second: Tails_Bored_11
+  - first:
+      213: 5019371430983037848
+    second: Tails_Bored_12
+  - first:
+      213: 5735778945410910825
+    second: Tails_Bored_13
+  - first:
+      213: 696799614864627261
+    second: Tails_Bored_14
+  - first:
+      213: 1794445917745658819
+    second: Tails_Bored_15
+  - first:
+      213: 5355517802554258069
+    second: Tails_Bored_16
+  - first:
+      213: 8165996358524095569
+    second: Tails_Bored_17
+  - first:
+      213: 8574410925756568947
+    second: Tails_Bored_18
+  - first:
+      213: -636819352559521728
+    second: Tails_Bored_19
+  - first:
+      213: 2555744101828700015
+    second: Tails_Bored_20
+  - first:
+      213: -2165564762900008570
+    second: Tails_Bored_21
+  - first:
+      213: 5217748566178618331
+    second: Tails_Bored_22
+  - first:
+      213: -3777880208490738970
+    second: Tails_Bored_23
+  - first:
+      213: -7593264692211159301
+    second: Tails_Bored_24
+  - first:
+      213: 9016813148009942851
+    second: Tails_Bored_25
+  - first:
+      213: 8652823429383438284
+    second: Tails_Bored_26
+  - first:
+      213: 7467045904797787809
+    second: Tails_Bored_27
+  - first:
+      213: 5147522396131571528
+    second: Tails_Bored_28
+  - first:
+      213: -346162455912223211
+    second: Tails_Bored_29
+  - first:
+      213: 2396317122253118380
+    second: Tails_Bored_30
+  - first:
+      213: -451258059947336907
+    second: Tails_Bored_31
+  - first:
+      213: -4792674928367070544
+    second: Tails_Bored_32
+  - first:
+      213: 6517939969912462552
+    second: Tails_Bored_33
+  - first:
+      213: -6650365341608927124
+    second: Tails_Bored_34
+  - first:
+      213: -3652485117588352246
+    second: Tails_Bored_0
+  - first:
+      213: -4600354072874651876
+    second: Tails_Bored_1
+  - first:
+      213: -8678746889723869424
+    second: Tails_Bored_2
+  - first:
+      213: -1500658708094498176
+    second: Tails_Bored_3
+  - first:
+      213: 477226863547651844
+    second: Tails_Bored_4
+  - first:
+      213: -6020367527819380567
+    second: Tails_Bored_5
+  - first:
+      213: 8365867598985098223
+    second: Tails_Bored_6
+  - first:
+      213: 8671623608305436540
+    second: Tails_Bored_7
+  - first:
+      213: -2024174156954344899
+    second: Tails_Bored_8
+  - first:
+      213: 2930348740690711985
+    second: Tails_Bored_9
+  - first:
+      213: 4637708992129530180
+    second: Tails_Bored_10
+  - first:
+      213: 2462298531216834660
+    second: Tails_Bored_11
+  - first:
+      213: 5793601728139907366
+    second: Tails_Bored_12
+  - first:
+      213: 7875790787150802580
+    second: Tails_Bored_13
+  - first:
+      213: 7473770700921743858
+    second: Tails_Bored_14
+  - first:
+      213: 5648224512333655354
+    second: Tails_Bored_15
+  - first:
+      213: -6830281822994837737
+    second: Tails_Bored_16
+  - first:
+      213: -1788491399126341397
+    second: Tails_Bored_17
+  - first:
+      213: 6255896520746104749
+    second: Tails_Bored_18
+  - first:
+      213: -3653309896079596887
+    second: Tails_Bored_19
+  - first:
+      213: 1472048373475489957
+    second: Tails_Bored_20
+  - first:
+      213: -6326485847391915458
+    second: Tails_Bored_21
+  - first:
+      213: 6933027311623241327
+    second: Tails_Bored_22
+  - first:
+      213: -6371234991343121038
+    second: Tails_Bored_23
+  - first:
+      213: 7393116967434170633
+    second: Tails_Bored_24
+  - first:
+      213: 3656161516965727685
+    second: Tails_Bored_25
+  - first:
+      213: 4496656952922255649
+    second: Tails_Bored_26
+  - first:
+      213: 9217722682128475227
+    second: Tails_Bored_27
+  - first:
+      213: 481963960233001770
+    second: Tails_Bored_28
+  - first:
+      213: -6900468185966007852
+    second: Tails_Bored_29
+  - first:
+      213: -5136160145943030061
+    second: Tails_Bored_30
+  - first:
+      213: -3268175866015631697
+    second: Tails_Bored_31
+  - first:
+      213: -6251978180960200929
+    second: Tails_Bored_32
+  - first:
+      213: -66568480303116405
+    second: Tails_Bored_33
+  - first:
+      213: 4448851307098756037
+    second: Tails_Bored_34
+  - first:
+      213: 7979407870600805213
+    second: Knuckles_Bored_0
+  - first:
+      213: -4830553332934839719
+    second: Knuckles_Bored_1
+  - first:
+      213: -3407548509587680887
+    second: Knuckles_Bored_2
+  - first:
+      213: -1912794715316327350
+    second: Knuckles_Bored_3
+  - first:
+      213: -7010685874880432283
+    second: Knuckles_Bored_4
+  - first:
+      213: -4385433929775858043
+    second: Knuckles_Bored_5
+  - first:
+      213: -5192758090249366790
+    second: Knuckles_Bored_6
+  - first:
+      213: 6189705769781163529
+    second: Knuckles_Bored_7
+  - first:
+      213: -1659898838146863036
+    second: Knuckles_Bored_8
+  - first:
+      213: 6790553754519917764
+    second: Knuckles_Bored_9
+  - first:
+      213: -307911876134824256
+    second: Knuckles_Bored_10
+  - first:
+      213: -7773063518937560509
+    second: Knuckles_Bored_11
+  - first:
+      213: 6649023740394638284
+    second: Knuckles_Bored_12
+  - first:
+      213: -2757308501091855403
+    second: Knuckles_Bored_13
+  - first:
+      213: -1307523007140034185
+    second: Knuckles_Bored_14
+  - first:
+      213: -1972176760326590504
+    second: Knuckles_Bored_15
+  - first:
+      213: -5478245977443078511
+    second: Knuckles_Bored_16
+  - first:
+      213: -2830564827024293791
+    second: Knuckles_Bored_17
+  - first:
+      213: 5616214983923999379
+    second: Knuckles_Bored_18
+  - first:
+      213: 5081116659529186505
+    second: Knuckles_Bored_19
+  - first:
+      213: -8498156942337780056
+    second: Knuckles_Bored_20
+  - first:
+      213: 5915720319666499196
+    second: Knuckles_Bored_21
+  - first:
+      213: -5447879011123206100
+    second: Knuckles_Bored_22
+  - first:
+      213: -6216715926388478167
+    second: Knuckles_Bored_23
+  - first:
+      213: 2852665634999808131
+    second: Knuckles_Bored_24
+  - first:
+      213: -3919243424148800561
+    second: Knuckles_Bored_25
+  - first:
+      213: -2342007728737881917
+    second: Knuckles_Bored_26
+  - first:
+      213: 6357542840644708509
+    second: Knuckles_Bored_0
+  - first:
+      213: 3619691502633576971
+    second: Knuckles_Bored_1
+  - first:
+      213: -8827678458442975896
+    second: Knuckles_Bored_2
+  - first:
+      213: -7543531571811422921
+    second: Knuckles_Bored_3
+  - first:
+      213: 459067169077128987
+    second: Knuckles_Bored_4
+  - first:
+      213: 8787276971945955536
+    second: Knuckles_Bored_5
+  - first:
+      213: 6297057770793322008
+    second: Knuckles_Bored_6
+  - first:
+      213: 7086906010504318911
+    second: Knuckles_Bored_7
+  - first:
+      213: 43970957084395501
+    second: Knuckles_Bored_8
+  - first:
+      213: -1127549413566216831
+    second: Knuckles_Bored_9
+  - first:
+      213: 4387582737832712548
+    second: Knuckles_Bored_10
+  - first:
+      213: -3223756715042779971
+    second: Knuckles_Bored_11
+  - first:
+      213: 6553655233713455189
+    second: Knuckles_Bored_12
+  - first:
+      213: -113804340678452764
+    second: Knuckles_Bored_13
+  - first:
+      213: 8384133094811048205
+    second: Knuckles_Bored_14
+  - first:
+      213: 6603379598019195328
+    second: Knuckles_Bored_15
+  - first:
+      213: -5980930511270421199
+    second: Knuckles_Bored_16
+  - first:
+      213: -796686715238430095
+    second: Knuckles_Bored_17
+  - first:
+      213: 218978413664107122
+    second: Knuckles_Bored_18
+  - first:
+      213: 4318403469404917913
+    second: Knuckles_Bored_19
+  - first:
+      213: -7605450765330286255
+    second: Knuckles_Bored_20
+  - first:
+      213: 6007585501921356082
+    second: Knuckles_Bored_21
+  - first:
+      213: 5834080795027807954
+    second: Knuckles_Bored_22
+  - first:
+      213: 9141242169582886347
+    second: Knuckles_Bored_23
+  - first:
+      213: 4021609922674982854
+    second: Knuckles_Bored_24
+  - first:
+      213: -2061465737726660213
+    second: Knuckles_Bored_25
+  - first:
+      213: -9113000331236860362
+    second: Knuckles_Bored_26
+  - first:
+      213: -5363171368829866225
+    second: Knuckles_Bored_27
+  - first:
+      213: -4713333131062714642
+    second: Knuckles_Bored_28
+  - first:
+      213: -6528290248612238374
+    second: Knuckles_Bored_29
+  - first:
+      213: 5526366745534892181
+    second: Knuckles_Bored_30
+  - first:
+      213: -755398787171138767
+    second: Knuckles_Bored_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Knuckles_Bored_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98a4f4a7878a3850800000000000000
+      internalID: 7979407870600805213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Bored_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a69f26e3abb3230800000000000000
+      internalID: -4830553332934839719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Bored_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865732d8639cd7580800000000000000
+      internalID: -3407548509587680887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Bored_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d6c36b00eff4790800000000000000
+      internalID: -1912794715316327350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Bored_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fe2e4782fee5600800000000000000
+      internalID: -7010685874880432283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Bored_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d01fc759dda2f970800000000000000
+      internalID: -4385433929775858043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Bored_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816cf36eda4a36750800000000000000
+      internalID: -5192758090249366790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Bored_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfc0b0f77fb95260800000000000000
+      internalID: 6189705769781163529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Bored_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7037d3a573c9000800000000000000
+      internalID: -1659898838146863036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Bored_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1858fa948c32a50f0800000000000000
+      internalID: 6790553754519917764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Bored_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469972fe043d3ec30800000000000000
+      internalID: -307911876134824256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Bored_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc489d095ae243d0800000000000000
+      internalID: -7773063518937560509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Bored_12
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550ced956b243fa50800000000000000
+      internalID: 6649023740394638284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Bored_13
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e996fb1e8fab6ef0800000000000000
+      internalID: -2757308501091855403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Bored_14
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d091fc1f0ac6a5470800000000000000
+      internalID: -1307523007140034185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Bored_15
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1fef812cae3ab50800000000000000
+      internalID: -1972176760326590504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Bored_16
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d5e6963677ffca0800000000000000
+      internalID: -5478245977443078511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Bored_17
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ac0fc47a991f4f0800000000000000
+      internalID: -2830564827024293791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Bored_18
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a7deff4b7f90300800000000000000
+      internalID: 5616214983923999379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Bored_19
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990d1b6531d0eeb30800000000000000
+      internalID: 5081116659529186505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Bored_20
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159f3c703d2047690800000000000000
+      internalID: -8498156942337780056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Bored_21
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2392fc73f2b3f5350800000000000000
+      internalID: 5915720319666499196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Bored_22
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de9f82a291d6f050800000000000000
+      internalID: -5447879011123206100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Bored_23
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd1fc322573cde70800000000000000
+      internalID: -6216715926388478167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Bored_24
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf7a32dae0afc730800000000000000
+      internalID: 2852665634999808131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Bored_25
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81f92a65d33463e0800000000000000
+      internalID: -3919243424148800561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Bored_26
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e1c924b7e188180800000000000000
+      internalID: -2342007728737881917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Bored_27
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fa95b2e003295b0800000000000000
+      internalID: -5363171368829866225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Bored_28
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee5de65d70e69eb0800000000000000
+      internalID: -4713333131062714642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Bored_29
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb22d47b9ad665a0800000000000000
+      internalID: -6528290248612238374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Bored_30
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598832e664991bc40800000000000000
+      internalID: 5526366745534892181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Bored_31
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13347ea2ec84485f0800000000000000
+      internalID: -755398787171138767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Knuckles_Bored_8: -1659898838146863036
+      Knuckles_Bored_15: -1972176760326590504
+      Knuckles_Bored_3: -1912794715316327350
+      Knuckles_Bored_6: -5192758090249366790
+      Knuckles_Bored_14: -1307523007140034185
+      Knuckles_Bored_11: -7773063518937560509
+      Knuckles_Bored_17: -2830564827024293791
+      Knuckles_Bored_31: -755398787171138767
+      Knuckles_Bored_24: 2852665634999808131
+      Knuckles_Bored_10: -307911876134824256
+      Knuckles_Bored_30: 5526366745534892181
+      Knuckles_Bored_21: 5915720319666499196
+      Knuckles_Bored_4: -7010685874880432283
+      Knuckles_Bored_13: -2757308501091855403
+      Knuckles_Bored_25: -3919243424148800561
+      Knuckles_Bored_19: 5081116659529186505
+      Knuckles_Bored_22: -5447879011123206100
+      Knuckles_Bored_9: 6790553754519917764
+      Knuckles_Bored_12: 6649023740394638284
+      Knuckles_Bored_20: -8498156942337780056
+      Knuckles_Bored_27: -5363171368829866225
+      Knuckles_Bored_26: -2342007728737881917
+      Knuckles_Bored_28: -4713333131062714642
+      Knuckles_Bored_23: -6216715926388478167
+      Knuckles_Bored_5: -4385433929775858043
+      Knuckles_Bored_0: 7979407870600805213
+      Knuckles_Bored_16: -5478245977443078511
+      Knuckles_Bored_7: 6189705769781163529
+      Knuckles_Bored_1: -4830553332934839719
+      Knuckles_Bored_18: 5616214983923999379
+      Knuckles_Bored_2: -3407548509587680887
+      Knuckles_Bored_29: -6528290248612238374
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,393 @@
+fileFormatVersion: 2
+guid: 82c1786f9a2c7924d9d507e8eca00eba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4476904370394771575
+    second: Tails_Fan_0
+  - first:
+      213: -4365356556129714802
+    second: Tails_Fan_1
+  - first:
+      213: -5772659656511528674
+    second: Tails_Fan_2
+  - first:
+      213: 3387522602348100323
+    second: Tails_Fan_3
+  - first:
+      213: 6158136028782298274
+    second: Tails_Fan_4
+  - first:
+      213: -7698271836458606764
+    second: Tails_Fan_5
+  - first:
+      213: 8009338492537145070
+    second: Tails_Fan_6
+  - first:
+      213: -8563823260844354520
+    second: Tails_Fan_7
+  - first:
+      213: 33787492350324583
+    second: Tails_Fan_8
+  - first:
+      213: -3597490428885626318
+    second: Tails_Fan_9
+  - first:
+      213: -4005136784308258154
+    second: Tails_Fan_10
+  - first:
+      213: 4579329151562288475
+    second: Tails_Fan_0
+  - first:
+      213: -5727128472708324866
+    second: Tails_Fan_1
+  - first:
+      213: -837255743652653519
+    second: Tails_Fan_2
+  - first:
+      213: 3491673737672956946
+    second: Tails_Fan_3
+  - first:
+      213: -251810996872203457
+    second: Tails_Fan_4
+  - first:
+      213: -8710085446768739874
+    second: Tails_Fan_5
+  - first:
+      213: 6021219151016599327
+    second: Tails_Fan_6
+  - first:
+      213: 1992704193456174219
+    second: Tails_Fan_7
+  - first:
+      213: -6101443466453132676
+    second: Tails_Fan_8
+  - first:
+      213: 974973174870855764
+    second: Tails_Fan_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tails_Fan_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d067cd99b0d8f30800000000000000
+      internalID: 4476904370394771575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Fan_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1e1396ff62580b0800000000000000
+      internalID: -4365356556129714802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Fan_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1369d6d46587164f0800000000000000
+      internalID: -5772659656511528674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Fan_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c9e85c3cae47030800000000000000
+      internalID: 3387522602348100323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Fan_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3335e48b33618cf0800000000000000
+      internalID: 6158136028782298274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Fan_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9bc062f6f8f1780800000000000000
+      internalID: -7698271836458606764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Fan_6
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f9f138aeaaf8350800000000000000
+      internalID: 8009338492537145070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Fan_7
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84f269f7e187ab10800000000000000
+      internalID: -8563823260844354520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Fan_8
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7adeec7e71535ba0800000000000000
+      internalID: 33787492350324583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Fan_9
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 0
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45056b9dfecc78d00800000000000000
+      internalID: -3597490428885626318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tails_Fan_3: 3387522602348100323
+      Tails_Fan_7: -8563823260844354520
+      Tails_Fan_9: -3597490428885626318
+      Tails_Fan_1: -4365356556129714802
+      Tails_Fan_6: 8009338492537145070
+      Tails_Fan_5: -7698271836458606764
+      Tails_Fan_8: 33787492350324583
+      Tails_Fan_2: -5772659656511528674
+      Tails_Fan_4: 6158136028782298274
+      Tails_Fan_0: 4476904370394771575
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

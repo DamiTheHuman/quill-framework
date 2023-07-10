@@ -1,0 +1,423 @@
+fileFormatVersion: 2
+guid: 21f5a8d0d5255194080b9cb86760c969
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -521678313321549620
+    second: Super_Sonic_Jog_0
+  - first:
+      213: -1586926077401054703
+    second: Super_Sonic_Jog_1
+  - first:
+      213: 7292387284646211585
+    second: Super_Sonic_Jog_2
+  - first:
+      213: 7964968047651482643
+    second: Super_Sonic_Jog_3
+  - first:
+      213: 2720744136024028953
+    second: Super_Sonic_Jog_4
+  - first:
+      213: -7816204189330480748
+    second: Super_Sonic_Jog_5
+  - first:
+      213: -9178703779590872796
+    second: Super_Sonic_Jog_6
+  - first:
+      213: 6964895596554540757
+    second: Super_Sonic_Jog_7
+  - first:
+      213: -7082258463826760365
+    second: Super_Sonic_Jog_8
+  - first:
+      213: -8064097474662356415
+    second: Super_Sonic_Jog_9
+  - first:
+      213: -6938711023135034901
+    second: Super_Sonic_Jog_10
+  - first:
+      213: 2112274103637426443
+    second: Super_Sonic_Jog_0
+  - first:
+      213: 1505290520571110506
+    second: Super_Sonic_Jog_1
+  - first:
+      213: 4398055111394525044
+    second: Super_Sonic_Jog_2
+  - first:
+      213: -1977095870751735053
+    second: Super_Sonic_Jog_3
+  - first:
+      213: 1904162591363809034
+    second: Super_Sonic_Jog_4
+  - first:
+      213: -5633512600798969555
+    second: Super_Sonic_Jog_5
+  - first:
+      213: -163889707672310084
+    second: Super_Sonic_Jog_6
+  - first:
+      213: -5971207968223985591
+    second: Super_Sonic_Jog_7
+  - first:
+      213: -6513267332329615645
+    second: Super_Sonic_Jog_8
+  - first:
+      213: -5935864303342568534
+    second: Super_Sonic_Jog_9
+  - first:
+      213: 2993279717122531396
+    second: Super_Sonic_Jogging_0
+  - first:
+      213: -577670387473298823
+    second: Super_Sonic_Jogging_1
+  - first:
+      213: -6905379137328066566
+    second: Super_Sonic_Jogging_2
+  - first:
+      213: -5351447057081232999
+    second: Super_Sonic_Jogging_3
+  - first:
+      213: 3841078049632401319
+    second: Super_Sonic_Jogging_4
+  - first:
+      213: -9214678647338239343
+    second: Super_Sonic_Jogging_5
+  - first:
+      213: -3481374421928033689
+    second: Super_Sonic_Jogging_6
+  - first:
+      213: 5953289583040700202
+    second: Super_Sonic_Jogging_7
+  - first:
+      213: -7022172159366104017
+    second: Super_Sonic_Jogging_8
+  - first:
+      213: 6324243262938787574
+    second: Super_Sonic_Jogging_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Super_Sonic_Jogging_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440687c2b044a8920800000000000000
+      internalID: 2993279717122531396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Jogging_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a446dd7d3bbf7f0800000000000000
+      internalID: -577670387473298823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Jogging_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affca28c24a2b20a0800000000000000
+      internalID: -6905379137328066566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Jogging_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9911d583147dbb5b0800000000000000
+      internalID: -5351447057081232999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Jogging_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7b3ee92204e4530800000000000000
+      internalID: 3841078049632401319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Jogging_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19af60a7792ee1080800000000000000
+      internalID: -9214678647338239343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Jogging_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76249da886cafafc0800000000000000
+      internalID: -3481374421928033689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Jogging_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f9c2a75555e9250800000000000000
+      internalID: 5953289583040700202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Jogging_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c785940ab3c8e90800000000000000
+      internalID: -7022172159366104017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Sonic_Jogging_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6feaf988db934c750800000000000000
+      internalID: 6324243262938787574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Super_Sonic_Jogging_8: -7022172159366104017
+      Super_Sonic_Jogging_9: 6324243262938787574
+      Super_Sonic_Jogging_5: -9214678647338239343
+      Super_Sonic_Jogging_0: 2993279717122531396
+      Super_Sonic_Jogging_7: 5953289583040700202
+      Super_Sonic_Jogging_6: -3481374421928033689
+      Super_Sonic_Jogging_2: -6905379137328066566
+      Super_Sonic_Jogging_3: -5351447057081232999
+      Super_Sonic_Jogging_4: 3841078049632401319
+      Super_Sonic_Jogging_1: -577670387473298823
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

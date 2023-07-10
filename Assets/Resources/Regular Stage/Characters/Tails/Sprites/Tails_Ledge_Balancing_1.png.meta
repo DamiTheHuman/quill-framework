@@ -1,0 +1,357 @@
+fileFormatVersion: 2
+guid: 1dd77c8db52df06469486b0a1cd7c811
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6444866671803421920
+    second: Sonic_Ledge_Balancing_1_0
+  - first:
+      213: -7285037729193751382
+    second: Sonic_Ledge_Balancing_1_1
+  - first:
+      213: -6362280705963347079
+    second: Sonic_Ledge_Balancing_1_2
+  - first:
+      213: 704616259798037157
+    second: Sonic_Ledge_Balancing_1_3
+  - first:
+      213: -5049863461240015392
+    second: Sonic_Ledge_Balancing_1_4
+  - first:
+      213: -2801101646765489627
+    second: Sonic_Ledge_Balancing_1_5
+  - first:
+      213: 987505692423959734
+    second: Sonic_Ledge_Balancing_1_6
+  - first:
+      213: 5416694075492679999
+    second: Sonic_Ledge_Balancing_1_7
+  - first:
+      213: -3845495400474427839
+    second: Sonic_Ledge_Balancing_1_0
+  - first:
+      213: 3974115696673997476
+    second: Sonic_Ledge_Balancing_1_1
+  - first:
+      213: -7687827381444087552
+    second: Sonic_Ledge_Balancing_1_2
+  - first:
+      213: -4884784547353259642
+    second: Sonic_Ledge_Balancing_1_3
+  - first:
+      213: -5049229503683652518
+    second: Sonic_Ledge_Balancing_1_4
+  - first:
+      213: -1902217591720666672
+    second: Sonic_Ledge_Balancing_1_5
+  - first:
+      213: 8311351650325765449
+    second: Sonic_Ledge_Balancing_1_6
+  - first:
+      213: 5097007425124666894
+    second: Sonic_Ledge_Balancing_1_7
+  - first:
+      213: 6914577531290488763
+    second: Tails_Ledge_Balancing_1_0
+  - first:
+      213: 3210422675361988307
+    second: Tails_Ledge_Balancing_1_1
+  - first:
+      213: -3582689351868306740
+    second: Tails_Ledge_Balancing_1_2
+  - first:
+      213: -2374402434295090211
+    second: Tails_Ledge_Balancing_1_3
+  - first:
+      213: 5377458776443260864
+    second: Tails_Ledge_Balancing_1_4
+  - first:
+      213: -7216412901074624353
+    second: Tails_Ledge_Balancing_1_5
+  - first:
+      213: -5664300379529910592
+    second: Tails_Ledge_Balancing_1_6
+  - first:
+      213: 4487446869137135196
+    second: Tails_Ledge_Balancing_1_7
+  - first:
+      213: 8562385950872947829
+    second: Tails_Ledge_Balancing_1_0
+  - first:
+      213: 7755783002250978673
+    second: Tails_Ledge_Balancing_1_1
+  - first:
+      213: -5933152458005647617
+    second: Tails_Ledge_Balancing_1_2
+  - first:
+      213: 3557499804904156485
+    second: Tails_Ledge_Balancing_1_3
+  - first:
+      213: -1927358217383889194
+    second: Tails_Ledge_Balancing_1_4
+  - first:
+      213: 8148163762673183711
+    second: Tails_Ledge_Balancing_1_5
+  - first:
+      213: 1882588081770606035
+    second: Tails_Ledge_Balancing_1_6
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tails_Ledge_Balancing_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cc39728a4b3d670800000000000000
+      internalID: 6914577531290488763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Ledge_Balancing_1_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175ae247c8312ab60800000000000000
+      internalID: 3210422675361988307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Ledge_Balancing_1_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe665e464539ada0800000000000000
+      internalID: -3582689351868306740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Ledge_Balancing_1_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d65df5937ce5130800000000000000
+      internalID: -2374402434295090211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Ledge_Balancing_1_4
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d637e1b9e5a045e0800000000000000
+      internalID: 5377458776443260864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Ledge_Balancing_1_5
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb68d575c7141170800000000000000
+      internalID: -7216412901074624353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Ledge_Balancing_1_6
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd2250d2eb402a10800000000000000
+      internalID: -5664300379529910592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tails_Ledge_Balancing_1_2: -3582689351868306740
+      Tails_Ledge_Balancing_1_5: -7216412901074624353
+      Tails_Ledge_Balancing_1_6: -5664300379529910592
+      Tails_Ledge_Balancing_1_4: 5377458776443260864
+      Tails_Ledge_Balancing_1_1: 3210422675361988307
+      Tails_Ledge_Balancing_1_0: 6914577531290488763
+      Tails_Ledge_Balancing_1_3: -2374402434295090211
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,980 @@
+fileFormatVersion: 2
+guid: a28263edf22961140b22d0de2f987ce8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3697579421851531111
+    second: Sonic_Corkscrew_Spin_0
+  - first:
+      213: 1064338118972144071
+    second: Sonic_Corkscrew_Spin_1
+  - first:
+      213: 2479858373898419423
+    second: Sonic_Corkscrew_Spin_2
+  - first:
+      213: -6286777468394632225
+    second: Sonic_Corkscrew_Spin_3
+  - first:
+      213: -2400388657632123230
+    second: Sonic_Corkscrew_Spin_4
+  - first:
+      213: 8517146424886949944
+    second: Sonic_Corkscrew_Spin_5
+  - first:
+      213: 6764745750958842148
+    second: Sonic_Corkscrew_Spin_6
+  - first:
+      213: -2308966972450854542
+    second: Sonic_Corkscrew_Spin_7
+  - first:
+      213: 5132724765153958943
+    second: Sonic_Corkscrew_Spin_8
+  - first:
+      213: -7230416283347409096
+    second: Sonic_Corkscrew_Spin_9
+  - first:
+      213: -788115158573929189
+    second: Sonic_Corkscrew_Spin_10
+  - first:
+      213: -449791918708620923
+    second: Sonic_Corkscrew_Spin_11
+  - first:
+      213: 8536350278649107242
+    second: Sonic_Corkscrew_Spin_12
+  - first:
+      213: 2541705534004178886
+    second: Sonic_Corkscrew_Spin_13
+  - first:
+      213: 3878321719124131518
+    second: Sonic_Corkscrew_Spin_14
+  - first:
+      213: -5352101280175671594
+    second: Sonic_Corkscrew_Spin_15
+  - first:
+      213: -5370073439483042229
+    second: Sonic_Corkscrew_Spin_16
+  - first:
+      213: -5593731025640719904
+    second: Sonic_Corkscrew_Spin_17
+  - first:
+      213: 2956856351932412367
+    second: Sonic_Corkscrew_Spin_18
+  - first:
+      213: -144373525573852864
+    second: Sonic_Corkscrew_Spin_19
+  - first:
+      213: 7584120220214577920
+    second: Sonic_Corkscrew_Spin_20
+  - first:
+      213: -5988572520936434234
+    second: Sonic_Corkscrew_Spin_21
+  - first:
+      213: 6496436189567585513
+    second: Sonic_Corkscrew_Spin_22
+  - first:
+      213: 3175235115267432073
+    second: Sonic_Corkscrew_Spin_23
+  - first:
+      213: -457048335741269724
+    second: Sonic_Corkscrew_Spin_0
+  - first:
+      213: -7506052028199084865
+    second: Sonic_Corkscrew_Spin_1
+  - first:
+      213: -3132659747283239025
+    second: Sonic_Corkscrew_Spin_2
+  - first:
+      213: 7937703419152664578
+    second: Sonic_Corkscrew_Spin_3
+  - first:
+      213: 4845092255655200142
+    second: Sonic_Corkscrew_Spin_4
+  - first:
+      213: -1436602930625487678
+    second: Sonic_Corkscrew_Spin_5
+  - first:
+      213: 8074927257897935645
+    second: Sonic_Corkscrew_Spin_6
+  - first:
+      213: -2274361712159487351
+    second: Sonic_Corkscrew_Spin_7
+  - first:
+      213: -1919662168233707777
+    second: Sonic_Corkscrew_Spin_8
+  - first:
+      213: 6434982995530543629
+    second: Sonic_Corkscrew_Spin_9
+  - first:
+      213: -3334590433189564805
+    second: Sonic_Corkscrew_Spin_10
+  - first:
+      213: -7026444294466251070
+    second: Sonic_Corkscrew_Spin_11
+  - first:
+      213: -3936293177069864330
+    second: Sonic_Corkscrew_Spin_12
+  - first:
+      213: 5744429699491229937
+    second: Sonic_Corkscrew_Spin_13
+  - first:
+      213: 1445958329069653912
+    second: Sonic_Corkscrew_Spin_14
+  - first:
+      213: -3129069306896303455
+    second: Sonic_Corkscrew_Spin_15
+  - first:
+      213: 6370149395093301005
+    second: Sonic_Corkscrew_Spin_16
+  - first:
+      213: 4325704919865686740
+    second: Sonic_Corkscrew_Spin_17
+  - first:
+      213: 7843962582381932267
+    second: Sonic_Corkscrew_Spin_18
+  - first:
+      213: 2906584277034076958
+    second: Sonic_Corkscrew_Spin_19
+  - first:
+      213: -7745016634751871188
+    second: Sonic_Corkscrew_Spin_20
+  - first:
+      213: 7239497337651861238
+    second: Sonic_Corkscrew_Spin_21
+  - first:
+      213: 3500799335159088654
+    second: Sonic_Corkscrew_Spin_22
+  - first:
+      213: 2149099935134308499
+    second: Sonic_Corkscrew_Spin_23
+  - first:
+      213: 4424316914144175294
+    second: Sonic_Corkscrew_Spin_24
+  - first:
+      213: -7922443870407770135
+    second: Sonic_Corkscrew_Spin_25
+  - first:
+      213: 636573120425541073
+    second: Sonic_Corkscrew_Spin_26
+  - first:
+      213: -979568736138629526
+    second: Sonic_Corkscrew_Spin_27
+  - first:
+      213: -6885387511156779102
+    second: Sonic_Corkscrew_Spin_28
+  - first:
+      213: -641915220668577613
+    second: Sonic_Corkscrew_Spin_29
+  - first:
+      213: 5155195924373449926
+    second: Sonic_Corkscrew_Spin_30
+  - first:
+      213: 3485917836728768281
+    second: Sonic_Corkscrew_Spin_31
+  - first:
+      213: -2806716598063477947
+    second: Sonic_Corkscrew_Spin_32
+  - first:
+      213: -225609072386074122
+    second: Sonic_Corkscrew_Spin_33
+  - first:
+      213: 5757588501634458229
+    second: Sonic_Corkscrew_Spin_34
+  - first:
+      213: 1246988263345787214
+    second: Sonic_Corkscrew_Spin_35
+  - first:
+      213: -3716944101687665767
+    second: Sonic_Corkscrew_Spin_36
+  - first:
+      213: -6480252101118460911
+    second: Sonic_Corkscrew_Spin_37
+  - first:
+      213: -6009971617825468926
+    second: Sonic_Corkscrew_Spin_38
+  - first:
+      213: 3394358765704618386
+    second: Sonic_Corkscrew_Spin_39
+  - first:
+      213: -745687496067471782
+    second: Sonic_Corkscrew_Spin_40
+  - first:
+      213: 2972327105553406213
+    second: Sonic_Corkscrew_Spin_41
+  - first:
+      213: -4840718676791363096
+    second: Tails_Corkscrew_Spin_0
+  - first:
+      213: 7333558696165321089
+    second: Tails_Corkscrew_Spin_1
+  - first:
+      213: -9193222881038260909
+    second: Tails_Corkscrew_Spin_2
+  - first:
+      213: -5919660603758260107
+    second: Tails_Corkscrew_Spin_3
+  - first:
+      213: -3589457287609923407
+    second: Tails_Corkscrew_Spin_4
+  - first:
+      213: -5100112118953415764
+    second: Tails_Corkscrew_Spin_5
+  - first:
+      213: -2694873073185172806
+    second: Tails_Corkscrew_Spin_6
+  - first:
+      213: 342064859012625335
+    second: Tails_Corkscrew_Spin_7
+  - first:
+      213: -7788720433686435483
+    second: Tails_Corkscrew_Spin_8
+  - first:
+      213: -7294151467197505180
+    second: Tails_Corkscrew_Spin_9
+  - first:
+      213: 4686272242005876062
+    second: Tails_Corkscrew_Spin_10
+  - first:
+      213: 2876957529139681050
+    second: Tails_Corkscrew_Spin_11
+  - first:
+      213: -6829631400739776264
+    second: Tails_Corkscrew_Spin_12
+  - first:
+      213: 235408947405594641
+    second: Tails_Corkscrew_Spin_13
+  - first:
+      213: 5310207041367271226
+    second: Tails_Corkscrew_Spin_14
+  - first:
+      213: 5560688601604000026
+    second: Tails_Corkscrew_Spin_15
+  - first:
+      213: 4900704436450322450
+    second: Tails_Corkscrew_Spin_16
+  - first:
+      213: 252125809713275097
+    second: Tails_Corkscrew_Spin_17
+  - first:
+      213: -8388707066713322740
+    second: Tails_Corkscrew_Spin_18
+  - first:
+      213: 249362129290047248
+    second: Tails_Corkscrew_Spin_19
+  - first:
+      213: 7779265753005049082
+    second: Tails_Corkscrew_Spin_20
+  - first:
+      213: 9147553064359822616
+    second: Tails_Corkscrew_Spin_21
+  - first:
+      213: -6895426558690784811
+    second: Tails_Corkscrew_Spin_22
+  - first:
+      213: 2307235881676306545
+    second: Tails_Corkscrew_Spin_23
+  - first:
+      213: 8258763863275076003
+    second: Knuckles_Corkscrew_Spin_0
+  - first:
+      213: -3481252169312746517
+    second: Knuckles_Corkscrew_Spin_1
+  - first:
+      213: 5000690411903967433
+    second: Knuckles_Corkscrew_Spin_2
+  - first:
+      213: 79577773360645838
+    second: Knuckles_Corkscrew_Spin_3
+  - first:
+      213: -8115243952172857519
+    second: Knuckles_Corkscrew_Spin_4
+  - first:
+      213: 5134012751981326500
+    second: Knuckles_Corkscrew_Spin_5
+  - first:
+      213: -7935182446560291026
+    second: Knuckles_Corkscrew_Spin_6
+  - first:
+      213: -6674430885807601506
+    second: Knuckles_Corkscrew_Spin_7
+  - first:
+      213: -3053104640867480608
+    second: Knuckles_Corkscrew_Spin_8
+  - first:
+      213: -7008987348268323535
+    second: Knuckles_Corkscrew_Spin_9
+  - first:
+      213: -606400973710916298
+    second: Knuckles_Corkscrew_Spin_10
+  - first:
+      213: 4799921644442690110
+    second: Knuckles_Corkscrew_Spin_11
+  - first:
+      213: -7603827386699032225
+    second: Knuckles_Corkscrew_Spin_12
+  - first:
+      213: -6724005236220307788
+    second: Knuckles_Corkscrew_Spin_13
+  - first:
+      213: -3498582878614960215
+    second: Knuckles_Corkscrew_Spin_14
+  - first:
+      213: 3520257720671562327
+    second: Knuckles_Corkscrew_Spin_15
+  - first:
+      213: -2458567396431698286
+    second: Knuckles_Corkscrew_Spin_16
+  - first:
+      213: 6555784491617087975
+    second: Knuckles_Corkscrew_Spin_17
+  - first:
+      213: -2355265750627413155
+    second: Knuckles_Corkscrew_Spin_18
+  - first:
+      213: 8231862949315681222
+    second: Knuckles_Corkscrew_Spin_19
+  - first:
+      213: -4885993663864905909
+    second: Knuckles_Corkscrew_Spin_20
+  - first:
+      213: 1143904180899997216
+    second: Knuckles_Corkscrew_Spin_21
+  - first:
+      213: 3820235793287804847
+    second: Knuckles_Corkscrew_Spin_22
+  - first:
+      213: -8038828945119798991
+    second: Knuckles_Corkscrew_Spin_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Knuckles_Corkscrew_Spin_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9f7521af50d9270800000000000000
+      internalID: 8258763863275076003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Corkscrew_Spin_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be34e82b89b10bfc0800000000000000
+      internalID: -3481252169312746517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Corkscrew_Spin_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0ec315f65066540800000000000000
+      internalID: 5000690411903967433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Corkscrew_Spin_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec68d213097ba1100800000000000000
+      internalID: 79577773360645838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Corkscrew_Spin_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15789153f9cd06f80800000000000000
+      internalID: -8115243952172857519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Corkscrew_Spin_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a03c22956daf3740800000000000000
+      internalID: 5134012751981326500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Corkscrew_Spin_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27dbd47b9190e190800000000000000
+      internalID: -7935182446560291026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Corkscrew_Spin_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98ca85d878af53a0800000000000000
+      internalID: -6674430885807601506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Corkscrew_Spin_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb4ff2518131a5d0800000000000000
+      internalID: -3053104640867480608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Corkscrew_Spin_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d624754231bbe90800000000000000
+      internalID: -7008987348268323535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Corkscrew_Spin_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635828af681a597f0800000000000000
+      internalID: -606400973710916298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Corkscrew_Spin_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3227b6fd4fbc9240800000000000000
+      internalID: 4799921644442690110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Corkscrew_Spin_12
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59da625747c97690800000000000000
+      internalID: -7603827386699032225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Corkscrew_Spin_13
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6d83becd88fa2a0800000000000000
+      internalID: -6724005236220307788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Corkscrew_Spin_14
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a744ee7869827fc0800000000000000
+      internalID: -3498582878614960215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Corkscrew_Spin_15
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a647eeeb77ad030800000000000000
+      internalID: 3520257720671562327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Corkscrew_Spin_16
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296e45f9af961edd0800000000000000
+      internalID: -2458567396431698286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Corkscrew_Spin_17
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1f9d6d243dafa50800000000000000
+      internalID: 6555784491617087975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Corkscrew_Spin_18
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53953e474a605fd0800000000000000
+      internalID: -2355265750627413155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Corkscrew_Spin_19
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb19a5fcb37d3270800000000000000
+      internalID: 8231862949315681222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Corkscrew_Spin_20
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fd58a56a6713cb0800000000000000
+      internalID: -4885993663864905909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Corkscrew_Spin_21
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026e0a7bac6ffdf00800000000000000
+      internalID: 1143904180899997216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Corkscrew_Spin_22
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7f629a634340530800000000000000
+      internalID: 3820235793287804847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Corkscrew_Spin_23
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139910c7aa7507090800000000000000
+      internalID: -8038828945119798991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Knuckles_Corkscrew_Spin_7: -6674430885807601506
+      Knuckles_Corkscrew_Spin_21: 1143904180899997216
+      Knuckles_Corkscrew_Spin_20: -4885993663864905909
+      Knuckles_Corkscrew_Spin_23: -8038828945119798991
+      Knuckles_Corkscrew_Spin_19: 8231862949315681222
+      Knuckles_Corkscrew_Spin_6: -7935182446560291026
+      Knuckles_Corkscrew_Spin_17: 6555784491617087975
+      Knuckles_Corkscrew_Spin_10: -606400973710916298
+      Knuckles_Corkscrew_Spin_18: -2355265750627413155
+      Knuckles_Corkscrew_Spin_13: -6724005236220307788
+      Knuckles_Corkscrew_Spin_16: -2458567396431698286
+      Knuckles_Corkscrew_Spin_14: -3498582878614960215
+      Knuckles_Corkscrew_Spin_2: 5000690411903967433
+      Knuckles_Corkscrew_Spin_15: 3520257720671562327
+      Knuckles_Corkscrew_Spin_3: 79577773360645838
+      Knuckles_Corkscrew_Spin_5: 5134012751981326500
+      Knuckles_Corkscrew_Spin_8: -3053104640867480608
+      Knuckles_Corkscrew_Spin_22: 3820235793287804847
+      Knuckles_Corkscrew_Spin_0: 8258763863275076003
+      Knuckles_Corkscrew_Spin_12: -7603827386699032225
+      Knuckles_Corkscrew_Spin_11: 4799921644442690110
+      Knuckles_Corkscrew_Spin_1: -3481252169312746517
+      Knuckles_Corkscrew_Spin_4: -8115243952172857519
+      Knuckles_Corkscrew_Spin_9: -7008987348268323535
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

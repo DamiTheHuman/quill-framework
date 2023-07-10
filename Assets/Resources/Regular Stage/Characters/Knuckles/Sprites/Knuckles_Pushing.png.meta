@@ -1,0 +1,480 @@
+fileFormatVersion: 2
+guid: f711b2c6ab8587043b6ab6fb942a1827
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9092555000276778475
+    second: Sonic_Pushing_0
+  - first:
+      213: -3610329844782927490
+    second: Sonic_Pushing_1
+  - first:
+      213: 1273768460552517853
+    second: Sonic_Pushing_2
+  - first:
+      213: -5643808744946282187
+    second: Sonic_Pushing_3
+  - first:
+      213: -3455043119709026554
+    second: Sonic_Pushing_4
+  - first:
+      213: -8338333134691021055
+    second: Sonic_Pushing_5
+  - first:
+      213: 3346106710701361795
+    second: Sonic_Pushing_6
+  - first:
+      213: 5576286784308338475
+    second: Sonic_Pushing_7
+  - first:
+      213: -1637732549186630510
+    second: Sonic_Pushing_8
+  - first:
+      213: -6278848947494404307
+    second: Sonic_Pushing_9
+  - first:
+      213: -3017635253353615767
+    second: Tails_Pushing_0
+  - first:
+      213: -6890626666877266369
+    second: Tails_Pushing_1
+  - first:
+      213: 3688697656896913753
+    second: Tails_Pushing_2
+  - first:
+      213: 3475778920415874640
+    second: Tails_Pushing_3
+  - first:
+      213: -2499911579726696223
+    second: Tails_Pushing_4
+  - first:
+      213: -2894633268620681399
+    second: Tails_Pushing_5
+  - first:
+      213: 1790622928525119381
+    second: Tails_Pushing_6
+  - first:
+      213: 3374194181430022832
+    second: Tails_Pushing_7
+  - first:
+      213: -4819077954819543603
+    second: Tails_Pushing_8
+  - first:
+      213: -3090297321004068647
+    second: Tails_Pushing_9
+  - first:
+      213: 9185270962856120180
+    second: Tails_Pushing_0
+  - first:
+      213: -2346626879145979211
+    second: Tails_Pushing_1
+  - first:
+      213: -6293820831851035564
+    second: Tails_Pushing_2
+  - first:
+      213: -93732552246769724
+    second: Tails_Pushing_3
+  - first:
+      213: 6842054984142498825
+    second: Tails_Pushing_4
+  - first:
+      213: 7804613488348782355
+    second: Tails_Pushing_5
+  - first:
+      213: -385068198464311827
+    second: Tails_Pushing_6
+  - first:
+      213: -102257054115076112
+    second: Tails_Pushing_7
+  - first:
+      213: 6350153304081463602
+    second: Tails_Pushing_8
+  - first:
+      213: -8661911350985049930
+    second: Tails_Pushing_9
+  - first:
+      213: 3449682137132066656
+    second: Knuckles_Pushing_0
+  - first:
+      213: -5111434717414090840
+    second: Knuckles_Pushing_1
+  - first:
+      213: 8447613624375025148
+    second: Knuckles_Pushing_2
+  - first:
+      213: -6985518972807325100
+    second: Knuckles_Pushing_3
+  - first:
+      213: 1498397272148944219
+    second: Knuckles_Pushing_4
+  - first:
+      213: -7902424490035576823
+    second: Knuckles_Pushing_5
+  - first:
+      213: 6721765810739247774
+    second: Knuckles_Pushing_6
+  - first:
+      213: -5380537085415416781
+    second: Knuckles_Pushing_7
+  - first:
+      213: 6463582386116607409
+    second: Knuckles_Pushing_8
+  - first:
+      213: -3054390084332231697
+    second: Knuckles_Pushing_9
+  - first:
+      213: -8720495811296509628
+    second: Knuckles_Pushing_0
+  - first:
+      213: -3765139012570121494
+    second: Knuckles_Pushing_1
+  - first:
+      213: 4811776751589281284
+    second: Knuckles_Pushing_2
+  - first:
+      213: 8131032268047630781
+    second: Knuckles_Pushing_3
+  - first:
+      213: 31913320463692432
+    second: Knuckles_Pushing_4
+  - first:
+      213: 7764423250509852608
+    second: Knuckles_Pushing_5
+  - first:
+      213: -4532455891778817785
+    second: Knuckles_Pushing_6
+  - first:
+      213: 7321492784936673418
+    second: Knuckles_Pushing_7
+  - first:
+      213: 4436854164012424595
+    second: Knuckles_Pushing_8
+  - first:
+      213: -2931651823179729288
+    second: Knuckles_Pushing_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Knuckles_Pushing_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441c36643439af680800000000000000
+      internalID: 3449682137132066656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Pushing_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeafac1440a8fbbc0800000000000000
+      internalID: -5111434717414090840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Pushing_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e46f0367dd6c240800000000000000
+      internalID: 8447613624375025148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Pushing_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1c73a84ca37d070800000000000000
+      internalID: -6985518972807325100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Pushing_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09277d1fef0617000800000000000000
+      internalID: 1498397272148944219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Pushing_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf6c640fc5c0cb60800000000000000
+      internalID: -7902424490035576823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Pushing_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701b562616b7911c0800000000000000
+      internalID: 6721765810739247774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Pushing_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a806cbf95ea2b9560800000000000000
+      internalID: -5380537085415416781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Pushing_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d5c2eca5fd29d30800000000000000
+      internalID: 6463582386116607409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Pushing_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876fe3a033ea057d0800000000000000
+      internalID: -3054390084332231697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Knuckles_Pushing_1: -5111434717414090840
+      Knuckles_Pushing_2: 8447613624375025148
+      Knuckles_Pushing_7: -5380537085415416781
+      Knuckles_Pushing_6: 6721765810739247774
+      Knuckles_Pushing_8: 6463582386116607409
+      Knuckles_Pushing_9: -3054390084332231697
+      Knuckles_Pushing_4: 1498397272148944219
+      Knuckles_Pushing_3: -6985518972807325100
+      Knuckles_Pushing_0: 3449682137132066656
+      Knuckles_Pushing_5: -7902424490035576823
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

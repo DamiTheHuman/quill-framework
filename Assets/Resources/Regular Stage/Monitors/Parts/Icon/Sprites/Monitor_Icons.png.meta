@@ -1,0 +1,2323 @@
+fileFormatVersion: 2
+guid: 41cef51574530c445b3acd02112cf3d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8148279605995072787
+    second: Monitor_Icons_0
+  - first:
+      213: 2059965769500434137
+    second: Monitor_Icons_1
+  - first:
+      213: -553914907339022951
+    second: Monitor_Icons_2
+  - first:
+      213: 9127534677302343097
+    second: Monitor_Icons_3
+  - first:
+      213: -7533219349394024631
+    second: Monitor_Icons_4
+  - first:
+      213: -6105531537298364538
+    second: Monitor_Icons_5
+  - first:
+      213: 5218409703318935565
+    second: Monitor_Icons_6
+  - first:
+      213: 5893856816554183457
+    second: Monitor_Icons_7
+  - first:
+      213: 1515225352110935880
+    second: Monitor_Icons_8
+  - first:
+      213: -1086739288166112774
+    second: Monitor_Icons_9
+  - first:
+      213: 2482686871273132608
+    second: Monitor_Icons_10
+  - first:
+      213: 2609689885893985682
+    second: Monitor_Icons_11
+  - first:
+      213: -2572998673665552224
+    second: Monitor_Icons_12
+  - first:
+      213: 497384757152691608
+    second: Monitor_Icons_13
+  - first:
+      213: -1447409954827592311
+    second: Monitor_Icons_14
+  - first:
+      213: 2234700038729311007
+    second: Monitor_Icons_15
+  - first:
+      213: -96949711118811282
+    second: Monitor_Icons_16
+  - first:
+      213: -8162080125803751731
+    second: Monitor_Icons_17
+  - first:
+      213: 5518309936227248186
+    second: Monitor_Icons_18
+  - first:
+      213: 2037772523277938459
+    second: Monitor_Icons_19
+  - first:
+      213: -9050337997524261237
+    second: Monitor_Icons_20
+  - first:
+      213: 4777231640578064956
+    second: Monitor_Icons_21
+  - first:
+      213: 1064454951056435244
+    second: Monitor_Icons_22
+  - first:
+      213: 4827444523584891981
+    second: Monitor_Icons_23
+  - first:
+      213: 4418555636781132439
+    second: Monitor_Icons_24
+  - first:
+      213: 3217830394391643641
+    second: Monitor_Icons_25
+  - first:
+      213: -5363428781705543252
+    second: Monitor_Icons_26
+  - first:
+      213: 8418119687100378836
+    second: Monitor_Icons_27
+  - first:
+      213: -1230975635110446069
+    second: Monitor_Icons_28
+  - first:
+      213: 3407344926374547010
+    second: Monitor_Icons_29
+  - first:
+      213: -2264784659309237420
+    second: Monitor_Icons_30
+  - first:
+      213: 625079611080467158
+    second: Monitor_Icons_31
+  - first:
+      213: 5990661433260105163
+    second: Monitor_Icons_32
+  - first:
+      213: 1306475306394109530
+    second: Monitor_Icons_33
+  - first:
+      213: 8871604776159152808
+    second: Monitor_Icons_34
+  - first:
+      213: 7780745409700937097
+    second: Monitor_Icons_35
+  - first:
+      213: 3717343181505402993
+    second: Monitor_Icons_36
+  - first:
+      213: -4658732235797255725
+    second: Monitor_Icons_37
+  - first:
+      213: 1988600575096662512
+    second: Monitor_Icons_38
+  - first:
+      213: 7896639335158212883
+    second: Monitor_Icons_39
+  - first:
+      213: -3279853388894435340
+    second: Monitor_Icons_40
+  - first:
+      213: -8337661465083104444
+    second: Monitor_Icons_41
+  - first:
+      213: 5057520060951205953
+    second: Monitor_Icons_42
+  - first:
+      213: -1083572480101508767
+    second: Monitor_Icons_43
+  - first:
+      213: 5695609039075509672
+    second: Monitor_Icons_44
+  - first:
+      213: 4551552818408157629
+    second: Monitor_Icons_45
+  - first:
+      213: 2580750114705448948
+    second: Monitor_Icons_46
+  - first:
+      213: 8116066658834279762
+    second: Monitor_Icons_47
+  - first:
+      213: 6114656381168630614
+    second: Monitor_Icons_48
+  - first:
+      213: -8122325543014536584
+    second: Monitor_Icons_49
+  - first:
+      213: -6552997834392094388
+    second: Monitor_Icons_50
+  - first:
+      213: -6950728242840849583
+    second: Monitor_Icons_51
+  - first:
+      213: 747242963830828728
+    second: Monitor_Icons_52
+  - first:
+      213: -8151407188802706784
+    second: Monitor_Icons_53
+  - first:
+      213: 7165025412806968757
+    second: Monitor_Icons_54
+  - first:
+      213: -4450236797233596647
+    second: Monitor_Icons_55
+  - first:
+      213: -505884020852087508
+    second: Monitor_Icons_56
+  - first:
+      213: 5116933189941265895
+    second: Monitor_Icons_57
+  - first:
+      213: 6593003092586003573
+    second: Monitor_Icons_58
+  - first:
+      213: -5108318957986111353
+    second: Monitor_Icons_59
+  - first:
+      213: 5435859369727715975
+    second: Monitor_Icons_60
+  - first:
+      213: 4634355126031695643
+    second: Monitor_Icons_61
+  - first:
+      213: -6008953785363826498
+    second: Monitor_Icons_62
+  - first:
+      213: -6264681805465931921
+    second: Monitor_Icons_63
+  - first:
+      213: -3681211060391793081
+    second: Monitor_Icons_64
+  - first:
+      213: 3131415329967599347
+    second: Monitor_Icons_65
+  - first:
+      213: -4572467145287008115
+    second: Monitor_Icons_66
+  - first:
+      213: -5691491179201949278
+    second: Monitor_Icons_67
+  - first:
+      213: -3843980281326112562
+    second: Monitor_Icons_68
+  - first:
+      213: 8808978805738130651
+    second: Monitor_Icons_69
+  - first:
+      213: 5515313924392378323
+    second: Monitor_Icons_70
+  - first:
+      213: -3029941742824212532
+    second: Monitor_Icons_71
+  - first:
+      213: 6275663675655019936
+    second: Monitor_Icons_72
+  - first:
+      213: 8098135538629258603
+    second: Monitor_Icons_73
+  - first:
+      213: 68674059719359273
+    second: Monitor_Icons_74
+  - first:
+      213: 664042620757154700
+    second: Monitor_Icons_75
+  - first:
+      213: -921534099412174076
+    second: Monitor_Icons_76
+  - first:
+      213: -8652061156636456628
+    second: Monitor_Icons_77
+  - first:
+      213: -863012131239112765
+    second: Monitor_Icons_78
+  - first:
+      213: -4616293560656906678
+    second: Monitor_Icons_79
+  - first:
+      213: -7107270302182288579
+    second: Monitor_Icons_80
+  - first:
+      213: 185739137142965388
+    second: Monitor_Icons_81
+  - first:
+      213: 6900773610823544865
+    second: Monitor_Icons_82
+  - first:
+      213: 6033699865563052172
+    second: Monitor_Icons_83
+  - first:
+      213: 3182629905704824138
+    second: Monitor_Icons_84
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monitor_Icons_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d65e55121841170800000000000000
+      internalID: 8148279605995072787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de998404f7769c10800000000000000
+      internalID: 2059965769500434137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d934893591058f0800000000000000
+      internalID: -553914907339022951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b57aa3ed648bae70800000000000000
+      internalID: 9127534677302343097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94715481ae0a47790800000000000000
+      internalID: -7533219349394024631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687e2625a6bc44ba0800000000000000
+      internalID: -6105531537298364538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08d6c21af38b6840800000000000000
+      internalID: 5218409703318935565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b0ab33c8f2bc150800000000000000
+      internalID: 5893856816554183457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f0d330e69270510800000000000000
+      internalID: 1515225352110935880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1e56d00602be0f0800000000000000
+      internalID: -1086739288166112774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_10
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042d2ca3e86447220800000000000000
+      internalID: 2482686871273132608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_11
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29504aedf1b773420800000000000000
+      internalID: 2609689885893985682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_12
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a01d90b65fda4cd0800000000000000
+      internalID: -2572998673665552224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_13
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895b7c62dc017e600800000000000000
+      internalID: 497384757152691608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_14
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d13269054c9ebe0800000000000000
+      internalID: -1447409954827592311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13230468df330f10800000000000000
+      internalID: 2234700038729311007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_16
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fbfab50c097aef0800000000000000
+      internalID: -96949711118811282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_17
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc61131ce577abe80800000000000000
+      internalID: -8162080125803751731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_18
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38655556a9f49c40800000000000000
+      internalID: 5518309936227248186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_19
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f6807305f974c10800000000000000
+      internalID: 2037772523277938459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86a850ca8db66280800000000000000
+      internalID: -9050337997524261237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_21
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c328962cdd22c4240800000000000000
+      internalID: 4777231640578064956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_22
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28ef156324b5ce00800000000000000
+      internalID: 1064454951056435244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_23
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cae21a7378ef240800000000000000
+      internalID: 4827444523584891981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_24
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79aa3aee0fcd15d30800000000000000
+      internalID: 4418555636781132439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_25
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f54b25e1b708ac20800000000000000
+      internalID: 3217830394391643641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_26
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1c55090f54195b0800000000000000
+      internalID: -5363428781705543252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_27
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de275a114b23d470800000000000000
+      internalID: 8418119687100378836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_28
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cb41e8e22baeee0800000000000000
+      internalID: -1230975635110446069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_29
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ec8cb5822594f20800000000000000
+      internalID: 3407344926374547010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_30
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b6e190a5ed190e0800000000000000
+      internalID: -2264784659309237420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_31
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d26ace289abca800800000000000000
+      internalID: 625079611080467158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_32
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdd91b65da132350800000000000000
+      internalID: 5990661433260105163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_33
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56c0718e58812210800000000000000
+      internalID: 1306475306394109530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_34
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa00a64a854e1b70800000000000000
+      internalID: 8871604776159152808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98db9f8d9b2cafb60800000000000000
+      internalID: 7780745409700937097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_36
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17899d1ade7a69330800000000000000
+      internalID: 3717343181505402993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_37
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9a4ade6bbd85fb0800000000000000
+      internalID: -4658732235797255725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_38
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f926cedfade89b10800000000000000
+      internalID: 1988600575096662512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_39
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3196b7b13af769d60800000000000000
+      internalID: 7896639335158212883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7069f58be9b72d0800000000000000
+      internalID: -3279853388894435340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_41
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4433244821daa4c80800000000000000
+      internalID: -8337661465083104444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_42
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148986513bbef2640800000000000000
+      internalID: 5057520060951205953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_43
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1691923029066f0f0800000000000000
+      internalID: -1083572480101508767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_44
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a589919e3eda0f40800000000000000
+      internalID: 5695609039075509672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_45
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db175a55c2d5a2f30800000000000000
+      internalID: 4551552818408157629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_46
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff11115e8aa0d320800000000000000
+      internalID: 2580750114705448948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_47
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d653d10af02a070800000000000000
+      internalID: 8116066658834279762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_48
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bb123f49f9bd450800000000000000
+      internalID: 6114656381168630614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_49
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a698ad3f3b74f80800000000000000
+      internalID: -8122325543014536584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_50
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49b72b50331f05a0800000000000000
+      internalID: -6552997834392094388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_51
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153323b5d7d0a8f90800000000000000
+      internalID: -6950728242840849583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_52
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8beeb0c348dbe5a00800000000000000
+      internalID: 747242963830828728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_53
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a269db895260ee80800000000000000
+      internalID: -8151407188802706784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_54
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b58109a6a84f6360800000000000000
+      internalID: 7165025412806968757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_55
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917f48616359d32c0800000000000000
+      internalID: -4450236797233596647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_56
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25a09fc92dbaf8f0800000000000000
+      internalID: -505884020852087508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_57
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e50bd520aff20740800000000000000
+      internalID: 5116933189941265895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_58
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cf3a8a16d0f7b50800000000000000
+      internalID: 6593003092586003573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_59
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78028d509fa9b19b0800000000000000
+      internalID: -5108318957986111353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a699ddb4d007b40800000000000000
+      internalID: 5435859369727715975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_61
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f312aee69805040800000000000000
+      internalID: 4634355126031695643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_62
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb876a77e58eb9ca0800000000000000
+      internalID: -6008953785363826498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_63
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fa952f6116f09a0800000000000000
+      internalID: -6264681805465931921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_64
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74eab126b06b9ecc0800000000000000
+      internalID: -3681211060391793081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_65
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe6ee2d6a5057b20800000000000000
+      internalID: 3131415329967599347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_66
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80060a7b555b80c0800000000000000
+      internalID: -4572467145287008115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_67
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a116656de2c301b0800000000000000
+      internalID: -5691491179201949278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_68
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec073f7ec4077aac0800000000000000
+      internalID: -3843980281326112562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_69
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc47f54d87cf3a70800000000000000
+      internalID: 8808978805738130651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_70
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df5c28fac45a8c40800000000000000
+      internalID: 5515313924392378323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_71
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7b5d8c90c73f5d0800000000000000
+      internalID: -3029941742824212532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_72
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad5d35fcd2a71750800000000000000
+      internalID: 6275663675655019936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_73
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6da6fadd5b526070800000000000000
+      internalID: 8098135538629258603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_74
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b3bd681baf3f000800000000000000
+      internalID: 68674059719359273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_75
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b13fdce37273900800000000000000
+      internalID: 664042620757154700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_76
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bb02c7e9d0633f0800000000000000
+      internalID: -921534099412174076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_77
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c498ab7f734bde780800000000000000
+      internalID: -8652061156636456628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_78
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfc3a00a07f504f0800000000000000
+      internalID: -863012131239112765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_79
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a463f1af671afefb0800000000000000
+      internalID: -4616293560656906678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_80
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33ddbbe057ed5d90800000000000000
+      internalID: -7107270302182288579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_81
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c844b4ad2c0e39200800000000000000
+      internalID: 185739137142965388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_82
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120f684890974cf50800000000000000
+      internalID: 6900773610823544865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_83
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8835305f020cb350800000000000000
+      internalID: 6033699865563052172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_84
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d22157909fa2c20800000000000000
+      internalID: 3182629905704824138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_85
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1f7da9de5a67d42bb877397ed85403
+      internalID: 592514800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_86
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26b318eac300aa4b8b24d69055bdbf6
+      internalID: 1487005910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_87
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e145ab4022965d24c9aeac187ca770aa
+      internalID: 701037551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monitor_Icons_88
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1273721c442c99e43ac023b4296719e6
+      internalID: 1521813100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monitor_Icons_60: 5435859369727715975
+      Monitor_Icons_13: 497384757152691608
+      Monitor_Icons_74: 68674059719359273
+      Monitor_Icons_52: 747242963830828728
+      Monitor_Icons_17: -8162080125803751731
+      Monitor_Icons_27: 8418119687100378836
+      Monitor_Icons_22: 1064454951056435244
+      Monitor_Icons_72: 6275663675655019936
+      Monitor_Icons_18: 5518309936227248186
+      Monitor_Icons_31: 625079611080467158
+      Monitor_Icons_68: -3843980281326112562
+      Monitor_Icons_4: -7533219349394024631
+      Monitor_Icons_36: 3717343181505402993
+      Monitor_Icons_6: 5218409703318935565
+      Monitor_Icons_25: 3217830394391643641
+      Monitor_Icons_11: 2609689885893985682
+      Monitor_Icons_71: -3029941742824212532
+      Monitor_Icons_5: -6105531537298364538
+      Monitor_Icons_54: 7165025412806968757
+      Monitor_Icons_80: -7107270302182288579
+      Monitor_Icons_16: -96949711118811282
+      Monitor_Icons_83: 6033699865563052172
+      Monitor_Icons_34: 8871604776159152808
+      Monitor_Icons_2: -553914907339022951
+      Monitor_Icons_39: 7896639335158212883
+      Monitor_Icons_15: 2234700038729311007
+      Monitor_Icons_65: 3131415329967599347
+      Monitor_Icons_21: 4777231640578064956
+      Monitor_Icons_81: 185739137142965388
+      Monitor_Icons_50: -6552997834392094388
+      Monitor_Icons_26: -5363428781705543252
+      Monitor_Icons_23: 4827444523584891981
+      Monitor_Icons_29: 3407344926374547010
+      Monitor_Icons_46: 2580750114705448948
+      Monitor_Icons_79: -4616293560656906678
+      Monitor_Icons_51: -6950728242840849583
+      Monitor_Icons_41: -8337661465083104444
+      Monitor_Icons_67: -5691491179201949278
+      Monitor_Icons_61: 4634355126031695643
+      Monitor_Icons_64: -3681211060391793081
+      Monitor_Icons_78: -863012131239112765
+      Monitor_Icons_86: 592514800
+      Monitor_Icons_45: 4551552818408157629
+      Monitor_Icons_38: 1988600575096662512
+      Monitor_Icons_9: -1086739288166112774
+      Monitor_Icons_49: -8122325543014536584
+      Monitor_Icons_55: -4450236797233596647
+      Monitor_Icons_87: 1487005910
+      Monitor_Icons_28: -1230975635110446069
+      Monitor_Icons_56: -505884020852087508
+      Monitor_Icons_24: 4418555636781132439
+      Monitor_Icons_57: 5116933189941265895
+      Monitor_Icons_43: -1083572480101508767
+      Monitor_Icons_3: 9127534677302343097
+      Monitor_Icons_7: 5893856816554183457
+      Monitor_Icons_47: 8116066658834279762
+      Monitor_Icons_77: -8652061156636456628
+      Monitor_Icons_10: 2482686871273132608
+      Monitor_Icons_40: -3279853388894435340
+      Monitor_Icons_35: 7780745409700937097
+      Monitor_Icons_8: 1515225352110935880
+      Monitor_Icons_33: 1306475306394109530
+      Monitor_Icons_82: 6900773610823544865
+      Monitor_Icons_88: 701037551
+      Monitor_Icons_70: 5515313924392378323
+      Monitor_Icons_75: 664042620757154700
+      Monitor_Icons_85: 493041766
+      Monitor_Icons_63: -6264681805465931921
+      Monitor_Icons_53: -8151407188802706784
+      Monitor_Icons_37: -4658732235797255725
+      Monitor_Icons_1: 2059965769500434137
+      Monitor_Icons_30: -2264784659309237420
+      Monitor_Icons_14: -1447409954827592311
+      Monitor_Icons_42: 5057520060951205953
+      Monitor_Icons_76: -921534099412174076
+      Monitor_Icons_59: -5108318957986111353
+      Monitor_Icons_48: 6114656381168630614
+      Monitor_Icons_19: 2037772523277938459
+      Monitor_Icons_66: -4572467145287008115
+      Monitor_Icons_20: -9050337997524261237
+      Monitor_Icons_69: 8808978805738130651
+      Monitor_Icons_73: 8098135538629258603
+      Monitor_Icons_32: 5990661433260105163
+      Monitor_Icons_12: -2572998673665552224
+      Monitor_Icons_84: 3182629905704824138
+      Monitor_Icons_44: 5695609039075509672
+      Monitor_Icons_62: -6008953785363826498
+      Monitor_Icons_58: 6593003092586003573
+      Monitor_Icons_0: 8148279605995072787
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

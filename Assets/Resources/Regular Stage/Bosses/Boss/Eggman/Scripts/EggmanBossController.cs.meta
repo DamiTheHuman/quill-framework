@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 7244367d930b4c345983294d7e8ea5f5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - boxCollider2D: {instanceID: 0}
+  - bossMaterial: {instanceID: 0}
+  - spriteRenderer: {instanceID: 0}
+  - bossTrigger: {instanceID: 0}
+  - bossExplosionSound: {fileID: 8300000, guid: a10468b0f1a06b34fa7b520eea9911a3,
+      type: 3}
+  - bossHitSound: {instanceID: 0}
+  - eggmanBodyAnimator: {instanceID: 0}
+  - eggmanPodFlameAnimator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

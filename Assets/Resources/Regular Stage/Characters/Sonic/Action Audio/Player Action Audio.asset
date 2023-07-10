@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d5d2427fd3a9ef44967b76aca5bf6c5, type: 3}
+  m_Name: Player Action Audio
+  m_EditorClassIdentifier: 
+  jump: {fileID: 8300000, guid: 23752226a10004248bb801de3d0fc85b, type: 3}
+  roll: {fileID: 8300000, guid: 06cdbc05b0550dd4286d07d1d5d2e153, type: 3}
+  spindashCharge: {fileID: 8300000, guid: 619be87e24200964880999ec68bd4816, type: 3}
+  spindashRelease: {fileID: 8300000, guid: d56a181c83342674fbe1e4022562978b, type: 3}
+  dropDash: {fileID: 8300000, guid: 15092b65c19faaf4fbb5cb6a31a67890, type: 3}
+  skidding: {fileID: 8300000, guid: cf974fd390c10de4e8e010c7acf8de1f, type: 3}
+  hurt: {fileID: 8300000, guid: 561c9cc015e67d04bac01f242b22d50a, type: 3}
+  spikeHurt: {fileID: 8300000, guid: a8377b5438056b344b3d4e8dca919754, type: 3}
+  ringLoss: {fileID: 8300000, guid: 756f7e0f7431d244497b3466b66260ed, type: 3}
+  land: {fileID: 8300000, guid: 674d786b305734d48aa50ff184fd7b77, type: 3}
+  grab: {fileID: 8300000, guid: b4cf9e56b4f575d419cfe0399758eb03, type: 3}
+  gulp: {fileID: 8300000, guid: 7ac5f58d1a385d240bdcefaed72ca34e, type: 3}
+  drowned: {fileID: 8300000, guid: ead204bc1ff4e9c479a982af13949398, type: 3}
+  superForm: {fileID: 8300000, guid: a10647c3ce7b4fb478d666f2182aa894, type: 3}
+  homingAttack: {fileID: 8300000, guid: 2d64c10620085db4faf8fb5b1349b2ff, type: 3}

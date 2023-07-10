@@ -1,0 +1,381 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8104308973130823802
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1711321449381167853}
+  m_Layer: 0
+  m_Name: Electric Spark Set
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1711321449381167853
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8104308973130823802}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2898215135314875429}
+  - {fileID: 8002865903649212977}
+  - {fileID: 7421835725644913197}
+  - {fileID: 7955918522862007854}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &3192073386337746535
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1711321449381167853}
+    m_Modifications:
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1931785375060268699, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_Name
+      value: North-West Electric Shield Spark
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a62e14556fed4fd4c8a9454d44873177, type: 3}
+--- !u!4 &2898215135314875429 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+    type: 3}
+  m_PrefabInstance: {fileID: 3192073386337746535}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7100957113826373743
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1711321449381167853}
+    m_Modifications:
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1201698054528320393, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: sparkVelocity.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1201698054528320393, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: cardinalDirection.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1201698054528320393, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: cardinalDirection.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1931785375060268699, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_Name
+      value: South-West Electric Shield Spark (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a62e14556fed4fd4c8a9454d44873177, type: 3}
+--- !u!4 &7421835725644913197 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+    type: 3}
+  m_PrefabInstance: {fileID: 7100957113826373743}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7646297587260775532
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1711321449381167853}
+    m_Modifications:
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1201698054528320393, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: sparkVelocity.x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1201698054528320393, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: sparkVelocity.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1201698054528320393, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: cardinalDirection.x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1201698054528320393, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: cardinalDirection.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1931785375060268699, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_Name
+      value: South-East Electric Shield Spark (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a62e14556fed4fd4c8a9454d44873177, type: 3}
+--- !u!4 &7955918522862007854 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+    type: 3}
+  m_PrefabInstance: {fileID: 7646297587260775532}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7745037667152289907
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1711321449381167853}
+    m_Modifications:
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1201698054528320393, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: sparkVelocity.x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1201698054528320393, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: cardinalDirection.x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1931785375060268699, guid: a62e14556fed4fd4c8a9454d44873177,
+        type: 3}
+      propertyPath: m_Name
+      value: North-East Electric Shield Spark (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a62e14556fed4fd4c8a9454d44873177, type: 3}
+--- !u!4 &8002865903649212977 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 320884335084907074, guid: a62e14556fed4fd4c8a9454d44873177,
+    type: 3}
+  m_PrefabInstance: {fileID: 7745037667152289907}
+  m_PrefabAsset: {fileID: 0}

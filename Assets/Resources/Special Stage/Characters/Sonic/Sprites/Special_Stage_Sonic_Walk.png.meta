@@ -1,0 +1,446 @@
+fileFormatVersion: 2
+guid: 62f527df0b5d63740aa5d8ac8c0626b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1262454607139755397
+    second: Special_Stage_Sonic_Run_0
+  - first:
+      213: 5565263670558894122
+    second: Special_Stage_Sonic_Run_1
+  - first:
+      213: 6163903439615442396
+    second: Special_Stage_Sonic_Run_2
+  - first:
+      213: -7734030100109023387
+    second: Special_Stage_Sonic_Run_3
+  - first:
+      213: -4993319169733127080
+    second: Special_Stage_Sonic_Run_4
+  - first:
+      213: 5109066367303207613
+    second: Special_Stage_Sonic_Run_5
+  - first:
+      213: 4744301045724610439
+    second: Special_Stage_Sonic_Run_6
+  - first:
+      213: -2034032021228645221
+    second: Special_Stage_Sonic_Run_7
+  - first:
+      213: -4866927009888932988
+    second: Special_Stage_Sonic_Run_8
+  - first:
+      213: 3292651272411961458
+    second: Special_Stage_Sonic_Run_9
+  - first:
+      213: -5298567238160381615
+    second: Special_Stage_Sonic_Run_10
+  - first:
+      213: 2643595848440383144
+    second: Special_Stage_Sonic_Run_11
+  - first:
+      213: -5307246675936771994
+    second: Special_Stage_Sonic_Walk_0
+  - first:
+      213: 6118335769377951601
+    second: Special_Stage_Sonic_Walk_1
+  - first:
+      213: 8917885575386756327
+    second: Special_Stage_Sonic_Walk_2
+  - first:
+      213: -4035662892526190550
+    second: Special_Stage_Sonic_Walk_3
+  - first:
+      213: -2799393061877401755
+    second: Special_Stage_Sonic_Walk_4
+  - first:
+      213: 245440322452706347
+    second: Special_Stage_Sonic_Walk_5
+  - first:
+      213: -4420672936376365273
+    second: Special_Stage_Sonic_Walk_6
+  - first:
+      213: -3232124657834927975
+    second: Special_Stage_Sonic_Walk_7
+  - first:
+      213: 7188395972180252960
+    second: Special_Stage_Sonic_Walk_8
+  - first:
+      213: 1236815367000987500
+    second: Special_Stage_Sonic_Walk_9
+  - first:
+      213: 9159615699189173547
+    second: Special_Stage_Sonic_Walk_10
+  - first:
+      213: 1241441722753551193
+    second: Special_Stage_Sonic_Walk_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Special_Stage_Sonic_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6608a69644fd856b0800000000000000
+      internalID: -5307246675936771994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Sonic_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fc65647f1b8e450800000000000000
+      internalID: 6118335769377951601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Sonic_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4f18c8ea1b2cb70800000000000000
+      internalID: 8917885575386756327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Sonic_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2040c92bf17ef7c0800000000000000
+      internalID: -4035662892526190550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Sonic_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567ba1097de8629d0800000000000000
+      internalID: -2799393061877401755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Sonic_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24d9514caaf76300800000000000000
+      internalID: 245440322452706347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Sonic_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f8a17d26d96a2c0800000000000000
+      internalID: -4420672936376365273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Sonic_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998d7fb8fbf2523d0800000000000000
+      internalID: -3232124657834927975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Sonic_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02917aa0d0052c360800000000000000
+      internalID: 7188395972180252960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Sonic_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6796daf50d0a2110800000000000000
+      internalID: 1236815367000987500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Sonic_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d034dd2fd7d1f70800000000000000
+      internalID: 9159615699189173547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Sonic_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b031e5bac7a3110800000000000000
+      internalID: 1241441722753551193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Special_Stage_Sonic_Walk_11: 1241441722753551193
+      Special_Stage_Sonic_Walk_3: -4035662892526190550
+      Special_Stage_Sonic_Walk_8: 7188395972180252960
+      Special_Stage_Sonic_Walk_7: -3232124657834927975
+      Special_Stage_Sonic_Walk_5: 245440322452706347
+      Special_Stage_Sonic_Walk_1: 6118335769377951601
+      Special_Stage_Sonic_Walk_6: -4420672936376365273
+      Special_Stage_Sonic_Walk_10: 9159615699189173547
+      Special_Stage_Sonic_Walk_9: 1236815367000987500
+      Special_Stage_Sonic_Walk_0: -5307246675936771994
+      Special_Stage_Sonic_Walk_4: -2799393061877401755
+      Special_Stage_Sonic_Walk_2: 8917885575386756327
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

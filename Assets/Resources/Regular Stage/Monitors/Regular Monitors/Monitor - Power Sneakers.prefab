@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7684778249727669235
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5595193319053268166, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268166, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268166, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268166, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268166, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268166, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268166, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268166, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268166, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268166, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268166, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268167, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: powerUpToGrant
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319053268186, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_Name
+      value: Monitor - Speed Shoes
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595193319642297445, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 5435859369727715975, guid: 41cef51574530c445b3acd02112cf3d8,
+        type: 3}
+    - target: {fileID: 5595193319642297446, guid: 9ced2d6cf07a98048be28050d6717158,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: df4d876b5a7e8ae42b54f54624877ae2, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9ced2d6cf07a98048be28050d6717158, type: 3}

@@ -1,0 +1,931 @@
+fileFormatVersion: 2
+guid: 3f316dcb734eea24f86f97717ef04125
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2946814883134802569
+    second: SSTeleport_Flower_Holder_0
+  - first:
+      213: -4462201841445254000
+    second: SSTeleport_Flower_Holder_0
+  - first:
+      213: -8583278589232193489
+    second: SSTeleport_Flower_Holder_1
+  - first:
+      213: -261044695446195226
+    second: SSTeleport_Flower_Holder_2
+  - first:
+      213: -8149327141422342824
+    second: SSTeleport_Flower_Holder_3
+  - first:
+      213: -254299585015849500
+    second: SSTeleport_Flower_Holder_4
+  - first:
+      213: -2772319353624799516
+    second: SSTeleport_Flower_Holder_5
+  - first:
+      213: 7317304076731005356
+    second: SSTeleport_Flower_Holder_6
+  - first:
+      213: -3526128252398951700
+    second: SSTeleport_Flower_Holder_7
+  - first:
+      213: -6204780773342332635
+    second: SSTeleport_Flower_Holder_8
+  - first:
+      213: 2475334278433684516
+    second: SSTeleport_Flower_Holder_9
+  - first:
+      213: 4165714219970964898
+    second: SSTeleport_Flower_Holder_10
+  - first:
+      213: 3956511740208361307
+    second: SSTeleport_Flower_Holder_11
+  - first:
+      213: -8620472703369449233
+    second: SSTeleport_Flower_Holder_12
+  - first:
+      213: 7267120061946281782
+    second: SSTeleport_Flower_Holder_13
+  - first:
+      213: 8832087101153385723
+    second: SSTeleport_Flower_Holder_14
+  - first:
+      213: 5100630067464718828
+    second: SSTeleport_Flower_Holder_15
+  - first:
+      213: -8500381943653737844
+    second: SSTeleport_Flower_Holder_16
+  - first:
+      213: -5564849902023157667
+    second: SSTeleport_Flower_Holder_17
+  - first:
+      213: -256152644355326213
+    second: SSTeleport_Flower_Holder_18
+  - first:
+      213: -7008857723744180753
+    second: SSTeleport_Flower_Holder_19
+  - first:
+      213: -5300736940286711353
+    second: SSTeleport_Flower_Holder_20
+  - first:
+      213: 490103428556055490
+    second: SSTeleport_Flower_Holder_21
+  - first:
+      213: 8385824653606193017
+    second: SSTeleport_Flower_Holder_22
+  - first:
+      213: -253817720113134828
+    second: SSTeleport_Flower_Holder_23
+  - first:
+      213: -8651080956619917408
+    second: SSTeleport_Flower_Holder_24
+  - first:
+      213: 4644205916968645584
+    second: SSTeleport_Flower_Holder_25
+  - first:
+      213: 3421693014857175089
+    second: SSTeleport_Flower_Holder_26
+  - first:
+      213: 4560174137334642506
+    second: SSTeleport_Flower_Holder_27
+  - first:
+      213: 3814142966954583088
+    second: SSTeleport_Flower_Holder_28
+  - first:
+      213: -4538407110960630544
+    second: SSTeleport_Flower_Holder_29
+  - first:
+      213: 556694215231201905
+    second: SSTeleport_Flower_Holder_30
+  - first:
+      213: 1985026002308725434
+    second: SSTeleport_Flower_Holder_1
+  - first:
+      213: 2088026046632204170
+    second: SSTeleport_Flower_Holder_2
+  - first:
+      213: -4176949435160742467
+    second: SSTeleport_Flower_Holder_3
+  - first:
+      213: -3697189124958450061
+    second: SSTeleport_Flower_Holder_4
+  - first:
+      213: -291717106833026897
+    second: SSTeleport_Flower_Holder_5
+  - first:
+      213: 2078224090921165612
+    second: SSTeleport_Flower_Holder_6
+  - first:
+      213: 218659581463682242
+    second: SSTeleport_Flower_Holder_7
+  - first:
+      213: -8218664097956145265
+    second: SSTeleport_Flower_Holder_8
+  - first:
+      213: -494975279942826170
+    second: SSTeleport_Flower_Holder_9
+  - first:
+      213: -4774832133247761373
+    second: SSTeleport_Flower_Holder_10
+  - first:
+      213: 5864908095955774378
+    second: SSTeleport_Flower_Holder_11
+  - first:
+      213: 7984296847824033026
+    second: SSTeleport_Flower_Holder_12
+  - first:
+      213: 2879302664256313860
+    second: SSTeleport_Flower_Holder_13
+  - first:
+      213: -8059943774755095354
+    second: SSTeleport_Flower_Holder_14
+  - first:
+      213: -3087269185006819480
+    second: SSTeleport_Flower_Holder_15
+  - first:
+      213: -4173457972518058803
+    second: SSTeleport_Flower_Holder_16
+  - first:
+      213: -2638146290152932385
+    second: SSTeleport_Flower_Holder_17
+  - first:
+      213: 8982139793277698889
+    second: SSTeleport_Flower_Holder_18
+  - first:
+      213: 4177189372851046907
+    second: SSTeleport_Flower_Holder_19
+  - first:
+      213: -145985938846678446
+    second: SSTeleport_Flower_Holder_20
+  - first:
+      213: 3464789148442636475
+    second: SSTeleport_Flower_Holder_21
+  - first:
+      213: 5143670675470460539
+    second: SSTeleport_Flower_Holder_22
+  - first:
+      213: 2978485341422009873
+    second: SSTeleport_Flower_Holder_23
+  - first:
+      213: 5566743898203281737
+    second: SSTeleport_Flower_Holder_24
+  - first:
+      213: 5406613078157559702
+    second: SS_Teleporter_0
+  - first:
+      213: -5421836630049717717
+    second: SS_Teleporter_1
+  - first:
+      213: -7876696217506438800
+    second: SS_Teleporter_2
+  - first:
+      213: -5933078560241963354
+    second: SS_Teleporter_3
+  - first:
+      213: 2306787549661527753
+    second: SS_Teleporter_4
+  - first:
+      213: -6358734065014174028
+    second: SS_Teleporter_5
+  - first:
+      213: -6144951777438205604
+    second: SS_Teleporter_6
+  - first:
+      213: -3391666143437268390
+    second: SS_Teleporter_7
+  - first:
+      213: 1489288025253808540
+    second: SS_Teleporter_8
+  - first:
+      213: 5575064926787296220
+    second: SS_Teleporter_9
+  - first:
+      213: 3847936844866536866
+    second: SS_Teleporter_10
+  - first:
+      213: 8714120679881764841
+    second: SS_Teleporter_11
+  - first:
+      213: 7810928481209363009
+    second: SS_Teleporter_12
+  - first:
+      213: -4325937697913948649
+    second: SS_Teleporter_13
+  - first:
+      213: 2093512466727979585
+    second: SS_Teleporter_14
+  - first:
+      213: -6746190394108492075
+    second: SS_Teleporter_15
+  - first:
+      213: 2372478543662483179
+    second: SS_Teleporter_16
+  - first:
+      213: 8851481954849651171
+    second: SS_Teleporter_17
+  - first:
+      213: 1946779854018302176
+    second: SS_Teleporter_18
+  - first:
+      213: 2134199414868941951
+    second: SS_Teleporter_19
+  - first:
+      213: 6480812422293403660
+    second: SS_Teleporter_20
+  - first:
+      213: -1013714231394170853
+    second: SS_Teleporter_21
+  - first:
+      213: -9029283236203438815
+    second: SS_Teleporter_22
+  - first:
+      213: 8079210567747238695
+    second: SS_Teleporter_23
+  - first:
+      213: 2047228160749396832
+    second: SS_Teleporter_24
+  - first:
+      213: 446839595108177518
+    second: SS_Teleporter_25
+  - first:
+      213: 7065654748054840221
+    second: SS_Teleporter_Flower
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Teleporter_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6970099f2f5280b40800000000000000
+      internalID: 5406613078157559702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Teleporter_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b228fa3af44c1c4b0800000000000000
+      internalID: -5421836630049717717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Teleporter_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071addfc58a50b290800000000000000
+      internalID: -7876696217506438800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Teleporter_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aeaa48fb7879ada0800000000000000
+      internalID: -5933078560241963354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Teleporter_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce7ed5fd0b530020800000000000000
+      internalID: 2306787549661527753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Teleporter_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be87a1de0d31c7a0800000000000000
+      internalID: -6358734065014174028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Teleporter_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59f3ef6aeeb8baa0800000000000000
+      internalID: -6144951777438205604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Teleporter_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ad3b3cc916ee0d0800000000000000
+      internalID: -3391666143437268390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Teleporter_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c990f7181930ba410800000000000000
+      internalID: 1489288025253808540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Teleporter_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb55e0530c9e5d40800000000000000
+      internalID: 5575064926787296220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Teleporter_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a548645c2e966530800000000000000
+      internalID: 3847936844866536866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Teleporter_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efec36c696cee870800000000000000
+      internalID: 8714120679881764841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Teleporter_12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a2770d11ef56c60800000000000000
+      internalID: 7810928481209363009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Teleporter_13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7163e53659e27f3c0800000000000000
+      internalID: -4325937697913948649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Teleporter_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a4c202f76ad0d10800000000000000
+      internalID: 2093512466727979585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Teleporter_15
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6c2045497b062a0800000000000000
+      internalID: -6746190394108492075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Teleporter_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be60d306aacbce020800000000000000
+      internalID: 2372478543662483179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Teleporter_17
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9f796d0f7c6da70800000000000000
+      internalID: 8851481954849651171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Teleporter_18
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0d5a676f9540b10800000000000000
+      internalID: 1946779854018302176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Teleporter_19
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c1c137f033e9d10800000000000000
+      internalID: 2134199414868941951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Teleporter_20
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08bcbeaf8870f950800000000000000
+      internalID: 6480812422293403660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Teleporter_21
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b180ef507409ee1f0800000000000000
+      internalID: -1013714231394170853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Teleporter_22
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d54b16cba81b280800000000000000
+      internalID: -9029283236203438815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Teleporter_23
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bf724b43f1f1070800000000000000
+      internalID: 8079210567747238695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Teleporter_24
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063e4af5a27396c10800000000000000
+      internalID: 2047228160749396832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Teleporter_25
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66900a8e3e733600800000000000000
+      internalID: 446839595108177518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SS_Teleporter_10: 3847936844866536866
+      SS_Teleporter_23: 8079210567747238695
+      SS_Teleporter_17: 8851481954849651171
+      SS_Teleporter_21: -1013714231394170853
+      SS_Teleporter_0: 5406613078157559702
+      SS_Teleporter_12: 7810928481209363009
+      SS_Teleporter_19: 2134199414868941951
+      SS_Teleporter_25: 446839595108177518
+      SS_Teleporter_5: -6358734065014174028
+      SS_Teleporter_8: 1489288025253808540
+      SS_Teleporter_11: 8714120679881764841
+      SS_Teleporter_15: -6746190394108492075
+      SS_Teleporter_14: 2093512466727979585
+      SS_Teleporter_7: -3391666143437268390
+      SS_Teleporter_16: 2372478543662483179
+      SS_Teleporter_22: -9029283236203438815
+      SS_Teleporter_18: 1946779854018302176
+      SS_Teleporter_4: 2306787549661527753
+      SS_Teleporter_2: -7876696217506438800
+      SS_Teleporter_9: 5575064926787296220
+      SS_Teleporter_13: -4325937697913948649
+      SS_Teleporter_3: -5933078560241963354
+      SS_Teleporter_6: -6144951777438205604
+      SS_Teleporter_24: 2047228160749396832
+      SS_Teleporter_1: -5421836630049717717
+      SS_Teleporter_20: 6480812422293403660
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

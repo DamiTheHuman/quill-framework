@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 05acbc947d26b8f44801ef3f152f8bf1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5430620907834173169
+    second: Sonic_Victory_0
+  - first:
+      213: 1471758798692859282
+    second: Sonic_Victory_1
+  - first:
+      213: 7400874989381546069
+    second: Sonic_Victory_2
+  - first:
+      213: -3465588394427545794
+    second: Sonic_Victory_3
+  - first:
+      213: 9049688567842667225
+    second: Sonic_Victory_4
+  - first:
+      213: -7369182739620178104
+    second: Sonic_Victory_5
+  - first:
+      213: 7577167842570334199
+    second: Sonic_Victory_6
+  - first:
+      213: 1559418359158305924
+    second: Sonic_Victory_7
+  - first:
+      213: -3983431812097775862
+    second: Sonic_Victory_8
+  - first:
+      213: -8011845731850208986
+    second: Sonic_Victory_9
+  - first:
+      213: -7166756290781551098
+    second: Sonic_Victory_10
+  - first:
+      213: 8283734880260817655
+    second: Sonic_Victory_11
+  - first:
+      213: 2696019676209863634
+    second: Sonic_Victory_12
+  - first:
+      213: -5761648041585983449
+    second: Sonic_Victory_13
+  - first:
+      213: 2444542624195007308
+    second: Sonic_Victory_14
+  - first:
+      213: 5824557973272486981
+    second: Sonic_Victory_15
+  - first:
+      213: -8854582424395351435
+    second: Sonic_Victory_16
+  - first:
+      213: -6893466650680415779
+    second: Sonic_Victory_0
+  - first:
+      213: 657256236141349758
+    second: Sonic_Victory_1
+  - first:
+      213: -6869021359595611966
+    second: Sonic_Victory_2
+  - first:
+      213: 817124867052356572
+    second: Sonic_Victory_3
+  - first:
+      213: -812899490955515953
+    second: Sonic_Victory_4
+  - first:
+      213: 2968433901967091673
+    second: Sonic_Victory_5
+  - first:
+      213: 4097031768300117516
+    second: Sonic_Victory_6
+  - first:
+      213: -3215059152028489872
+    second: Sonic_Victory_7
+  - first:
+      213: -6951022676112395873
+    second: Sonic_Victory_8
+  - first:
+      213: 7207909620788341214
+    second: Sonic_Victory_9
+  - first:
+      213: 8102983054384136976
+    second: Sonic_Victory_10
+  - first:
+      213: 8963771792670228299
+    second: Sonic_Victory_11
+  - first:
+      213: 6993377382985419418
+    second: Sonic_Victory_12
+  - first:
+      213: 3330621472544440686
+    second: Sonic_Victory_13
+  - first:
+      213: -1932060909364372021
+    second: Sonic_Victory_14
+  - first:
+      213: -1626886381438966114
+    second: Sonic_Victory_15
+  - first:
+      213: -1118338640076282368
+    second: Sonic_Victory_16
+  - first:
+      213: -8906025180031208219
+    second: Tails_Victory_0
+  - first:
+      213: -4113897556166384317
+    second: Tails_Victory_1
+  - first:
+      213: -8932374299824060455
+    second: Tails_Victory_2
+  - first:
+      213: -3192353809701329166
+    second: Tails_Victory_3
+  - first:
+      213: -3662978362783120874
+    second: Tails_Victory_4
+  - first:
+      213: -7071628453747779218
+    second: Tails_Victory_5
+  - first:
+      213: 6401309856830789048
+    second: Tails_Victory_6
+  - first:
+      213: -3175089046823783402
+    second: Tails_Victory_7
+  - first:
+      213: -1215142262800619833
+    second: Tails_Victory_8
+  - first:
+      213: 7967283545466067702
+    second: Tails_Victory_9
+  - first:
+      213: -1221952122638901500
+    second: Tails_Victory_10
+  - first:
+      213: -8369301730374048265
+    second: Tails_Victory_11
+  - first:
+      213: -297990856451586173
+    second: Tails_Victory_12
+  - first:
+      213: 3416729772353517035
+    second: Tails_Victory_13
+  - first:
+      213: 7219915773540619346
+    second: Tails_Victory_14
+  - first:
+      213: -3099651085269069563
+    second: Tails_Victory_15
+  - first:
+      213: -8347383575590174873
+    second: Tails_Victory_16
+  - first:
+      213: -8069029750291998219
+    second: Tails_Victory_17
+  - first:
+      213: 4380535127832789426
+    second: Tails_Victory_18
+  - first:
+      213: -3068289981305936317
+    second: Tails_Victory_19
+  - first:
+      213: 7614312204205793359
+    second: Tails_Victory_20
+  - first:
+      213: -7875014095814706958
+    second: Tails_Victory_21
+  - first:
+      213: -6094748778008488595
+    second: Tails_Victory_22
+  - first:
+      213: 3358516693369745267
+    second: Tails_Victory_23
+  - first:
+      213: -5241933089469809916
+    second: Tails_Victory_0
+  - first:
+      213: 5709428785864993571
+    second: Tails_Victory_1
+  - first:
+      213: 2348176187524336456
+    second: Tails_Victory_2
+  - first:
+      213: 389759963421606189
+    second: Tails_Victory_3
+  - first:
+      213: -4342408794710941112
+    second: Tails_Victory_4
+  - first:
+      213: -4747610257898819368
+    second: Tails_Victory_5
+  - first:
+      213: -63949000874975770
+    second: Tails_Victory_6
+  - first:
+      213: 6585116315376628766
+    second: Tails_Victory_7
+  - first:
+      213: 21092196929142483
+    second: Tails_Victory_8
+  - first:
+      213: 2339648535577701386
+    second: Tails_Victory_9
+  - first:
+      213: 6949316567385801436
+    second: Tails_Victory_10
+  - first:
+      213: 361328668817418636
+    second: Tails_Victory_11
+  - first:
+      213: 7679747897551929577
+    second: Tails_Victory_12
+  - first:
+      213: 1441069516624155063
+    second: Tails_Victory_13
+  - first:
+      213: 3771400968955363385
+    second: Tails_Victory_14
+  - first:
+      213: -3954433929245514046
+    second: Tails_Victory_15
+  - first:
+      213: 9128538466717496391
+    second: Tails_Victory_16
+  - first:
+      213: -5421591411332039817
+    second: Tails_Victory_17
+  - first:
+      213: -3871092959362143500
+    second: Tails_Victory_18
+  - first:
+      213: 5206980850602266636
+    second: Knuckles_Victory_0
+  - first:
+      213: 2251181566607784806
+    second: Knuckles_Victory_1
+  - first:
+      213: 8388122235725891479
+    second: Knuckles_Victory_2
+  - first:
+      213: 5071343159880721938
+    second: Knuckles_Victory_3
+  - first:
+      213: -212289560669993419
+    second: Knuckles_Victory_4
+  - first:
+      213: -7380269864461009090
+    second: Knuckles_Victory_5
+  - first:
+      213: 4854523271827102672
+    second: Knuckles_Victory_6
+  - first:
+      213: -8395325198726483547
+    second: Knuckles_Victory_7
+  - first:
+      213: -1934513993884608046
+    second: Knuckles_Victory_8
+  - first:
+      213: 1391886697852593377
+    second: Knuckles_Victory_9
+  - first:
+      213: 4704813208728791379
+    second: Knuckles_Victory_10
+  - first:
+      213: 7515416474550273234
+    second: Knuckles_Victory_11
+  - first:
+      213: 2600181662628853314
+    second: Knuckles_Victory_12
+  - first:
+      213: 3387901562203708462
+    second: Knuckles_Victory_13
+  - first:
+      213: -7723341745316524020
+    second: Knuckles_Victory_14
+  - first:
+      213: -4727907150519952415
+    second: Knuckles_Victory_15
+  - first:
+      213: -6077159630220942005
+    second: Knuckles_Victory_16
+  - first:
+      213: 8305982261772997464
+    second: Knuckles_Victory_17
+  - first:
+      213: 4268339340588746996
+    second: Knuckles_Victory_0
+  - first:
+      213: 5800772177470288913
+    second: Knuckles_Victory_1
+  - first:
+      213: -6827915153194585319
+    second: Knuckles_Victory_2
+  - first:
+      213: -7805277691676481443
+    second: Knuckles_Victory_3
+  - first:
+      213: 3733294295720580944
+    second: Knuckles_Victory_4
+  - first:
+      213: -7506194416851598377
+    second: Knuckles_Victory_5
+  - first:
+      213: 1207629696741114095
+    second: Knuckles_Victory_6
+  - first:
+      213: 1491001803402738482
+    second: Knuckles_Victory_7
+  - first:
+      213: -4656619720209179736
+    second: Knuckles_Victory_8
+  - first:
+      213: -8989321333529799487
+    second: Knuckles_Victory_9
+  - first:
+      213: -7810912741327591276
+    second: Knuckles_Victory_10
+  - first:
+      213: 7490253652008422607
+    second: Knuckles_Victory_11
+  - first:
+      213: 4746277491414704589
+    second: Knuckles_Victory_12
+  - first:
+      213: -4683502493603291416
+    second: Knuckles_Victory_13
+  - first:
+      213: 2524678082523270674
+    second: Knuckles_Victory_14
+  - first:
+      213: 5807729099802313264
+    second: Knuckles_Victory_15
+  - first:
+      213: -5206692370761638508
+    second: Knuckles_Victory_16
+  - first:
+      213: -7881884367973376999
+    second: Knuckles_Victory_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Knuckles_Victory_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2678571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f80e9004003c3b30800000000000000
+      internalID: 5206980850602266636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Victory_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2678571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114f515cf8b708050800000000000000
+      internalID: 2251181566607784806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Victory_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2678571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9137451185f5e31a0800000000000000
+      internalID: 8388122235725891479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Victory_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2678571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58a7562b451ea390800000000000000
+      internalID: 5071343159880721938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Victory_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2678571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057da62d1635fc330800000000000000
+      internalID: -212289560669993419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Victory_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2678571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d34a8882f3a4d790800000000000000
+      internalID: -7380269864461009090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Victory_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2678571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe087769fcc52c010800000000000000
+      internalID: 4854523271827102672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Victory_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2678571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b79439d3a11b410800000000000000
+      internalID: -8395325198726483547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Victory_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2678571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab5ada490d506fb0800000000000000
+      internalID: -1934513993884608046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Victory_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2678571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c49d17efd38f3380800000000000000
+      internalID: 1391886697852593377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Victory_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2678571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498a899ee301a9390800000000000000
+      internalID: 4704813208728791379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Victory_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2678571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccc88de20ab2f760800000000000000
+      internalID: 7515416474550273234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Victory_12
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2678571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1a4394b3a2ed140800000000000000
+      internalID: 2600181662628853314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Victory_13
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2678571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee9e1cdb4bd00fb0800000000000000
+      internalID: 3387901562203708462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Victory_14
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2678571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e8309f655790320800000000000000
+      internalID: -7723341745316524020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Victory_15
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2678571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0328a6978d2399050800000000000000
+      internalID: -4727907150519952415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Victory_16
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2678571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d140200ec1eb7b0800000000000000
+      internalID: -6077159630220942005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles_Victory_17
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 0
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2678571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c1e366debed9290800000000000000
+      internalID: 8305982261772997464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Knuckles_Victory_15: -4727907150519952415
+      Knuckles_Victory_6: 4854523271827102672
+      Knuckles_Victory_12: 2600181662628853314
+      Knuckles_Victory_5: -7380269864461009090
+      Knuckles_Victory_8: -1934513993884608046
+      Knuckles_Victory_1: 2251181566607784806
+      Knuckles_Victory_7: -8395325198726483547
+      Knuckles_Victory_3: 5071343159880721938
+      Knuckles_Victory_9: 1391886697852593377
+      Knuckles_Victory_4: -212289560669993419
+      Knuckles_Victory_14: -7723341745316524020
+      Knuckles_Victory_10: 4704813208728791379
+      Knuckles_Victory_13: 3387901562203708462
+      Knuckles_Victory_0: 5206980850602266636
+      Knuckles_Victory_11: 7515416474550273234
+      Knuckles_Victory_17: 8305982261772997464
+      Knuckles_Victory_2: 8388122235725891479
+      Knuckles_Victory_16: -6077159630220942005
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

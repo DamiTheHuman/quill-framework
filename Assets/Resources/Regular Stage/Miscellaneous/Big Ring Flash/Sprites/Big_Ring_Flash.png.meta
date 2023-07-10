@@ -1,0 +1,539 @@
+fileFormatVersion: 2
+guid: b5a6c972146b1df4eae1696ecb299d90
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6219573577718615411
+    second: Special_Stage_Ring_Flash_0
+  - first:
+      213: 361665634929803162
+    second: Special_Stage_Ring_Flash_1
+  - first:
+      213: 5768614114070783777
+    second: Special_Stage_Ring_Flash_2
+  - first:
+      213: 1584314424404042482
+    second: Special_Stage_Ring_Flash_3
+  - first:
+      213: 6001468175088958886
+    second: Special_Stage_Ring_Flash_4
+  - first:
+      213: -6690977821385403817
+    second: Special_Stage_Ring_Flash_5
+  - first:
+      213: -576228466736150565
+    second: Special_Stage_Ring_Flash_6
+  - first:
+      213: -7777286213295063106
+    second: Special_Stage_Ring_Flash_7
+  - first:
+      213: 1741057876339087989
+    second: Special_Stage_Ring_Flash_8
+  - first:
+      213: 3753768249728757946
+    second: Special_Stage_Ring_Flash_9
+  - first:
+      213: 5062317369595700874
+    second: Special_Stage_Ring_Flash_10
+  - first:
+      213: 5623851591651861707
+    second: Special_Stage_Ring_Flash_11
+  - first:
+      213: -4846425071443568976
+    second: Special_Stage_Ring_Flash_12
+  - first:
+      213: 2598557451709743971
+    second: Special_Stage_Ring_Flash_13
+  - first:
+      213: 7191191412379556134
+    second: Special_Stage_Ring_Flash_14
+  - first:
+      213: -4283389257287747643
+    second: Special_Stage_Ring_Flash_15
+  - first:
+      213: 3065759126762259311
+    second: Special_Stage_Ring_Flash_16
+  - first:
+      213: -7991850699596515239
+    second: Special_Stage_Ring_Flash_17
+  - first:
+      213: 827309890915068164
+    second: Special_Stage_Ring_Flash_0
+  - first:
+      213: -1169353044432177950
+    second: Special_Stage_Ring_Flash_1
+  - first:
+      213: 6966042795492466912
+    second: Special_Stage_Ring_Flash_2
+  - first:
+      213: -5951716194251254014
+    second: Special_Stage_Ring_Flash_3
+  - first:
+      213: -4518718986102046978
+    second: Special_Stage_Ring_Flash_4
+  - first:
+      213: -1121765039571387822
+    second: Special_Stage_Ring_Flash_5
+  - first:
+      213: -6791265877253881360
+    second: Special_Stage_Ring_Flash_6
+  - first:
+      213: -686693988809686865
+    second: Special_Stage_Ring_Flash_7
+  - first:
+      213: 5560540069138404188
+    second: Special_Stage_Ring_Flash_8
+  - first:
+      213: 8721539231672417678
+    second: Special_Stage_Ring_Flash_9
+  - first:
+      213: -5588960107910419807
+    second: Special_Stage_Ring_Flash_10
+  - first:
+      213: -5163816347594355601
+    second: Special_Stage_Ring_Flash_11
+  - first:
+      213: 3009323484473505805
+    second: Special_Stage_Ring_Flash_12
+  - first:
+      213: 4469947924680135725
+    second: Special_Stage_Ring_Flash_13
+  - first:
+      213: 4161126276235195209
+    second: Special_Stage_Ring_Flash_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Big_Ring_Flash_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409e82766f13b7b00800000000000000
+      internalID: -6219573577718615411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big_Ring_Flash_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 73
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e439910a9f95cfe0800000000000000
+      internalID: 361665634929803162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big_Ring_Flash_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 73
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e06f7bc30b5ca060800000000000000
+      internalID: 5768614114070783777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big_Ring_Flash_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 73
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207d6b5a7a1476da0800000000000000
+      internalID: 1584314424404042482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big_Ring_Flash_4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 73
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efef299f5094a41c0800000000000000
+      internalID: 6001468175088958886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big_Ring_Flash_5
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 73
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a35eec3a0be60f0800000000000000
+      internalID: -6690977821385403817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big_Ring_Flash_6
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 73
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f10d039aa390c1a0800000000000000
+      internalID: -576228466736150565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big_Ring_Flash_7
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 73
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa04a97947f5876f0800000000000000
+      internalID: -7777286213295063106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big_Ring_Flash_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53125c5bb10b2d40800000000000000
+      internalID: 1741057876339087989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big_Ring_Flash_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c909e234071322e40afc9b21dd5bbff8
+      internalID: -1740521983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big_Ring_Flash_10
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f573ec3c68860ff40a1a6588327619e2
+      internalID: -1895010914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big_Ring_Flash_11
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fcc7d145504d84ebfe1347eff7e385
+      internalID: -912050190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big_Ring_Flash_12
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2702890121fb97c4a958837d463c35e0
+      internalID: -192038754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big_Ring_Flash_13
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 0
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81e185146ee6a04a8bae39627e354c3
+      internalID: 95586584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big_Ring_Flash_14
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a8e655e225dcf4fa4e9c8fe11e46f1
+      internalID: -854385101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Big_Ring_Flash_5: -6690977821385403817
+      Big_Ring_Flash_6: -576228466736150565
+      Big_Ring_Flash_14: -854385101
+      Big_Ring_Flash_0: -6219573577718615411
+      Big_Ring_Flash_1: 361665634929803162
+      Big_Ring_Flash_4: 6001468175088958886
+      Big_Ring_Flash_2: 5768614114070783777
+      Big_Ring_Flash_3: 1584314424404042482
+      Big_Ring_Flash_11: -912050190
+      Big_Ring_Flash_13: 95586584
+      Big_Ring_Flash_10: -1895010914
+      Big_Ring_Flash_12: -192038754
+      Big_Ring_Flash_9: -1740521983
+      Big_Ring_Flash_7: -7777286213295063106
+      Big_Ring_Flash_8: 1741057876339087989
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

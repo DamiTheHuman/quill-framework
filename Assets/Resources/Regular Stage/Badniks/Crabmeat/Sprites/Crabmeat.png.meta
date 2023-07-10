@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: e49b55c7497c3364da59049360efa6db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3865389444927737833
+    second: Crabmeat_0
+  - first:
+      213: 8864288675463168029
+    second: Crabmeat_0
+  - first:
+      213: 8123715811355759879
+    second: Crabmeat_1
+  - first:
+      213: 219623992662181642
+    second: Crabmeat_2
+  - first:
+      213: 2121396771436105836
+    second: Crabmeat_3
+  - first:
+      213: -6568093495660881063
+    second: Crabmeat_4
+  - first:
+      213: -2302115104027780250
+    second: Crabmeat_5
+  - first:
+      213: 3296877187770094323
+    second: Crabmeat_6
+  - first:
+      213: -4847975484577218254
+    second: Crabmeat_7
+  - first:
+      213: 6964762775955386293
+    second: Crabmeat_8
+  - first:
+      213: 4331108592567621296
+    second: Crabmeat_9
+  - first:
+      213: -2038760476279597519
+    second: Crabmeat_1
+  - first:
+      213: -3286611327487266723
+    second: Crabmeat_2
+  - first:
+      213: -6763672370098441250
+    second: Crabmeat_3
+  - first:
+      213: -5272585937608878872
+    second: Crabmeat_4
+  - first:
+      213: -1707355378550929231
+    second: Crabmeat_5
+  - first:
+      213: 7600478015836277140
+    second: Crabmeat_6
+  - first:
+      213: 7308394451488095472
+    second: Crabmeat_7
+  - first:
+      213: 598565537529932426
+    second: Crabmeat_8
+  - first:
+      213: -5716450821754940587
+    second: Crabmeat_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crabmeat_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 42
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d100087d597440b70800000000000000
+      internalID: 3865389444927737833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabmeat_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 44
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1369f3d062ed4b3e0800000000000000
+      internalID: 8123715811355759879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabmeat_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 44
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50b85e296c9362d0800000000000000
+      internalID: 219623992662181642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabmeat_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 45
+        height: 31
+      alignment: 9
+      pivot: {x: 0.4888889, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3782b90db9222a0800000000000000
+      internalID: 2121396771436105836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabmeat_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 0
+        width: 45
+        height: 31
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e45a1d660304d6b0800000000000000
+      internalID: -6568093495660881063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabmeat_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 44
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b88e1444514e48e0800000000000000
+      internalID: -2302115104027780250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabmeat_6
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 44
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49946118c725a7960800000000000000
+      internalID: 3296877187770094323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabmeat_7
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 48
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc32673802ac6560800000000000000
+      internalID: -4847975484577218254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabmeat_8
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 0
+        width: 48
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a234f5f288e4800800000000000000
+      internalID: 6964762775955386293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabmeat_9
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 0
+        width: 47
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5106383, y: 0.55172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5539e41c3461ba0b0800000000000000
+      internalID: 4331108592567621296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Crabmeat_3: 2121396771436105836
+      Crabmeat_6: 3296877187770094323
+      Crabmeat_0: 3865389444927737833
+      Crabmeat_4: -6568093495660881063
+      Crabmeat_5: -2302115104027780250
+      Crabmeat_9: 4331108592567621296
+      Crabmeat_7: -4847975484577218254
+      Crabmeat_8: 6964762775955386293
+      Crabmeat_1: 8123715811355759879
+      Crabmeat_2: 219623992662181642
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

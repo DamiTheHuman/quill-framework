@@ -1,0 +1,1090 @@
+fileFormatVersion: 2
+guid: b46dd6803c9dfb34bab2d0f7548329cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3508938963326353459
+    second: Tails_Bored_0
+  - first:
+      213: 5590654220923047083
+    second: Tails_Bored_1
+  - first:
+      213: 893194617315759305
+    second: Tails_Bored_2
+  - first:
+      213: -5503867979693305071
+    second: Tails_Bored_3
+  - first:
+      213: -3118254017140099963
+    second: Tails_Bored_4
+  - first:
+      213: -83526038454836479
+    second: Tails_Bored_5
+  - first:
+      213: -3248638528976524531
+    second: Tails_Bored_6
+  - first:
+      213: -1477743966218727665
+    second: Tails_Bored_7
+  - first:
+      213: -5281885304912954256
+    second: Tails_Bored_8
+  - first:
+      213: -3187863898085564938
+    second: Tails_Bored_9
+  - first:
+      213: -8710609966030063248
+    second: Tails_Bored_10
+  - first:
+      213: 2583719475941545587
+    second: Tails_Bored_11
+  - first:
+      213: 5019371430983037848
+    second: Tails_Bored_12
+  - first:
+      213: 5735778945410910825
+    second: Tails_Bored_13
+  - first:
+      213: 696799614864627261
+    second: Tails_Bored_14
+  - first:
+      213: 1794445917745658819
+    second: Tails_Bored_15
+  - first:
+      213: 5355517802554258069
+    second: Tails_Bored_16
+  - first:
+      213: 8165996358524095569
+    second: Tails_Bored_17
+  - first:
+      213: 8574410925756568947
+    second: Tails_Bored_18
+  - first:
+      213: -636819352559521728
+    second: Tails_Bored_19
+  - first:
+      213: 2555744101828700015
+    second: Tails_Bored_20
+  - first:
+      213: -2165564762900008570
+    second: Tails_Bored_21
+  - first:
+      213: 5217748566178618331
+    second: Tails_Bored_22
+  - first:
+      213: -3777880208490738970
+    second: Tails_Bored_23
+  - first:
+      213: -7593264692211159301
+    second: Tails_Bored_24
+  - first:
+      213: 9016813148009942851
+    second: Tails_Bored_25
+  - first:
+      213: 8652823429383438284
+    second: Tails_Bored_26
+  - first:
+      213: 7467045904797787809
+    second: Tails_Bored_27
+  - first:
+      213: 5147522396131571528
+    second: Tails_Bored_28
+  - first:
+      213: -346162455912223211
+    second: Tails_Bored_29
+  - first:
+      213: 2396317122253118380
+    second: Tails_Bored_30
+  - first:
+      213: -451258059947336907
+    second: Tails_Bored_31
+  - first:
+      213: -4792674928367070544
+    second: Tails_Bored_32
+  - first:
+      213: 6517939969912462552
+    second: Tails_Bored_33
+  - first:
+      213: -6650365341608927124
+    second: Tails_Bored_34
+  - first:
+      213: -3652485117588352246
+    second: Tails_Bored_0
+  - first:
+      213: -4600354072874651876
+    second: Tails_Bored_1
+  - first:
+      213: -8678746889723869424
+    second: Tails_Bored_2
+  - first:
+      213: -1500658708094498176
+    second: Tails_Bored_3
+  - first:
+      213: 477226863547651844
+    second: Tails_Bored_4
+  - first:
+      213: -6020367527819380567
+    second: Tails_Bored_5
+  - first:
+      213: 8365867598985098223
+    second: Tails_Bored_6
+  - first:
+      213: 8671623608305436540
+    second: Tails_Bored_7
+  - first:
+      213: -2024174156954344899
+    second: Tails_Bored_8
+  - first:
+      213: 2930348740690711985
+    second: Tails_Bored_9
+  - first:
+      213: 4637708992129530180
+    second: Tails_Bored_10
+  - first:
+      213: 2462298531216834660
+    second: Tails_Bored_11
+  - first:
+      213: 5793601728139907366
+    second: Tails_Bored_12
+  - first:
+      213: 7875790787150802580
+    second: Tails_Bored_13
+  - first:
+      213: 7473770700921743858
+    second: Tails_Bored_14
+  - first:
+      213: 5648224512333655354
+    second: Tails_Bored_15
+  - first:
+      213: -6830281822994837737
+    second: Tails_Bored_16
+  - first:
+      213: -1788491399126341397
+    second: Tails_Bored_17
+  - first:
+      213: 6255896520746104749
+    second: Tails_Bored_18
+  - first:
+      213: -3653309896079596887
+    second: Tails_Bored_19
+  - first:
+      213: 1472048373475489957
+    second: Tails_Bored_20
+  - first:
+      213: -6326485847391915458
+    second: Tails_Bored_21
+  - first:
+      213: 6933027311623241327
+    second: Tails_Bored_22
+  - first:
+      213: -6371234991343121038
+    second: Tails_Bored_23
+  - first:
+      213: 7393116967434170633
+    second: Tails_Bored_24
+  - first:
+      213: 3656161516965727685
+    second: Tails_Bored_25
+  - first:
+      213: 4496656952922255649
+    second: Tails_Bored_26
+  - first:
+      213: 9217722682128475227
+    second: Tails_Bored_27
+  - first:
+      213: 481963960233001770
+    second: Tails_Bored_28
+  - first:
+      213: -6900468185966007852
+    second: Tails_Bored_29
+  - first:
+      213: -5136160145943030061
+    second: Tails_Bored_30
+  - first:
+      213: -3268175866015631697
+    second: Tails_Bored_31
+  - first:
+      213: -6251978180960200929
+    second: Tails_Bored_32
+  - first:
+      213: -66568480303116405
+    second: Tails_Bored_33
+  - first:
+      213: 4448851307098756037
+    second: Tails_Bored_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tails_Bored_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03deb22324cf4dc0800000000000000
+      internalID: -3508938963326353459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Bored_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fe84d28524820c0800000000000000
+      internalID: 5590654220923047083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Bored_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0178b7e8fa5ee8780800000000000000
+      internalID: 893194617315759305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Bored_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a4ee61bd69c2be0800000000000000
+      internalID: -5503867979693305071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Bored_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407180fcd437f9600800000000000000
+      internalID: -3118254017140099963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Bored_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8770771ab537ca0800000000000000
+      internalID: -83526038454836479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Bored_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3f47bc148891470800000000000000
+      internalID: -3248638528976524531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Bored_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77cfee3abbc75870800000000000000
+      internalID: -1477743966218727665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Bored_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32e53b2450b8e3e0800000000000000
+      internalID: -5281885304912954256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Bored_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b512ec67a0baa820800000000000000
+      internalID: -3187863898085564938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Bored_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449f387b1c37c5040800000000000000
+      internalID: -8710609966030063248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Bored_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4604524e777db2220800000000000000
+      internalID: 2583719475941545587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Bored_12
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6215edf6312076050800000000000000
+      internalID: 5019371430983037848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Bored_13
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49eea614efd6c4d60800000000000000
+      internalID: 5735778945410910825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Bored_14
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9a921dada28b760800000000000000
+      internalID: 696799614864627261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Bored_15
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d2d45b446826e40800000000000000
+      internalID: 1794445917745658819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Bored_16
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fc590ded6f531a0800000000000000
+      internalID: 5355517802554258069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Bored_17
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8ab3f5c800e27e0800000000000000
+      internalID: 8165996358524095569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Bored_18
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da77cae8db861d650800000000000000
+      internalID: 8574410925756568947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Bored_19
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2a1cd6106dc4dc0800000000000000
+      internalID: -636819352559521728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Bored_20
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8b2394234cd6410800000000000000
+      internalID: 2555744101828700015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Bored_21
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e323ba514aec338a0800000000000000
+      internalID: -2165564762900008570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Bored_22
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e726f6b9f073060800000000000000
+      internalID: 5217748566178618331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Bored_23
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d44781883d497a0800000000000000
+      internalID: -3777880208490738970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Bored_24
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901b3d226b0a99660800000000000000
+      internalID: -7593264692211159301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Bored_25
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd023c478b4db230800000000000000
+      internalID: 9016813148009942851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Bored_26
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121b8b3aca5576e30800000000000000
+      internalID: 8652823429383438284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Bored_27
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54245a11fdebef70800000000000000
+      internalID: 7467045904797787809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Bored_28
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a238a341ba740b600800000000000000
+      internalID: 5147522396131571528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Bored_29
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9ac9fbebc9c30a0800000000000000
+      internalID: -346162455912223211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Bored_30
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d61c8f4f81b8b8b0800000000000000
+      internalID: 2396317122253118380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Bored_31
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa632aa8d5b15a2d0800000000000000
+      internalID: -451258059947336907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Bored_32
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17df5408f28c39a0800000000000000
+      internalID: -4792674928367070544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Bored_33
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f8b42e150831ff0800000000000000
+      internalID: 6517939969912462552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Bored_34
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3572a51be7dbd30800000000000000
+      internalID: -6650365341608927124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tails_Bored_28: 5147522396131571528
+      Tails_Bored_21: -2165564762900008570
+      Tails_Bored_12: 5019371430983037848
+      Tails_Bored_22: 5217748566178618331
+      Tails_Bored_27: 7467045904797787809
+      Tails_Bored_34: -6650365341608927124
+      Tails_Bored_17: 8165996358524095569
+      Tails_Bored_30: 2396317122253118380
+      Tails_Bored_1: 5590654220923047083
+      Tails_Bored_0: -3508938963326353459
+      Tails_Bored_11: 2583719475941545587
+      Tails_Bored_18: 8574410925756568947
+      Tails_Bored_19: -636819352559521728
+      Tails_Bored_24: -7593264692211159301
+      Tails_Bored_13: 5735778945410910825
+      Tails_Bored_20: 2555744101828700015
+      Tails_Bored_33: 6517939969912462552
+      Tails_Bored_3: -5503867979693305071
+      Tails_Bored_31: -451258059947336907
+      Tails_Bored_4: -3118254017140099963
+      Tails_Bored_5: -83526038454836479
+      Tails_Bored_23: -3777880208490738970
+      Tails_Bored_25: 9016813148009942851
+      Tails_Bored_9: -3187863898085564938
+      Tails_Bored_14: 696799614864627261
+      Tails_Bored_6: -3248638528976524531
+      Tails_Bored_7: -1477743966218727665
+      Tails_Bored_2: 893194617315759305
+      Tails_Bored_8: -5281885304912954256
+      Tails_Bored_10: -8710609966030063248
+      Tails_Bored_29: -346162455912223211
+      Tails_Bored_15: 1794445917745658819
+      Tails_Bored_16: 5355517802554258069
+      Tails_Bored_26: 8652823429383438284
+      Tails_Bored_32: -4792674928367070544
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,457 @@
+fileFormatVersion: 2
+guid: 8189c1e2ef3169b4080dd50bcea57eb0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ghz_background_0
+  - first:
+      213: 21300002
+    second: ghz_background_1
+  - first:
+      213: 21300004
+    second: ghz_background_2
+  - first:
+      213: 21300006
+    second: ghz_background_3
+  - first:
+      213: 21300008
+    second: ghz_background_4
+  - first:
+      213: 21300010
+    second: ghz_background_5
+  - first:
+      213: 21300012
+    second: ghz_background_6
+  - first:
+      213: -8146896112286179792
+    second: ghz_background_0
+  - first:
+      213: 4246860388582135211
+    second: ghz_background_1
+  - first:
+      213: -7518591363881291095
+    second: ghz_background_2
+  - first:
+      213: 4088767620341974771
+    second: ghz_background_3
+  - first:
+      213: 4172675037008038203
+    second: ghz_background_4
+  - first:
+      213: -2247105337150088987
+    second: ghz_background_5
+  - first:
+      213: 1921388027052482408
+    second: ghz_background_6
+  - first:
+      213: -853897088776888730
+    second: ghz_background_7
+  - first:
+      213: -2738911551474480329
+    second: ghz_background_8
+  - first:
+      213: -4184943693514758654
+    second: ghz_background_9
+  - first:
+      213: 5462063693565462138
+    second: ghz_background_10
+  - first:
+      213: 1900308120469634108
+    second: ghz_background_11
+  - first:
+      213: 1623587963892318801
+    second: ghz_background_12
+  - first:
+      213: -9074924504680935198
+    second: ghz_background_13
+  - first:
+      213: 8434787280806570321
+    second: ghz_background_14
+  - first:
+      213: 5625044251523219328
+    second: ghz_background_15
+  - first:
+      213: -4536910355306551145
+    second: ghz_background_16
+  - first:
+      213: 3384588117132390002
+    second: ghz_background_17
+  - first:
+      213: 428942230504425215
+    second: ghz_background_18
+  - first:
+      213: -5680750424315545291
+    second: ghz_background_19
+  - first:
+      213: 272949322251875002
+    second: ghz_background_20
+  - first:
+      213: 2597016529182390769
+    second: ghz_background_21
+  - first:
+      213: -8854555761070181797
+    second: ghz_background_22
+  - first:
+      213: -6637903347748572603
+    second: ghz_background_23
+  - first:
+      213: 6749392339786028627
+    second: ghz_background_24
+  - first:
+      213: -4726337049472936084
+    second: ghz_background_25
+  - first:
+      213: -5665641317108210336
+    second: ghz_background_26
+  - first:
+      213: -9141904871568315827
+    second: ghz_background_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ghz_background_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 1792
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03edb25662960fe80800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghz_background_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 1792
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e96b43f195624f0800000000000000
+      internalID: -853897088776888730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghz_background_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 256
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159657ca7526e0570800000000000000
+      internalID: 8434787280806570321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghz_background_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 256
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ff4e9a1fb201e40800000000000000
+      internalID: 5625044251523219328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghz_background_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 144
+        width: 256
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7986926c118a901c0800000000000000
+      internalID: -4536910355306551145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghz_background_17
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 144
+        width: 256
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e2fa0d5f878fe20800000000000000
+      internalID: 3384588117132390002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghz_background_18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 144
+        width: 256
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6416e9fa8e3f500800000000000000
+      internalID: 428942230504425215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghz_background_19
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 144
+        width: 256
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539b505469be921b0800000000000000
+      internalID: -5680750424315545291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghz_background_20
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 144
+        width: 256
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2b18266f5b9c300800000000000000
+      internalID: 272949322251875002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghz_background_23
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 144
+        width: 256
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542f118031e61e3a0800000000000000
+      internalID: -6637903347748572603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghz_background_26
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 144
+        width: 256
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0652dfc6d399f51b0800000000000000
+      internalID: -5665641317108210336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 824c31442e92c414e975a0b049128bd2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ghz_background_7: -853897088776888730
+      ghz_background_16: -4536910355306551145
+      ghz_background_0: 21300000
+      ghz_background_18: 428942230504425215
+      ghz_background_23: -6637903347748572603
+      ghz_background_14: 8434787280806570321
+      ghz_background_26: -5665641317108210336
+      ghz_background_19: -5680750424315545291
+      ghz_background_17: 3384588117132390002
+      ghz_background_15: 5625044251523219328
+      ghz_background_20: 272949322251875002
+  spritePackingTag: GHZ Background
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,296 @@
+fileFormatVersion: 2
+guid: 7b7193d611df0774db5d73e6cc4de443
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 16702718166741353
+    second: Tails_Add_On_Action_B_0
+  - first:
+      213: -4306119476503971429
+    second: Tails_Add_On_Action_B_1
+  - first:
+      213: 6970566989131264725
+    second: Tails_Add_On_Action_B_2
+  - first:
+      213: 7935880653812419464
+    second: Tails_Add_On_Action_B_3
+  - first:
+      213: 2866371244150141790
+    second: Tails_Add_On_Action_B_4
+  - first:
+      213: 2847530466641936406
+    second: Tails_Add_On_Action_B_5
+  - first:
+      213: -3990840811139140362
+    second: Tails_Add_On_Action_B_0
+  - first:
+      213: 1028547938820302482
+    second: Tails_Add_On_Action_B_1
+  - first:
+      213: 8671335819264258740
+    second: Tails_Add_On_Action_B_2
+  - first:
+      213: 8784971254181799286
+    second: Tails_Add_On_Action_B_3
+  - first:
+      213: -4609801557203659600
+    second: Tails_Add_On_Action_B_4
+  - first:
+      213: 5913874079757381000
+    second: Tails_Add_On_Action_B_5
+  - first:
+      213: 5106814548277655249
+    second: Tails_Add_On_Action_Jump_0
+  - first:
+      213: 3795167152366208310
+    second: Tails_Add_On_Action_Jump_1
+  - first:
+      213: 4503925266041326679
+    second: Tails_Add_On_Action_Jump_2
+  - first:
+      213: -1186955385405145516
+    second: Tails_Add_On_Action_Jump_3
+  - first:
+      213: 1237669669499946071
+    second: Tails_Add_On_Action_Jump_4
+  - first:
+      213: 378954286551561091
+    second: Tails_Add_On_Action_Jump_5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tails_Add_On_Action_B_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f47be83d6fad98c0800000000000000
+      internalID: 16702718166741353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Add_On_Action_B_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29628df96e2264e00800000000000000
+      internalID: -4306119476503971429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Add_On_Action_B_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2fd532cf5c65870800000000000000
+      internalID: 6970566989131264725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Add_On_Action_B_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67526879fcc7ae970800000000000000
+      internalID: 7935880653812419464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Add_On_Action_B_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b455d158e1b600c0800000000000000
+      internalID: 2866371244150141790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Add_On_Action_B_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d245a742d421250800000000000000
+      internalID: 2847530466641936406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tails_Add_On_Action_B_1: -4306119476503971429
+      Tails_Add_On_Action_B_5: 2847530466641936406
+      Tails_Add_On_Action_B_2: 6970566989131264725
+      Tails_Add_On_Action_B_0: 16702718166741353
+      Tails_Add_On_Action_B_4: 2866371244150141790
+      Tails_Add_On_Action_B_3: 7935880653812419464
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Other Resources/Scenes/Disclaimer/Scene/Disclaimer Scene.unity
+    guid: b2d432e98cf5633418cd9fb27d4778b0
+  - enabled: 1
+    path: Assets/Other Resources/Scenes/Framework Intro Scene/Scene/Framework Scene.unity
+    guid: 411fd4ee4f3bdea4c877823f4d480ab8
+  - enabled: 1
+    path: Assets/Other Resources/Scenes/Main Menu/Scene/Main Menu Scene.unity
+    guid: c34beac54d29e65448952613c8dfdca8
+  - enabled: 1
+    path: Assets/Resources/Act Skin/Quasar Lake/Scenes/Quasar Lake Act 1.unity
+    guid: 039dfce8f55bd2449a39cb67f0e22cba
+  - enabled: 1
+    path: Assets/Resources/Act Skin/Quasar Lake/Scenes/Quasar Lake Act 2.unity
+    guid: d3c34505f25ce584986048089442d83b
+  - enabled: 1
+    path: Assets/Other Resources/Scenes/Special Stages/Scenes/Special Stage.unity
+    guid: 11c505a2b26f1ff48bdea3f63b794152
+  - enabled: 1
+    path: Assets/Other Resources/Scenes/Special Stages/Scenes/Act Clear Special Stage
+      Scene.unity
+    guid: b53cfe4450216aa4683a0c0dc588ecd1
+  - enabled: 1
+    path: Assets/Other Resources/Scenes/Credits/Scene/Credits.unity
+    guid: 0b46140af976cae4cbfe6730a2b93eed
+  - enabled: 1
+    path: Assets/Other Resources/Scenes/SAGE Scene/Scene/Scene/SAGE Intro Scene.unity
+    guid: 9dfa71ecff761c841ba398b35acbed1a
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 16c3b1c9893058e4dbe87dc708316d51,
+      type: 2}

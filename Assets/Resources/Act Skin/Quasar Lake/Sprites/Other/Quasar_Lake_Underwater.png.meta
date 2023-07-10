@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: f65ef9670e45fe4469f3f15a1b2aa028
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Quasar_Lake_Underwater_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86296c408a92db545a6141a7fb83337c
+      internalID: 207675454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Underwater_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f426280dc701bb3499403f92effe9b77
+      internalID: -2116934116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Underwater_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172c25681c4943346b2a32048442d7c5
+      internalID: -544714118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Underwater_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9869a55cafca6b44f848661e4984813d
+      internalID: -1697695672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Underwater_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b750338c2f0b494589869bb6701daaa
+      internalID: 494425668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Underwater_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed8808d562858148a1d6fcca2b4dd3a
+      internalID: 422403396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Underwater_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7323b746318289644b341101cfa81996
+      internalID: -1933818208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Underwater_7
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5f5eb2fdfdb0f4ba5ade09e9757917
+      internalID: 1106580369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Underwater_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936832ab3ef903d4ba4465ff6d5a7d74
+      internalID: -737711753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Underwater_9
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da51ca8acd9c37b4daecd072ec217256
+      internalID: -1030793662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Underwater_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0539ec6fe662a0a4dbce82ef009c4b50
+      internalID: -1342987617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Underwater_11
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d2208fbcdab044483de8463f240d49
+      internalID: 1998397177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Underwater_12
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f9037cd2aa0a243a6429d769d3583e
+      internalID: -647528783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Underwater_13
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07652c15e463bb8458bf00614d85043c
+      internalID: 142886483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Underwater_14
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ea14372f971d04aa57a60b97ba0d30
+      internalID: 1465974376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Underwater_15
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f24d0140538fdc48af4a8eb1ba62dad
+      internalID: -630439558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Underwater_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 128
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e8f1a3a47bc2443b64e1ffa58da2a7
+      internalID: -1086689052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Underwater_17
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 4
+        width: 128
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc20f3f528bf19a4fafab4213100caca
+      internalID: -2132420269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Underwater_18
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 4
+        width: 128
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933113e3d0a0a634ba68b2c98b976cb5
+      internalID: -663564865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Underwater_19
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 4
+        width: 128
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7f7c5cd9df7c84f8d85438da9cb3f2
+      internalID: 1122773794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Underwater_20
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 123
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa525718357738488225d45b59d3626
+      internalID: -522404158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Underwater_21
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 123
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9b049dd8ae6844d933d4e2e5cd558f
+      internalID: -270782797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Underwater_22
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 123
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0945b781ab73c334ba33ac50293a1226
+      internalID: -1840445017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Underwater_23
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 100
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a684ab056e3a145b737dbeab4214af
+      internalID: -733479099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Underwater_24
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 97
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0979f98aa1df5e43867a7784561f937
+      internalID: 1637845248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Underwater_25
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 97
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d275bb1131aaa7047a7d7eae1ab08728
+      internalID: -1662983152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Underwater_26
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 97
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a3af5431781124e8c42fe6692dfbe9
+      internalID: 2142369341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Underwater_Lily_Pad
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 89
+        width: 64
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88763093baf43ac459b2df418390e901
+      internalID: -1053877262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Underwater_28
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 71
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f33428c6875c443acf1bd8504b5fbd
+      internalID: 470820857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Underwater_29
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 71
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382eed74e5837d64d9ef46afcff1011e
+      internalID: 1417455396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Underwater_30
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 71
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54bfa3ec26625f44980334e02977ada
+      internalID: -68834297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Underwater_31
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 4
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469396e6e11f976439a3d6656e3fae95
+      internalID: -2025034821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Underwater_32
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 37
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d390bb80cfce3cc438de5e481ddb5fe5
+      internalID: 1577472875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quasar_Lake_Underwater_33
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 4
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b644fc22fcfab6744b95624b8e9e7ff7
+      internalID: 1287533804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Quasar_Lake_Underwater_17: -2132420269
+      Quasar_Lake_Underwater_20: -522404158
+      Quasar_Lake_Underwater_12: -647528783
+      Quasar_Lake_Underwater_31: -2025034821
+      Quasar_Lake_Underwater_15: -630439558
+      Quasar_Lake_Underwater_28: 470820857
+      Quasar_Lake_Underwater_26: 2142369341
+      Quasar_Lake_Underwater_13: 142886483
+      Quasar_Lake_Underwater_9: -1030793662
+      Quasar_Lake_Underwater_33: 1287533804
+      Quasar_Lake_Underwater_6: -1933818208
+      Quasar_Lake_Underwater_24: 1637845248
+      Quasar_Lake_Underwater_29: 1417455396
+      Quasar_Lake_Underwater_32: 1577472875
+      Quasar_Lake_Underwater_4: 494425668
+      Quasar_Lake_Underwater_11: 1998397177
+      Quasar_Lake_Underwater_14: 1465974376
+      Quasar_Lake_Underwater_5: 422403396
+      Quasar_Lake_Underwater_3: -1697695672
+      Quasar_Lake_Underwater_21: -270782797
+      Quasar_Lake_Underwater_10: -1342987617
+      Quasar_Lake_Underwater_7: 1106580369
+      Quasar_Lake_Underwater_22: -1840445017
+      Quasar_Lake_Underwater_19: 1122773794
+      Quasar_Lake_Underwater_8: -737711753
+      Quasar_Lake_Underwater_23: -733479099
+      Quasar_Lake_Underwater_30: -68834297
+      Quasar_Lake_Underwater_1: -2116934116
+      Quasar_Lake_Underwater_0: 207675454
+      Quasar_Lake_Underwater_16: -1086689052
+      Quasar_Lake_Underwater_18: -663564865
+      Quasar_Lake_Underwater_Lily_Pad: -1053877262
+      Quasar_Lake_Underwater_2: -544714118
+      Quasar_Lake_Underwater_25: -1662983152
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

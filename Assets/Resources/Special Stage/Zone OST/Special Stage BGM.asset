@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 313dc557933243b4daaf82f355fa124b, type: 3}
+  m_Name: Special Stage BGM
+  m_EditorClassIdentifier: 
+  BGMSounds:
+  - name: Main B G M
+    soundTag: 0
+    priority: 3
+    clip: {fileID: 8300000, guid: 1180167d58b383e4f8b90a3d8a5b54cc, type: 3}
+    volume: 1
+    pitch: 1
+    loopType: 0
+    audioSource: {fileID: 0}
+    BGMAudioData:
+      introSection:
+        startTime: {x: 0, y: 0, z: 0}
+        endTime: {x: 0, y: 0, z: 0}
+        audioClip: {fileID: 0}
+        audioSource: {fileID: 0}
+      loopSection:
+        startTime: {x: 0, y: 0, z: 0}
+        endTime: {x: 0, y: 0, z: 0}
+        audioClip: {fileID: 0}
+        audioSource: {fileID: 0}
+  - name: Boss Theme
+    soundTag: 6
+    priority: 3
+    clip: {fileID: 0}
+    volume: 1
+    pitch: 1
+    loopType: 0
+    audioSource: {fileID: 0}
+    BGMAudioData:
+      introSection:
+        startTime: {x: 0, y: 0, z: 0}
+        endTime: {x: 0, y: 0, z: 0}
+        audioClip: {fileID: 0}
+        audioSource: {fileID: 0}
+      loopSection:
+        startTime: {x: 0, y: 0, z: 0}
+        endTime: {x: 0, y: 0, z: 0}
+        audioClip: {fileID: 0}
+        audioSource: {fileID: 0}
+  - name: Act Clear Jingle
+    soundTag: 1
+    priority: 3
+    clip: {fileID: 0}
+    volume: 1
+    pitch: 1
+    loopType: 0
+    audioSource: {fileID: 0}
+    BGMAudioData:
+      introSection:
+        startTime: {x: 0, y: 0, z: 0}
+        endTime: {x: 0, y: 0, z: 0}
+        audioClip: {fileID: 0}
+        audioSource: {fileID: 0}
+      loopSection:
+        startTime: {x: 0, y: 0, z: 0}
+        endTime: {x: 0, y: 0, z: 0}
+        audioClip: {fileID: 0}
+        audioSource: {fileID: 0}
+  - name: Invincibility Theme
+    soundTag: 3
+    priority: 3
+    clip: {fileID: 0}
+    volume: 1
+    pitch: 1
+    loopType: 0
+    audioSource: {fileID: 0}
+    BGMAudioData:
+      introSection:
+        startTime: {x: 0, y: 0, z: 0}
+        endTime: {x: 0, y: 0, z: 0}
+        audioClip: {fileID: 0}
+        audioSource: {fileID: 0}
+      loopSection:
+        startTime: {x: 0, y: 0, z: 0}
+        endTime: {x: 0, y: 0, z: 0}
+        audioClip: {fileID: 0}
+        audioSource: {fileID: 0}
+  - name: Power Sneakers
+    soundTag: 4
+    priority: 3
+    clip: {fileID: 0}
+    volume: 1
+    pitch: 1
+    loopType: 0
+    audioSource: {fileID: 0}
+    BGMAudioData:
+      introSection:
+        startTime: {x: 0, y: 0, z: 0}
+        endTime: {x: 0, y: 0, z: 0}
+        audioClip: {fileID: 0}
+        audioSource: {fileID: 0}
+      loopSection:
+        startTime: {x: 0, y: 0, z: 0}
+        endTime: {x: 0, y: 0, z: 0}
+        audioClip: {fileID: 0}
+        audioSource: {fileID: 0}
+  - name: Extra Life Jingle
+    soundTag: 5
+    priority: 3
+    clip: {fileID: 0}
+    volume: 1
+    pitch: 1
+    loopType: 0
+    audioSource: {fileID: 0}
+    BGMAudioData:
+      introSection:
+        startTime: {x: 0, y: 0, z: 0}
+        endTime: {x: 0, y: 0, z: 0}
+        audioClip: {fileID: 0}
+        audioSource: {fileID: 0}
+      loopSection:
+        startTime: {x: 0, y: 0, z: 0}
+        endTime: {x: 0, y: 0, z: 0}
+        audioClip: {fileID: 0}
+        audioSource: {fileID: 0}
+  - name: Super Form Theme
+    soundTag: 7
+    priority: 3
+    clip: {fileID: 0}
+    volume: 1
+    pitch: 1
+    loopType: 1
+    audioSource: {fileID: 0}
+    BGMAudioData:
+      introSection:
+        startTime: {x: 0, y: 0, z: 0}
+        endTime: {x: 0, y: 0, z: 0}
+        audioClip: {fileID: 0}
+        audioSource: {fileID: 0}
+      loopSection:
+        startTime: {x: 0, y: 0, z: 0}
+        endTime: {x: 0, y: 0, z: 0}
+        audioClip: {fileID: 0}
+        audioSource: {fileID: 0}

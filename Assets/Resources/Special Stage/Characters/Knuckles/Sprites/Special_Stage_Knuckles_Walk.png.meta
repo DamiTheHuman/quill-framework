@@ -1,0 +1,446 @@
+fileFormatVersion: 2
+guid: 46d4c2e34365e6041b55b8ea059e3299
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1707086321570705016
+    second: Special_Stage_Knuckles_Walk_0
+  - first:
+      213: -1602270812466680840
+    second: Special_Stage_Knuckles_Walk_1
+  - first:
+      213: 8357028852962494833
+    second: Special_Stage_Knuckles_Walk_2
+  - first:
+      213: 7890394367224492963
+    second: Special_Stage_Knuckles_Walk_3
+  - first:
+      213: 2296123088960498996
+    second: Special_Stage_Knuckles_Walk_4
+  - first:
+      213: 5399288251064533908
+    second: Special_Stage_Knuckles_Walk_5
+  - first:
+      213: -1014537985742471839
+    second: Special_Stage_Knuckles_Walk_6
+  - first:
+      213: 666539731735582626
+    second: Special_Stage_Knuckles_Walk_7
+  - first:
+      213: 2556641334307783670
+    second: Special_Stage_Knuckles_Walk_8
+  - first:
+      213: 175195961468647889
+    second: Special_Stage_Knuckles_Walk_9
+  - first:
+      213: -4060884223240381538
+    second: Special_Stage_Knuckles_Walk_10
+  - first:
+      213: -2238001040185025472
+    second: Special_Stage_Knuckles_Walk_11
+  - first:
+      213: 2899768137669993812
+    second: Special_Stage_Knuckles_Walk_0
+  - first:
+      213: -6301748497670922491
+    second: Special_Stage_Knuckles_Walk_1
+  - first:
+      213: 8000417634627637616
+    second: Special_Stage_Knuckles_Walk_2
+  - first:
+      213: 62153516231133953
+    second: Special_Stage_Knuckles_Walk_3
+  - first:
+      213: 6634103969604173880
+    second: Special_Stage_Knuckles_Walk_4
+  - first:
+      213: 8908801798529587607
+    second: Special_Stage_Knuckles_Walk_5
+  - first:
+      213: 3851516402328672381
+    second: Special_Stage_Knuckles_Walk_6
+  - first:
+      213: 539046457305633059
+    second: Special_Stage_Knuckles_Walk_7
+  - first:
+      213: -4049272270468440174
+    second: Special_Stage_Knuckles_Walk_8
+  - first:
+      213: 7852979352870644519
+    second: Special_Stage_Knuckles_Walk_9
+  - first:
+      213: -6739177044845569854
+    second: Special_Stage_Knuckles_Walk_10
+  - first:
+      213: 8900411306239922935
+    second: Special_Stage_Knuckles_Walk_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Special_Stage_Knuckles_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455e0d0f1cb0e3820800000000000000
+      internalID: -1707086321570705016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Knuckles_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f19742121bb88a0800000000000000
+      internalID: -1602270812466680840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Knuckles_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07150ce5371370f60800000000000000
+      internalID: 8357028852962494833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Knuckles_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b8f703b40dcd000800000000000000
+      internalID: 7890394367224492963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Knuckles_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830044f4962111c50800000000000000
+      internalID: 2296123088960498996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Knuckles_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79997bfe80c62ab70800000000000000
+      internalID: 5399288251064533908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Knuckles_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78146ff2c5537530800000000000000
+      internalID: -1014537985742471839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Knuckles_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321922d95e31b7700800000000000000
+      internalID: 666539731735582626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Knuckles_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f93efe2581ec7c0800000000000000
+      internalID: 2556641334307783670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Knuckles_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72be4545d136bfc60800000000000000
+      internalID: 175195961468647889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Knuckles_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c85383fe22a972a0800000000000000
+      internalID: -4060884223240381538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Stage_Knuckles_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f21d473dec948b70800000000000000
+      internalID: -2238001040185025472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Special_Stage_Knuckles_Walk_4: 2296123088960498996
+      Special_Stage_Knuckles_Walk_5: 5399288251064533908
+      Special_Stage_Knuckles_Walk_3: 7890394367224492963
+      Special_Stage_Knuckles_Walk_9: 175195961468647889
+      Special_Stage_Knuckles_Walk_6: -1014537985742471839
+      Special_Stage_Knuckles_Walk_10: -4060884223240381538
+      Special_Stage_Knuckles_Walk_7: 666539731735582626
+      Special_Stage_Knuckles_Walk_11: -2238001040185025472
+      Special_Stage_Knuckles_Walk_0: -1707086321570705016
+      Special_Stage_Knuckles_Walk_1: -1602270812466680840
+      Special_Stage_Knuckles_Walk_8: 2556641334307783670
+      Special_Stage_Knuckles_Walk_2: 8357028852962494833
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

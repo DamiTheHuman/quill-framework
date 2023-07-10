@@ -1,0 +1,606 @@
+fileFormatVersion: 2
+guid: 746c1e8a12c78064ca4b0d614e6b4cf0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3650734384636683785
+    second: Regular_Ring_0
+  - first:
+      213: -7774783013642016768
+    second: Regular_Ring_1
+  - first:
+      213: -6016406805367110608
+    second: Regular_Ring_2
+  - first:
+      213: -6311582136445171494
+    second: Regular_Ring_3
+  - first:
+      213: -8497826262249550487
+    second: Regular_Ring_4
+  - first:
+      213: 165503298418569752
+    second: Regular_Ring_5
+  - first:
+      213: -3048885197270579184
+    second: Regular_Ring_6
+  - first:
+      213: 4537997873518487242
+    second: Regular_Ring_7
+  - first:
+      213: 4152581895395882596
+    second: Regular_Ring_8
+  - first:
+      213: -7247441499882404433
+    second: Regular_Ring_9
+  - first:
+      213: 1498792715906826135
+    second: Regular_Ring_10
+  - first:
+      213: 8894760526336736251
+    second: Regular_Ring_11
+  - first:
+      213: 8722794285119683092
+    second: Regular_Ring_12
+  - first:
+      213: 6658289047321677217
+    second: Regular_Ring_13
+  - first:
+      213: 6888294690396408433
+    second: Regular_Ring_14
+  - first:
+      213: -3553092433736945240
+    second: Regular_Ring_0
+  - first:
+      213: 4670461363064087413
+    second: Regular_Ring_1
+  - first:
+      213: -6420583857305418827
+    second: Regular_Ring_2
+  - first:
+      213: -8513031717646878340
+    second: Regular_Ring_3
+  - first:
+      213: -8249024590946678774
+    second: Regular_Ring_4
+  - first:
+      213: 6341826090361974939
+    second: Regular_Ring_5
+  - first:
+      213: -5678224322111192817
+    second: Regular_Ring_6
+  - first:
+      213: -61170444179192689
+    second: Regular_Ring_7
+  - first:
+      213: 5100868505758947939
+    second: Regular_Ring_8
+  - first:
+      213: -2496837092096928242
+    second: Regular_Ring_9
+  - first:
+      213: -5080068624528526046
+    second: Regular_Ring_10
+  - first:
+      213: 1184721236703161184
+    second: Regular_Ring_11
+  - first:
+      213: -6562240477273585926
+    second: Regular_Ring_12
+  - first:
+      213: 1573538466905851683
+    second: Regular_Ring_13
+  - first:
+      213: -995788621370450239
+    second: Regular_Ring_14
+  - first:
+      213: 2066656956655102409
+    second: Regular_Ring_15
+  - first:
+      213: 4663008601855632108
+    second: Regular_Ring_16
+  - first:
+      213: 4004708080983207187
+    second: Ring_0
+  - first:
+      213: -5400542443128171897
+    second: Ring_1
+  - first:
+      213: 6203491974699578629
+    second: Ring_2
+  - first:
+      213: -6673147589521896033
+    second: Ring_3
+  - first:
+      213: 7168475762293652931
+    second: Ring_4
+  - first:
+      213: -2115420830505224574
+    second: Ring_5
+  - first:
+      213: 802879136454210966
+    second: Ring_6
+  - first:
+      213: -6914084895347813649
+    second: Ring_7
+  - first:
+      213: -5480468504741716077
+    second: Ring_8
+  - first:
+      213: -2528051119814327294
+    second: Ring_9
+  - first:
+      213: 1153278037751351165
+    second: Ring_10
+  - first:
+      213: -2201862278539263975
+    second: Ring_11
+  - first:
+      213: 23584326800434632
+    second: Ring_12
+  - first:
+      213: -7179288559180606696
+    second: Ring_13
+  - first:
+      213: -2205157694857922683
+    second: Ring_14
+  - first:
+      213: -131369055084144854
+    second: Ring_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ring_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31de32428c4939730800000000000000
+      internalID: 4004708080983207187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782dce2e24b6d05b0800000000000000
+      internalID: -5400542443128171897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50574fe551b371650800000000000000
+      internalID: 6203491974699578629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d0bc88f973463a0800000000000000
+      internalID: -6673147589521896033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdb280c9ba8b7360800000000000000
+      internalID: 7168475762293652931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286364f66f384a2e0800000000000000
+      internalID: -2115420830505224574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695fced1256642b00800000000000000
+      internalID: 802879136454210966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe256e98b6c3c00a0800000000000000
+      internalID: -6914084895347813649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f57248ee671f3b0800000000000000
+      internalID: -5480468504741716077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204407596ee8aecd0800000000000000
+      internalID: -2528051119814327294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_10
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77cd67d344410010800000000000000
+      internalID: 1153278037751351165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_11
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910c5537ce96171e0800000000000000
+      internalID: -2201862278539263975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_12
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5e43df1d9c35000800000000000000
+      internalID: 23584326800434632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_13
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813930ac71b0e5c90800000000000000
+      internalID: -7179288559180606696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_14
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587364c82c4b561e0800000000000000
+      internalID: -2205157694857922683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a271b395a884d2ef0800000000000000
+      internalID: -131369055084144854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ring_8: -5480468504741716077
+      Ring_15: -131369055084144854
+      Ring_12: 23584326800434632
+      Ring_13: -7179288559180606696
+      Ring_3: -6673147589521896033
+      Ring_6: 802879136454210966
+      Ring_14: -2205157694857922683
+      Ring_5: -2115420830505224574
+      Ring_1: -5400542443128171897
+      Ring_11: -2201862278539263975
+      Ring_4: 7168475762293652931
+      Ring_7: -6914084895347813649
+      Ring_0: 4004708080983207187
+      Ring_9: -2528051119814327294
+      Ring_10: 1153278037751351165
+      Ring_2: 6203491974699578629
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
