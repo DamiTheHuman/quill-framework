@@ -229,7 +229,7 @@ public class General : MonoBehaviour
         time.z = (int)time.z;
         time.y = (int)time.y;
         int minutes = (int)time.x;
-        float value = (float)time.z + ((float)time.y / 100);
+        float value = (float)time.y + ((float)time.z / 100);
         value += minutes * 60;
 
         return value;
