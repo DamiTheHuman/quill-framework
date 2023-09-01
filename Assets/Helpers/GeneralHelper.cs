@@ -229,9 +229,7 @@ public class General : MonoBehaviour
         time.z = (int)time.z;
         time.y = (int)time.y;
         int minutes = (int)time.x;
-        string seconds = time.y.ToString();
-        string fraction = time.z.ToString();
-        float value = float.Parse(seconds + "." + fraction);
+        float value = (float)time.z + ((float)time.y / 100);
         value += minutes * 60;
 
         return value;

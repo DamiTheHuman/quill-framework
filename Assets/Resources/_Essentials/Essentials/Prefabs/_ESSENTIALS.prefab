@@ -903,17 +903,17 @@ PrefabInstance:
     - target: {fileID: 4613304544203903169, guid: 1c7d0432fb543a849b349bf06bf15b85,
         type: 3}
       propertyPath: currentSceneData.name
-      value: Quasar Lake Act 2
+      value: Quasar Lake Act 1
       objectReference: {fileID: 0}
     - target: {fileID: 4613304544203903169, guid: 1c7d0432fb543a849b349bf06bf15b85,
         type: 3}
       propertyPath: currentSceneData.sceneId
-      value: 4
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4613304544203903169, guid: 1c7d0432fb543a849b349bf06bf15b85,
         type: 3}
       propertyPath: currentSceneData.actNumber
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4613304544203903169, guid: 1c7d0432fb543a849b349bf06bf15b85,
         type: 3}
@@ -929,7 +929,7 @@ PrefabInstance:
     - target: {fileID: 4613304544203903169, guid: 1c7d0432fb543a849b349bf06bf15b85,
         type: 3}
       propertyPath: currentSceneData.nextSceneId
-      value: 7
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 4983877011506462232, guid: 1c7d0432fb543a849b349bf06bf15b85,
         type: 3}
@@ -1287,7 +1287,7 @@ PrefabInstance:
     - target: {fileID: 988468175752598380, guid: 3b05c02234b68034897926cc639fb92e,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 988468175752598383, guid: 3b05c02234b68034897926cc639fb92e,
         type: 3}
@@ -1497,7 +1497,7 @@ PrefabInstance:
     - target: {fileID: 8654144575447525260, guid: 3b05c02234b68034897926cc639fb92e,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8654144575447525263, guid: 3b05c02234b68034897926cc639fb92e,
         type: 3}
