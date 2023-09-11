@@ -29,6 +29,7 @@ The main focus of this framework was to keep things as "Unity" as possible while
 
 ## ℹ️ Prerequisites
 - Install [Unity 2021.3.8f](https://unity.com/releases/editor/whats-new/2021.3.8)
+- Install [Git(Windows)](https://git-scm.com/download/win)
 
 ## 🎮 Controls 
 ```
