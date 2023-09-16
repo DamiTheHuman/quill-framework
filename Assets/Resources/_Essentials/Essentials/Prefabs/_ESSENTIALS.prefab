@@ -805,6 +805,11 @@ PrefabInstance:
       propertyPath: currentSaveSlot
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1424809556960438621, guid: 1c7d0432fb543a849b349bf06bf15b85,
+        type: 3}
+      propertyPath: currentPlayerData.playerSettings.showDebugUI
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1578924466198346769, guid: 1c7d0432fb543a849b349bf06bf15b85,
         type: 3}
       propertyPath: m_RootOrder
@@ -903,17 +908,17 @@ PrefabInstance:
     - target: {fileID: 4613304544203903169, guid: 1c7d0432fb543a849b349bf06bf15b85,
         type: 3}
       propertyPath: currentSceneData.name
-      value: Quasar Lake Act 1
+      value: Quasar Lake Act 2
       objectReference: {fileID: 0}
     - target: {fileID: 4613304544203903169, guid: 1c7d0432fb543a849b349bf06bf15b85,
         type: 3}
       propertyPath: currentSceneData.sceneId
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 4613304544203903169, guid: 1c7d0432fb543a849b349bf06bf15b85,
         type: 3}
       propertyPath: currentSceneData.actNumber
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4613304544203903169, guid: 1c7d0432fb543a849b349bf06bf15b85,
         type: 3}
@@ -929,7 +934,7 @@ PrefabInstance:
     - target: {fileID: 4613304544203903169, guid: 1c7d0432fb543a849b349bf06bf15b85,
         type: 3}
       propertyPath: currentSceneData.nextSceneId
-      value: 4
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4983877011506462232, guid: 1c7d0432fb543a849b349bf06bf15b85,
         type: 3}
@@ -1287,7 +1292,7 @@ PrefabInstance:
     - target: {fileID: 988468175752598380, guid: 3b05c02234b68034897926cc639fb92e,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 988468175752598383, guid: 3b05c02234b68034897926cc639fb92e,
         type: 3}
@@ -1497,7 +1502,7 @@ PrefabInstance:
     - target: {fileID: 8654144575447525260, guid: 3b05c02234b68034897926cc639fb92e,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8654144575447525263, guid: 3b05c02234b68034897926cc639fb92e,
         type: 3}
@@ -1642,17 +1647,17 @@ PrefabInstance:
     - target: {fileID: 3801641994095088617, guid: c1836d612982370488802ec32d1f1931,
         type: 3}
       propertyPath: m_NormalizedViewPortRect.y
-      value: 0
+      value: 0.7481916
       objectReference: {fileID: 0}
     - target: {fileID: 3801641994095088617, guid: c1836d612982370488802ec32d1f1931,
         type: 3}
       propertyPath: m_NormalizedViewPortRect.width
-      value: 1
+      value: 0.30972022
       objectReference: {fileID: 0}
     - target: {fileID: 3801641994095088617, guid: c1836d612982370488802ec32d1f1931,
         type: 3}
       propertyPath: m_NormalizedViewPortRect.height
-      value: 1
+      value: 0.49003714
       objectReference: {fileID: 0}
     - target: {fileID: 3801641994095088618, guid: c1836d612982370488802ec32d1f1931,
         type: 3}

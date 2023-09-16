@@ -20,8 +20,13 @@ public class Jump : HedgePrimaryAction
     /// </summary>
     public override bool CanPerformAction()
     {
-        if (this.player.GetGrounded() && this.player.GetActionManager().CheckActionIsBeingPerformed<Crouch>() == false
-            && this.player.GetActionManager().CheckActionIsBeingPerformed<Spindash>() == false && this.player.GetSensors().GetLowCeiling() == false
+        bool playerIsAttemptingSuperPeelOut = this.player.GetActionManager().CheckActionIsBeingPerformed<LookUp>() && this.player.GetActionManager().GetAction<SuperPeelOut>();
+        if (this.player.GetGrounded()
+            && this.player.GetActionManager().CheckActionIsBeingPerformed<Crouch>() == false
+            && playerIsAttemptingSuperPeelOut == false
+            && this.player.GetActionManager().CheckActionIsBeingPerformed<Spindash>() == false
+            && this.player.GetActionManager().CheckActionIsBeingPerformed<SuperPeelOut>() == false
+            && this.player.GetSensors().GetLowCeiling() == false
             && this.player.GetActionManager().CheckActionIsBeingPerformed<Victory>() == false
             && this.player.GetGimmickManager().GetActiveGimmickMode() != GimmickMode.Sliding)
         {

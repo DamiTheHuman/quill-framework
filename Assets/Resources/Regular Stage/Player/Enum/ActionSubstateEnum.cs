@@ -13,5 +13,6 @@ public enum ActionSubState
     Pushing,
     LedgeBalancing,
     Climbing,
+    SuperPeelOut,
     Victory = 99, //Place items before  Victory
 }

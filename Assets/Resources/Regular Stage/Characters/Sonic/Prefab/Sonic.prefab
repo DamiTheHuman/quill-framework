@@ -1088,6 +1088,7 @@ GameObject:
   - component: {fileID: 4597594014991409829}
   - component: {fileID: 6808826497103711903}
   - component: {fileID: 4597594014991409828}
+  - component: {fileID: 7301160359540175404}
   - component: {fileID: 4597594014991409831}
   m_Layer: 0
   m_Name: Actions
@@ -1362,6 +1363,32 @@ MonoBehaviour:
   usedSubAction: 0
   ledgeDirection: 0
   extraCheckOffset: 4
+--- !u!114 &7301160359540175404
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9117349020796230065}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdef9bedce427c94b929506e405fe453, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 9117349020866364538}
+  readyToPerform: 0
+  beginAction: 0
+  performingAction: 0
+  actionID: 13
+  primaryAnimationID: 13
+  actionAvailability: 1
+  attackingAction: 0
+  sizeMode: 0
+  subActions: []
+  usedSubAction: 0
+  currentPeelOutRev: 0
+  superPeelOutCharge: 2
+  superPeelOutReleaseValue: 12
 --- !u!114 &4597594014991409831
 MonoBehaviour:
   m_ObjectHideFlags: 0

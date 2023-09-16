@@ -95,15 +95,20 @@ public class ActionManager : MonoBehaviour
                 {
                     subAction = this.LaunchSubAction(subAction);
                     if (subAction == null)
-                    { return; }
+                    {
+                        return;
+                    }
                 }
                 if (subAction.performingAction)  //Perform the active sub action
                 {
                     subAction = this.PerformSubActionCycle(subAction);
                     if (subAction == null)
-                    { return; }
+                    {
+                        return;
+                    }
                 }
             }
+
             subAction.parentAction.WhilePerformingSubAction();//Handle primary actions floating effects where available
             return;
         }
@@ -240,7 +245,9 @@ public class ActionManager : MonoBehaviour
         if (primaryAction.attackingAction)
         {
             this.player.SetAttackingState(true);
-        }//Set the players attacking state
+        }
+
+        //Set the players attacking state
         return primaryAction;
     }
     /// <summary>
@@ -255,15 +262,19 @@ public class ActionManager : MonoBehaviour
         if (primaryAction.attackingAction)
         {
             this.player.SetAttackingState(false);
-        }//UnSet the players attacking state
+        }
+
+        //UnSet the players attacking state
         if (primaryAction != this.currentPrimaryAction)
         {
             return;
         }
+
         if (this.currentSubAction != null && this.currentSubAction.parentAction == this.currentPrimaryAction && this.currentSubAction.performingAction)
         {
             this.ExitSubAction(this.currentSubAction);
         }
+
         primaryAction.performingAction = false;
         this.currentPrimaryAction = null;
         primaryAction.OnActionEnd();
@@ -304,6 +315,7 @@ public class ActionManager : MonoBehaviour
         if (subAction.ExitActionCondition() || (this.currentPrimaryAction != null && this.currentPrimaryAction.ExitActionCondition())) //Run the exit action if the action is curently being run
         {
             this.ExitSubAction(subAction);
+
             return null;
         }
 
@@ -313,6 +325,7 @@ public class ActionManager : MonoBehaviour
         if (this.currentPrimaryAction != subAction.parentAction)
         {
             this.ExitSubAction(subAction);
+
             return null;
         }
 
@@ -331,8 +344,10 @@ public class ActionManager : MonoBehaviour
             this.currentSubAction.Reset();
             this.currentSubAction.OnActionEnd();
             this.currentSubAction = null;
+
             return;
         }
+
         subAction.OnActionEnd();
         subAction.Reset();
     }
@@ -375,6 +390,7 @@ public class ActionManager : MonoBehaviour
             this.currentPrimaryAction.Reset();
             this.currentPrimaryAction = null;
         }
+
         if (this.currentSubAction != null)
         {
             this.currentSubAction.Reset();
@@ -504,6 +520,7 @@ public class ActionManager : MonoBehaviour
                     this.currentPrimaryAction.OnActionEnd();
                     this.currentPrimaryAction = null;
                 }
+
                 DestroyImmediate(action);
             }
         }
@@ -519,12 +536,14 @@ public class ActionManager : MonoBehaviour
             HedgePrimaryAction currentActionInTargetActions = Array.Find(this.availablePrimaryActions.ToArray(), a => a.GetType() == action.GetType()); //The action find in the available thing
             if (currentActionInTargetActions != null)
             {
+                currentActionInTargetActions.SetPlayer(this.player);
+
                 if (action.subActions.Count > 0 && action != null)
                 {
                     foreach (HedgeSubAction hedgeSubAction in action.subActions)
                     {
                         HedgeSubAction currentSubActionInTargetSubActions = Array.Find(currentActionInTargetActions.subActions.ToArray(), sA => sA.GetType() == hedgeSubAction.GetType());
-                        ;
+
                         if (currentSubActionInTargetSubActions == null)// We currently do not have this move
                         {
                             Component comp = General.CopyComponent(hedgeSubAction, this.availablePrimaryActions[0].transform.Find("Sub Actions").gameObject);
@@ -534,19 +553,21 @@ public class ActionManager : MonoBehaviour
                             newSubAction.Start();
                         }
                     }
+
                     currentActionInTargetActions.Start();
                 }
             }
             //Copy the missing component unto the active obect
             else
             {
-                Component comp = General.CopyComponent(action, this.availablePrimaryActions[0].gameObject);
-                HedgePrimaryAction primaryAction = (HedgePrimaryAction)comp;
+                Component actionCopy = General.CopyComponent(action, this.availablePrimaryActions[0].gameObject);
+                HedgePrimaryAction primaryAction = (HedgePrimaryAction)actionCopy;
+                primaryAction.SetPlayer(this.player);
+
                 //Reparent sub actions to the parent action
                 foreach (HedgeSubAction subAction in primaryAction.subActions)
                 {
                     HedgeSubAction subActionInCurrentAction = Array.Find(this.player.GetComponentsInChildren<HedgeSubAction>(), sA => sA.GetType() == subAction.GetType());
-                    ;
                     if (subActionInCurrentAction)
                     {
                         subActionInCurrentAction.parentAction = primaryAction;

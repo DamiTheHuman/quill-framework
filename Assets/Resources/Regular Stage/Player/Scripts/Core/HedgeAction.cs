@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 /// <summary>
 /// Parent class where all the actions will inherit from
 /// </summary>
@@ -46,6 +46,12 @@ public class HedgeAction : MonoBehaviour
             this.Reset();
         }
     }
+
+    /// <summary>
+    /// Set the <see cref="player"/>
+    /// </summary>
+    /// <param name="player"></param>
+    public void SetPlayer(Player player) => this.player = player;
 
     /// <summary>
     /// Performs an initial check on whether the action can be performed or not

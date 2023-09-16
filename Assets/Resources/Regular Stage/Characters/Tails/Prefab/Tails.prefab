@@ -263,6 +263,7 @@ PrefabInstance:
     m_RemovedComponents:
     - {fileID: 6808826496420827876, guid: ffc5985c3ed5e164dbdcf5718683fbc0, type: 3}
     - {fileID: 2249394471352969674, guid: ffc5985c3ed5e164dbdcf5718683fbc0, type: 3}
+    - {fileID: 7301160359540175404, guid: ffc5985c3ed5e164dbdcf5718683fbc0, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: ffc5985c3ed5e164dbdcf5718683fbc0, type: 3}
 --- !u!1 &1300467694774131603 stripped
 GameObject:
@@ -293,6 +294,7 @@ MonoBehaviour:
   tiredSubAnimationID: 4
   flightState: 2
   flyUpwards: 0
+  canFlyUp: 0
 --- !u!114 &3672310859836477636 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 9117349020796230069, guid: ffc5985c3ed5e164dbdcf5718683fbc0,
