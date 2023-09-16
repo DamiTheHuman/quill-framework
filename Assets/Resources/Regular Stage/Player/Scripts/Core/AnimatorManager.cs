@@ -69,6 +69,7 @@ public class AnimatorManager : MonoBehaviour
     private int gimmickSubstateHash;
     private int switchGimmickSubstateHash;
     private int otherAnimationSubstateHash;
+    private int extraCharacterInfoHash;
 
     private void Reset()
     {
@@ -116,6 +117,7 @@ public class AnimatorManager : MonoBehaviour
         this.gimmickSubstateHash = Animator.StringToHash("GimmickSubstate");
         this.switchGimmickSubstateHash = Animator.StringToHash("SwitchGimmickSubstate");
         this.otherAnimationSubstateHash = Animator.StringToHash("OtherAnimationSubstate");
+        this.extraCharacterInfoHash = Animator.StringToHash("ExtraCharacterInfo");
     }
     /// <summary>
     /// Updates the current player animation
@@ -198,6 +200,12 @@ public class AnimatorManager : MonoBehaviour
         if (this.animator.GetBool(this.groundedHash) != this.player.GetGrounded() && this.player.GetGrounded() && this.player.GetGimmickManager().GetGroundedGimicks().Contains(this.player.GetGimmickManager().GetActiveGimmickMode()))
         {
             this.animator.SetInteger(this.gimmickSubstateHash, 0);
+        }
+
+        //Apply the super peel out to sonic alone
+        if(GMCharacterManager.Instance().currentCharacter == PlayableCharacter.Sonic && this.player.GetActionManager().GetAction<SuperPeelOut>() != null)
+        {
+            this.animator.SetInteger(this.extraCharacterInfoHash, (int)ExtraCharacterInfo.HasSuperPeelOut);
         }
 
         this.animator.SetBool(this.groundedHash, this.player.GetGrounded());

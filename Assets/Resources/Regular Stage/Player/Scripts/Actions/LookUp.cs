@@ -1,4 +1,4 @@
-﻿/// <summary>
+/// <summary>
 /// The look up action for the character which makes the character face upwards while 'STANDING' still
 /// </summary>
 public class LookUp : HedgePrimaryAction
@@ -18,7 +18,7 @@ public class LookUp : HedgePrimaryAction
     /// </summary>
     public override bool CanPerformAction()
     {
-        if (this.player.GetGrounded() && this.player.groundVelocity == 0)
+        if (this.player.GetGrounded() && this.player.groundVelocity == 0 && this.player.GetActionManager().CheckActionIsBeingPerformed<SuperPeelOut>() == false)
         {
             return true;
         }

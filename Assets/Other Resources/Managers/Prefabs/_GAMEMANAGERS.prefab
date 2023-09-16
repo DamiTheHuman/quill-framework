@@ -828,11 +828,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sceneList: {fileID: 11400000, guid: 48302ae7fbe9e364085ccc92d034d31d, type: 2}
   currentSceneData:
-    name: Quasar Lake Act 1
+    name: Quasar Lake Act 2
     sceneType: 2
-    actNumber: 1
-    sceneId: 3
-    nextSceneId: 4
+    actNumber: 2
+    sceneId: 4
+    nextSceneId: 7
     thumbnail: {fileID: 21300000, guid: b1e9db8307574e240b00dd828587f8e4, type: 3}
     actAbbreviation: GHZ
   currentStartPoint: {fileID: 0}
