@@ -1,5 +1,6 @@
 using System;
 using System.Collections;
+using System.Linq;
 using UnityEngine;
 /// <summary>
 /// A unique action that allows players to climb certain objects within the <see cref="Sensors.climbableCollisionMask"/>
@@ -61,7 +62,7 @@ public class Climb : HedgePrimaryAction
     /// </summary>
     public override bool CanPerformAction()
     {
-        if(this.player.GetActionManager().GetAction<Glide>() == null)
+        if (this.player.GetActionManager().GetAction<Glide>() == null)
         {
             return false;
         }
@@ -81,7 +82,8 @@ public class Climb : HedgePrimaryAction
     public override bool LaunchActionConditon()
     {
         if (
-            this.player.GetSensors().wallCollisionInfo.GetCurrentCollisionInfo().GetHit() && General.ContainsLayer(this.player.GetSensors().wallCollisionInfo.GetClimbableCollisionMask(), this.player.GetSensors().wallCollisionInfo.GetCurrentCollisionInfo().GetHit().transform.gameObject.layer)
+            this.player.GetSensors().wallCollisionInfo.GetCurrentCollisionInfo().GetHit()
+            && this.IsClimbable(this.player.GetSensors().wallCollisionInfo.GetCurrentCollisionInfo().GetHit().transform.gameObject)
             && General.CheckAngleIsWithinOrEqualRange(Mathf.RoundToInt(this.player.GetSensors().wallCollisionInfo.GetCurrentCollisionInfo().GetAngleInDegrees()), 90 + this.noClimbRadius, 270 - this.noClimbRadius)
             )
         {
@@ -445,5 +447,36 @@ public class Climb : HedgePrimaryAction
         this.SetClimbState(ClimbState.None);
 
         yield return null;
+    }
+
+    /// <summary>
+    /// Check to see if the <see cref="GameObject"/> can be climbed
+    /// </summary>
+    /// <param name="target"></param>
+    /// <returns></returns>
+    private bool IsClimbable(GameObject target)
+    {
+        if (target == null)
+        {
+            return false;
+        }
+
+        bool objectIsInClimbableMask = General.ContainsLayer(this.player.GetSensors().wallCollisionInfo.GetClimbableCollisionMask(), target.layer);
+        target.TryGetComponent<MonoBehaviour>(out MonoBehaviour targetObjectClass);
+
+        //If its the object is not a MonoBehaviour checking if its in the climbable mask will suffice
+        if (targetObjectClass == null)
+        {
+            return objectIsInClimbableMask;
+        }
+
+        //Checks if the object belongs to a class in our non climbable list
+        bool cannotBeClimbed = this.player.GetPlayerPhysicsInfo().nonClimbableObjectControllers.Any(climbableObject => climbableObject == targetObjectClass.GetType().ToString());
+        if (cannotBeClimbed)
+        {
+            return false;
+        }
+
+        return objectIsInClimbableMask;
     }
 }
