@@ -143,6 +143,10 @@ public class CharacterPhysicsScriptableObject : ScriptableObject
     public List<Vector2> pullUpPositionIncrements = new List<Vector2> { new Vector2(4, -6), new Vector2(4, 9), new Vector2(4, 8), new Vector2(4, 7), new Vector2(4, 7) };
     [Tooltip("The pull up animation"), LastFoldoutItem()]
     public AnimationClip pullUpAnimationClip;
+    [Tooltip("List of classes of that cannot be climbed"), IsDisabled]
+    public readonly List<string> nonClimbableObjectControllers = new List<string> {
+        typeof(SpikeController).ToString(),
+    };
 
     [Tooltip("Special Stage Gravity"), FirstFoldOutItem("Special Stage Variables")]
     public float specialStageCurrentGravity = 0.21875f;
