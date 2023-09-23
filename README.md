@@ -27,9 +27,9 @@ The main focus of this framework was to keep things as "Unity" as possible while
 - Mult-platform support
 - And Many More!
 
-## ℹ️ Prerequisites
-- Install [Unity 2021.3.8f](https://unity.com/releases/editor/whats-new/2021.3.8)
-- Install [Git(Windows)](https://git-scm.com/download/win)
+## ℹ️ Getting Started
+- Please read the [Getting Started Guide](./docs/Getting%20Started.md)
+
 
 ## 🎮 Controls 
 ```
